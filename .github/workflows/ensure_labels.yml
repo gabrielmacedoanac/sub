@@ -12,7 +12,7 @@ jobs:
           try {
             await github.rest.issues.createLabel({
               ...context.repo,
-              name: 'captions'
+              name: 'legendas'
             });
             await github.rest.issues.createLabel({
               ...context.repo,
