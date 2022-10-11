@@ -16,7 +16,7 @@ jobs:
       - run: sudo apt-get -y install ffmpeg
         if: contains(github.event.issue.labels.*.name, 'whisper')
       - uses: actions/github-script@v6
-        if: contains(github.event.issue.labels.*.name, 'whisper') || contains(github.event.issue.labels.*.name, 'captions')
+        if: contains(github.event.issue.labels.*.name, 'whisper') || contains(github.event.issue.labels.*.name, 'legendas')
         name: Save metadata
         with:
           script: |
@@ -43,9 +43,9 @@ jobs:
             child_process.exec(`cat ${number}/metadata-temp/*.json | jq 'del(.automatic_captions)' -c > ${number}/metadata/info.json`);
             child_process.exec(`rm ${number}/metadata-temp/*.json`);
       - uses: actions/github-script@v6
-        name: Extract captions
-        # Only run this step if the issue is labeled with "captions"
-        if: contains(github.event.issue.labels.*.name, 'captions')
+        name: Extrair legendas
+        # Only run this step if the issue is labeled with "legendas"
+        if: contains(github.event.issue.labels.*.name, 'legendas')
         with:
           script: |
             const child_process = require('child_process');
