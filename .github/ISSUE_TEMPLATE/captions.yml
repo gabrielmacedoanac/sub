@@ -1,12 +1,12 @@
-name: Extract captions
-description: Save the captions from a vieo
-title: "Extract captions"
-labels: ["captions"]
+name: Extrair legendas
+description: Salve a legenda do vídeo
+title: "Extrair legendas"
+labels: ["legendas"]
 body:
   - type: input
     id: url
     attributes:
       label: URL
-      description: URL to a video
+      description: URL do vídeo
     validations:
       required: true
