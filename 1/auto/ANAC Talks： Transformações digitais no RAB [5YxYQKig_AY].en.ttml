@@ -1,0 +1,1784 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:21.480" end="00:00:26.220" style="s2">Good morning everyone, my name is Roberto</p>
+<p begin="00:00:23.640" end="00:00:29.460" style="s2">Honorato Barto as superintendent of</p>
+<p begin="00:00:26.220" end="00:00:32.399" style="s2">aeronautics and today at anatox we</p>
+<p begin="00:00:29.460" end="00:00:35.160" style="s2">have the theme digital</p>
+<p begin="00:00:32.399" end="00:00:37.680" style="s2">transformations digital transformations in the</p>
+<p begin="00:00:35.160" end="00:00:41.219" style="s2">Brazilian aeronautical record I will be</p>
+<p begin="00:00:37.680" end="00:00:44.640" style="s2">here today until the next one hour and 30</p>
+<p begin="00:00:41.219" end="00:00:46.920" style="s2">with Luciana Ferreira who is the manager of</p>
+<p begin="00:00:44.640" end="00:00:50.280" style="s2">Brazilian aeronautical registry with</p>
+<p begin="00:00:46.920" end="00:00:53.879" style="s2">Júlio Chabel who is a server at Rabi and</p>
+<p begin="00:00:50.280" end="00:00:56.460" style="s2">also with Samir Down who is from STI and</p>
+<p begin="00:00:53.879" end="00:00:59.039" style="s2">our objective is to talk about what has</p>
+<p begin="00:00:56.460" end="00:01:01.079" style="s2">happened in the Brazilian aeronautical registry</p>
+<p begin="00:00:59.039" end="00:01:03.480" style="s2">that configures itself as</p>
+<p begin="00:01:01.079" end="00:01:04.979" style="s2">digital transformation it is important to</p>
+<p begin="00:01:03.480" end="00:01:06.900" style="s2">emphasize that the transformation  digital</p>
+<p begin="00:01:04.979" end="00:01:08.840" style="s2">was not mind we transformed a</p>
+<p begin="00:01:06.900" end="00:01:11.760" style="s2">document into a document in</p>
+<p begin="00:01:08.840" end="00:01:14.880" style="s2">electronic format it goes it is much more</p>
+<p begin="00:01:11.760" end="00:01:17.780" style="s2">than that we refer to improving</p>
+<p begin="00:01:14.880" end="00:01:20.460" style="s2">the user experience with the agency is</p>
+<p begin="00:01:17.780" end="00:01:23.040" style="s2">understanding what the user&#39;s perspective is</p>
+<p begin="00:01:20.460" end="00:01:26.400" style="s2">and providing it in the service that is</p>
+<p begin="00:01:23.040" end="00:01:29.159" style="s2">fast it&#39;s easy to access</p>
+<p begin="00:01:26.400" end="00:01:31.560" style="s2">it&#39;s transparent it&#39;s easy to</p>
+<p begin="00:01:29.159" end="00:01:34.140" style="s2">understand how it works from the point of view</p>
+<p begin="00:01:31.560" end="00:01:36.720" style="s2">administrative activity list</p>
+<p begin="00:01:34.140" end="00:01:39.540" style="s2">Our administrative bus</p>
+<p begin="00:01:36.720" end="00:01:42.960" style="s2">also means to reduce this bus as much as possible</p>
+<p begin="00:01:39.540" end="00:01:45.360" style="s2">so that in Ideal the service can</p>
+<p begin="00:01:42.960" end="00:01:47.640" style="s2">be provided right when</p>
+<p begin="00:01:45.360" end="00:01:50.399" style="s2">possible automatically in a fast way</p>
+<p begin="00:01:47.640" end="00:01:53.579" style="s2">also if possible instantly</p>
+<p begin="00:01:50.399" end="00:01:55.920" style="s2">and for us to make  All this</p>
+<p begin="00:01:53.579" end="00:01:57.840" style="s2">is possible, it is necessary that we</p>
+<p begin="00:01:55.920" end="00:02:00.659" style="s2">have the support of</p>
+<p begin="00:01:57.840" end="00:02:03.119" style="s2">Information Technology so we will discuss and</p>
+<p begin="00:02:00.659" end="00:02:06.060" style="s2">detail here in this event what</p>
+<p begin="00:02:03.119" end="00:02:08.220" style="s2">these tools are and how</p>
+<p begin="00:02:06.060" end="00:02:10.319" style="s2">this topic has evolved here in the general navigability relevance</p>
+<p begin="00:02:08.220" end="00:02:12.780" style="s2"></p>
+<p begin="00:02:10.319" end="00:02:14.280" style="s2">and it is important to say that as</p>
+<p begin="00:02:12.780" end="00:02:16.860" style="s2">the  people are moving towards</p>
+<p begin="00:02:14.280" end="00:02:20.340" style="s2">digital transformation we have the opportunity to</p>
+<p begin="00:02:16.860" end="00:02:22.260" style="s2">provide a service that is more</p>
+<p begin="00:02:20.340" end="00:02:25.080" style="s2">robust from a security point of view</p>
+<p begin="00:02:22.260" end="00:02:28.020" style="s2">for our regulated sector it is not the same as</p>
+<p begin="00:02:25.080" end="00:02:33.379" style="s2">security I mean</p>
+<p begin="00:02:28.020" end="00:02:36.599" style="s2">information security because the most</p>
+<p begin="00:02:33.379" end="00:02:39.060" style="s2">efficient measures to protect yourself in giving yourself</p>
+<p begin="00:02:36.599" end="00:02:40.560" style="s2">fidelity information that what the</p>
+<p begin="00:02:39.060" end="00:02:42.540" style="s2">public service is dealing with they are</p>
+<p begin="00:02:40.560" end="00:02:45.360" style="s2">given  through</p>
+<p begin="00:02:42.540" end="00:02:47.819" style="s2">information technology and all this</p>
+<p begin="00:02:45.360" end="00:02:50.220" style="s2">work opens the way, it opens the</p>
+<p begin="00:02:47.819" end="00:02:52.739" style="s2">possibility for us to delve into the</p>
+<p begin="00:02:50.220" end="00:02:55.140" style="s2">subject of user experience and go</p>
+<p begin="00:02:52.739" end="00:02:58.260" style="s2">even further, as we</p>
+<p begin="00:02:55.140" end="00:03:00.180" style="s2">have an IT tool that is</p>
+<p begin="00:02:58.260" end="00:03:01.680" style="s2">prepared to support all these</p>
+<p begin="00:03:00.180" end="00:03:03.840" style="s2">ideas that I said</p>
+<p begin="00:03:01.680" end="00:03:06.239" style="s2">so as I said we will be here with</p>
+<p begin="00:03:03.840" end="00:03:09.720" style="s2">a team</p>
+<p begin="00:03:06.239" end="00:03:12.540" style="s2">very involved in this matter we will</p>
+<p begin="00:03:09.720" end="00:03:15.000" style="s2">explain What are the premises What</p>
+<p begin="00:03:12.540" end="00:03:18.140" style="s2">are the current developments</p>
+<p begin="00:03:15.000" end="00:03:22.680" style="s2">we will try the</p>
+<p begin="00:03:18.140" end="00:03:24.840" style="s2">digital rabbi registry portal there and at the end</p>
+<p begin="00:03:22.680" end="00:03:27.900" style="s2">we would also be open to questions</p>
+<p begin="00:03:24.840" end="00:03:31.980" style="s2">so important  is to check what the</p>
+<p begin="00:03:27.900" end="00:03:33.599" style="s2">code is here on the left of the screen. So</p>
+<p begin="00:03:31.980" end="00:03:35.879" style="s2">whoever wants to ask questions,</p>
+<p begin="00:03:33.599" end="00:03:38.940" style="s2">please send them that we will be happy to</p>
+<p begin="00:03:35.879" end="00:03:42.480" style="s2">answer at the end.</p>
+<p begin="00:03:38.940" end="00:03:45.480" style="s2">That way I&#39;ll pass here to Luciana and I</p>
+<p begin="00:03:42.480" end="00:03:48.659" style="s2">wish you all a good event</p>
+<p begin="00:03:45.480" end="00:03:51.900" style="s2">Thank you Honorato Good morning everyone</p>
+<p begin="00:03:48.659" end="00:03:53.519" style="s2">colleagues, right It&#39;s a pleasure and not even on the radio</p>
+<p begin="00:03:51.900" end="00:03:57.900" style="s2">here, right, to talk about the</p>
+<p begin="00:03:53.519" end="00:03:59.940" style="s2">Brazilian aeronautical record, right, I&#39;m already a</p>
+<p begin="00:03:57.900" end="00:04:01.860" style="s2">as much as a fossil in the aeronautical record,</p>
+<p begin="00:03:59.940" end="00:04:05.580" style="s2">right Working for a long time</p>
+<p begin="00:04:01.860" end="00:04:07.860" style="s2">and talking about digital transformation, right for</p>
+<p begin="00:04:05.580" end="00:04:08.780" style="s2">a person like that, he&#39;s been at home for so long,</p>
+<p begin="00:04:07.860" end="00:04:10.459" style="s2">right, it</p>
+<p begin="00:04:08.780" end="00:04:13.980" style="s2">&#39;s</p>
+<p begin="00:04:10.459" end="00:04:16.019" style="s2">a pleasant surprise, right It&#39;s today starting</p>
+<p begin="00:04:13.980" end="00:04:17.940" style="s2">to reap the fruits that were planted</p>
+<p begin="00:04:16.019" end="00:04:20.699" style="s2">in the past I have a</p>
+<p begin="00:04:17.940" end="00:04:23.580" style="s2">presentation here  I promise it will be</p>
+<p begin="00:04:20.699" end="00:04:28.199" style="s2">short, right, let me share it here with you, it</p>
+<p begin="00:04:23.580" end="00:04:32.100" style="s2">&#39;s very interesting,</p>
+<p begin="00:04:28.199" end="00:04:34.740" style="s2">so let me see if I can get</p>
+<p begin="00:04:32.100" end="00:04:36.900" style="s2">digital transformation using a fossil.</p>
+<p begin="00:04:34.740" end="00:04:40.139" style="s2"></p>
+<p begin="00:04:36.900" end="00:04:42.419" style="s2"></p>
+<p begin="00:04:40.139" end="00:04:45.660" style="s2">my presentation</p>
+<p begin="00:04:42.419" end="00:04:48.740" style="s2">Honorato Julho helps me make a little finger</p>
+<p begin="00:04:45.660" end="00:04:51.720" style="s2">there on the positive positive</p>
+<p begin="00:04:48.740" end="00:04:53.160" style="s2">So come on, gentlemen, I&#39;m going to talk a</p>
+<p begin="00:04:51.720" end="00:04:55.800" style="s2">little bit about history because I</p>
+<p begin="00:04:53.160" end="00:04:58.620" style="s2">can&#39;t look forward without</p>
+<p begin="00:04:55.800" end="00:05:00.300" style="s2">looking back and having lessons learned, right, the</p>
+<p begin="00:04:58.620" end="00:05:03.360" style="s2">Brazilian aeronautical record is</p>
+<p begin="00:05:00.300" end="00:05:05.639" style="s2">95 years old and  A Vanguard Story of</p>
+<p begin="00:05:03.360" end="00:05:08.340" style="s2">vanguardism, that is, of taking the first</p>
+<p begin="00:05:05.639" end="00:05:11.340" style="s2">step, right And then why do I say that</p>
+<p begin="00:05:08.340" end="00:05:13.560" style="s2">first, because 95 years because  and the</p>
+<p begin="00:05:11.340" end="00:05:19.460" style="s2">first aircraft registered in the country, right,</p>
+<p begin="00:05:13.560" end="00:05:22.860" style="s2">it was In 1927, then what happens, right,</p>
+<p begin="00:05:19.460" end="00:05:25.020" style="s2">another historical fact, right? We were the</p>
+<p begin="00:05:22.860" end="00:05:26.699" style="s2">first Civil Aviation Authority in the</p>
+<p begin="00:05:25.020" end="00:05:28.860" style="s2">world to have registration certificates</p>
+<p begin="00:05:26.699" end="00:05:32.820" style="s2">And it was already digital navigability</p>
+<p begin="00:05:28.860" end="00:05:34.560" style="s2">and I&#39;m talking about  2017</p>
+<p begin="00:05:32.820" end="00:05:37.500" style="s2">that&#39;s why it&#39;s a Vanguarda story,</p>
+<p begin="00:05:34.560" end="00:05:39.660" style="s2">we&#39;re going to get to the digital tail and</p>
+<p begin="00:05:37.500" end="00:05:41.820" style="s2">then, right, hi,</p>
+<p begin="00:05:39.660" end="00:05:43.340" style="s2">invert your presentation, which is with the</p>
+<p begin="00:05:41.820" end="00:05:46.199" style="s2">screen,</p>
+<p begin="00:05:43.340" end="00:05:48.840" style="s2">how do I do it now Good</p>
+<p begin="00:05:46.199" end="00:05:51.380" style="s2">question, there it was, it worked It worked,</p>
+<p begin="00:05:48.840" end="00:05:53.940" style="s2">I didn&#39;t do anything</p>
+<p begin="00:05:51.380" end="00:05:57.380" style="s2">I believe I didn&#39;t do much here, it</p>
+<p begin="00:05:53.940" end="00:05:59.300" style="s2">didn&#39;t work, I&#39;m all</p>
+<p begin="00:05:57.380" end="00:06:02.520" style="s2"></p>
+<p begin="00:05:59.300" end="00:06:06.000" style="s2"></p>
+<p begin="00:06:02.520" end="00:06:09.360" style="s2"></p>
+<p begin="00:06:06.000" end="00:06:12.360" style="s2"></p>
+<p begin="00:06:09.360" end="00:06:14.880" style="s2"></p>
+<p begin="00:06:12.360" end="00:06:17.580" style="s2">orange.  CNJ, right, an</p>
+<p begin="00:06:14.880" end="00:06:20.940" style="s2">administrative act of the National Council</p>
+<p begin="00:06:17.580" end="00:06:23.699" style="s2">of Justice, right, that said, right, that it provides</p>
+<p begin="00:06:20.940" end="00:06:26.280" style="s2">for the reception of digital born documents</p>
+<p begin="00:06:23.699" end="00:06:29.400" style="s2">by notaries across the country,</p>
+<p begin="00:06:26.280" end="00:06:32.220" style="s2">it&#39;s the tail is a sui generis notary.</p>
+<p begin="00:06:29.400" end="00:06:34.740" style="s2">or talk about it further on, but the</p>
+<p begin="00:06:32.220" end="00:06:36.780" style="s2">reception not only of the documents but of the</p>
+<p begin="00:06:34.740" end="00:06:40.199" style="s2">digital signature, in short, of all this</p>
+<p begin="00:06:36.780" end="00:06:42.300" style="s2">digital transformation that the</p>
+<p begin="00:06:40.199" end="00:06:44.880" style="s2">entire federal government has been going through,</p>
+<p begin="00:06:42.300" end="00:06:47.460" style="s2"></p>
+<p begin="00:06:44.880" end="00:06:49.319" style="s2"></p>
+<p begin="00:06:47.460" end="00:06:51.720" style="s2">right?  of the pandemic, right,</p>
+<p begin="00:06:49.319" end="00:06:53.240" style="s2">we all had to adapt to</p>
+<p begin="00:06:51.720" end="00:06:55.620" style="s2">changes.</p>
+<p begin="00:06:53.240" end="00:06:57.720" style="s2"></p>
+<p begin="00:06:55.620" end="00:07:00.000" style="s2"></p>
+<p begin="00:06:57.720" end="00:07:01.979" style="s2"></p>
+<p begin="00:07:00.000" end="00:07:04.860" style="s2"></p>
+<p begin="00:07:01.979" end="00:07:08.460" style="s2"></p>
+<p begin="00:07:04.860" end="00:07:10.380" style="s2"></p>
+<p begin="00:07:08.460" end="00:07:12.539" style="s2">owner of</p>
+<p begin="00:07:10.380" end="00:07:15.300" style="s2">Brazilian civil aircraft constituting</p>
+<p begin="00:07:12.539" end="00:07:17.699" style="s2">rights and guarantees right in rem rights and</p>
+<p begin="00:07:15.300" end="00:07:19.979" style="s2">guarantees over aircraft right We have</p>
+<p begin="00:07:17.699" end="00:07:22.319" style="s2">this operational function registers</p>
+<p begin="00:07:19.979" end="00:07:24.479" style="s2">aeronautical it also issues certificates of</p>
+<p begin="00:07:22.319" end="00:07:26.940" style="s2">registration of airworthiness and</p>
+<p begin="00:07:24.479" end="00:07:30.180" style="s2">takes care of technical information right</p>
+<p begin="00:07:26.940" end="00:07:32.940" style="s2">among them Oxford certify filed</p>
+<p begin="00:07:30.180" end="00:07:35.699" style="s2">in the registry right data  of inspection type of</p>
+<p begin="00:07:32.940" end="00:07:39.240" style="s2">operation of the ae  Brazilian civil</p>
+<p begin="00:07:35.699" end="00:07:41.819" style="s2">ronaves right And then I have a little display</p>
+<p begin="00:07:39.240" end="00:07:43.819" style="s2">down here right that the gtgi people we</p>
+<p begin="00:07:41.819" end="00:07:46.099" style="s2">have a specific privacy notice</p>
+<p begin="00:07:43.819" end="00:07:48.060" style="s2">for</p>
+<p begin="00:07:46.099" end="00:07:51.300" style="s2">services of the Brazilian aeronautical registry services</p>
+<p begin="00:07:48.060" end="00:07:53.400" style="s2">right Based on the lgpd because the</p>
+<p begin="00:07:51.300" end="00:07:57.660" style="s2">tail is a public notary right then</p>
+<p begin="00:07:53.400" end="00:08:01.440" style="s2">get you  looking for the information on the</p>
+<p begin="00:07:57.660" end="00:08:03.300" style="s2">certificate is public information ok</p>
+<p begin="00:08:01.440" end="00:08:04.940" style="s2">let&#39;s start talking about digital</p>
+<p begin="00:08:03.300" end="00:08:07.259" style="s2"></p>
+<p begin="00:08:04.940" end="00:08:09.660" style="s2">transformation digital transformation gentlemen it is a</p>
+<p begin="00:08:07.259" end="00:08:11.460" style="s2">process it is a maturation ok then</p>
+<p begin="00:08:09.660" end="00:08:15.419" style="s2">to show that in the Superintendence it</p>
+<p begin="00:08:11.460" end="00:08:17.580" style="s2">all started right back there we have the</p>
+<p begin="00:08:15.419" end="00:08:20.879" style="s2">first rabb procedural consultation system</p>
+<p begin="00:08:17.580" end="00:08:22.800" style="s2">developed  in 2009</p>
+<p begin="00:08:20.879" end="00:08:26.460" style="s2">we were already on the way to</p>
+<p begin="00:08:22.800" end="00:08:29.280" style="s2">showing efficiency, in 2010 we had the</p>
+<p begin="00:08:26.460" end="00:08:31.520" style="s2">systems for booking brands online,</p>
+<p begin="00:08:29.280" end="00:08:34.680" style="s2">so the</p>
+<p begin="00:08:31.520" end="00:08:37.200" style="s2">user can go to the platform and</p>
+<p begin="00:08:34.680" end="00:08:40.260" style="s2">select the brand they are interested in,</p>
+<p begin="00:08:37.200" end="00:08:42.479" style="s2">anyway, and then paint their aircraft and do</p>
+<p begin="00:08:40.260" end="00:08:44.760" style="s2">all the  registration process with the</p>
+<p begin="00:08:42.479" end="00:08:47.220" style="s2">Brazilian aeronautical registry that&#39;s what we</p>
+<p begin="00:08:44.760" end="00:08:50.700" style="s2">&#39;re talking about the year 2010, okay</p>
+<p begin="00:08:47.220" end="00:08:53.220" style="s2">?  This is news, it&#39;s not all</p>
+<p begin="00:08:50.700" end="00:08:56.880" style="s2">Civil Aviation authority</p>
+<p begin="00:08:53.220" end="00:08:59.540" style="s2">And this happens so we had I</p>
+<p begin="00:08:56.880" end="00:09:01.100" style="s2">like to talk about history, right in</p>
+<p begin="00:08:59.540" end="00:09:04.800" style="s2">2013</p>
+<p begin="00:09:01.100" end="00:09:07.380" style="s2">2012 2013 saves memory, right we had</p>
+<p begin="00:09:04.800" end="00:09:10.800" style="s2">a technical visit to the</p>
+<p begin="00:09:07.380" end="00:09:13.680" style="s2">French aeronautical registry and France was</p>
+<p begin="00:09:10.800" end="00:09:16.560" style="s2">delighted right there  time, so I&#39;m</p>
+<p begin="00:09:13.680" end="00:09:18.360" style="s2">talking about it, it&#39;s been a long time, right, she was</p>
+<p begin="00:09:16.560" end="00:09:21.000" style="s2">delighted with online brand reservation</p>
+<p begin="00:09:18.360" end="00:09:24.720" style="s2">while theirs was still in the book, right</p>
+<p begin="00:09:21.000" end="00:09:28.260" style="s2">physical, physical notes are in 2017</p>
+<p begin="00:09:24.720" end="00:09:31.200" style="s2">Big step is step to economy for</p>
+<p begin="00:09:28.260" end="00:09:34.019" style="s2">efficiency for effectiveness, right The issuance</p>
+<p begin="00:09:31.200" end="00:09:35.820" style="s2">of digital certificates, right so much</p>
+<p begin="00:09:34.019" end="00:09:38.100" style="s2">registration and airworthiness</p>
+<p begin="00:09:35.820" end="00:09:40.019" style="s2">allowing these documents to have</p>
+<p begin="00:09:38.100" end="00:09:42.180" style="s2">on board the aircraft in an</p>
+<p begin="00:09:40.019" end="00:09:45.540" style="s2">electronic device does not need to be printed</p>
+<p begin="00:09:42.180" end="00:09:47.760" style="s2">savings for us too, right because for</p>
+<p begin="00:09:45.540" end="00:09:50.940" style="s2">those who remember the registration certificate,</p>
+<p begin="00:09:47.760" end="00:09:53.160" style="s2">a little piece of paper, anyway, the</p>
+<p begin="00:09:50.940" end="00:09:57.180" style="s2">little piece of paper is not the paper of the Mint</p>
+<p begin="00:09:53.160" end="00:10:00.120" style="s2">cost, right a  relatively high cost, right</p>
+<p begin="00:09:57.180" end="00:10:02.339" style="s2">for the agency and then the obligation to</p>
+<p begin="00:10:00.120" end="00:10:06.300" style="s2">carry a physical document in the airlines  you</p>
+<p begin="00:10:02.339" end="00:10:08.820" style="s2">see yet another evolution 2019 release</p>
+<p begin="00:10:06.300" end="00:10:10.920" style="s2">of papa-serra gentlemen the</p>
+<p begin="00:10:08.820" end="00:10:12.380" style="s2">Papa Serra nationality mark it was</p>
+<p begin="00:10:10.920" end="00:10:15.959" style="s2">predicted</p>
+<p begin="00:10:12.380" end="00:10:19.019" style="s2">there Luciana well anyway it was predicted a</p>
+<p begin="00:10:15.959" end="00:10:22.500" style="s2">long time ago since before the last</p>
+<p begin="00:10:19.019" end="00:10:24.600" style="s2">change of RBS 45 we already had the</p>
+<p begin="00:10:22.500" end="00:10:26.180" style="s2">nationality mark prediction  to</p>
+<p begin="00:10:24.600" end="00:10:28.980" style="s2">take a walk to</p>
+<p begin="00:10:26.180" end="00:10:32.339" style="s2">implement Papa Serra gentlemen I</p>
+<p begin="00:10:28.980" end="00:10:35.399" style="s2">had a huge help from you ok so I</p>
+<p begin="00:10:32.339" end="00:10:37.380" style="s2">have to thank Samira here for the entire</p>
+<p begin="00:10:35.399" end="00:10:39.480" style="s2">information technology team that</p>
+<p begin="00:10:37.380" end="00:10:43.800" style="s2">long before the digital rabbi everything started</p>
+<p begin="00:10:39.480" end="00:10:45.720" style="s2">there since 2019 here is an orchestra right</p>
+<p begin="00:10:43.800" end="00:10:48.480" style="s2">gentlemen so nobody works  alone</p>
+<p begin="00:10:45.720" end="00:10:49.880" style="s2">if I don&#39;t have the support of the Teia, nothing</p>
+<p begin="00:10:48.480" end="00:10:54.000" style="s2">happens</p>
+<p begin="00:10:49.880" end="00:10:56.399" style="s2">2020 reception was bad there from the</p>
+<p begin="00:10:54.000" end="00:10:58.860" style="s2">digital and dematerialized Natu but it</p>
+<p begin="00:10:56.399" end="00:11:02.279" style="s2">actually started in 2019 But it&#39;s not to</p>
+<p begin="00:10:58.860" end="00:11:04.220" style="s2">repeat the year formalized there in 2020 with</p>
+<p begin="00:11:02.279" end="00:11:06.720" style="s2">the revision of resolution</p>
+<p begin="00:11:04.220" end="00:11:09.540" style="s2">293 that provides for registration</p>
+<p begin="00:11:06.720" end="00:11:12.779" style="s2">Brazilian aeronautics and that we</p>
+<p begin="00:11:09.540" end="00:11:16.200" style="s2">will revisit the 293 again now,</p>
+<p begin="00:11:12.779" end="00:11:19.680" style="s2">gentlemen, after the internalization of the Provisional Measure,</p>
+<p begin="00:11:16.200" end="00:11:21.620" style="s2">right that a simple flight that</p>
+<p begin="00:11:19.680" end="00:11:24.660" style="s2">gen  there were more simplifications</p>
+<p begin="00:11:21.620" end="00:11:28.079" style="s2">initiatives in progress right replacement</p>
+<p begin="00:11:24.660" end="00:11:30.480" style="s2">of the petitioning of the online rabb of sei</p>
+<p begin="00:11:28.079" end="00:11:32.100" style="s2">by the online rabeline by the rabeline not by the</p>
+<p begin="00:11:30.480" end="00:11:37.019" style="s2">digital radio sorry for my</p>
+<p begin="00:11:32.100" end="00:11:40.320" style="s2">spelling mistake here it&#39;s already</p>
+<p begin="00:11:37.019" end="00:11:44.000" style="s2">a novelty ready right now it already has the</p>
+<p begin="00:11:40.320" end="00:11:44.000" style="s2">digital tail anyway  working there,</p>
+<p begin="00:11:44.339" end="00:11:49.860" style="s2">not 100%, but we are on the</p>
+<p begin="00:11:48.000" end="00:11:52.320" style="s2">way so I won&#39;t skip it, I won&#39;t</p>
+<p begin="00:11:49.860" end="00:11:55.680" style="s2">take Samir and Júlio&#39;s speech here,</p>
+<p begin="00:11:52.320" end="00:11:57.120" style="s2">because maybe it&#39;s live, right And then</p>
+<p begin="00:11:55.680" end="00:11:58.940" style="s2">we have a reduction of the documents</p>
+<p begin="00:11:57.120" end="00:12:03.300" style="s2">necessary for presentation</p>
+<p begin="00:11:58.940" end="00:12:04.980" style="s2">simplification with the adoption of the</p>
+<p begin="00:12:03.300" end="00:12:07.320" style="s2">simple flight, right, with the internalization of the</p>
+<p begin="00:12:04.980" end="00:12:10.500" style="s2">Provisional Measure, we managed to do that,</p>
+<p begin="00:12:07.320" end="00:12:12.779" style="s2">ok We are on our way there, also within the</p>
+<p begin="00:12:10.500" end="00:12:15.300" style="s2">theme four of the regulatory agenda is to</p>
+<p begin="00:12:12.779" end="00:12:17.760" style="s2">end up extinguishing the category of registration</p>
+<p begin="00:12:15.300" end="00:12:19.860" style="s2">this is our purpose so it is</p>
+<p begin="00:12:17.760" end="00:12:22.579" style="s2">documentation you don&#39;t need to present</p>
+<p begin="00:12:19.860" end="00:12:24.899" style="s2">insurance more later I&#39;ll talk</p>
+<p begin="00:12:22.579" end="00:12:26.640" style="s2">formal procedures signature of</p>
+<p begin="00:12:24.899" end="00:12:28.320" style="s2">testimony found are also</p>
+<p begin="00:12:26.640" end="00:12:31.320" style="s2">dismissed finally</p>
+<p begin="00:12:28.320" end="00:12:33.839" style="s2">the great novelty gentlemen like Honorato</p>
+<p begin="00:12:31.320" end="00:12:36.839" style="s2">scoring well in the i  beginning service automation,</p>
+<p begin="00:12:33.839" end="00:12:39.720" style="s2">right, digital transformation</p>
+<p begin="00:12:36.839" end="00:12:42.060" style="s2">is more than just receiving</p>
+<p begin="00:12:39.720" end="00:12:44.820" style="s2">digital documents, right?</p>
+<p begin="00:12:42.060" end="00:12:47.940" style="s2"></p>
+<p begin="00:12:44.820" end="00:12:50.579" style="s2"></p>
+<p begin="00:12:47.940" end="00:12:53.940" style="s2"></p>
+<p begin="00:12:50.579" end="00:12:57.440" style="s2"></p>
+<p begin="00:12:53.940" end="00:13:00.420" style="s2">right, and with the</p>
+<p begin="00:12:57.440" end="00:13:03.180" style="s2">very low cost, right for the agency for the</p>
+<p begin="00:13:00.420" end="00:13:05.779" style="s2">aeronautical registration and a</p>
+<p begin="00:13:03.180" end="00:13:08.959" style="s2">very high efficiency gain, we already have</p>
+<p begin="00:13:05.779" end="00:13:12.660" style="s2">two Auto Services implemented,</p>
+<p begin="00:13:08.959" end="00:13:15.180" style="s2">tested and auto service and it</p>
+<p begin="00:13:12.660" end="00:13:17.459" style="s2">arrived on the platform and got it.</p>
+<p begin="00:13:15.180" end="00:13:20.639" style="s2"></p>
+<p begin="00:13:17.459" end="00:13:24.180" style="s2">what&#39;s in progress</p>
+<p begin="00:13:20.639" end="00:13:27.720" style="s2">ok gentlemen I use brands A lot of people</p>
+<p begin="00:13:24.180" end="00:13:30.060" style="s2">ask me but Luciana</p>
+<p begin="00:13:27.720" end="00:13:33.240" style="s2">Samarco has already been used</p>
+<p begin="00:13:30.060" end="00:13:36.779" style="s2">this registration has been canceled for a long time</p>
+<p begin="00:13:33.240" end="00:13:39.720" style="s2">and I can&#39;t reuse it today, I still can&#39;t,</p>
+<p begin="00:13:36.779" end="00:13:42.240" style="s2">right there are specific criteria</p>
+<p begin="00:13:39.720" end="00:13:46.079" style="s2">for us to allow this reuse</p>
+<p begin="00:13:42.240" end="00:13:48.600" style="s2">of brands right This reactivation of brands and</p>
+<p begin="00:13:46.079" end="00:13:51.980" style="s2">reuse of brands is nothing more</p>
+<p begin="00:13:48.600" end="00:13:56.940" style="s2">than an aircraft gives an exe  mplo here right</p>
+<p begin="00:13:51.980" end="00:13:59.760" style="s2">real it was a Boeing the registration was canceled</p>
+<p begin="00:13:56.940" end="00:14:02.459" style="s2">And now it&#39;s a Cessna it&#39;s the same</p>
+<p begin="00:13:59.760" end="00:14:04.980" style="s2">registration it was a Boeing now some fessna is</p>
+<p begin="00:14:02.459" end="00:14:07.560" style="s2">still not allowed But that&#39;s what</p>
+<p begin="00:14:04.980" end="00:14:09.480" style="s2">we Mira It&#39;s about reusing brands</p>
+<p begin="00:14:07.560" end="00:14:12.240" style="s2">first because the brands are finite, right</p>
+<p begin="00:14:09.480" end="00:14:15.660" style="s2">and second, that it doesn&#39;t make sense, we</p>
+<p begin="00:14:12.240" end="00:14:18.240" style="s2">have a database that ties the</p>
+<p begin="00:14:15.660" end="00:14:21.540" style="s2">aircraft brand forever and you</p>
+<p begin="00:14:18.240" end="00:14:24.060" style="s2">can&#39;t reuse it anymore, so the reuse</p>
+<p begin="00:14:21.540" end="00:14:27.240" style="s2">of brands within the integrated naka base</p>
+<p begin="00:14:24.060" end="00:14:29.339" style="s2">will be</p>
+<p begin="00:14:27.240" end="00:14:32.660" style="s2">a big step, a great improvement</p>
+<p begin="00:14:29.339" end="00:14:35.220" style="s2">, brand reuse  It&#39;s a</p>
+<p begin="00:14:32.660" end="00:14:37.800" style="s2">real thing, right, it already happens in other</p>
+<p begin="00:14:35.220" end="00:14:39.600" style="s2">authorities, right And especially in the</p>
+<p begin="00:14:37.800" end="00:14:42.060" style="s2">United States, whose Fleet is the largest in the</p>
+<p begin="00:14:39.600" end="00:14:44.120" style="s2">world, you know, and we here</p>
+<p begin="00:14:42.060" end="00:14:48.300" style="s2">also want to implement it because it</p>
+<p begin="00:14:44.120" end="00:14:50.699" style="s2">would be a gain for everyone, okay, but come</p>
+<p begin="00:14:48.300" end="00:14:54.360" style="s2">on, I&#39;m going to talk about flights here  simple,</p>
+<p begin="00:14:50.699" end="00:14:56.600" style="s2">right, we hitched a ride on this</p>
+<p begin="00:14:54.360" end="00:14:59.639" style="s2">rocket tail in this</p>
+<p begin="00:14:56.600" end="00:15:02.100" style="s2">window of opportunity, right What did</p>
+<p begin="00:14:59.639" end="00:15:03.839" style="s2">we get there I&#39;m going to talk a</p>
+<p begin="00:15:02.100" end="00:15:06.060" style="s2">little bit here about drones, okay, gentlemen,</p>
+<p begin="00:15:03.839" end="00:15:09.920" style="s2">for those who don&#39;t know  well, when</p>
+<p begin="00:15:06.060" end="00:15:12.360" style="s2">94 Eco came out, it&#39;s about the</p>
+<p begin="00:15:09.920" end="00:15:16.740" style="s2">regulation that deals with drones in the</p>
+<p begin="00:15:12.360" end="00:15:19.440" style="s2">country It was very restrictive a</p>
+<p begin="00:15:16.740" end="00:15:23.040" style="s2">certain category now saves</p>
+<p begin="00:15:19.440" end="00:15:25.920" style="s2">memory and class 2 class 3 finally the</p>
+<p begin="00:15:23.040" end="00:15:29.579" style="s2">category that is for drones that flew</p>
+<p begin="00:15:25.920" end="00:15:32.760" style="s2">outside the Visa line above 400 feet</p>
+<p begin="00:15:29.579" end="00:15:34.980" style="s2">they had to be registered and have the</p>
+<p begin="00:15:32.760" end="00:15:38.040" style="s2">same formal procedure as if they were</p>
+<p begin="00:15:34.980" end="00:15:41.220" style="s2">large aircraft, right, we saw</p>
+<p begin="00:15:38.040" end="00:15:44.399" style="s2">that this was a beam, right, even by the number</p>
+<p begin="00:15:41.220" end="00:15:47.839" style="s2">who goes to look at the platform, there are more</p>
+<p begin="00:15:44.399" end="00:15:51.240" style="s2">than 20 thousand drone aircraft</p>
+<p begin="00:15:47.839" end="00:15:55.279" style="s2">registered, right That&#39;s not it.  it makes sense, does</p>
+<p begin="00:15:51.240" end="00:15:58.860" style="s2">n&#39;t it make sense, for the use by</p>
+<p begin="00:15:55.279" end="00:16:00.480" style="s2">the added value, right, you</p>
+<p begin="00:15:58.860" end="00:16:04.199" style="s2">need to have size the</p>
+<p begin="00:16:00.480" end="00:16:07.500" style="s2">legal certainty in this issue of these drones</p>
+<p begin="00:16:04.199" end="00:16:10.740" style="s2">of their use anyway, right And then we</p>
+<p begin="00:16:07.500" end="00:16:13.440" style="s2">put this as a measure and it passed</p>
+<p begin="00:16:10.740" end="00:16:16.860" style="s2">so today we have the new  platform</p>
+<p begin="00:16:13.440" end="00:16:19.920" style="s2">of the new gray right with the emission of the</p>
+<p begin="00:16:16.860" end="00:16:22.620" style="s2">caer there by the new gray for the aircraft</p>
+<p begin="00:16:19.920" end="00:16:24.600" style="s2">for the Class 2 drones doesn&#39;t save the</p>
+<p begin="00:16:22.620" end="00:16:27.300" style="s2">memory right finally flying outside the</p>
+<p begin="00:16:24.600" end="00:16:29.399" style="s2">dividing line and such I know q  that the norm is there</p>
+<p begin="00:16:27.300" end="00:16:33.480" style="s2">process of new revisits new</p>
+<p begin="00:16:29.399" end="00:16:35.459" style="s2">revisiting so I&#39;m here I may be</p>
+<p begin="00:16:33.480" end="00:16:38.699" style="s2">eventually committing a prorated here</p>
+<p begin="00:16:35.459" end="00:16:41.519" style="s2">in my speech but gentlemen the fact is today</p>
+<p begin="00:16:38.699" end="00:16:43.860" style="s2">the Drone is the only one that really needs</p>
+<p begin="00:16:41.519" end="00:16:46.880" style="s2">legal certainty that has an</p>
+<p begin="00:16:43.860" end="00:16:50.160" style="s2">added value a much more cost</p>
+<p begin="00:16:46.880" end="00:16:52.259" style="s2">much larger that need to be registered</p>
+<p begin="00:16:50.160" end="00:16:55.459" style="s2">And then I&#39;m talking about class 1, those</p>
+<p begin="00:16:52.259" end="00:16:59.100" style="s2">over 150 kilos, right?</p>
+<p begin="00:16:55.459" end="00:17:01.500" style="s2"></p>
+<p begin="00:16:59.100" end="00:17:04.860" style="s2"></p>
+<p begin="00:17:01.500" end="00:17:06.660" style="s2"></p>
+<p begin="00:17:04.860" end="00:17:09.540" style="s2"></p>
+<p begin="00:17:06.660" end="00:17:11.579" style="s2">right But let&#39;s go</p>
+<p begin="00:17:09.540" end="00:17:13.860" style="s2">registration categories gentlemen we went</p>
+<p begin="00:17:11.579" end="00:17:17.280" style="s2">first in the idea of ​​simplification let&#39;s</p>
+<p begin="00:17:13.860" end="00:17:21.600" style="s2">reduce the category And then after a new</p>
+<p begin="00:17:17.280" end="00:17:25.020" style="s2">study a new phase we realized that</p>
+<p begin="00:17:21.600" end="00:17:28.140" style="s2">Oops is actually an aggregated information that</p>
+<p begin="00:17:25.020" end="00:17:30.059" style="s2">we can that we cane still have and</p>
+<p begin="00:17:28.140" end="00:17:31.919" style="s2">that we can eliminate, right, we don&#39;t</p>
+<p begin="00:17:30.059" end="00:17:34.320" style="s2">need the category of registration</p>
+<p begin="00:17:31.919" end="00:17:36.360" style="s2">so the category of registration is in the</p>
+<p begin="00:17:34.320" end="00:17:38.880" style="s2">study within the theme 4 of the</p>
+<p begin="00:17:36.360" end="00:17:41.640" style="s2">regulatory agenda the  Rabi is part of this</p>
+<p begin="00:17:38.880" end="00:17:44.640" style="s2">study group, right? I think it was a</p>
+<p begin="00:17:41.640" end="00:17:48.419" style="s2">very nice job, a job that started</p>
+<p begin="00:17:44.640" end="00:17:51.539" style="s2">with a vision and we built it and we</p>
+<p begin="00:17:48.419" end="00:17:55.280" style="s2">&#39;re going to the best way.</p>
+<p begin="00:17:51.539" end="00:17:58.980" style="s2"></p>
+<p begin="00:17:55.280" end="00:18:01.020" style="s2">will</p>
+<p begin="00:17:58.980" end="00:18:05.580" style="s2">be here July to know to explain</p>
+<p begin="00:18:01.020" end="00:18:08.520" style="s2">everything but the digital tail without you</p>
+<p begin="00:18:05.580" end="00:18:11.400" style="s2">wouldn&#39;t be anything but I have to tell</p>
+<p begin="00:18:08.520" end="00:18:13.620" style="s2">you guys that I really speak right I&#39;m one</p>
+<p begin="00:18:11.400" end="00:18:16.039" style="s2">of those I talk about right</p>
+<p begin="00:18:13.620" end="00:18:19.260" style="s2">the digital tail project was born in</p>
+<p begin="00:18:16.039" end="00:18:21.360" style="s2">2018/2019 Actually  I already thought about</p>
+<p begin="00:18:19.260" end="00:18:22.520" style="s2">digital ass there since I started in</p>
+<p begin="00:18:21.360" end="00:18:25.679" style="s2">2010</p>
+<p begin="00:18:22.520" end="00:18:28.140" style="s2">in a more simple way and then we start</p>
+<p begin="00:18:25.679" end="00:18:32.039" style="s2">gaining the body he is learning,</p>
+<p begin="00:18:28.140" end="00:18:34.500" style="s2">having lessons learned and my</p>
+<p begin="00:18:32.039" end="00:18:37.679" style="s2">chips gentlemen that I bet all on her</p>
+<p begin="00:18:34.500" end="00:18:40.679" style="s2">all I bet all is that the</p>
+<p begin="00:18:37.679" end="00:18:43.320" style="s2">digital tail in the future it is not now now it</p>
+<p begin="00:18:40.679" end="00:18:46.260" style="s2">is already implemented there is already a service but later</p>
+<p begin="00:18:43.320" end="00:18:49.860" style="s2">on we will do more and</p>
+<p begin="00:18:46.260" end="00:18:51.780" style="s2">more understood is this</p>
+<p begin="00:18:49.860" end="00:18:53.460" style="s2">user experience it will be more than laughs</p>
+<p begin="00:18:51.780" end="00:18:56.820" style="s2">it will be very rich  you understand, it will be</p>
+<p begin="00:18:53.460" end="00:18:57.960" style="s2">a transformation of things that I think about,</p>
+<p begin="00:18:56.820" end="00:19:00.780" style="s2">but I can&#39;t stay here talking</p>
+<p begin="00:18:57.960" end="00:19:03.059" style="s2">too much because I think about more technological things for the</p>
+<p begin="00:19:00.780" end="00:19:05.640" style="s2">future, right, but</p>
+<p begin="00:19:03.059" end="00:19:08.179" style="s2">connectivity with more different databases,</p>
+<p begin="00:19:05.640" end="00:19:10.980" style="s2">not only from the agency.</p>
+<p begin="00:19:08.179" end="00:19:12.380" style="s2">right I</p>
+<p begin="00:19:10.980" end="00:19:15.620" style="s2">&#39;m going to talk about</p>
+<p begin="00:19:12.380" end="00:19:18.900" style="s2">anaki judit sorry I can say rabuda</p>
+<p begin="00:19:15.620" end="00:19:20.880" style="s2">to you aircraft registration</p>
+<p begin="00:19:18.900" end="00:19:23.880" style="s2">gentlemen we designed this</p>
+<p begin="00:19:20.880" end="00:19:26.880" style="s2">process we had one it</p>
+<p begin="00:19:23.880" end="00:19:29.520" style="s2">was 2020 the person is already losing the screen</p>
+<p begin="00:19:26.880" end="00:19:31.200" style="s2">the timeline that we had to</p>
+<p begin="00:19:29.520" end="00:19:33.480" style="s2">revisit the entire process of</p>
+<p begin="00:19:31.200" end="00:19:37.140" style="s2">aircraft registration and it is inside</p>
+<p begin="00:19:33.480" end="00:19:39.600" style="s2">the digital tail, what we reversed the</p>
+<p begin="00:19:37.140" end="00:19:41.160" style="s2">order is in the registration of aircraft</p>
+<p begin="00:19:39.600" end="00:19:42.840" style="s2">airworthiness registration certificates</p>
+<p begin="00:19:41.160" end="00:19:44.460" style="s2">will come out in</p>
+<p begin="00:19:42.840" end="00:19:47.580" style="s2">zero time for the regulated one when we</p>
+<p begin="00:19:44.460" end="00:19:50.760" style="s2">launch this system which is almost the same</p>
+<p begin="00:19:47.580" end="00:19:52.860" style="s2">as Santos Dumont&#39;s bidding  right, as</p>
+<p begin="00:19:50.760" end="00:19:55.140" style="s2">the Crown Jewel will be one of the last</p>
+<p begin="00:19:52.860" end="00:19:58.860" style="s2">services but surely one of the best</p>
+<p begin="00:19:55.140" end="00:20:02.700" style="s2">that will leave the market very</p>
+<p begin="00:19:58.860" end="00:20:04.799" style="s2">satisfied and we will enter the  the</p>
+<p begin="00:20:02.700" end="00:20:07.559" style="s2">process You have the certificates and</p>
+<p begin="00:20:04.799" end="00:20:10.260" style="s2">subsequent analysis by Luciana But if the</p>
+<p begin="00:20:07.559" end="00:20:12.419" style="s2">person did not comply, it&#39;s not right and such</p>
+<p begin="00:20:10.260" end="00:20:15.179" style="s2">we have the mechanisms to finally</p>
+<p begin="00:20:12.419" end="00:20:17.460" style="s2">suspend certificates and etc and such,</p>
+<p begin="00:20:15.179" end="00:20:19.500" style="s2">but then aircraft registration we will</p>
+<p begin="00:20:17.460" end="00:20:21.539" style="s2">reduce to zero time already one  short time</p>
+<p begin="00:20:19.500" end="00:20:23.820" style="s2">but it will be a wonderful experience</p>
+<p begin="00:20:21.539" end="00:20:26.280" style="s2"></p>
+<p begin="00:20:23.820" end="00:20:28.080" style="s2">of zero time and I&#39;m sure it will</p>
+<p begin="00:20:26.280" end="00:20:30.780" style="s2">be the first Civil Aviation Authority in the</p>
+<p begin="00:20:28.080" end="00:20:32.900" style="s2">world to do this ok</p>
+<p begin="00:20:30.780" end="00:20:35.940" style="s2">aircraft registration we made it simple I already mentioned</p>
+<p begin="00:20:32.900" end="00:20:38.340" style="s2">receiving digital Nato documents that</p>
+<p begin="00:20:35.940" end="00:20:41.100" style="s2">was not allowed with the simple flight</p>
+<p begin="00:20:38.340" end="00:20:43.799" style="s2">we waive recognition of</p>
+<p begin="00:20:41.100" end="00:20:46.260" style="s2">signature by witnesses And then I go back</p>
+<p begin="00:20:43.799" end="00:20:48.120" style="s2">in the past gentlemen so that witness</p>
+<p begin="00:20:46.260" end="00:20:50.760" style="s2">found, right because there was</p>
+<p begin="00:20:48.120" end="00:20:54.179" style="s2">testimony found because witness</p>
+<p begin="00:20:50.760" end="00:20:56.460" style="s2">would serve to validate for you To</p>
+<p begin="00:20:54.179" end="00:20:58.559" style="s2">prove that you were not coerced into</p>
+<p begin="00:20:56.460" end="00:21:01.140" style="s2">signing a certain contract That&#39;s</p>
+<p begin="00:20:58.559" end="00:21:03.360" style="s2">why there is the  Witness figure today</p>
+<p begin="00:21:01.140" end="00:21:05.100" style="s2">in the digital world everyone has their</p>
+<p begin="00:21:03.360" end="00:21:07.620" style="s2">certificate I&#39;m signing the contract</p>
+<p begin="00:21:05.100" end="00:21:09.299" style="s2">at one end the  the other is at the other end,</p>
+<p begin="00:21:07.620" end="00:21:12.000" style="s2">we no longer need this</p>
+<p begin="00:21:09.299" end="00:21:14.039" style="s2">rigor, so the waiver of the</p>
+<p begin="00:21:12.000" end="00:21:17.460" style="s2">witness signature is a</p>
+<p begin="00:21:14.039" end="00:21:19.880" style="s2">basic thing and the receipt of aircraft insurance,</p>
+<p begin="00:21:17.460" end="00:21:23.039" style="s2">right, the tail kept sealing insurance</p>
+<p begin="00:21:19.880" end="00:21:25.740" style="s2">when there was a process that gave rise to</p>
+<p begin="00:21:23.039" end="00:21:28.260" style="s2">an airworthiness certificate</p>
+<p begin="00:21:25.740" end="00:21:30.799" style="s2">new and never received insurance again</p>
+<p begin="00:21:28.260" end="00:21:32.720" style="s2">so it was a document that had none</p>
+<p begin="00:21:30.799" end="00:21:36.299" style="s2"></p>
+<p begin="00:21:32.720" end="00:21:38.520" style="s2">the Rabbi registering an insurance in</p>
+<p begin="00:21:36.299" end="00:21:42.179" style="s2">the aircraft book it didn&#39;t make sense right</p>
+<p begin="00:21:38.520" end="00:21:45.419" style="s2">It makes sense to have insurance Yes we are in favor</p>
+<p begin="00:21:42.179" end="00:21:47.580" style="s2">of operational security yes right of the</p>
+<p begin="00:21:45.419" end="00:21:49.500" style="s2">aircraft but the insurance has to be</p>
+<p begin="00:21:47.580" end="00:21:53.400" style="s2">presented  in a ramp inspection, right,</p>
+<p begin="00:21:49.500" end="00:21:55.679" style="s2">the insurance has to be ok there when the</p>
+<p begin="00:21:53.400" end="00:21:57.480" style="s2">person goes there to do their CVA anyway, but</p>
+<p begin="00:21:55.679" end="00:21:59.220" style="s2">not You have to present it once in your life and</p>
+<p begin="00:21:57.480" end="00:22:02.220" style="s2">once in your death or aeronautical registration,</p>
+<p begin="00:21:59.220" end="00:22:04.740" style="s2">ok, let&#39;s go, I&#39;ll talk about the digital tail</p>
+<p begin="00:22:02.220" end="00:22:07.200" style="s2">so quickly I love it  this slide</p>
+<p begin="00:22:04.740" end="00:22:09.659" style="s2">that I love this little robot understands that</p>
+<p begin="00:22:07.200" end="00:22:13.740" style="s2">it&#39;s a little robot already shows us it&#39;s</p>
+<p begin="00:22:09.659" end="00:22:16.380" style="s2">efficiency is the future ok And that&#39;s the</p>
+<p begin="00:22:13.740" end="00:22:19.320" style="s2">big difference for the</p>
+<p begin="00:22:16.380" end="00:22:22.140" style="s2">aeronautical registry servers is a more</p>
+<p begin="00:22:19.320" end="00:22:26.280" style="s2">efficient work more serious because the service</p>
+<p begin="00:22:22.140" end="00:22:28.860" style="s2">comes with structured petitions the user</p>
+<p begin="00:22:26.280" end="00:22:31.679" style="s2">when he enters he has guidance of what</p>
+<p begin="00:22:28.860" end="00:22:34.559" style="s2">he requests right and shows him the</p>
+<p begin="00:22:31.679" end="00:22:35.940" style="s2">way that for when the</p>
+<p begin="00:22:34.559" end="00:22:38.220" style="s2">server needs to analyze this</p>
+<p begin="00:22:35.940" end="00:22:41.039" style="s2">documentation he receives it from  a</p>
+<p begin="00:22:38.220" end="00:22:43.620" style="s2">structured form also facilitates decreases,</p>
+<p begin="00:22:41.039" end="00:22:46.020" style="s2">right, increases safety and</p>
+<p begin="00:22:43.620" end="00:22:48.539" style="s2">efficiency because our focus is to reduce</p>
+<p begin="00:22:46.020" end="00:22:52.080" style="s2">the overlay rates that</p>
+<p begin="00:22:48.539" end="00:22:56.159" style="s2">historically are around 50%,</p>
+<p begin="00:22:52.080" end="00:22:57.780" style="s2">right, and 50% is a lot of people, right when</p>
+<p begin="00:22:56.159" end="00:23:01.380" style="s2">I&#39;m talking about a volume of process</p>
+<p begin="00:22:57.780" end="00:23:04.740" style="s2">in the house of the  500 to 1,000 cases per month,</p>
+<p begin="00:23:01.380" end="00:23:08.340" style="s2">you know, you have 50% that didn&#39;t have</p>
+<p begin="00:23:04.740" end="00:23:11.280" style="s2">compliance, it&#39;s very complicated, okay And then,</p>
+<p begin="00:23:08.340" end="00:23:13.520" style="s2">gentlemen, but then we have it, right? Pearl,</p>
+<p begin="00:23:11.280" end="00:23:16.200" style="s2">the development of High services, right,</p>
+<p begin="00:23:13.520" end="00:23:18.000" style="s2">the provision of the certificate in real time</p>
+<p begin="00:23:16.200" end="00:23:21.480" style="s2">was the first self-service that the  We</p>
+<p begin="00:23:18.000" end="00:23:23.159" style="s2">went with focus and blood in our eyes that the</p>
+<p begin="00:23:21.480" end="00:23:25.860" style="s2">staff will present to you because</p>
+<p begin="00:23:23.159" end="00:23:28.140" style="s2">there is no need to have a server</p>
+<p begin="00:23:25.860" end="00:23:30.240" style="s2">to receive  r a request to generate</p>
+<p begin="00:23:28.140" end="00:23:34.140" style="s2">a certificate to issue it had to be</p>
+<p begin="00:23:30.240" end="00:23:36.960" style="s2">everything in that sense, right automated self</p>
+<p begin="00:23:34.140" end="00:23:39.120" style="s2">service, you don&#39;t need to have anyone behind the</p>
+<p begin="00:23:36.960" end="00:23:41.039" style="s2">counter to deliver this service to you right</p>
+<p begin="00:23:39.120" end="00:23:43.860" style="s2">The truth is this,</p>
+<p begin="00:23:41.039" end="00:23:45.720" style="s2">let&#39;s continue the news gentlemen</p>
+<p begin="00:23:43.860" end="00:23:49.500" style="s2">that we just signed</p>
+<p begin="00:23:45.720" end="00:23:53.059" style="s2">ANAC Jude will be published a</p>
+<p begin="00:23:49.500" end="00:23:56.880" style="s2">technical cooperation agreement between ANAC and CNJ</p>
+<p begin="00:23:53.059" end="00:23:59.880" style="s2">That&#39;s what this ANAC Jude provides for all</p>
+<p begin="00:23:56.880" end="00:24:01.559" style="s2">constructions and judicial releases, right in</p>
+<p begin="00:23:59.880" end="00:24:04.260" style="s2">the cold, they will be done</p>
+<p begin="00:24:01.559" end="00:24:07.640" style="s2">directly by the Judiciary This will be a</p>
+<p begin="00:24:04.260" end="00:24:10.380" style="s2">huge efficiency gain because  the Rabbi</p>
+<p begin="00:24:07.640" end="00:24:12.360" style="s2">accepts all court orders</p>
+<p begin="00:24:10.380" end="00:24:14.700" style="s2">Let&#39;s take a classic example here</p>
+<p begin="00:24:12.360" end="00:24:16.860" style="s2">making an aircraft unavailable the</p>
+<p begin="00:24:14.700" end="00:24:18.900" style="s2">person has a littdance there in the</p>
+<p begin="00:24:16.860" end="00:24:20.520" style="s2">judiciary the judge decreed</p>
+<p begin="00:24:18.900" end="00:24:21.960" style="s2">availability Luciana</p>
+<p begin="00:24:20.520" end="00:24:24.000" style="s2">unavailability means he ca</p>
+<p begin="00:24:21.960" end="00:24:26.159" style="s2">n&#39;t fly doesn&#39;t mean the guy can&#39;t</p>
+<p begin="00:24:24.000" end="00:24:28.799" style="s2">afford he can&#39;t  sell aircraft but</p>
+<p begin="00:24:26.159" end="00:24:31.440" style="s2">fly it can be so there I have it</p>
+<p begin="00:24:28.799" end="00:24:35.220" style="s2">while I register when it receives</p>
+<p begin="00:24:31.440" end="00:24:37.500" style="s2">this order I don&#39;t do it</p>
+<p begin="00:24:35.220" end="00:24:40.980" style="s2">I just do it, I go there and</p>
+<p begin="00:24:37.500" end="00:24:45.059" style="s2">Register So this is a work</p>
+<p begin="00:24:40.980" end="00:24:46.320" style="s2">of a reasonable order, not to</p>
+<p begin="00:24:45.059" end="00:24:48.419" style="s2">mention reasonable, not to</p>
+<p begin="00:24:46.320" end="00:24:51.840" style="s2">mention a lot, it&#39;s a very large amount,</p>
+<p begin="00:24:48.419" end="00:24:54.120" style="s2">it&#39;s every day of the aeronautical registration and it&#39;s</p>
+<p begin="00:24:51.840" end="00:24:56.880" style="s2">a work that Oops  judiciary can</p>
+<p begin="00:24:54.120" end="00:24:59.700" style="s2">make these constructions, right?</p>
+<p begin="00:24:56.880" end="00:25:02.000" style="s2"></p>
+<p begin="00:24:59.700" end="00:25:04.500" style="s2"></p>
+<p begin="00:25:02.000" end="00:25:07.940" style="s2"></p>
+<p begin="00:25:04.500" end="00:25:10.740" style="s2"></p>
+<p begin="00:25:07.940" end="00:25:13.039" style="s2"></p>
+<p begin="00:25:10.740" end="00:25:16.140" style="s2"></p>
+<p begin="00:25:13.039" end="00:25:17.360" style="s2"></p>
+<p begin="00:25:16.140" end="00:25:21.299" style="s2"></p>
+<p begin="00:25:17.360" end="00:25:24.419" style="s2">the accounts block values ​​etc and</p>
+<p begin="00:25:21.299" end="00:25:27.659" style="s2">so on and then this will be a delivery Wow</p>
+<p begin="00:25:24.419" end="00:25:30.600" style="s2">and a goal of plaques gentlemen I put</p>
+<p begin="00:25:27.659" end="00:25:33.539" style="s2">two green checks right consultation</p>
+<p begin="00:25:30.600" end="00:25:36.480" style="s2">of the rabbi&#39;s database and extraction of certificates</p>
+<p begin="00:25:33.539" end="00:25:39.779" style="s2">we already delivered last week to the</p>
+<p begin="00:25:36.480" end="00:25:43.380" style="s2">CNJ it&#39;s still not missing  there&#39;s our</p>
+<p begin="00:25:39.779" end="00:25:48.240" style="s2">part, which is the api&#39;s part, and there&#39;s their part,</p>
+<p begin="00:25:43.380" end="00:25:50.760" style="s2">right, that makes this front-end for the</p>
+<p begin="00:25:48.240" end="00:25:53.940" style="s2">judge, the power of fact, right, the court clerk, the</p>
+<p begin="00:25:50.760" end="00:25:56.820" style="s2">power of fat  going there and doing</p>
+<p begin="00:25:53.940" end="00:25:59.039" style="s2">your didactic-based research, the</p>
+<p begin="00:25:56.820" end="00:26:01.340" style="s2">consultations with the Habib database, gentlemen, was</p>
+<p begin="00:25:59.039" end="00:26:04.500" style="s2">a very cool development of the api there, I</p>
+<p begin="00:26:01.340" end="00:26:07.440" style="s2">have to thank Crispim, he</p>
+<p begin="00:26:04.500" end="00:26:10.500" style="s2">&#39;s on my side there in the development of</p>
+<p begin="00:26:07.440" end="00:26:14.039" style="s2">ANAC Jude, right, the office that did all the</p>
+<p begin="00:26:10.500" end="00:26:15.840" style="s2">point interface to arrive and show</p>
+<p begin="00:26:14.039" end="00:26:17.520" style="s2">what we had to do, right</p>
+<p begin="00:26:15.840" end="00:26:20.640" style="s2">What we had to offer And</p>
+<p begin="00:26:17.520" end="00:26:22.620" style="s2">with that, relieve me a little bit of the</p>
+<p begin="00:26:20.640" end="00:26:24.539" style="s2">burden of service of the registry that is not easy,</p>
+<p begin="00:26:22.620" end="00:26:27.000" style="s2">ok</p>
+<p begin="00:26:24.539" end="00:26:28.980" style="s2">And then the consultation to the judiciary</p>
+<p begin="00:26:27.000" end="00:26:32.340" style="s2">gentlemen, it is more specialized because</p>
+<p begin="00:26:28.980" end="00:26:33.840" style="s2">the judiciary does not come to search and</p>
+<p begin="00:26:32.340" end="00:26:35.880" style="s2">sometimes comes but not often to</p>
+<p begin="00:26:33.840" end="00:26:38.039" style="s2">search for aircraft he wants to search for the</p>
+<p begin="00:26:35.880" end="00:26:40.559" style="s2">assets of a particular</p>
+<p begin="00:26:38.039" end="00:26:43.620" style="s2">legal person so the search for them has</p>
+<p begin="00:26:40.559" end="00:26:46.679" style="s2">to be by CPF CNPJ ok And at the same time</p>
+<p begin="00:26:43.620" end="00:26:49.440" style="s2">extract the  certificate search Luciana&#39;s CPF button</p>
+<p begin="00:26:46.679" end="00:26:51.779" style="s2">there Oops she has an aircraft now</p>
+<p begin="00:26:49.440" end="00:26:53.520" style="s2">that I&#39;m going to take it understand I want to pull</p>
+<p begin="00:26:51.779" end="00:26:55.520" style="s2">the certificate to see since when she</p>
+<p begin="00:26:53.520" end="00:26:58.559" style="s2">has been the owner And then he already</p>
+<p begin="00:26:55.520" end="00:27:01.620" style="s2">downloads this certificate what&#39;s up  in little black</p>
+<p begin="00:26:58.559" end="00:27:03.779" style="s2">that we are still going to start,</p>
+<p begin="00:27:01.620" end="00:27:07.140" style="s2">this work is going to be crap, okay, gentlemen, imagine</p>
+<p begin="00:27:03.779" end="00:27:09.419" style="s2">in 95 years a database, right, with</p>
+<p begin="00:27:07.140" end="00:27:12.240" style="s2">judicial constructions recording each one</p>
+<p begin="00:27:09.419" end="00:27:15.080" style="s2">in a way that we format it, but</p>
+<p begin="00:27:12.240" end="00:27:17.940" style="s2">we accepted the challenge, we signed the</p>
+<p begin="00:27:15.080" end="00:27:21.059" style="s2">cooperation agreement and we are going to do it  We&#39;re going to</p>
+<p begin="00:27:17.940" end="00:27:23.400" style="s2">deliver, right. These constructions and</p>
+<p begin="00:27:21.059" end="00:27:27.140" style="s2">releases will be done directly, right</p>
+<p begin="00:27:23.400" end="00:27:29.520" style="s2">at the times and servants in the</p>
+<p begin="00:27:27.140" end="00:27:31.700" style="s2">eventual servants And then I put</p>
+<p begin="00:27:29.520" end="00:27:34.559" style="s2">an attention in red</p>
+<p begin="00:27:31.700" end="00:27:37.380" style="s2">attention issues involving</p>
+<p begin="00:27:34.559" end="00:27:39.960" style="s2">aircraft operation aircraft operation</p>
+<p begin="00:27:37.380" end="00:27:43.500" style="s2">gentlemen is more sensitive, right, restricting the</p>
+<p begin="00:27:39.960" end="00:27:45.779" style="s2">flight so they will have the  guidance on</p>
+<p begin="00:27:43.500" end="00:27:48.179" style="s2">what is property of what is operation Look,</p>
+<p begin="00:27:45.779" end="00:27:50.120" style="s2">this guy is an owner but he is not an</p>
+<p begin="00:27:48.179" end="00:27:54.059" style="s2">operator and</p>
+<p begin="00:27:50.120" end="00:27:57.179" style="s2">orders that directly impact the flight,</p>
+<p begin="00:27:54.059" end="00:27:58.740" style="s2">right, flight restriction, airworthiness certificate suspension,</p>
+<p begin="00:27:57.179" end="00:28:01.500" style="s2"></p>
+<p begin="00:27:58.740" end="00:28:05.299" style="s2">a pop-up will open and we will intervene,</p>
+<p begin="00:28:01.500" end="00:28:07.919" style="s2">then questions  ANAC ANAC Deals with matters</p>
+<p begin="00:28:05.299" end="00:28:10.380" style="s2">exclusively for the Judiciary, right, anyway,</p>
+<p begin="00:28:07.919" end="00:28:12.419" style="s2">construction on top of the good or release</p>
+<p begin="00:28:10.380" end="00:28:14.760" style="s2">on top of it  the judiciary deals</p>
+<p begin="00:28:12.419" end="00:28:16.679" style="s2">directly with matters that</p>
+<p begin="00:28:14.760" end="00:28:18.539" style="s2">involve aircraft operation, we</p>
+<p begin="00:28:16.679" end="00:28:20.580" style="s2">will be careful.</p>
+<p begin="00:28:18.539" end="00:28:23.220" style="s2"></p>
+<p begin="00:28:20.580" end="00:28:26.220" style="s2"></p>
+<p begin="00:28:23.220" end="00:28:29.340" style="s2">there will be</p>
+<p begin="00:28:26.220" end="00:28:31.919" style="s2">knowledge and control of that, so it&#39;s ok not</p>
+<p begin="00:28:29.340" end="00:28:34.440" style="s2">that we don&#39;t have the releases and</p>
+<p begin="00:28:31.919" end="00:28:36.299" style="s2">Constructions of goods But this does not</p>
+<p begin="00:28:34.440" end="00:28:39.179" style="s2">impact the operation of the aircraft so the</p>
+<p begin="00:28:36.299" end="00:28:41.580" style="s2">Rabi always pays close attention to all</p>
+<p begin="00:28:39.179" end="00:28:44.059" style="s2">the records in all the actions he</p>
+<p begin="00:28:41.580" end="00:28:48.120" style="s2">takes in the matter of operation  of aircraft</p>
+<p begin="00:28:44.059" end="00:28:49.760" style="s2">and I tell you, right, the Rabi doesn&#39;t put a</p>
+<p begin="00:28:48.120" end="00:28:53.460" style="s2">plane on the ground,</p>
+<p begin="00:28:49.760" end="00:28:56.220" style="s2">you don&#39;t put a plane on the ground.</p>
+<p begin="00:28:53.460" end="00:28:58.260" style="s2"></p>
+<p begin="00:28:56.220" end="00:29:00.600" style="s2"></p>
+<p begin="00:28:58.260" end="00:29:03.960" style="s2"></p>
+<p begin="00:29:00.600" end="00:29:06.299" style="s2"></p>
+<p begin="00:29:03.960" end="00:29:07.980" style="s2"></p>
+<p begin="00:29:06.299" end="00:29:10.140" style="s2">I could do another touch of this</p>
+<p begin="00:29:07.980" end="00:29:12.840" style="s2">just to explain ok</p>
+<p begin="00:29:10.140" end="00:29:15.059" style="s2">gentlemen we have new ideas new</p>
+<p begin="00:29:12.840" end="00:29:18.000" style="s2">projects I&#39;m going to enjoy that I&#39;m</p>
+<p begin="00:29:15.059" end="00:29:20.580" style="s2">here and I&#39;m going to ask for votes vote for our</p>
+<p begin="00:29:18.000" end="00:29:23.460" style="s2">idea  this transversal idea is not just for the</p>
+<p begin="00:29:20.580" end="00:29:25.980" style="s2">rabbi, you change everyone on the straight line. What do</p>
+<p begin="00:29:23.460" end="00:29:29.340" style="s2">we want, right?</p>
+<p begin="00:29:25.980" end="00:29:32.760" style="s2"></p>
+<p begin="00:29:29.340" end="00:29:35.940" style="s2"></p>
+<p begin="00:29:32.760" end="00:29:39.059" style="s2"></p>
+<p begin="00:29:35.940" end="00:29:43.020" style="s2">for</p>
+<p begin="00:29:39.059" end="00:29:45.299" style="s2">the aeronautical record, right for ANAC And</p>
+<p begin="00:29:43.020" end="00:29:48.179" style="s2">then we make this data available on</p>
+<p begin="00:29:45.299" end="00:29:51.120" style="s2">habi online, in addition to straight insurance, the</p>
+<p begin="00:29:48.179" end="00:29:54.600" style="s2">famous station license, right, to know</p>
+<p begin="00:29:51.120" end="00:29:56.760" style="s2">if it&#39;s in agreement or the equipment anyway,</p>
+<p begin="00:29:54.600" end="00:29:58.620" style="s2">this technical part, gentlemen, I can&#39;t go</p>
+<p begin="00:29:56.760" end="00:30:01.020" style="s2">down too much into detail, but  anyway,</p>
+<p begin="00:29:58.620" end="00:30:03.539" style="s2">you agree, you&#39;re happy with</p>
+<p begin="00:30:01.020" end="00:30:06.600" style="s2">the blue whiting, because the tail appeared online,</p>
+<p begin="00:30:03.539" end="00:30:09.000" style="s2">gentlemen, you already know that it is the second</p>
+<p begin="00:30:06.600" end="00:30:10.080" style="s2">largest access that the first largest</p>
+<p begin="00:30:09.000" end="00:30:13.380" style="s2">access, right,</p>
+<p begin="00:30:10.080" end="00:30:15.720" style="s2">on the page inside the agency where</p>
+<p begin="00:30:13.380" end="00:30:17.580" style="s2">everyone will see the real-time situation</p>
+<p begin="00:30:15.720" end="00:30:20.399" style="s2">of airworthiness of a  aircraft</p>
+<p begin="00:30:17.580" end="00:30:22.380" style="s2">she sees the real-time</p>
+<p begin="00:30:20.399" end="00:30:26.220" style="s2">airworthiness situation she sees the owner</p>
+<p begin="00:30:22.380" end="00:30:29.460" style="s2">the operator some technical data right see</p>
+<p begin="00:30:26.220" end="00:30:31.260" style="s2">if you can allow it with the safe flight right the</p>
+<p begin="00:30:29.460" end="00:30:33.600" style="s2">app  For the safe flight we made an</p>
+<p begin="00:30:31.260" end="00:30:35.159" style="s2">integration So if you can operate in an</p>
+<p begin="00:30:33.600" end="00:30:37.260" style="s2">air taxi, if you can&#39;t have the little red blue,</p>
+<p begin="00:30:35.159" end="00:30:40.380" style="s2">that was a great success,</p>
+<p begin="00:30:37.260" end="00:30:42.960" style="s2">right then The idea is to receive the</p>
+<p begin="00:30:40.380" end="00:30:45.799" style="s2">insurance data, little red has insurance Ok</p>
+<p begin="00:30:42.960" end="00:30:48.720" style="s2">red is not ok that&#39;s it  bringing</p>
+<p begin="00:30:45.799" end="00:30:50.880" style="s2">more security is more security for</p>
+<p begin="00:30:48.720" end="00:30:54.120" style="s2">everyone for those who walk correctly</p>
+<p begin="00:30:50.880" end="00:30:56.700" style="s2">who have their insurance, right for the</p>
+<p begin="00:30:54.120" end="00:30:59.580" style="s2">population in general that consults</p>
+<p begin="00:30:56.700" end="00:31:02.100" style="s2">everyone and in the same way the license It&#39;s</p>
+<p begin="00:30:59.580" end="00:31:04.140" style="s2">ok to receive data from Anatel It&#39;s ok</p>
+<p begin="00:31:02.100" end="00:31:07.740" style="s2">green is not ok  The person is red,</p>
+<p begin="00:31:04.140" end="00:31:09.360" style="s2">right, keep an eye out, oops, I didn&#39;t touch</p>
+<p begin="00:31:07.740" end="00:31:11.940" style="s2">that what&#39;s happening mentally, it</p>
+<p begin="00:31:09.360" end="00:31:16.559" style="s2">happens, right, and runs after and solves</p>
+<p begin="00:31:11.940" end="00:31:19.380" style="s2">So it&#39;s a very cool idea,</p>
+<p begin="00:31:16.559" end="00:31:23.039" style="s2">so that&#39;s why I&#39;m here, I ask for your</p>
+<p begin="00:31:19.380" end="00:31:26.120" style="s2">vote.</p>
+<p begin="00:31:23.039" end="00:31:29.399" style="s2">sto server has FF server in</p>
+<p begin="00:31:26.120" end="00:31:32.340" style="s2">this bank of ideas, right, it was</p>
+<p begin="00:31:29.399" end="00:31:33.960" style="s2">captained by the sfi people who came</p>
+<p begin="00:31:32.340" end="00:31:36.539" style="s2">to look for me and I said I was going to ask for</p>
+<p begin="00:31:33.960" end="00:31:39.299" style="s2">votes online here live and in color</p>
+<p begin="00:31:36.539" end="00:31:42.059" style="s2">because I&#39;m one of those, right Let&#39;s go  s there</p>
+<p begin="00:31:39.299" end="00:31:44.580" style="s2">international performance Gentlemen, the tail has</p>
+<p begin="00:31:42.059" end="00:31:46.940" style="s2">international operations the tail is the</p>
+<p begin="00:31:44.580" end="00:31:50.899" style="s2">entry point for the international registration</p>
+<p begin="00:31:46.940" end="00:31:53.399" style="s2">the rabbis serves as a means of</p>
+<p begin="00:31:50.899" end="00:31:55.860" style="s2">interlocutor with the convention that was</p>
+<p begin="00:31:53.399" end="00:31:58.080" style="s2">internalized in what comes 10 years after the</p>
+<p begin="00:31:55.860" end="00:32:02.159" style="s2">internalization of the convention of the city of</p>
+<p begin="00:31:58.080" end="00:32:04.860" style="s2">corporal what is it I can say that right</p>
+<p begin="00:32:02.159" end="00:32:06.779" style="s2">today it is the international treaty of</p>
+<p begin="00:32:04.860" end="00:32:09.960" style="s2">private law I think it is the most</p>
+<p begin="00:32:06.779" end="00:32:12.000" style="s2">important in the world ok how about</p>
+<p begin="00:32:09.960" end="00:32:14.640" style="s2">you don&#39;t have it is not just about aviation</p>
+<p begin="00:32:12.000" end="00:32:16.679" style="s2">keep Town is a bigger treaty</p>
+<p begin="00:32:14.640" end="00:32:19.440" style="s2">an umbrella that  there are several protocols</p>
+<p begin="00:32:16.679" end="00:32:22.799" style="s2">one protocol is the aeronautical one that</p>
+<p begin="00:32:19.440" end="00:32:25.740" style="s2">Brazil is internationalized in 2013, right And</p>
+<p begin="00:32:22.799" end="00:32:28.620" style="s2">that put the Rabi right there as</p>
+<p begin="00:32:25.740" end="00:32:31.679" style="s2">an entry point In addition, the person</p>
+<p begin="00:32:28.620" end="00:32:33.500" style="s2">who speaks to you, right, participates as a member of</p>
+<p begin="00:32:31.679" end="00:32:35.580" style="s2">the expert committee of the</p>
+<p begin="00:32:33.500" end="00:32:39.840" style="s2">supervisory authority of the international registration</p>
+<p begin="00:32:35.580" end="00:32:41.460" style="s2">César What do we do Oops when the</p>
+<p begin="00:32:39.840" end="00:32:45.120" style="s2">international registry wants to change a</p>
+<p begin="00:32:41.460" end="00:32:49.020" style="s2">rule we experts aren&#39;t we called</p>
+<p begin="00:32:45.120" end="00:32:51.779" style="s2">by the baker to give an opinion Ok it&#39;s cool You</p>
+<p begin="00:32:49.020" end="00:32:54.000" style="s2">can do it authorizes  Ireland, the</p>
+<p begin="00:32:51.779" end="00:32:56.700" style="s2">international registration is in Ireland, ok, it&#39;s a</p>
+<p begin="00:32:54.000" end="00:32:59.700" style="s2">private entity, finally making the</p>
+<p begin="00:32:56.700" end="00:33:03.480" style="s2">adaptation that&#39;s it, and Brazil, sir, they</p>
+<p begin="00:32:59.700" end="00:33:06.120" style="s2">&#39;re one of the 15 we have more than 52 countries</p>
+<p begin="00:33:03.480" end="00:33:09.240" style="s2">that adhered to the Cape Town convention,</p>
+<p begin="00:33:06.120" end="00:33:12.980" style="s2">but the expert commission is  the 15</p>
+<p begin="00:33:09.240" end="00:33:16.380" style="s2">members of the Aeronautical Authorities,</p>
+<p begin="00:33:12.980" end="00:33:19.140" style="s2">anyway, who are appointed, it is a</p>
+<p begin="00:33:16.380" end="00:33:21.899" style="s2">three-year appointment and they work there, so</p>
+<p begin="00:33:19.140" end="00:33:24.899" style="s2">it&#39;s not all countries So they are</p>
+<p begin="00:33:21.899" end="00:33:27.539" style="s2">selected</p>
+<p begin="00:33:24.899" end="00:33:30.419" style="s2"></p>
+<p begin="00:33:27.539" end="00:33:32.940" style="s2">in the SESC commission and</p>
+<p begin="00:33:30.419" end="00:33:35.399" style="s2">I brought here in laranjinha whoever wants to</p>
+<p begin="00:33:32.940" end="00:33:39.240" style="s2">write this time I&#39;m here asking for a</p>
+<p begin="00:33:35.399" end="00:33:42.539" style="s2">vote here asking for a paper we launched the</p>
+<p begin="00:33:39.240" end="00:33:46.440" style="s2">public notice right next year will be the year</p>
+<p begin="00:33:42.539" end="00:33:48.779" style="s2">of da Sara the year of the tail year of Capital</p>
+<p begin="00:33:46.440" end="00:33:51.240" style="s2">10 years in internationalization  we are going</p>
+<p begin="00:33:48.779" end="00:33:54.659" style="s2">to hold an event and I hope it will be a</p>
+<p begin="00:33:51.240" end="00:33:57.860" style="s2">very cool event because we</p>
+<p begin="00:33:54.659" end="00:34:01.799" style="s2">have good ideas to</p>
+<p begin="00:33:57.860" end="00:34:05.059" style="s2">bring it closer together, right?</p>
+<p begin="00:34:01.799" end="00:34:07.980" style="s2"></p>
+<p begin="00:34:05.059" end="00:34:10.379" style="s2"></p>
+<p begin="00:34:07.980" end="00:34:13.020" style="s2">ademia, right, when you say academy, it&#39;s</p>
+<p begin="00:34:10.379" end="00:34:15.720" style="s2">the colleges, right and we publicize</p>
+<p begin="00:34:13.020" end="00:34:18.419" style="s2">because aeronautical law is a</p>
+<p begin="00:34:15.720" end="00:34:21.659" style="s2">very small niche that&#39;s what this publication is,</p>
+<p begin="00:34:18.419" end="00:34:24.119" style="s2">this public notice of ours, I&#39;ll go straight to the point,</p>
+<p begin="00:34:21.659" end="00:34:26.639" style="s2">right we&#39;re making a</p>
+<p begin="00:34:24.119" end="00:34:29.879" style="s2">public call for articles on capital So</p>
+<p begin="00:34:26.639" end="00:34:33.080" style="s2">whoever wants to  please take</p>
+<p begin="00:34:29.879" end="00:34:36.480" style="s2">a look at public notice number 24,</p>
+<p begin="00:34:33.080" end="00:34:39.480" style="s2">we are super nice, right, we</p>
+<p begin="00:34:36.480" end="00:34:42.260" style="s2">just have to adhere to the theme, use the</p>
+<p begin="00:34:39.480" end="00:34:45.240" style="s2">cultured norm of language and you participate in</p>
+<p begin="00:34:42.260" end="00:34:47.639" style="s2">our compendium that, if God willing,</p>
+<p begin="00:34:45.240" end="00:34:49.919" style="s2">we can get a book signed</p>
+<p begin="00:34:47.639" end="00:34:52.919" style="s2">gentlemen, about the ten years</p>
+<p begin="00:34:49.919" end="00:34:57.359" style="s2">of capital internalization in the country, we</p>
+<p begin="00:34:52.919" end="00:34:59.520" style="s2">have impacts, right, it&#39;s very positive, I</p>
+<p begin="00:34:57.359" end="00:35:01.500" style="s2">&#39;m sure there will be</p>
+<p begin="00:34:59.520" end="00:35:03.540" style="s2">very positive impacts, not only with the</p>
+<p begin="00:35:01.500" end="00:35:07.380" style="s2">launch of the compendium, but with the event, it&#39;s</p>
+<p begin="00:35:03.540" end="00:35:10.800" style="s2">going to be a very nice opportunity,</p>
+<p begin="00:35:07.380" end="00:35:14.339" style="s2">right for us  show the importance</p>
+<p begin="00:35:10.800" end="00:35:17.579" style="s2">of legal certainty in the</p>
+<p begin="00:35:14.339" end="00:35:19.800" style="s2">aviation market that capital is nothing more is to provide</p>
+<p begin="00:35:17.579" end="00:35:23.160" style="s2">legal certainty an</p>
+<p begin="00:35:19.800" end="00:35:25.200" style="s2">aviation market the international market</p>
+<p begin="00:35:23.160" end="00:35:27.900" style="s2">Finally, I have to talk</p>
+<p begin="00:35:25.200" end="00:35:29.880" style="s2">about query systems here I don&#39;t even know how</p>
+<p begin="00:35:27.900" end="00:35:31.680" style="s2">long I&#39;ve been talking about</p>
+<p begin="00:35:29.880" end="00:35:34.020" style="s2">query systems available that we already have</p>
+<p begin="00:35:31.680" end="00:35:36.000" style="s2">the fleet database it is</p>
+<p begin="00:35:34.020" end="00:35:38.880" style="s2">available in Excel for you to</p>
+<p begin="00:35:36.000" end="00:35:41.460" style="s2">download and be able to  consult finally being able to</p>
+<p begin="00:35:38.880" end="00:35:43.740" style="s2">make your filters and Studies this is already</p>
+<p begin="00:35:41.460" end="00:35:45.900" style="s2">open to the public is</p>
+<p begin="00:35:43.740" end="00:35:47.940" style="s2">the rabbi&#39;s online consultation system I already said I</p>
+<p begin="00:35:45.900" end="00:35:50.579" style="s2">don&#39;t need to emphasize the importance of the</p>
+<p begin="00:35:47.940" end="00:35:52.680" style="s2">value and the real time of the situation it was already</p>
+<p begin="00:35:50.579" end="00:35:55.579" style="s2">navigability that you see on the screen</p>
+<p begin="00:35:52.680" end="00:35:58.800" style="s2">everyone already knows and  for those who don&#39;t know, even</p>
+<p begin="00:35:55.579" end="00:36:01.140" style="s2">though we have the ANAC Jude,</p>
+<p begin="00:35:58.800" end="00:36:03.660" style="s2">the first step began, we</p>
+<p begin="00:36:01.140" end="00:36:06.720" style="s2">supplying a clearance certificate</p>
+<p begin="00:36:03.660" end="00:36:09.599" style="s2">of aircraft ownership, right.</p>
+<p begin="00:36:06.720" end="00:36:11.520" style="s2"></p>
+<p begin="00:36:09.599" end="00:36:14.220" style="s2"></p>
+<p begin="00:36:11.520" end="00:36:18.660" style="s2">a fundamental piece of being</p>
+<p begin="00:36:14.220" end="00:36:23.040" style="s2">able to have a service available this</p>
+<p begin="00:36:18.660" end="00:36:25.859" style="s2">service has been available since 2018 and</p>
+<p begin="00:36:23.040" end="00:36:27.420" style="s2">it has been open to the public, I just don&#39;t</p>
+<p begin="00:36:25.859" end="00:36:29.040" style="s2">think it was so publicized because a lot of</p>
+<p begin="00:36:27.420" end="00:36:32.280" style="s2">people don&#39;t know when  what I say, the</p>
+<p begin="00:36:29.040" end="00:36:34.859" style="s2">person says oh yeah, but there is,</p>
+<p begin="00:36:32.280" end="00:36:37.740" style="s2">anyway, gentlemen, I can&#39;t help but</p>
+<p begin="00:36:34.859" end="00:36:42.359" style="s2">talk about two emblematic terms, right</p>
+<p begin="00:36:37.740" end="00:36:45.660" style="s2">because we fight one in favor and the other</p>
+<p begin="00:36:42.359" end="00:36:47.940" style="s2">against what is bureaucracy, gentlemen, an</p>
+<p begin="00:36:45.660" end="00:36:51.000" style="s2">organized structure with rules and</p>
+<p begin="00:36:47.940" end="00:36:52.920" style="s2">procedures, okay?  what is bureaucratic is</p>
+<p begin="00:36:51.000" end="00:36:55.339" style="s2">an ineffective system, slow and</p>
+<p begin="00:36:52.920" end="00:36:58.800" style="s2">characterized by lack of concern,</p>
+<p begin="00:36:55.339" end="00:37:01.859" style="s2">slowness, everything bad that you can</p>
+<p begin="00:36:58.800" end="00:37:04.320" style="s2">imagine, right then, gentlemen, what the</p>
+<p begin="00:37:01.859" end="00:37:08.220" style="s2">record, right, in this digital transformation,</p>
+<p begin="00:37:04.320" end="00:37:10.920" style="s2">it struggles, right, it struggles to end the</p>
+<p begin="00:37:08.220" end="00:37:13.380" style="s2">bureaucratic aspects, right but not to</p>
+<p begin="00:37:10.920" end="00:37:16.380" style="s2">end  the procedures are not</p>
+<p begin="00:37:13.380" end="00:37:17.820" style="s2">yayyyyyyyyyyy because at the end of the day Gentlemen, what</p>
+<p begin="00:37:16.380" end="00:37:20.579" style="s2">matters to the Brazilian aeronautical registry</p>
+<p begin="00:37:17.820" end="00:37:23.700" style="s2">is to provide legal</p>
+<p begin="00:37:20.579" end="00:37:28.740" style="s2">certainty to the aviation market this photo is</p>
+<p begin="00:37:23.700" end="00:37:31.440" style="s2">beautiful right there of the Boeing 777 right in the factory</p>
+<p begin="00:37:28.740" end="00:37:33.060" style="s2">garbage factory building for</p>
+<p begin="00:37:31.440" end="00:37:35.400" style="s2">what I need  legal certainty</p>
+<p begin="00:37:33.060" end="00:37:38.160" style="s2">gentlemen Because without legal certainty</p>
+<p begin="00:37:35.400" end="00:37:41.820" style="s2">I have a shortage of</p>
+<p begin="00:37:38.160" end="00:37:43.980" style="s2">aircraft financing and then as I like to say and</p>
+<p begin="00:37:41.820" end="00:37:45.320" style="s2">everything is a big  orchestra, right for me to</p>
+<p begin="00:37:43.980" end="00:37:48.240" style="s2">talk about</p>
+<p begin="00:37:45.320" end="00:37:50.160" style="s2">aircraft having a flight to have legal certainty,</p>
+<p begin="00:37:48.240" end="00:37:52.619" style="s2">but I have to have funding there</p>
+<p begin="00:37:50.160" end="00:37:54.780" style="s2">at the base, so the role of the aeronautical registry,</p>
+<p begin="00:37:52.619" end="00:37:57.300" style="s2">right with all this</p>
+<p begin="00:37:54.780" end="00:38:00.540" style="s2">digital transformation that happens, is to</p>
+<p begin="00:37:57.300" end="00:38:03.839" style="s2">end, right, with the slowness with</p>
+<p begin="00:38:00.540" end="00:38:05.460" style="s2">ineffective aspects of the system but guarantee and</p>
+<p begin="00:38:03.839" end="00:38:07.260" style="s2">continue to guarantee that we already</p>
+<p begin="00:38:05.460" end="00:38:09.780" style="s2">guarantee and continue guaranteeing more and</p>
+<p begin="00:38:07.260" end="00:38:11.820" style="s2">more legal certainty gentlemen I</p>
+<p begin="00:38:09.780" end="00:38:13.380" style="s2">thank you for this time I don&#39;t know if I&#39;ve already</p>
+<p begin="00:38:11.820" end="00:38:16.200" style="s2">studied I think I&#39;m already blown away,</p>
+<p begin="00:38:13.380" end="00:38:18.780" style="s2">right I should have said less I&#39;m going to</p>
+<p begin="00:38:16.200" end="00:38:20.960" style="s2">end this presentation here and I&#39;m going to</p>
+<p begin="00:38:18.780" end="00:38:22.859" style="s2">pass it on to Júlio now and to Samir</p>
+<p begin="00:38:20.960" end="00:38:24.780" style="s2">Samir said he was going to talk in five</p>
+<p begin="00:38:22.859" end="00:38:27.140" style="s2">minutes, that&#39;s why I relaxed here</p>
+<p begin="00:38:24.780" end="00:38:27.140" style="s2">I said more about</p>
+<p begin="00:38:27.560" end="00:38:30.859" style="s2">mine too</p>
+<p begin="00:38:32.160" end="00:38:35.240" style="s2">Embraer right Luciano</p>
+<p begin="00:38:38.480" end="00:38:43.820" style="s2">that was it was in honor of Brazil at</p>
+<p begin="00:38:41.700" end="00:38:43.820" style="s2">least</p>
+<p begin="00:38:51.260" end="00:38:55.380" style="s2">you show it and you say what you</p>
+<p begin="00:38:53.700" end="00:38:58.440" style="s2">think  better I don&#39;t know because I don&#39;t know</p>
+<p begin="00:38:55.380" end="00:39:01.200" style="s2">how you&#39;re going to do it for you Are you</p>
+<p begin="00:38:58.440" end="00:39:03.440" style="s2">accessing the system developed by the</p>
+<p begin="00:39:01.200" end="00:39:03.440" style="s2">factory</p>
+<p begin="00:39:09.660" end="00:39:12.920" style="s2">you can see it well</p>
+<p begin="00:39:15.000" end="00:39:17.720" style="s2">This</p>
+<p begin="00:39:18.540" end="00:39:23.359" style="s2">is What matters  I</p>
+<p begin="00:39:22.079" end="00:39:25.920" style="s2">&#39;m already seeing your screen,</p>
+<p begin="00:39:23.359" end="00:39:28.020" style="s2">what&#39;s important to mention is that the</p>
+<p begin="00:39:25.920" end="00:39:30.119" style="s2">Initial development started</p>
+<p begin="00:39:28.020" end="00:39:33.320" style="s2">when we started at the</p>
+<p begin="00:39:30.119" end="00:39:36.260" style="s2">factory, right?</p>
+<p begin="00:39:33.320" end="00:39:39.780" style="s2"></p>
+<p begin="00:39:36.260" end="00:39:42.480" style="s2"></p>
+<p begin="00:39:39.780" end="00:39:45.359" style="s2">even because of the transition,</p>
+<p begin="00:39:42.480" end="00:39:47.820" style="s2">right, there was an interruption, the end of the</p>
+<p begin="00:39:45.359" end="00:39:49.920" style="s2">contract and in the bidding process, when they</p>
+<p begin="00:39:47.820" end="00:39:53.640" style="s2">returned, they also did not return with</p>
+<p begin="00:39:49.920" end="00:39:55.339" style="s2">full load, and because of that, the IT itself,</p>
+<p begin="00:39:53.640" end="00:39:59.000" style="s2">in fact,</p>
+<p begin="00:39:55.339" end="00:40:01.980" style="s2">according to the superintendent, even the directors</p>
+<p begin="00:39:59.000" end="00:40:04.619" style="s2">sought an alternative for us to be able to</p>
+<p begin="00:40:01.980" end="00:40:07.140" style="s2">develop and went to seek precisely the</p>
+<p begin="00:40:04.619" end="00:40:09.680" style="s2">ministry of  economy and with teams that</p>
+<p begin="00:40:07.140" end="00:40:12.900" style="s2">the Saber team was set up,</p>
+<p begin="00:40:09.680" end="00:40:15.260" style="s2">this part will also show here</p>
+<p begin="00:40:12.900" end="00:40:18.060" style="s2">now in the</p>
+<p begin="00:40:15.260" end="00:40:20.880" style="s2">are what people have already developed</p>
+<p begin="00:40:18.060" end="00:40:22.800" style="s2">in the other sign of the other system they</p>
+<p begin="00:40:20.880" end="00:40:25.500" style="s2">are developing the certificate that will</p>
+<p begin="00:40:22.800" end="00:40:27.000" style="s2">be incorporated later Here is also a</p>
+<p begin="00:40:25.500" end="00:40:29.160" style="s2">single system  Nowadays we have</p>
+<p begin="00:40:27.000" end="00:40:31.920" style="s2">two entry doors</p>
+<p begin="00:40:29.160" end="00:40:33.020" style="s2">and what makes us make a</p>
+<p begin="00:40:31.920" end="00:40:35.820" style="s2">small</p>
+<p begin="00:40:33.020" end="00:40:38.099" style="s2">adjustment  in our on the quick page to be</p>
+<p begin="00:40:35.820" end="00:40:41.180" style="s2">able to correctly identify the</p>
+<p begin="00:40:38.099" end="00:40:43.619" style="s2">need for the service so</p>
+<p begin="00:40:41.180" end="00:40:45.060" style="s2">self-service services, right now,</p>
+<p begin="00:40:43.619" end="00:40:48.140" style="s2">we have two</p>
+<p begin="00:40:45.060" end="00:40:48.140" style="s2">high-service customer services,</p>
+<p begin="00:40:50.060" end="00:40:54.980" style="s2">let&#39;s run one here in the</p>
+<p begin="00:40:52.560" end="00:40:54.980" style="s2">development, right?</p>
+<p begin="00:40:56.240" end="00:41:00.800" style="s2"></p>
+<p begin="00:41:02.880" end="00:41:06.800" style="s2"></p>
+<p begin="00:41:04.440" end="00:41:06.800" style="s2">International registration, it</p>
+<p begin="00:41:07.320" end="00:41:11.660" style="s2">is also important to mention that</p>
+<p begin="00:41:10.079" end="00:41:14.339" style="s2">we made</p>
+<p begin="00:41:11.660" end="00:41:17.400" style="s2">some improvements to the system, for example</p>
+<p begin="00:41:14.339" end="00:41:20.000" style="s2">the direct search, in fact,</p>
+<p begin="00:41:17.400" end="00:41:24.300" style="s2">together with the Ministry of Economy, we carried out</p>
+<p begin="00:41:20.000" end="00:41:26.700" style="s2">a survey of Experience and that</p>
+<p begin="00:41:24.300" end="00:41:29.960" style="s2">resulted in a series of recommendations</p>
+<p begin="00:41:26.700" end="00:41:33.560" style="s2">that we in the few</p>
+<p begin="00:41:29.960" end="00:41:36.300" style="s2">Samira is in direct contact</p>
+<p begin="00:41:33.560" end="00:41:38.220" style="s2">so that we can just comment</p>
+<p begin="00:41:36.300" end="00:41:39.599" style="s2">on these films that may be of interest</p>
+<p begin="00:41:38.220" end="00:41:41.460" style="s2">to people from other areas here at</p>
+<p begin="00:41:39.599" end="00:41:42.480" style="s2">ANAC.</p>
+<p begin="00:41:41.460" end="00:41:44.400" style="s2"></p>
+<p begin="00:41:42.480" end="00:41:46.520" style="s2"></p>
+<p begin="00:41:44.400" end="00:41:48.540" style="s2">very good</p>
+<p begin="00:41:46.520" end="00:41:49.619" style="s2">for other things that is not</p>
+<p begin="00:41:48.540" end="00:41:51.599" style="s2">necessarily what is being</p>
+<p begin="00:41:49.619" end="00:41:52.380" style="s2">developed saw Ach  what is this</p>
+<p begin="00:41:51.599" end="00:41:54.420" style="s2">comment worth for other areas sometimes</p>
+<p begin="00:41:52.380" end="00:41:56.660" style="s2">someone has a little system or has an</p>
+<p begin="00:41:54.420" end="00:41:56.660" style="s2">interface</p>
+<p begin="00:41:56.760" end="00:42:04.020" style="s2">for us to use this</p>
+<p begin="00:41:59.820" end="00:42:06.599" style="s2">evaluation team to improve another service</p>
+<p begin="00:42:04.020" end="00:42:10.220" style="s2">that is not necessarily here on the radio,</p>
+<p begin="00:42:06.599" end="00:42:10.220" style="s2">only an</p>
+<p begin="00:42:21.140" end="00:42:27.300" style="s2">attorney would put the data of the</p>
+<p begin="00:42:24.240" end="00:42:31.859" style="s2">issuer of the power of attorney  to know if the</p>
+<p begin="00:42:27.300" end="00:42:34.020" style="s2">issuer is one of the legal entities</p>
+<p begin="00:42:31.859" end="00:42:35.660" style="s2">involved with the aircraft, right operator of the</p>
+<p begin="00:42:34.020" end="00:42:39.720" style="s2">owner,</p>
+<p begin="00:42:35.660" end="00:42:43.640" style="s2">not being an operator, he can proceed to</p>
+<p begin="00:42:39.720" end="00:42:47.300" style="s2">do a mission of the code there</p>
+<p begin="00:42:43.640" end="00:42:47.300" style="s2">prefix of the aircraft</p>
+<p begin="00:42:47.640" end="00:42:52.380" style="s2">it will fetch the aircraft data the</p>
+<p begin="00:42:50.880" end="00:42:55.560" style="s2">base</p>
+<p begin="00:42:52.380" end="00:42:57.240" style="s2">the aircraft data then you have to  make</p>
+<p begin="00:42:55.560" end="00:42:59.160" style="s2">a certain verification the time criterion</p>
+<p begin="00:42:57.240" end="00:43:02.599" style="s2">of verifications aircraft this one Did</p>
+<p begin="00:42:59.160" end="00:43:06.000" style="s2">it come out anything is impossible request</p>
+<p begin="00:43:02.599" end="00:43:08.339" style="s2">the international registration is nothing more</p>
+<p begin="00:43:06.000" end="00:43:11.760" style="s2">than seeking an</p>
+<p begin="00:43:08.339" end="00:43:14.520" style="s2">international financing right And some types of</p>
+<p begin="00:43:11.760" end="00:43:16.579" style="s2">aircraft is just that they are</p>
+<p begin="00:43:14.520" end="00:43:20.700" style="s2">accepted from an international point of view</p>
+<p begin="00:43:16.579" end="00:43:22.200" style="s2">so  the user here who is interested</p>
+<p begin="00:43:20.700" end="00:43:24.599" style="s2">he needs to answer some questions</p>
+<p begin="00:43:22.200" end="00:43:26.460" style="s2">to qualify as if he were  a pre-</p>
+<p begin="00:43:24.599" end="00:43:28.060" style="s2">qualification for him is no</p>
+<p begin="00:43:26.460" end="00:43:29.940" style="s2">problem when he tries to</p>
+<p begin="00:43:28.060" end="00:43:32.700" style="s2">[Music]</p>
+<p begin="00:43:29.940" end="00:43:36.599" style="s2">of his aircraft under warranty there and some</p>
+<p begin="00:43:32.700" end="00:43:39.720" style="s2">business in the urn so moving on then</p>
+<p begin="00:43:36.599" end="00:43:42.000" style="s2">he answers some questions</p>
+<p begin="00:43:39.720" end="00:43:44.640" style="s2">ok France</p>
+<p begin="00:43:42.000" end="00:43:48.619" style="s2">here comes the aircraft</p>
+<p begin="00:43:44.640" end="00:43:48.619" style="s2">has to Insert the documentation</p>
+<p begin="00:43:52.560" end="00:43:56.599" style="s2">and here it generated  a certificate</p>
+<p begin="00:43:57.319" end="00:44:03.000" style="s2">just a comment here there is already a stage</p>
+<p begin="00:44:00.300" end="00:44:04.500" style="s2">of evaluation of the services with the</p>
+<p begin="00:44:03.000" end="00:44:07.440" style="s2">ministry of economy it is all well</p>
+<p begin="00:44:04.500" end="00:44:10.160" style="s2">done and here in the certificate that</p>
+<p begin="00:44:07.440" end="00:44:10.160" style="s2">we turned out very beautiful it</p>
+<p begin="00:44:11.960" end="00:44:16.940" style="s2">was also cute so I didn&#39;t really like</p>
+<p begin="00:44:14.880" end="00:44:16.940" style="s2"></p>
+<p begin="00:44:18.079" end="00:44:21.500" style="s2">all the models</p>
+<p begin="00:44:25.160" end="00:44:28.319" style="s2">I&#39;ll show it to the</p>
+<p begin="00:44:26.700" end="00:44:30.480" style="s2">authentication staff because just</p>
+<p begin="00:44:28.319" end="00:44:33.660" style="s2">understand how the model is working here in the city</p>
+<p begin="00:44:30.480" end="00:44:36.140" style="s2">if you want to issue it here I&#39;ll get it I&#39;m already</p>
+<p begin="00:44:33.660" end="00:44:36.140" style="s2"></p>
+<p begin="00:44:42.440" end="00:44:47.880" style="s2">thirsty you created it later right You don&#39;t need it</p>
+<p begin="00:44:45.060" end="00:44:50.040" style="s2">you got the aircraft prefix it&#39;s got the</p>
+<p begin="00:44:47.880" end="00:44:53.420" style="s2">authentication number look</p>
+<p begin="00:44:50.040" end="00:44:53.420" style="s2">Imagine that, you  got the prefix here,</p>
+<p begin="00:44:55.160" end="00:44:59.900" style="s2">I&#39;m saying to remove this process</p>
+<p begin="00:44:57.359" end="00:44:59.900" style="s2">from you,</p>
+<p begin="00:45:05.359" end="00:45:12.180" style="s2">it&#39;s ok, calm down, then</p>
+<p begin="00:45:09.440" end="00:45:13.339" style="s2">you can regain the certificate</p>
+<p begin="00:45:12.180" end="00:45:18.140" style="s2">in the original,</p>
+<p begin="00:45:13.339" end="00:45:18.140" style="s2">maybe L</p>
+<p begin="00:45:18.500" end="00:45:23.339" style="s2">uciana opportunity what I wanted people were</p>
+<p begin="00:45:20.940" end="00:45:25.460" style="s2">thinking that it was Caio and</p>
+<p begin="00:45:23.339" end="00:45:29.119" style="s2">he was able to remove it I can</p>
+<p begin="00:45:25.460" end="00:45:29.119" style="s2">still not in a little while</p>
+<p begin="00:45:29.960" end="00:45:34.380" style="s2">the forecast is very fast he already has</p>
+<p begin="00:45:32.160" end="00:45:36.300" style="s2">all the structure in place I think we can do it very</p>
+<p begin="00:45:34.380" end="00:45:40.619" style="s2">quickly</p>
+<p begin="00:45:36.300" end="00:45:42.300" style="s2">Ok  so let&#39;s make a certificate of the</p>
+<p begin="00:45:40.619" end="00:45:45.440" style="s2">records so that you also already know how to do</p>
+<p begin="00:45:42.300" end="00:45:48.560" style="s2">the same thing Júlio guys</p>
+<p begin="00:45:45.440" end="00:45:48.560" style="s2">ok</p>
+<p begin="00:45:49.940" end="00:45:56.760" style="s2">the next Look I can make a</p>
+<p begin="00:45:53.599" end="00:45:58.099" style="s2">suggestion to some groups as the staff</p>
+<p begin="00:45:56.760" end="00:46:00.420" style="s2">commented before that the self-service</p>
+<p begin="00:45:58.099" end="00:46:05.099" style="s2">you have a part that checks the</p>
+<p begin="00:46:00.420" end="00:46:06.720" style="s2">authenticity of the record and  some a</p>
+<p begin="00:46:05.099" end="00:46:08.280" style="s2">large group of services that nowadays</p>
+<p begin="00:46:06.720" end="00:46:11.339" style="s2">we actually provide an improvement of the</p>
+<p begin="00:46:08.280" end="00:46:13.640" style="s2">user experience exactly this would be</p>
+<p begin="00:46:11.339" end="00:46:13.640" style="s2">interesting</p>
+<p begin="00:46:15.920" end="00:46:20.760" style="s2">the problem is the following generates a</p>
+<p begin="00:46:18.839" end="00:46:23.760" style="s2">real right and then i will show here i</p>
+<p begin="00:46:20.760" end="00:46:27.800" style="s2">have it here also under development i</p>
+<p begin="00:46:23.760" end="00:46:27.800" style="s2">have a process  generated here, also not</p>
+<p begin="00:46:28.760" end="00:46:33.119" style="s2">having an idea of</p>
+<p begin="00:46:30.859" end="00:46:35.839" style="s2">what they are, how the documentation will look,</p>
+<p begin="00:46:33.119" end="00:46:35.839" style="s2">understand,</p>
+<p begin="00:46:36.599" end="00:46:41.240" style="s2">I&#39;ll pass the process number</p>
+<p begin="00:46:38.099" end="00:46:41.240" style="s2">then it will be</p>
+<p begin="00:46:43.810" end="00:46:47.199" style="s2">[Music]</p>
+<p begin="00:46:56.480" end="00:47:04.859" style="s2">will  put data on how it is a service of</p>
+<p begin="00:47:01.760" end="00:47:08.359" style="s2">alienation Who is the new owner</p>
+<p begin="00:47:04.859" end="00:47:08.359" style="s2">that is being added exactly</p>
+<p begin="00:47:28.380" end="00:47:30.980" style="s2">and</p>
+<p begin="00:47:31.859" end="00:47:37.740" style="s2">if this is the summary of the service</p>
+<p begin="00:47:34.079" end="00:47:39.619" style="s2">that is being done and here if Nick leaves</p>
+<p begin="00:47:37.740" end="00:47:44.280" style="s2">some documents to move on,</p>
+<p begin="00:47:39.619" end="00:47:46.680" style="s2">the following is important  it can be No</p>
+<p begin="00:47:44.280" end="00:47:48.319" style="s2">it doesn&#39;t need it is not important that it</p>
+<p begin="00:47:46.680" end="00:47:50.819" style="s2">shows that this documentation is</p>
+<p begin="00:47:48.319" end="00:47:52.700" style="s2">mandatory No in fact it is the</p>
+<p begin="00:47:50.819" end="00:47:55.079" style="s2">administrators who can</p>
+<p begin="00:47:52.700" end="00:47:57.900" style="s2">even insert more documents and</p>
+<p begin="00:47:55.079" end="00:47:59.640" style="s2">remove more documents The idea is that</p>
+<p begin="00:47:57.900" end="00:48:02.480" style="s2">for each type, for example, only</p>
+<p begin="00:47:59.640" end="00:48:05.520" style="s2">fiduciary</p>
+<p begin="00:48:02.480" end="00:48:08.280" style="s2">leasing Mercantile pot is available  we put a</p>
+<p begin="00:48:05.520" end="00:48:10.500" style="s2">different range of documents there and thank you and</p>
+<p begin="00:48:08.280" end="00:48:13.020" style="s2">also define thank you and all this will</p>
+<p begin="00:48:10.500" end="00:48:15.420" style="s2">be able to be managed by someone from the</p>
+<p begin="00:48:13.020" end="00:48:18.319" style="s2">same ass ok so the system offers</p>
+<p begin="00:48:15.420" end="00:48:20.940" style="s2">this flexibility also</p>
+<p begin="00:48:18.319" end="00:48:22.880" style="s2">just remember that this is a</p>
+<p begin="00:48:20.940" end="00:48:28.280" style="s2">structured form right the person is seeing look</p>
+<p begin="00:48:22.880" end="00:48:28.280" style="s2">add  x y z understood</p>
+<p begin="00:48:30.380" end="00:48:34.440" style="s2">one of the benefits when I managed to make</p>
+<p begin="00:48:32.819" end="00:48:36.960" style="s2">a different experience for the user</p>
+<p begin="00:48:34.440" end="00:48:38.579" style="s2">What are we doing to  Luciana</p>
+<p begin="00:48:36.960" end="00:48:40.160" style="s2">even commented just now, five had</p>
+<p begin="00:48:38.579" end="00:48:42.599" style="s2">50%</p>
+<p begin="00:48:40.160" end="00:48:46.020" style="s2">processed I don&#39;t know if this rate has</p>
+<p begin="00:48:42.599" end="00:48:49.760" style="s2">decreased but the expectation is that it has been</p>
+<p begin="00:48:46.020" end="00:48:49.760" style="s2">decreasing because it has already been more than 70%</p>
+<p begin="00:48:50.119" end="00:48:54.599" style="s2">The idea is the following, you take it here,</p>
+<p begin="00:48:52.319" end="00:48:56.460" style="s2">you have a list of the necessary documents</p>
+<p begin="00:48:54.599" end="00:48:58.740" style="s2"></p>
+<p begin="00:48:56.460" end="00:49:00.599" style="s2">only if the user is really crazy To not</p>
+<p begin="00:48:58.740" end="00:49:02.880" style="s2">start forgetting documents, right because</p>
+<p begin="00:49:00.599" end="00:49:05.579" style="s2">he has to put things other than that.</p>
+<p begin="00:49:02.880" end="00:49:07.020" style="s2"></p>
+<p begin="00:49:05.579" end="00:49:09.079" style="s2"></p>
+<p begin="00:49:07.020" end="00:49:12.480" style="s2"></p>
+<p begin="00:49:09.079" end="00:49:15.839" style="s2"></p>
+<p begin="00:49:12.480" end="00:49:18.480" style="s2">well-structured process, for</p>
+<p begin="00:49:15.839" end="00:49:21.359" style="s2">example, a dispatch will come a</p>
+<p begin="00:49:18.480" end="00:49:22.260" style="s2">dispatch from the do I wanted to show that</p>
+<p begin="00:49:21.359" end="00:49:25.409" style="s2">my screen here you saw</p>
+<p begin="00:49:22.260" end="00:49:25.409" style="s2">[Music]</p>
+<p begin="00:49:28.280" end="00:49:33.920" style="s2">is the screen of 6 already with</p>
+<p begin="00:49:33.960" end="00:49:40.640" style="s2">a process already preparing a process of</p>
+<p begin="00:49:36.920" end="00:49:40.640" style="s2">fiduciary alienation,</p>
+<p begin="00:49:46.740" end="00:49:52.079" style="s2">you see, this is the process that</p>
+<p begin="00:49:50.220" end="00:49:53.960" style="s2">we did it, I did it for a few days, it&#39;s also under</p>
+<p begin="00:49:52.079" end="00:49:56.819" style="s2"></p>
+<p begin="00:49:53.960" end="00:49:59.540" style="s2">development, right, but the documentation</p>
+<p begin="00:49:56.819" end="00:50:02.339" style="s2">was all placed, you know, you know,</p>
+<p begin="00:49:59.540" end="00:50:03.960" style="s2">fake documentation, right, but</p>
+<p begin="00:50:02.339" end="00:50:07.619" style="s2">anyway, here&#39;s the control, I don&#39;t</p>
+<p begin="00:50:03.960" end="00:50:10.619" style="s2">attach one  contract, right</p>
+<p begin="00:50:07.619" end="00:50:13.339" style="s2">, the encumbrance release instrument,</p>
+<p begin="00:50:10.619" end="00:50:16.560" style="s2">each one of them comes out exactly</p>
+<p begin="00:50:13.339" end="00:50:18.000" style="s2">with the label, which is important for the</p>
+<p begin="00:50:16.560" end="00:50:19.800" style="s2">analyst to already know what kind of</p>
+<p begin="00:50:18.000" end="00:50:21.900" style="s2">moment he has to consult, it&#39;s much</p>
+<p begin="00:50:19.800" end="00:50:25.099" style="s2">easier, his time will be well</p>
+<p begin="00:50:21.900" end="00:50:28.680" style="s2">structured, right, an individual person,</p>
+<p begin="00:50:25.099" end="00:50:32.640" style="s2">that&#39;s it  here it is possible even here I attach</p>
+<p begin="00:50:28.680" end="00:50:34.859" style="s2">a power of attorney and here the</p>
+<p begin="00:50:32.640" end="00:50:37.760" style="s2">order for now this</p>
+<p begin="00:50:34.859" end="00:50:43.200" style="s2">initial order is coming out like this in an</p>
+<p begin="00:50:37.760" end="00:50:45.319" style="s2">unstructured way our idea is that and in the</p>
+<p begin="00:50:43.200" end="00:50:45.319" style="s2">next</p>
+<p begin="00:50:46.520" end="00:50:52.670" style="s2">improvement</p>
+<p begin="00:50:48.619" end="00:50:54.200" style="s2">right we should we should get it</p>
+<p begin="00:50:52.670" end="00:50:58.380" style="s2">[Music]</p>
+<p begin="00:50:54.200" end="00:51:00.900" style="s2">that&#39;s it  half implemented, see Júlio, this</p>
+<p begin="00:50:58.380" end="00:51:03.180" style="s2">part is already well underway, you</p>
+<p begin="00:51:00.900" end="00:51:06.180" style="s2">haven&#39;t seen it yet, but I imagine</p>
+<p begin="00:51:03.180" end="00:51:08.220" style="s2">so, but just so I&#39;m just going to show that people</p>
+<p begin="00:51:06.180" end="00:51:10.500" style="s2">have an idea of</p>
+<p begin="00:51:08.220" end="00:51:12.780" style="s2">how they&#39;re going to have it, and how the</p>
+<p begin="00:51:10.500" end="00:51:14.640" style="s2">term is going to come here in  The truth is, for</p>
+<p begin="00:51:12.780" end="00:51:17.940" style="s2">example, first-degree mortgage So</p>
+<p begin="00:51:14.640" end="00:51:20.280" style="s2">the data is this data here that the</p>
+<p begin="00:51:17.940" end="00:51:22.079" style="s2">rapid digital will collect Some are</p>
+<p begin="00:51:20.280" end="00:51:26.700" style="s2">Data that he already has straight from the aircraft,</p>
+<p begin="00:51:22.079" end="00:51:28.740" style="s2">so he searches and assembles a minute u  a</p>
+<p begin="00:51:26.700" end="00:51:31.920" style="s2">pre-draft that goes to Analice for the</p>
+<p begin="00:51:28.740" end="00:51:33.839" style="s2">analyst, if there are no major</p>
+<p begin="00:51:31.920" end="00:51:36.800" style="s2">changes to be made, he can already</p>
+<p begin="00:51:33.839" end="00:51:36.800" style="s2">use the term mortgage itself,</p>
+<p begin="00:51:37.220" end="00:51:41.640" style="s2">there they are already fiduciary, there are</p>
+<p begin="00:51:40.140" end="00:51:45.200" style="s2">all of them.</p>
+<p begin="00:51:41.640" end="00:51:47.660" style="s2"></p>
+<p begin="00:51:45.200" end="00:51:50.280" style="s2"></p>
+<p begin="00:51:47.660" end="00:51:52.020" style="s2">dispatch of this type</p>
+<p begin="00:51:50.280" end="00:51:53.280" style="s2">nowadays Realistic he is forced to</p>
+<p begin="00:51:52.020" end="00:51:55.040" style="s2">make another dispatch because this</p>
+<p begin="00:51:53.280" end="00:51:58.440" style="s2">is not</p>
+<p begin="00:51:55.040" end="00:52:01.760" style="s2">the space that can be used in the book,</p>
+<p begin="00:51:58.440" end="00:52:01.760" style="s2">so people need to restructure</p>
+<p begin="00:52:02.000" end="00:52:08.940" style="s2">and well this is just for you to have an</p>
+<p begin="00:52:05.099" end="00:52:11.640" style="s2">idea of ​​how this will make it easier</p>
+<p begin="00:52:08.940" end="00:52:15.599" style="s2">for both sides it&#39;s interesting now</p>
+<p begin="00:52:11.640" end="00:52:17.720" style="s2">too I don&#39;t know if you let</p>
+<p begin="00:52:15.599" end="00:52:20.720" style="s2">me either I can show it here</p>
+<p begin="00:52:17.720" end="00:52:20.720" style="s2">so</p>
+<p begin="00:52:23.960" end="00:52:31.819" style="s2">just so I don&#39;t miss it</p>
+<p begin="00:52:28.280" end="00:52:31.819" style="s2">I&#39;ll ask</p>
+<p begin="00:52:33.380" end="00:52:40.740" style="s2">I&#39;m just afraid of getting very</p>
+<p begin="00:52:36.500" end="00:52:44.240" style="s2">tedious guys see Júlio it can be but it</p>
+<p begin="00:52:40.740" end="00:52:46.980" style="s2">just has to be fast right it</p>
+<p begin="00:52:44.240" end="00:52:48.380" style="s2">&#39;s important to show it to  the staff is</p>
+<p begin="00:52:46.980" end="00:52:52.940" style="s2">because</p>
+<p begin="00:52:48.380" end="00:52:52.940" style="s2">intern everyone has access</p>
+<p begin="00:52:56.540" end="00:53:02.900" style="s2">I believe Júlio that we can</p>
+<p begin="00:52:58.980" end="00:53:06.119" style="s2">take it off the air see ah I hope</p>
+<p begin="00:53:02.900" end="00:53:08.300" style="s2">so what they take the air off is to go through the</p>
+<p begin="00:53:06.119" end="00:53:10.319" style="s2">same</p>
+<p begin="00:53:08.300" end="00:53:14.059" style="s2">system we will already have s  service to be</p>
+<p begin="00:53:10.319" end="00:53:14.059" style="s2">implemented within the next month so</p>
+<p begin="00:53:15.079" end="00:53:21.119" style="s2">I made many examples here my screen</p>
+<p begin="00:53:18.660" end="00:53:24.200" style="s2">should be loaded</p>
+<p begin="00:53:21.119" end="00:53:28.339" style="s2">my screen didn&#39;t work</p>
+<p begin="00:53:24.200" end="00:53:28.339" style="s2">but we will see</p>
+<p begin="00:53:30.119" end="00:53:34.080" style="s2">a new system you will</p>
+<p begin="00:53:32.760" end="00:53:37.219" style="s2">force me to enter the period</p>
+<p begin="00:53:34.080" end="00:53:37.219" style="s2">[Music]</p>
+<p begin="00:53:40.760" end="00:53:45.480" style="s2">here all the</p>
+<p begin="00:53:43.579" end="00:53:47.940" style="s2">aircraft that are in  pending Okay,</p>
+<p begin="00:53:45.480" end="00:53:49.859" style="s2">maybe instead of getting a new one, we</p>
+<p begin="00:53:47.940" end="00:53:52.140" style="s2">can continue a pending request</p>
+<p begin="00:53:49.859" end="00:53:54.680" style="s2">because then I&#39;m not you should take</p>
+<p begin="00:53:52.140" end="00:53:54.680" style="s2">less time,</p>
+<p begin="00:53:55.140" end="00:53:58.040" style="s2">do the following,</p>
+<p begin="00:54:15.900" end="00:54:21.180" style="s2">there&#39;s a time of responsibility, right?</p>
+<p begin="00:54:18.619" end="00:54:23.119" style="s2"></p>
+<p begin="00:54:21.180" end="00:54:27.119" style="s2"></p>
+<p begin="00:54:23.119" end="00:54:27.119" style="s2"></p>
+<p begin="00:54:30.599" end="00:54:36.420" style="s2"></p>
+<p begin="00:54:33.079" end="00:54:39.420" style="s2">it&#39;s already concluded for you for the certificate</p>
+<p begin="00:54:36.420" end="00:54:41.460" style="s2">and I should be receiving it myself as a</p>
+<p begin="00:54:39.420" end="00:54:43.819" style="s2">user I should be receiving this</p>
+<p begin="00:54:41.460" end="00:54:43.819" style="s2">certificate</p>
+<p begin="00:54:44.520" end="00:54:47.960" style="s2">in two minutes</p>
+<p begin="00:55:10.819" end="00:55:14.880" style="s2">I&#39;m just going to take advantage of the time it&#39;s loading</p>
+<p begin="00:55:13.260" end="00:55:18.000" style="s2">there just to make it clear to people maybe</p>
+<p begin="00:55:14.880" end="00:55:19.740" style="s2">they will be confused Júlio is</p>
+<p begin="00:55:18.000" end="00:55:22.880" style="s2">showing a part that is not  it was made</p>
+<p begin="00:55:19.740" end="00:55:22.880" style="s2">by me by our team there</p>
+<p begin="00:55:23.119" end="00:55:28.280" style="s2">are two projects Both have the</p>
+<p begin="00:55:25.200" end="00:55:28.280" style="s2">same name this causes confusion</p>
+<p begin="00:55:29.420" end="00:55:33.720" style="s2">and then it was a project  that started before</p>
+<p begin="00:55:31.920" end="00:55:35.960" style="s2">I don&#39;t know how long it was I think 2018,</p>
+<p begin="00:55:33.720" end="00:55:35.960" style="s2">right,</p>
+<p begin="00:55:37.400" end="00:55:42.480" style="s2">ok, there</p>
+<p begin="00:55:39.260" end="00:55:43.800" style="s2">was a very long time to be</p>
+<p begin="00:55:42.480" end="00:55:45.780" style="s2">executed,</p>
+<p begin="00:55:43.800" end="00:55:48.500" style="s2">part of the form of the contract as it</p>
+<p begin="00:55:45.780" end="00:55:48.500" style="s2">was done by the</p>
+<p begin="00:55:49.500" end="00:55:53.460" style="s2">independent factory create find What is to</p>
+<p begin="00:55:51.240" end="00:55:55.559" style="s2">blame or not the point is as follows  this</p>
+<p begin="00:55:53.460" end="00:55:56.940" style="s2">year we started to develop</p>
+<p begin="00:55:55.559" end="00:55:58.640" style="s2">another version of digital radio that will</p>
+<p begin="00:55:56.940" end="00:56:01.079" style="s2">incorporate this service that are already there,</p>
+<p begin="00:55:58.640" end="00:56:05.220" style="s2">what you saw on the other</p>
+<p begin="00:56:01.079" end="00:56:06.720" style="s2">previous screen is what our team did was</p>
+<p begin="00:56:05.220" end="00:56:10.740" style="s2">a contract that came from the Ministry of the</p>
+<p begin="00:56:06.720" end="00:56:12.730" style="s2">economy with  load Júlio</p>
+<p begin="00:56:10.740" end="00:56:13.819" style="s2">I&#39;m waiting for him here</p>
+<p begin="00:56:12.730" end="00:56:16.319" style="s2">[Music] it</p>
+<p begin="00:56:13.819" end="00:56:20.359" style="s2">&#39;s a certificate I really</p>
+<p begin="00:56:16.319" end="00:56:23.160" style="s2">think I don&#39;t need to have it no</p>
+<p begin="00:56:20.359" end="00:56:25.920" style="s2">I just want to show I just want to show</p>
+<p begin="00:56:23.160" end="00:56:28.640" style="s2">something else that I&#39;m not anymore I&#39;m going to</p>
+<p begin="00:56:25.920" end="00:56:28.640" style="s2">show</p>
+<p begin="00:56:28.740" end="00:56:31.640" style="s2">the evolution</p>
+<p begin="00:56:35.040" end="00:56:39.200" style="s2">of the evolution of  requests for processes</p>
+<p begin="00:56:43.140" end="00:56:52.220" style="s2">here the evolution of the spirit of</p>
+<p begin="00:56:46.280" end="00:56:54.740" style="s2">certificate we had until May 2022 before the</p>
+<p begin="00:56:52.220" end="00:57:00.300" style="s2">server was made available to the public</p>
+<p begin="00:56:54.740" end="00:57:04.160" style="s2">it had an average of 50 60, which is</p>
+<p begin="00:57:00.300" end="00:57:07.319" style="s2">perhaps more than two requests per month</p>
+<p begin="00:57:04.160" end="00:57:08.880" style="s2">and ex  it exploded ok it exploded today</p>
+<p begin="00:57:07.319" end="00:57:12.780" style="s2">we are already in this last month of</p>
+<p begin="00:57:08.880" end="00:57:12.780" style="s2">september it reached 5</p>
+<p begin="00:57:13.079" end="00:57:19.319" style="s2">between 5600 and the average time and responses</p>
+<p begin="00:57:16.859" end="00:57:20.780" style="s2">also obviously it has been falling</p>
+<p begin="00:57:19.319" end="00:57:23.400" style="s2">significantly</p>
+<p begin="00:57:20.780" end="00:57:25.740" style="s2">I would say that the certificate means</p>
+<p begin="00:57:23.400" end="00:57:29.339" style="s2">we had we had a</p>
+<p begin="00:57:25.740" end="00:57:31.079" style="s2">repressed demand and it&#39;s easy  understand why this</p>
+<p begin="00:57:29.339" end="00:57:32.880" style="s2">repressed demand when someone is going to</p>
+<p begin="00:57:31.079" end="00:57:34.940" style="s2">do the business a transfer little</p>
+<p begin="00:57:32.880" end="00:57:37.260" style="s2">important thing</p>
+<p begin="00:57:34.940" end="00:57:39.180" style="s2">related to a certain</p>
+<p begin="00:57:37.260" end="00:57:41.099" style="s2">aircraft it is important that he</p>
+<p begin="00:57:39.180" end="00:57:44.160" style="s2">is sure of the aircraft he is</p>
+<p begin="00:57:41.099" end="00:57:46.220" style="s2">buying what he is doing a</p>
+<p begin="00:57:44.160" end="00:57:51.680" style="s2">regret something like</p>
+<p begin="00:57:46.220" end="00:57:54.300" style="s2">that and that normally he  as it was,</p>
+<p begin="00:57:51.680" end="00:57:56.760" style="s2">the user did not have time to look for this</p>
+<p begin="00:57:54.300" end="00:57:59.160" style="s2">information because our certificate</p>
+<p begin="00:57:56.760" end="00:58:00.800" style="s2">took a long time to come out so he entered</p>
+<p begin="00:57:59.160" end="00:58:03.059" style="s2">even without a certificate</p>
+<p begin="00:58:00.800" end="00:58:05.400" style="s2">so In addition, we are</p>
+<p begin="00:58:03.059" end="00:58:08.220" style="s2">also increasing legal certainty and</p>
+<p begin="00:58:05.400" end="00:58:10.780" style="s2">the average response time Clara is less</p>
+<p begin="00:58:08.220" end="00:58:12.839" style="s2">than a day because in fact  it&#39;s time right</p>
+<p begin="00:58:10.780" end="00:58:15.359" style="s2">[Music]</p>
+<p begin="00:58:12.839" end="00:58:18.000" style="s2">so basically this is what I wanted to</p>
+<p begin="00:58:15.359" end="00:58:19.800" style="s2">show let me see if  the system</p>
+<p begin="00:58:18.000" end="00:58:22.760" style="s2">should already be receiving the certificate</p>
+<p begin="00:58:19.800" end="00:58:22.760" style="s2">here let me see if</p>
+<p begin="00:58:22.880" end="00:58:26.900" style="s2">I haven&#39;t received it yet but</p>
+<p begin="00:58:27.119" end="00:58:31.220" style="s2">if not soon it would be there</p>
+<p begin="00:58:32.099" end="00:58:35.900" style="s2">Wow but you can take the screen again</p>
+<p begin="00:58:38.940" end="00:58:42.799" style="s2">I&#39;ll take it here I&#39;m just going to do one</p>
+<p begin="00:58:41.579" end="00:58:47.059" style="s2">thing</p>
+<p begin="00:58:42.799" end="00:58:47.059" style="s2">I&#39;ll show you see  my screen</p>
+<p begin="00:58:50.579" end="00:58:54.660" style="s2">Now I</p>
+<p begin="00:58:52.579" end="00:58:57.440" style="s2">think I&#39;m going to show the initial screen</p>
+<p begin="00:58:54.660" end="00:58:59.599" style="s2">here just to give an overview of the service</p>
+<p begin="00:58:57.440" end="00:59:01.859" style="s2">because I have to go through and</p>
+<p begin="00:58:59.599" end="00:59:04.220" style="s2">complement what you said well</p>
+<p begin="00:59:01.859" end="00:59:04.220" style="s2">aligned</p>
+<p begin="00:59:04.579" end="00:59:09.119" style="s2">there&#39;s this part of the service this one is</p>
+<p begin="00:59:07.980" end="00:59:10.619" style="s2">starting in fact it goes Popular</p>
+<p begin="00:59:09.119" end="00:59:14.359" style="s2">including this one  part of the certificates</p>
+<p begin="00:59:10.619" end="00:59:16.559" style="s2">that Júlio showed now cnca</p>
+<p begin="00:59:14.359" end="00:59:20.420" style="s2">The idea is that all these high</p>
+<p begin="00:59:16.559" end="00:59:22.920" style="s2">service are done the person clicks</p>
+<p begin="00:59:20.420" end="00:59:25.799" style="s2">he goes through a flow where he will</p>
+<p begin="00:59:22.920" end="00:59:27.359" style="s2">fill in all the data but so</p>
+<p begin="00:59:25.799" end="00:59:28.680" style="s2">if the person is slow to fill</p>
+<p begin="00:59:27.359" end="00:59:30.900" style="s2">a deal in 5 minutes he  you will have the</p>
+<p begin="00:59:28.680" end="00:59:33.000" style="s2">certificate is very fast,</p>
+<p begin="00:59:30.900" end="00:59:36.240" style="s2">on the other hand, we are able</p>
+<p begin="00:59:33.000" end="00:59:37.799" style="s2">to verify authenticity of the</p>
+<p begin="00:59:36.240" end="00:59:41.280" style="s2">certificate that he is seeing to avoid</p>
+<p begin="00:59:37.799" end="00:59:44.240" style="s2">fraud, right And this group of services that</p>
+<p begin="00:59:41.280" end="00:59:46.980" style="s2">are not few  you</p>
+<p begin="00:59:44.240" end="00:59:50.099" style="s2">allow the person to have a</p>
+<p begin="00:59:46.980" end="00:59:51.720" style="s2">more friendly access so we are</p>
+<p begin="00:59:50.099" end="00:59:54.299" style="s2">talking about usability for the</p>
+<p begin="00:59:51.720" end="00:59:59.640" style="s2">end user which is what to keep filling in I know</p>
+<p begin="00:59:54.299" end="01:00:01.319" style="s2">and on the other hand Avoid what Luciana</p>
+<p begin="00:59:59.640" end="01:00:03.839" style="s2">commented earlier that I know</p>
+<p begin="01:00:01.319" end="01:00:06.140" style="s2">that I rework you can see  this danac</p>
+<p begin="01:00:03.839" end="01:00:08.339" style="s2">is work but</p>
+<p begin="01:00:06.140" end="01:00:09.720" style="s2">within our project we have</p>
+<p begin="01:00:08.339" end="01:00:11.880" style="s2">this</p>
+<p begin="01:00:09.720" end="01:00:14.940" style="s2">economy what you have to justify any</p>
+<p begin="01:00:11.880" end="01:00:16.980" style="s2">project is the gain for society</p>
+<p begin="01:00:14.940" end="01:00:19.799" style="s2">for society the gain is that it will decrease the</p>
+<p begin="01:00:16.980" end="01:00:21.720" style="s2">average time of processes if</p>
+<p begin="01:00:19.799" end="01:00:23.400" style="s2">the citizen who wants to  he sees</p>
+<p begin="01:00:21.720" end="01:00:25.799" style="s2">talk like this wait for the time I</p>
+<p begin="01:00:23.400" end="01:00:27.059" style="s2">have I already sent the right document he</p>
+<p begin="01:00:25.799" end="01:00:28.619" style="s2">doesn&#39;t want to know if he sent it once</p>
+<p begin="01:00:27.059" end="01:00:31.079" style="s2">one document is missing he sent it again another one was missing</p>
+<p begin="01:00:28.619" end="01:00:33.660" style="s2">in practice and easy I&#39;ve been</p>
+<p begin="01:00:31.079" end="01:00:35.480" style="s2">trying to file a process here since May</p>
+<p begin="01:00:33.660" end="01:00:39.059" style="s2">that spent a good part of it was his mistake</p>
+<p begin="01:00:35.480" end="01:00:41.220" style="s2">if he already sends it with the right scope</p>
+<p begin="01:00:39.059" end="01:00:44.420" style="s2">his average time decreases and he gives the</p>
+<p begin="01:00:41.220" end="01:00:44.420" style="s2">feeling of a</p>
+<p begin="01:00:45.140" end="01:00:50.900" style="s2">gain in his total time ok so</p>
+<p begin="01:00:51.480" end="01:00:57.059" style="s2">go What removing the cos</p>
+<p begin="01:00:54.299" end="01:00:58.200" style="s2">ANAC specialists, this burden of</p>
+<p begin="01:00:57.059" end="01:01:01.160" style="s2">issuing things that would be</p>
+<p begin="01:00:58.200" end="01:01:03.200" style="s2">automated, you also generate gain,</p>
+<p begin="01:01:01.160" end="01:01:05.160" style="s2">so</p>
+<p begin="01:01:03.200" end="01:01:07.799" style="s2">I think it&#39;s not worth</p>
+<p begin="01:01:05.160" end="01:01:09.720" style="s2">showing the program a lot, which I</p>
+<p begin="01:01:07.799" end="01:01:10.920" style="s2">think is worthwhile today, as people have already</p>
+<p begin="01:01:09.720" end="01:01:12.720" style="s2">commented with even Luciano  Because</p>
+<p begin="01:01:10.920" end="01:01:14.700" style="s2">before I talk a little bit about</p>
+<p begin="01:01:12.720" end="01:01:16.500" style="s2">this agreement with him because directly people come to</p>
+<p begin="01:01:14.700" end="01:01:17.819" style="s2">me in private to find out</p>
+<p begin="01:01:16.500" end="01:01:21.210" style="s2">how it was, how do you do</p>
+<p begin="01:01:17.819" end="01:01:24.260" style="s2">something similar, so enjoy</p>
+<p begin="01:01:21.210" end="01:01:24.260" style="s2">[Music]</p>
+<p begin="01:01:30.559" end="01:01:35.780" style="s2">exhausted, then we need to address</p>
+<p begin="01:01:33.299" end="01:01:35.780" style="s2">the questions here</p>
+<p begin="01:01:39.140" end="01:01:44.700" style="s2">and show the Ministry of Economy</p>
+<p begin="01:01:41.579" end="01:01:46.160" style="s2">that there is a social gain that has an</p>
+<p begin="01:01:44.700" end="01:01:49.020" style="s2">advantage that</p>
+<p begin="01:01:46.160" end="01:01:52.319" style="s2">you will have it will have an impact on</p>
+<p begin="01:01:49.020" end="01:01:54.119" style="s2">society we did it there Assunção did it back there,</p>
+<p begin="01:01:52.319" end="01:01:55.079" style="s2">right I wasn&#39;t even in the ICU there are</p>
+<p begin="01:01:54.119" end="01:01:56.579" style="s2">even some things to be thankful</p>
+<p begin="01:01:55.079" end="01:01:58.339" style="s2">for for me I wasn&#39;t  it wasn&#39;t right</p>
+<p begin="01:01:56.579" end="01:02:01.440" style="s2">before Luciano when</p>
+<p begin="01:01:58.339" end="01:02:04.160" style="s2">the people from Taí who made these gains there</p>
+<p begin="01:02:01.440" end="01:02:04.160" style="s2">from papa-terra</p>
+<p begin="01:02:05.059" end="01:02:11.940" style="s2">are representing you are representing</p>
+<p begin="01:02:07.940" end="01:02:14.220" style="s2">ok so this part here was a</p>
+<p begin="01:02:11.940" end="01:02:17.160" style="s2">project  What was done back there and the people</p>
+<p begin="01:02:14.220" end="01:02:19.319" style="s2">who are actually working are</p>
+<p begin="01:02:17.160" end="01:02:20.819" style="s2">the people who are doing it, the people from the</p>
+<p begin="01:02:19.319" end="01:02:21.599" style="s2">Ministry of the economy who are below</p>
+<p begin="01:02:20.819" end="01:02:23.880" style="s2">me,</p>
+<p begin="01:02:21.599" end="01:02:25.380" style="s2">so they came on loan at the</p>
+<p begin="01:02:23.880" end="01:02:27.780" style="s2">Ministry of Economy and it is something that</p>
+<p begin="01:02:25.380" end="01:02:29.760" style="s2">other areas can do  so</p>
+<p begin="01:02:27.780" end="01:02:31.460" style="s2">if I have a gain with</p>
+<p begin="01:02:29.760" end="01:02:34.319" style="s2">automation but digitization of</p>
+<p begin="01:02:31.460" end="01:02:36.420" style="s2">this service show that there is someone</p>
+<p begin="01:02:34.319" end="01:02:38.460" style="s2">for society not paranac it is</p>
+<p begin="01:02:36.420" end="01:02:39.900" style="s2">important to emphasize it is possible to make other</p>
+<p begin="01:02:38.460" end="01:02:42.780" style="s2">gains maybe it is even possible to try to make</p>
+<p begin="01:02:39.900" end="01:02:44.579" style="s2">an addendum to the current project ok our</p>
+<p begin="01:02:42.780" end="01:02:46.740" style="s2">project I don&#39;t even go simple but to  from the point</p>
+<p begin="01:02:44.579" end="01:02:50.160" style="s2">of view of the Ministry of Economy, the</p>
+<p begin="01:02:46.740" end="01:02:51.420" style="s2">project calls Startup gov, which has the</p>
+<p begin="01:02:50.160" end="01:02:53.040" style="s2">possibility of entering new projects,</p>
+<p begin="01:02:51.420" end="01:02:54.559" style="s2">maybe even these two that you showed</p>
+<p begin="01:02:53.040" end="01:02:57.720" style="s2">there</p>
+<p begin="01:02:54.559" end="01:03:01.200" style="s2">Luciano We may have talked in the future</p>
+<p begin="01:02:57.720" end="01:03:03.720" style="s2">but just so you know, it&#39;s cool to</p>
+<p begin="01:03:01.200" end="01:03:05.599" style="s2">know, it&#39;s important to mention that, right?</p>
+<p begin="01:03:03.720" end="01:03:07.799" style="s2">actually this measure,</p>
+<p begin="01:03:05.599" end="01:03:10.680" style="s2">the final split here for us to</p>
+<p begin="01:03:07.799" end="01:03:13.500" style="s2">implement the services on the portal, right, it</p>
+<p begin="01:03:10.680" end="01:03:18.180" style="s2">was part of a larger project.</p>
+<p begin="01:03:13.500" end="01:03:19.859" style="s2">the STI is for all the</p>
+<p begin="01:03:18.180" end="01:03:22.140" style="s2">collaboration there for us to be able to</p>
+<p begin="01:03:19.859" end="01:03:24.240" style="s2">develop well folks thanks for</p>
+<p begin="01:03:22.140" end="01:03:25.799" style="s2">the presentation by the demonstration of the</p>
+<p begin="01:03:24.240" end="01:03:29.940" style="s2">service we were able to see it</p>
+<p begin="01:03:25.799" end="01:03:34.020" style="s2">right there, it&#39;s a portal that has</p>
+<p begin="01:03:29.940" end="01:03:36.359" style="s2">all of our processes, right that already gives the</p>
+<p begin="01:03:34.020" end="01:03:39.599" style="s2">guide for the regulation of what should be</p>
+<p begin="01:03:36.359" end="01:03:41.339" style="s2">presented, in short, it also facilitates the</p>
+<p begin="01:03:39.599" end="01:03:43.079" style="s2">structuring of the process here for</p>
+<p begin="01:03:41.339" end="01:03:45.299" style="s2">our analyst to evaluate.</p>
+<p begin="01:03:43.079" end="01:03:47.040" style="s2"></p>
+<p begin="01:03:45.299" end="01:03:49.079" style="s2"></p>
+<p begin="01:03:47.040" end="01:03:51.180" style="s2"></p>
+<p begin="01:03:49.079" end="01:03:53.819" style="s2">here the order of thumbs up on the slide</p>
+<p begin="01:03:51.180" end="01:03:55.920" style="s2">first place I thank the people</p>
+<p begin="01:03:53.819" end="01:03:58.799" style="s2">who expressed support there, who</p>
+<p begin="01:03:55.920" end="01:04:01.559" style="s2">praised the measures that are being</p>
+<p begin="01:03:58.799" end="01:04:05.339" style="s2">developed in Raabe, right, I also give</p>
+<p begin="01:04:01.559" end="01:04:06.319" style="s2">leather to these congratulations, right so</p>
+<p begin="01:04:05.339" end="01:04:08.819" style="s2">thank you very much</p>
+<p begin="01:04:06.319" end="01:04:10.740" style="s2">the first question that has the most votes</p>
+<p begin="01:04:08.819" end="01:04:13.440" style="s2">here is the  next I&#39;ll stop by</p>
+<p begin="01:04:10.740" end="01:04:16.200" style="s2">Luciana you drive Or pass it on to</p>
+<p begin="01:04:13.440" end="01:04:19.319" style="s2">Júlio, right too, if you want to add feel</p>
+<p begin="01:04:16.200" end="01:04:21.599" style="s2">free to stop recording insurance with Rabi</p>
+<p begin="01:04:19.319" end="01:04:24.299" style="s2">and have an agreement with  the CNJ are great</p>
+<p begin="01:04:21.599" end="01:04:26.700" style="s2">positive impacts, could you comment on</p>
+<p begin="01:04:24.299" end="01:04:28.859" style="s2">what had to be changed at ANAC and what</p>
+<p begin="01:04:26.700" end="01:04:32.099" style="s2">was done</p>
+<p begin="01:04:28.859" end="01:04:35.640" style="s2">Come on, people ask a very pertinent question,</p>
+<p begin="01:04:32.099" end="01:04:37.859" style="s2">right, the signing of the agreement did not have</p>
+<p begin="01:04:35.640" end="01:04:40.440" style="s2">to change anything at all, we</p>
+<p begin="01:04:37.859" end="01:04:42.359" style="s2">need to provide IT structure, so the</p>
+<p begin="01:04:40.440" end="01:04:45.420" style="s2">development of api  meeting, right</p>
+<p begin="01:04:42.359" end="01:04:49.319" style="s2">now, to stop recording the insurance in</p>
+<p begin="01:04:45.420" end="01:04:51.599" style="s2">the aeronautical register, it was the result of the</p>
+<p begin="01:04:49.319" end="01:04:54.059" style="s2">simple flight, right, within its Provisional Measure,</p>
+<p begin="01:04:51.599" end="01:04:56.900" style="s2">which was, anyway, converted</p>
+<p begin="01:04:54.059" end="01:05:01.020" style="s2">into law, so it was</p>
+<p begin="01:04:56.900" end="01:05:04.020" style="s2">extinguished, right, it ended with article 283</p>
+<p begin="01:05:01.020" end="01:05:05.760" style="s2">of the CBA, which expressly said that  the</p>
+<p begin="01:05:04.020" end="01:05:08.099" style="s2">Brazilian aeronautical registry had</p>
+<p begin="01:05:05.760" end="01:05:09.420" style="s2">to register the insurance to be able to</p>
+<p begin="01:05:08.099" end="01:05:11.220" style="s2">issue a certificate It was already</p>
+<p begin="01:05:09.420" end="01:05:13.700" style="s2">airworthy so this was the big</p>
+<p begin="01:05:11.220" end="01:05:13.700" style="s2">change</p>
+<p begin="01:05:15.780" end="01:05:21.780" style="s2">ok jewel there&#39;s one more question here from</p>
+<p begin="01:05:19.559" end="01:05:24.180" style="s2">Haroldo a hug for Haroldo in the</p>
+<p begin="01:05:21.780" end="01:05:26.460" style="s2">import or export of aircraft the</p>
+<p begin="01:05:24.180" end="01:05:28.619" style="s2">use of digital documents received or</p>
+<p begin="01:05:26.460" end="01:05:31.500" style="s2">provided What types of</p>
+<p begin="01:05:28.619" end="01:05:33.599" style="s2">digital certification or lack thereof</p>
+<p begin="01:05:31.500" end="01:05:36.299" style="s2">are not accepted</p>
+<p begin="01:05:33.599" end="01:05:38.880" style="s2">come on Haroldo very pertinent  your</p>
+<p begin="01:05:36.299" end="01:05:41.280" style="s2">question has two aspects when you</p>
+<p begin="01:05:38.880" end="01:05:45.059" style="s2">document it when the document is issued</p>
+<p begin="01:05:41.280" end="01:05:47.760" style="s2">by an aeronautical authority, right?</p>
+<p begin="01:05:45.059" end="01:05:49.140" style="s2"></p>
+<p begin="01:05:47.760" end="01:05:51.119" style="s2"></p>
+<p begin="01:05:49.140" end="01:05:54.540" style="s2"></p>
+<p begin="01:05:51.119" end="01:05:56.339" style="s2"></p>
+<p begin="01:05:54.540" end="01:05:59.760" style="s2">that</p>
+<p begin="01:05:56.339" end="01:06:03.440" style="s2">we have, right, a link, a</p>
+<p begin="01:05:59.760" end="01:06:05.700" style="s2">QR Code, anyway, you validate the issue is</p>
+<p begin="01:06:03.440" end="01:06:08.180" style="s2">fundamental and that for this we</p>
+<p begin="01:06:05.700" end="01:06:11.099" style="s2">still can&#39;t</p>
+<p begin="01:06:08.180" end="01:06:13.319" style="s2">accept is the signature of a</p>
+<p begin="01:06:11.099" end="01:06:16.799" style="s2">private person, right, whether it&#39;s a</p>
+<p begin="01:06:13.319" end="01:06:19.319" style="s2">legal person within a Nato</p>
+<p begin="01:06:16.799" end="01:06:22.440" style="s2">digital contract because the rule that the  what we have</p>
+<p begin="01:06:19.319" end="01:06:25.400" style="s2">today in the country is the reception of</p>
+<p begin="01:06:22.440" end="01:06:28.559" style="s2">digital documents with a digital signature</p>
+<p begin="01:06:25.400" end="01:06:32.640" style="s2">certified by the CP Brasil Institute,</p>
+<p begin="01:06:28.559" end="01:06:36.020" style="s2">so if a foreigner is out there, even</p>
+<p begin="01:06:32.640" end="01:06:39.780" style="s2">if Siri is from a</p>
+<p begin="01:06:36.020" end="01:06:40.920" style="s2">well-known platform of digital signatures</p>
+<p begin="01:06:39.780" end="01:06:43.559" style="s2">, we have no way of</p>
+<p begin="01:06:40.920" end="01:06:46.440" style="s2">receiving it because the rule in  Brazil</p>
+<p begin="01:06:43.559" end="01:06:48.539" style="s2">today is Clara and still says that the reception</p>
+<p begin="01:06:46.440" end="01:06:51.359" style="s2">of documents produced abroad</p>
+<p begin="01:06:48.539" end="01:06:53.880" style="s2">has to serve the criteria of</p>
+<p begin="01:06:51.359" end="01:06:57.839" style="s2">notarization  And the apostille according</p>
+<p begin="01:06:53.880" end="01:07:01.079" style="s2">to the area convention, so there are developments</p>
+<p begin="01:06:57.839" end="01:07:04.500" style="s2">I believe that in the near future,</p>
+<p begin="01:07:01.079" end="01:07:07.260" style="s2">anyway, Brazil as an authority will</p>
+<p begin="01:07:04.500" end="01:07:09.180" style="s2">review many things because the</p>
+<p begin="01:07:07.260" end="01:07:13.500" style="s2">aviation market It is dynamic and not just</p>
+<p begin="01:07:09.180" end="01:07:15.720" style="s2">aviation but others, right And we are not</p>
+<p begin="01:07:13.500" end="01:07:19.020" style="s2">in the world  globalized, what</p>
+<p begin="01:07:15.720" end="01:07:21.599" style="s2">there is most is international contracts but these</p>
+<p begin="01:07:19.020" end="01:07:24.079" style="s2">are issues that we are on our</p>
+<p begin="01:07:21.599" end="01:07:28.460" style="s2">radar and we are attentive to Any</p>
+<p begin="01:07:24.079" end="01:07:28.460" style="s2">change like this Legislative</p>
+<p begin="01:07:28.619" end="01:07:33.319" style="s2">Ok Luciana thank you</p>
+<p begin="01:07:31.079" end="01:07:35.339" style="s2">another question about</p>
+<p begin="01:07:33.319" end="01:07:38.359" style="s2">the importance of the radio in</p>
+<p begin="01:07:35.339" end="01:07:41.520" style="s2">providing information, right</p>
+<p begin="01:07:38.359" end="01:07:42.599" style="s2">the person who sent it  put it here right</p>
+<p begin="01:07:41.520" end="01:07:44.700" style="s2">Every time you have an accident</p>
+<p begin="01:07:42.599" end="01:07:46.200" style="s2">involving an aircraft because the first</p>
+<p begin="01:07:44.700" end="01:07:48.480" style="s2">thing the press announces about this</p>
+<p begin="01:07:46.200" end="01:07:50.280" style="s2">aircraft is recorded on the radio</p>
+<p begin="01:07:48.480" end="01:07:53.599" style="s2">that means that this information</p>
+<p begin="01:07:50.280" end="01:07:56.480" style="s2">means come on two very</p>
+<p begin="01:07:53.599" end="01:07:59.700" style="s2">important things right,</p>
+<p begin="01:07:56.480" end="01:08:01.859" style="s2">the press is watching, first to know</p>
+<p begin="01:07:59.700" end="01:08:05.579" style="s2">who  is the civil person responsible for the operation</p>
+<p begin="01:08:01.859" end="01:08:07.799" style="s2">and then all the legal implications that</p>
+<p begin="01:08:05.579" end="01:08:10.260" style="s2">involve it right Who is responsible  el</p>
+<p begin="01:08:07.799" end="01:08:12.059" style="s2">for the operation of that aircraft and the</p>
+<p begin="01:08:10.260" end="01:08:13.980" style="s2">main thing is the airworthiness situation of</p>
+<p begin="01:08:12.059" end="01:08:16.380" style="s2">that aircraft on the</p>
+<p begin="01:08:13.980" end="01:08:18.600" style="s2">day of the accident, it has a certificate</p>
+<p begin="01:08:16.380" end="01:08:20.699" style="s2">of normal airworthiness So it</p>
+<p begin="01:08:18.600" end="01:08:24.179" style="s2">is normal before the agency to be able to</p>
+<p begin="01:08:20.699" end="01:08:25.799" style="s2">operate, right, anyway, we have these issues</p>
+<p begin="01:08:24.179" end="01:08:28.620" style="s2">today we still have the category  of</p>
+<p begin="01:08:25.799" end="01:08:30.719" style="s2">registration there In addition to knowing if this</p>
+<p begin="01:08:28.620" end="01:08:32.160" style="s2">aircraft is normal if the type of</p>
+<p begin="01:08:30.719" end="01:08:35.179" style="s2">operation I do not want the aircraft was</p>
+<p begin="01:08:32.160" end="01:08:37.560" style="s2">carrying out is in line with what it is</p>
+<p begin="01:08:35.179" end="01:08:39.380" style="s2">actually registered and authorized</p>
+<p begin="01:08:37.560" end="01:08:42.359" style="s2">by the agency So</p>
+<p begin="01:08:39.380" end="01:08:44.699" style="s2">airworthiness situation situation</p>
+<p begin="01:08:42.359" end="01:08:46.500" style="s2">of the operator if he could possibly</p>
+<p begin="01:08:44.699" end="01:08:49.980" style="s2">be providing a service if  he was</p>
+<p begin="01:08:46.500" end="01:08:52.020" style="s2">paying, right, and the civil person responsible for the</p>
+<p begin="01:08:49.980" end="01:08:55.620" style="s2">operation</p>
+<p begin="01:08:52.020" end="01:08:58.259" style="s2">is that cool gem, and usually the</p>
+<p begin="01:08:55.620" end="01:09:00.120" style="s2">press also questions ANAC, right, but</p>
+<p begin="01:08:58.259" end="01:09:03.600" style="s2">some press agencies</p>
+<p begin="01:09:00.120" end="01:09:04.880" style="s2">already know the way there and it&#39;s</p>
+<p begin="01:09:03.600" end="01:09:07.759" style="s2">interesting because</p>
+<p begin="01:09:04.880" end="01:09:10.319" style="s2">when we have an accident there,</p>
+<p begin="01:09:07.759" end="01:09:14.179" style="s2">usually there we have  a spike in</p>
+<p begin="01:09:10.319" end="01:09:14.179" style="s2">access</p>
+<p begin="01:09:14.460" end="01:09:21.299" style="s2">to the jewelry registration page Let&#39;s go to the next one  here</p>
+<p begin="01:09:17.779" end="01:09:22.500" style="s2">then the person also points out here it&#39;s</p>
+<p begin="01:09:21.299" end="01:09:25.259" style="s2">nice to have the list of what the customer</p>
+<p begin="01:09:22.500" end="01:09:28.799" style="s2">needs to send to order an order, right?</p>
+<p begin="01:09:25.259" end="01:09:34.500" style="s2">It really gives a guide and then the question Is</p>
+<p begin="01:09:28.799" end="01:09:37.500" style="s2">there any of the system there from you that</p>
+<p begin="01:09:34.500" end="01:09:39.299" style="s2">Checks if your sent document is the</p>
+<p begin="01:09:37.500" end="01:09:41.460" style="s2">one that should  be sent and</p>
+<p begin="01:09:39.299" end="01:09:45.299" style="s2">not another document, for example a</p>
+<p begin="01:09:41.460" end="01:09:47.540" style="s2">recipe Let&#39;s go cake recipe mother&#39;s photo</p>
+<p begin="01:09:45.299" end="01:09:47.540" style="s2"></p>
+<p begin="01:09:48.380" end="01:09:55.739" style="s2">questions artificial intelligence</p>
+<p begin="01:09:52.400" end="01:09:58.320" style="s2">is what needs registration and analysis</p>
+<p begin="01:09:55.739" end="01:10:01.560" style="s2">by servers it doesn&#39;t have</p>
+<p begin="01:09:58.320" end="01:10:05.040" style="s2">Artificial Intelligence so it needs analysis from</p>
+<p begin="01:10:01.560" end="01:10:07.140" style="s2">a server to see if it checks and  if it&#39;s</p>
+<p begin="01:10:05.040" end="01:10:09.360" style="s2">Exodus if that document is ok to be</p>
+<p begin="01:10:07.140" end="01:10:11.820" style="s2">registered then if he uploaded the</p>
+<p begin="01:10:09.360" end="01:10:14.400" style="s2">recipe for grandma&#39;s cake or a</p>
+<p begin="01:10:11.820" end="01:10:16.080" style="s2">lease agreement a</p>
+<p begin="01:10:14.400" end="01:10:19.500" style="s2">difference title this needs an analysis</p>
+<p begin="01:10:16.080" end="01:10:22.020" style="s2">no It&#39;s not required, what we have is</p>
+<p begin="01:10:19.500" end="01:10:24.840" style="s2">in the highs  services, right, I&#39;m going to give the</p>
+<p begin="01:10:22.020" end="01:10:26.580" style="s2">simple example here of the international registration code</p>
+<p begin="01:10:24.840" end="01:10:29.760" style="s2">when the person goes to</p>
+<p begin="01:10:26.580" end="01:10:31.739" style="s2">sue, then he provides the information of the</p>
+<p begin="01:10:29.760" end="01:10:34.140" style="s2">model manufacturer, serial number of the</p>
+<p begin="01:10:31.739" end="01:10:36.300" style="s2">aircraft, such as  attricula puts</p>
+<p begin="01:10:34.140" end="01:10:39.659" style="s2">her documentation, the Ok system,</p>
+<p begin="01:10:36.300" end="01:10:41.880" style="s2">to see if that aircraft is the</p>
+<p begin="01:10:39.659" end="01:10:43.860" style="s2">one he is requesting And then provides it,</p>
+<p begin="01:10:41.880" end="01:10:46.260" style="s2">so there we have an intelligence</p>
+<p begin="01:10:43.860" end="01:10:48.840" style="s2">already from you, you don&#39;t need an analyst to</p>
+<p begin="01:10:46.260" end="01:10:50.880" style="s2">see this is because Luciano only</p>
+<p begin="01:10:48.840" end="01:10:53.040" style="s2">greets you  these then the</p>
+<p begin="01:10:50.880" end="01:10:55.219" style="s2">documents there is no document</p>
+<p begin="01:10:53.040" end="01:10:59.820" style="s2">attached that would be necessary all are</p>
+<p begin="01:10:55.219" end="01:11:02.520" style="s2">optional understand And the</p>
+<p begin="01:10:59.820" end="01:11:05.940" style="s2">certificate request what the registry needs for</p>
+<p begin="01:11:02.520" end="01:11:07.679" style="s2">ANAC security purposes is to have the log of</p>
+<p begin="01:11:05.940" end="01:11:10.080" style="s2">who requested and this we have</p>
+<p begin="01:11:07.679" end="01:11:11.820" style="s2">kept as soon as who requested a</p>
+<p begin="01:11:10.080" end="01:11:15.780" style="s2">certificate  perhaps but the certificate has</p>
+<p begin="01:11:11.820" end="01:11:17.040" style="s2">always been and aircraft status that is</p>
+<p begin="01:11:15.780" end="01:11:19.080" style="s2">valid for the type of certificate she</p>
+<p begin="01:11:17.040" end="01:11:20.699" style="s2">is asking for That is, we already have the</p>
+<p begin="01:11:19.080" end="01:11:25.800" style="s2">necessary information, it is not the document</p>
+<p begin="01:11:20.699" end="01:11:29.640" style="s2">that will generate this</p>
+<p begin="01:11:25.800" end="01:11:32.100" style="s2">legal guarantee if it is the case to punish a</p>
+<p begin="01:11:29.640" end="01:11:33.840" style="s2">person who  repeatedly how does</p>
+<p begin="01:11:32.100" end="01:11:36.500" style="s2">this happen there Luciana complementing</p>
+<p begin="01:11:33.840" end="01:11:40.159" style="s2">the question here so a person who</p>
+<p begin="01:11:36.500" end="01:11:44.340" style="s2">repeatedly puts it,</p>
+<p begin="01:11:40.159" end="01:11:49.020" style="s2">anyway, that it doesn&#39;t make sense, that it&#39;s</p>
+<p begin="01:11:44.340" end="01:11:50.760" style="s2">not  compliance agreement, right That&#39;s it,</p>
+<p begin="01:11:49.020" end="01:11:52.500" style="s2">we still don&#39;t have this study, but</p>
+<p begin="01:11:50.760" end="01:11:55.980" style="s2">what is my goal for the future, right?</p>
+<p begin="01:11:52.500" end="01:11:59.219" style="s2"></p>
+<p begin="01:11:55.980" end="01:12:02.699" style="s2"></p>
+<p begin="01:11:59.219" end="01:12:05.219" style="s2"></p>
+<p begin="01:12:02.699" end="01:12:08.040" style="s2">most of</p>
+<p begin="01:12:05.219" end="01:12:12.300" style="s2">the registry services are requested via the</p>
+<p begin="01:12:08.040" end="01:12:15.239" style="s2">dispatcher, ok, it&#39;s a lot, the vast</p>
+<p begin="01:12:12.300" end="01:12:18.659" style="s2">majority I would say something around 80%,</p>
+<p begin="01:12:15.239" end="01:12:20.940" style="s2">ok, and 20% directly by the</p>
+<p begin="01:12:18.659" end="01:12:24.360" style="s2">owner himself by the aircraft operator himself,</p>
+<p begin="01:12:20.940" end="01:12:26.580" style="s2">but I understand the dispatchers is to</p>
+<p begin="01:12:24.360" end="01:12:29.520" style="s2">sit down and talk, right?  This isn&#39;t</p>
+<p begin="01:12:26.580" end="01:12:31.739" style="s2">eventually until you implement, look,</p>
+<p begin="01:12:29.520" end="01:12:34.080" style="s2">you can&#39;t petition, so we&#39;ll</p>
+<p begin="01:12:31.739" end="01:12:37.679" style="s2">take measures that you can&#39;t</p>
+<p begin="01:12:34.080" end="01:12:40.580" style="s2">petition, it&#39;s possible to act in this case,</p>
+<p begin="01:12:37.679" end="01:12:43.500" style="s2">we have to keep knocking, right,</p>
+<p begin="01:12:40.580" end="01:12:46.260" style="s2">and not the registration certificate, people, in the</p>
+<p begin="01:12:43.500" end="01:12:48.420" style="s2">case of registration, this is a very</p>
+<p begin="01:12:46.260" end="01:12:50.040" style="s2">important case  emblematic for people that</p>
+<p begin="01:12:48.420" end="01:12:52.440" style="s2">we are changing the logical order of</p>
+<p begin="01:12:50.040" end="01:12:54.659" style="s2">processing delivering the certificates in</p>
+<p begin="01:12:52.440" end="01:12:56.159" style="s2">zero times if the person had any</p>
+<p begin="01:12:54.659" end="01:12:59.100" style="s2">documentation problem we will</p>
+<p begin="01:12:56.159" end="01:13:03.360" style="s2">suspend  der ca and not allow registration ok</p>
+<p begin="01:12:59.100" end="01:13:06.960" style="s2">Not finalizing the registration concretize</p>
+<p begin="01:13:03.360" end="01:13:08.760" style="s2">so there are ways for you to take care of it</p>
+<p begin="01:13:06.960" end="01:13:11.760" style="s2">isn&#39;t alavontê</p>
+<p begin="01:13:08.760" end="01:13:14.640" style="s2">great a question here from Flávio</p>
+<p begin="01:13:11.760" end="01:13:17.340" style="s2">crushman first big advance planar</p>
+<p begin="01:13:14.640" end="01:13:19.199" style="s2">example to the world and then the question the</p>
+<p begin="01:13:17.340" end="01:13:22.260" style="s2">documents that go to the CEI they are</p>
+<p begin="01:13:19.199" end="01:13:24.120" style="s2">signed, for example, the dispatches, the</p>
+<p begin="01:13:22.260" end="01:13:27.840" style="s2">spaces, yes, because they are evaluated</p>
+<p begin="01:13:24.120" end="01:13:31.560" style="s2">by servers, anyway, Júlio showed</p>
+<p begin="01:13:27.840" end="01:13:34.260" style="s2">an example of what you will see in a dispatch</p>
+<p begin="01:13:31.560" end="01:13:37.320" style="s2">to be prepared, right, but let&#39;s assume that the</p>
+<p begin="01:13:34.260" end="01:13:40.620" style="s2">person didn&#39;t put it right, don&#39;t</p>
+<p begin="01:13:37.320" end="01:13:43.020" style="s2">agree, analyst has all the duty, right</p>
+<p begin="01:13:40.620" end="01:13:45.540" style="s2">Nice to change to make the</p>
+<p begin="01:13:43.020" end="01:13:47.760" style="s2">changes and put it as he</p>
+<p begin="01:13:45.540" end="01:13:49.440" style="s2">signs I think he&#39;s asking for the</p>
+<p begin="01:13:47.760" end="01:13:52.199" style="s2">document that comes from the digital tail and that</p>
+<p begin="01:13:49.440" end="01:13:55.199" style="s2">is attached I know those there don&#39;t have an</p>
+<p begin="01:13:52.199" end="01:13:57.780" style="s2">electronic signature didn&#39;t see no no</p>
+<p begin="01:13:55.199" end="01:13:59.179" style="s2">but the document the pdf for example one</p>
+<p begin="01:13:57.780" end="01:14:03.179" style="s2">transfer title that the person</p>
+<p begin="01:13:59.179" end="01:14:06.480" style="s2">contributed to the I don&#39;t know in the digital ass and then</p>
+<p begin="01:14:03.179" end="01:14:09.719" style="s2">goes to the I know what he has or he</p>
+<p begin="01:14:06.480" end="01:14:11.820" style="s2">has to be Nato digital the document is</p>
+<p begin="01:14:09.719" end="01:14:13.739" style="s2">Originally N  digital act or it has</p>
+<p begin="01:14:11.820" end="01:14:17.340" style="s2">to be a dematerialized document in a</p>
+<p begin="01:14:13.739" end="01:14:19.980" style="s2">notary&#39;s office, right. Digital tornado and then it has</p>
+<p begin="01:14:17.340" end="01:14:22.860" style="s2">it goes through a validation by</p>
+<p begin="01:14:19.980" end="01:14:24.780" style="s2">the agency&#39;s server, the dispatch, which is what the</p>
+<p begin="01:14:22.860" end="01:14:27.900" style="s2">server produces, which is what will be</p>
+<p begin="01:14:24.780" end="01:14:30.600" style="s2">inserted in the book, anyway, there will be</p>
+<p begin="01:14:27.900" end="01:14:33.360" style="s2">a pre-ready draft that the analyst will</p>
+<p begin="01:14:30.600" end="01:14:36.420" style="s2">check this analyst signs he has</p>
+<p begin="01:14:33.360" end="01:14:39.380" style="s2">to give his OK anyway, the management</p>
+<p begin="01:14:36.420" end="01:14:39.380" style="s2">has ok too</p>
+<p begin="01:14:42.239" end="01:14:47.400" style="s2">great the next question here it is</p>
+<p begin="01:14:45.659" end="01:14:48.980" style="s2">directed to Samir but I will also give a</p>
+<p begin="01:14:47.400" end="01:14:50.940" style="s2">referral here</p>
+<p begin="01:14:48.980" end="01:14:53.400" style="s2">to the person who sent her  was</p>
+<p begin="01:14:50.940" end="01:14:55.020" style="s2">interested to know what the system</p>
+<p begin="01:14:53.400" end="01:14:57.840" style="s2">is that involves the ministry of</p>
+<p begin="01:14:55.020" end="01:15:00.540" style="s2">economy and how do you ask</p>
+<p begin="01:14:57.840" end="01:15:05.219" style="s2">to get the contact etc. It&#39;s called</p>
+<p begin="01:15:00.540" end="01:15:07.560" style="s2">Startup gav And then I recommend looking for the</p>
+<p begin="01:15:05.219" end="01:15:09.360" style="s2">superintendent of the area, because the</p>
+<p begin="01:15:07.560" end="01:15:11.040" style="s2">superintendent knowing what it is about and</p>
+<p begin="01:15:09.360" end="01:15:13.080" style="s2">presenting  the proposal What do you think</p>
+<p begin="01:15:11.040" end="01:15:15.480" style="s2">could be implemented has some</p>
+<p begin="01:15:13.080" end="01:15:19.520" style="s2">rules has some limitations right</p>
+<p begin="01:15:15.480" end="01:15:22.560" style="s2">friends he has already introduced us here the</p>
+<p begin="01:15:19.520" end="01:15:25.920" style="s2">form of organization is limited right something</p>
+<p begin="01:15:22.560" end="01:15:27.900" style="s2">that  it gives us infinite resources, you don&#39;t have to</p>
+<p begin="01:15:25.920" end="01:15:29.880" style="s2">follow a sequence there, but it is something to</p>
+<p begin="01:15:27.900" end="01:15:31.739" style="s2">be considered, even as you</p>
+<p begin="01:15:29.880" end="01:15:33.900" style="s2">told me in the back seat, that</p>
+<p begin="01:15:31.739" end="01:15:36.500" style="s2">we are now going through this</p>
+<p begin="01:15:33.900" end="01:15:39.300" style="s2">process of</p>
+<p begin="01:15:36.500" end="01:15:40.679" style="s2">choosing a subject to be developed</p>
+<p begin="01:15:39.300" end="01:15:43.520" style="s2">by the agency</p>
+<p begin="01:15:40.679" end="01:15:46.800" style="s2">the next question,</p>
+<p begin="01:15:43.520" end="01:15:48.719" style="s2">what people will assess is the</p>
+<p begin="01:15:46.800" end="01:15:50.179" style="s2">social impact you have of your idea</p>
+<p begin="01:15:48.719" end="01:15:53.580" style="s2">or your need</p>
+<p begin="01:15:50.179" end="01:15:56.159" style="s2">if the impact justifies the effort is</p>
+<p begin="01:15:53.580" end="01:15:57.719" style="s2">always a sense of digitization Ok,</p>
+<p begin="01:15:56.159" end="01:16:00.120" style="s2">whoever is providing this is digitization</p>
+<p begin="01:15:57.719" end="01:16:04.040" style="s2">you take it out and if this digitization</p>
+<p begin="01:16:00.120" end="01:16:07.260" style="s2">it comes to generate a social impact is nice</p>
+<p begin="01:16:04.040" end="01:16:09.300" style="s2">but as Nonato said people go</p>
+<p begin="01:16:07.260" end="01:16:11.280" style="s2">if you want you can also look for me</p>
+<p begin="01:16:09.300" end="01:16:12.719" style="s2">too what I can help is also</p>
+<p begin="01:16:11.280" end="01:16:15.440" style="s2">available</p>
+<p begin="01:16:12.719" end="01:16:19.260" style="s2">Great then Startup gov</p>
+<p begin="01:16:15.440" end="01:16:21.300" style="s2">one more question from Marcos ledu about the</p>
+<p begin="01:16:19.260" end="01:16:23.340" style="s2">reuse of brands you mentioned in the</p>
+<p begin="01:16:21.300" end="01:16:25.440" style="s2">presentation  Luciana, it would be interesting to</p>
+<p begin="01:16:23.340" end="01:16:28.400" style="s2">keep the history of the aircraft&#39;s profile</p>
+<p begin="01:16:25.440" end="01:16:28.400" style="s2">on the</p>
+<p begin="01:16:31.219" end="01:16:40.140" style="s2">mask&#39;s open pages, so the reuse of brands isn&#39;t</p>
+<p begin="01:16:36.320" end="01:16:42.239" style="s2">widely requested by the market, anyway, it</p>
+<p begin="01:16:40.140" end="01:16:44.520" style="s2">&#39;s a  work, of course, we</p>
+<p begin="01:16:42.239" end="01:16:48.000" style="s2">need to have the history in the same way</p>
+<p begin="01:16:44.520" end="01:16:50.520" style="s2">as today, as in the fa, I&#39;m going to</p>
+<p begin="01:16:48.000" end="01:16:54.120" style="s2">talk about our North American brothers, right, if</p>
+<p begin="01:16:50.520" end="01:16:56.760" style="s2">you do a search on their database for</p>
+<p begin="01:16:54.120" end="01:16:59.159" style="s2">one November one two three four it will</p>
+<p begin="01:16:56.760" end="01:17:01.560" style="s2">appear all the time  history of who was</p>
+<p begin="01:16:59.159" end="01:17:03.960" style="s2">November one two three four was the skies</p>
+<p begin="01:17:01.560" end="01:17:06.780" style="s2">not Boeing anyway any other aircraft</p>
+<p begin="01:17:03.960" end="01:17:09.120" style="s2">and such all this history of what it was and</p>
+<p begin="01:17:06.780" end="01:17:11.520" style="s2">year is the beginning and year of end that</p>
+<p begin="01:17:09.120" end="01:17:14.040" style="s2">brand was used by this aircraft</p>
+<p begin="01:17:11.520" end="01:17:16.080" style="s2">here we don&#39;t understand we have  a whole</p>
+<p begin="01:17:14.040" end="01:17:17.520" style="s2">history of it, so there&#39;s all the part of the</p>
+<p begin="01:17:16.080" end="01:17:20.699" style="s2">book that we really need to</p>
+<p begin="01:17:17.520" end="01:17:22.880" style="s2">protect from what it was like today it&#39;s</p>
+<p begin="01:17:20.699" end="01:17:25.940" style="s2">done, today it&#39;s</p>
+<p begin="01:17:22.880" end="01:17:28.920" style="s2">practically it&#39;s totally manual, right</p>
+<p begin="01:17:25.940" end="01:17:31.199" style="s2">in the specific cases of the resolution of</p>
+<p begin="01:17:28.920" end="01:17:34.560" style="s2">Article 85 that are granted, right change</p>
+<p begin="01:17:31.199" end="01:17:36.719" style="s2">of brands  right, we change the brand then</p>
+<p begin="01:17:34.560" end="01:17:37.699" style="s2">what we do Cancel the previous brand</p>
+<p begin="01:17:36.719" end="01:17:40.620" style="s2"></p>
+<p begin="01:17:37.699" end="01:17:42.719" style="s2">open the new brand I&#39;ll give the</p>
+<p begin="01:17:40.620" end="01:17:45.420" style="s2">classic example loss in drug trafficking this</p>
+<p begin="01:17:42.719" end="01:17:47.760" style="s2">aircraft was seized Union gave the</p>
+<p begin="01:17:45.420" end="01:17:49.980" style="s2">loss  nto and it was a person there in good faith</p>
+<p begin="01:17:47.760" end="01:17:52.260" style="s2">and acquired this aircraft at auction she</p>
+<p begin="01:17:49.980" end="01:17:53.940" style="s2">has, according to the term of the resolution, the</p>
+<p begin="01:17:52.260" end="01:17:56.159" style="s2">right to see here in the one in which she asks for the</p>
+<p begin="01:17:53.940" end="01:17:58.440" style="s2">change of brand will be granted</p>
+<p begin="01:17:56.159" end="01:18:00.600" style="s2">so what do I do the old brand</p>
+<p begin="01:17:58.440" end="01:18:02.640" style="s2">used there  in drug trafficking, I</p>
+<p begin="01:18:00.600" end="01:18:04.739" style="s2">cancel the registration. So</p>
+<p begin="01:18:02.640" end="01:18:08.159" style="s2">whoever asks for the certificate will see that that</p>
+<p begin="01:18:04.739" end="01:18:10.620" style="s2">brand has been cancelled.</p>
+<p begin="01:18:08.159" end="01:18:13.440" style="s2"></p>
+<p begin="01:18:10.620" end="01:18:15.920" style="s2"></p>
+<p begin="01:18:13.440" end="01:18:18.900" style="s2">so</p>
+<p begin="01:18:15.920" end="01:18:21.840" style="s2">there is no loss of traceability, which is</p>
+<p begin="01:18:18.900" end="01:18:25.640" style="s2">important for the agency, so</p>
+<p begin="01:18:21.840" end="01:18:25.640" style="s2">that aircraft is different today,</p>
+<p begin="01:18:25.860" end="01:18:30.260" style="s2">so it&#39;s very manual, but our intention</p>
+<p begin="01:18:28.140" end="01:18:32.940" style="s2">is not to leave anything manual,</p>
+<p begin="01:18:30.260" end="01:18:35.460" style="s2">and it&#39;s important to emphasize that, right?</p>
+<p begin="01:18:32.940" end="01:18:37.380" style="s2"></p>
+<p begin="01:18:35.460" end="01:18:39.960" style="s2">which is the bottleneck that we have, right to</p>
+<p begin="01:18:37.380" end="01:18:42.300" style="s2">take shape, so it will only go forward</p>
+<p begin="01:18:39.960" end="01:18:45.300" style="s2">to have a Wide reuse of brands,</p>
+<p begin="01:18:42.300" end="01:18:46.400" style="s2">mainly to have a way to track not</p>
+<p begin="01:18:45.300" end="01:18:49.560" style="s2">only</p>
+<p begin="01:18:46.400" end="01:18:51.060" style="s2">in the inspection system but in</p>
+<p begin="01:18:49.560" end="01:18:53.520" style="s2">all systems, right, it involves a lot  the thing</p>
+<p begin="01:18:51.060" end="01:18:55.580" style="s2">many times, lawsuits appear</p>
+<p begin="01:18:53.520" end="01:18:59.820" style="s2">in the future, you know, we really have to be</p>
+<p begin="01:18:55.580" end="01:19:01.800" style="s2">able to separate the two things there in</p>
+<p begin="01:18:59.820" end="01:19:04.380" style="s2">a very clear way,</p>
+<p begin="01:19:01.800" end="01:19:06.540" style="s2">right, guys, I, once again, like this I</p>
+<p begin="01:19:04.380" end="01:19:09.739" style="s2">appreciate some manifestations here</p>
+<p begin="01:19:06.540" end="01:19:12.060" style="s2">that appeared in the slider</p>
+<p begin="01:19:09.739" end="01:19:14.159" style="s2">congratulating the work that  is being</p>
+<p begin="01:19:12.060" end="01:19:18.420" style="s2">done I think that the questions here</p>
+<p begin="01:19:14.159" end="01:19:20.480" style="s2">are they are over</p>
+<p begin="01:19:18.420" end="01:19:23.640" style="s2">And then I want</p>
+<p begin="01:19:20.480" end="01:19:25.500" style="s2">to close here, right I</p>
+<p begin="01:19:23.640" end="01:19:27.179" style="s2">wanted to highlight this issue, right so</p>
+<p begin="01:19:25.500" end="01:19:30.239" style="s2">we have a work that has been</p>
+<p begin="01:19:27.179" end="01:19:32.760" style="s2">done for some time that was facilitated</p>
+<p begin="01:19:30.239" end="01:19:35.600" style="s2">with the edition of the Provisional Measure  that</p>
+<p begin="01:19:32.760" end="01:19:37.860" style="s2">removed some constraints</p>
+<p begin="01:19:35.600" end="01:19:40.620" style="s2">that we had in terms of bureaucracy</p>
+<p begin="01:19:37.860" end="01:19:43.500" style="s2">that made it possible for us to improve the</p>
+<p begin="01:19:40.620" end="01:19:46.080" style="s2">process here, it also had strong support</p>
+<p begin="01:19:43.500" end="01:19:50.460" style="s2"></p>
+<p begin="01:19:46.080" end="01:19:52.500" style="s2">from the Information Technology superintendence, that always dedicated all the</p>
+<p begin="01:19:50.460" end="01:19:55.620" style="s2">necessary attention for us to move forward,</p>
+<p begin="01:19:52.500" end="01:19:58.219" style="s2">right I see that they are  they are not Samir but</p>
+<p begin="01:19:55.620" end="01:20:00.420" style="s2">Assunção and several servers are</p>
+<p begin="01:19:58.219" end="01:20:01.320" style="s2">enthusiastic about this whole subject that</p>
+<p begin="01:20:00.420" end="01:20:02.820" style="s2">we are talking about transforming</p>
+<p begin="01:20:01.320" end="01:20:05.400" style="s2">digital action as I said before, right Much</p>
+<p begin="01:20:02.820" end="01:20:06.780" style="s2">more than we have, right, being, I think</p>
+<p begin="01:20:05.400" end="01:20:09.719" style="s2">it&#39;s a very important first element</p>
+<p begin="01:20:06.780" end="01:20:13.080" style="s2">for our</p>
+<p begin="01:20:09.719" end="01:20:15.600" style="s2">digital transformation, but it&#39;s not just that it&#39;s a</p>
+<p begin="01:20:13.080" end="01:20:16.860" style="s2">conversation to customize and</p>
+<p begin="01:20:15.600" end="01:20:18.360" style="s2">improve the user experience.</p>
+<p begin="01:20:16.860" end="01:20:20.460" style="s2">reducing our</p>
+<p begin="01:20:18.360" end="01:20:23.840" style="s2">administrative bonus is part of this</p>
+<p begin="01:20:20.460" end="01:20:26.699" style="s2">script and moving forward even further, seeking to</p>
+<p begin="01:20:23.840" end="01:20:29.580" style="s2">make automatic simplified</p>
+<p begin="01:20:26.699" end="01:20:31.980" style="s2">what is possible I think this is the</p>
+<p begin="01:20:29.580" end="01:20:33.179" style="s2">way to go, right?</p>
+<p begin="01:20:31.980" end="01:20:35.280" style="s2"></p>
+<p begin="01:20:33.179" end="01:20:37.380" style="s2"></p>
+<p begin="01:20:35.280" end="01:20:38.520" style="s2">it&#39;s the interaction, right, it</p>
+<p begin="01:20:37.380" end="01:20:41.340" style="s2">&#39;s often very easy for us to</p>
+<p begin="01:20:38.520" end="01:20:45.120" style="s2">keep looking at our</p>
+<p begin="01:20:41.340" end="01:20:47.340" style="s2">view of the process from our own perspective and not consider</p>
+<p begin="01:20:45.120" end="01:20:49.500" style="s2">what the user who is dealing with</p>
+<p begin="01:20:47.340" end="01:20:51.960" style="s2">on a daily basis there with our systems that</p>
+<p begin="01:20:49.500" end="01:20:53.340" style="s2">has a question that needs answered</p>
+<p begin="01:20:51.960" end="01:20:55.920" style="s2">that needs to know  what needs to be</p>
+<p begin="01:20:53.340" end="01:20:58.980" style="s2">done, anyway, we have to understand</p>
+<p begin="01:20:55.920" end="01:21:00.659" style="s2">this user perspective so I</p>
+<p begin="01:20:58.980" end="01:21:04.199" style="s2">thank Luciana for the presentation,</p>
+<p begin="01:21:00.659" end="01:21:05.659" style="s2">also Júlio and  Samir for the</p>
+<p begin="01:21:04.199" end="01:21:07.640" style="s2">explanations here for</p>
+<p begin="01:21:05.659" end="01:21:11.420" style="s2">the</p>
+<p begin="01:21:07.640" end="01:21:14.040" style="s2">demonstration here of the system and</p>
+<p begin="01:21:11.420" end="01:21:16.520" style="s2">we hope to bring other news soon about</p>
+<p begin="01:21:14.040" end="01:21:20.699" style="s2">the aeronautical record</p>
+<p begin="01:21:16.520" end="01:21:23.520" style="s2">and improvements, right simplification and also</p>
+<p begin="01:21:20.699" end="01:21:26.280" style="s2">the celebration of the 10th anniversary of the capital</p>
+<p begin="01:21:23.520" end="01:21:29.280" style="s2">Convention, right, it&#39;s going to be a party,</p>
+<p begin="01:21:26.280" end="01:21:30.840" style="s2">thank you all very much.  to</p>
+<p begin="01:21:29.280" end="01:21:33.320" style="s2">everyone who followed the events here</p>
+<p begin="01:21:30.840" end="01:21:36.060" style="s2">all the people who sent</p>
+<p begin="01:21:33.320" end="01:21:39.080" style="s2">questions and the demonstrations</p>
+<p begin="01:21:36.060" end="01:21:41.820" style="s2">once again and have a good week</p>
+<p begin="01:21:39.080" end="01:21:43.699" style="s2">I thank you too I know I would also like to</p>
+<p begin="01:21:41.820" end="01:21:46.040" style="s2">thank Júlio publicly who</p>
+<p begin="01:21:43.699" end="01:21:49.140" style="s2">has shared with us</p>
+<p begin="01:21:46.040" end="01:21:51.679" style="s2">Luciana also at heratically ok</p>
+<p begin="01:21:49.140" end="01:21:51.679" style="s2">congratulations</p>
+<p begin="01:21:52.280" end="01:21:57.719" style="s2">I also wanted to  I would also like to thank</p>
+<p begin="01:21:55.800" end="01:21:59.520" style="s2">Samir because he also forces me</p>
+<p begin="01:21:57.719" end="01:22:01.080" style="s2">to reflect on the</p>
+<p begin="01:21:59.520" end="01:22:04.020" style="s2">procedures that we had</p>
+<p begin="01:22:01.080" end="01:22:06.360" style="s2">previously adopted.</p>
+<p begin="01:22:04.020" end="01:22:10.080" style="s2"></p>
+<p begin="01:22:06.360" end="01:22:11.760" style="s2"></p>
+<p begin="01:22:10.080" end="01:22:13.739" style="s2">in the</p>
+<p begin="01:22:11.760" end="01:22:16.340" style="s2">processes that we do this is a</p>
+<p begin="01:22:13.739" end="01:22:16.340" style="s2">writing, it did well</p>
+<p begin="01:22:19.560" end="01:22:24.300" style="s2">So let&#39;s close  I&#39;m here that we</p>
+<p begin="01:22:21.300" end="01:22:26.820" style="s2">arrived at the end of the allotted time</p>
+<p begin="01:22:24.300" end="01:22:29.060" style="s2">Thank you very much, have a nice week everyone, see you later</p>
+<p begin="01:22:26.820" end="01:22:29.060" style="s2"></p>
+</div>
+</body>
+</tt>
