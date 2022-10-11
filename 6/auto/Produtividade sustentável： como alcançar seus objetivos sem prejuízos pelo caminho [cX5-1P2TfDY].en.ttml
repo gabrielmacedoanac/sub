@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:01:27.119" end="00:01:32.460" style="s2">Good morning, ANAC team, what a pleasure to be here</p>
+<p begin="00:01:29.580" end="00:01:34.380" style="s2">with you today, such a special day</p>
+<p begin="00:01:32.460" end="00:01:37.200" style="s2">for us to talk about such an important topic,</p>
+<p begin="00:01:34.380" end="00:01:39.240" style="s2">I bring it here on behalf of the</p>
+<p begin="00:01:37.200" end="00:01:41.820" style="s2">team of the Superintendence</p>
+<p begin="00:01:39.240" end="00:01:43.020" style="s2"></p>
+<p begin="00:01:41.820" end="00:01:45.180" style="s2"></p>
+<p begin="00:01:43.020" end="00:01:47.939" style="s2">of people management.  here giving us all the</p>
+<p begin="00:01:45.180" end="00:01:51.540" style="s2">support we have the honor to count</p>
+<p begin="00:01:47.939" end="00:01:53.820" style="s2">today with Isabela Camargo journalist is</p>
+<p begin="00:01:51.540" end="00:01:56.159" style="s2">a person I&#39;m a fan I follow her on</p>
+<p begin="00:01:53.820" end="00:01:57.960" style="s2">Linkedin I think her speech has</p>
+<p begin="00:01:56.159" end="00:02:01.079" style="s2">touched hearts and minds and we</p>
+<p begin="00:01:57.960" end="00:02:03.320" style="s2">managed to bring Isabela today to</p>
+<p begin="00:02:01.079" end="00:02:06.659" style="s2">talk to the agency team about</p>
+<p begin="00:02:03.320" end="00:02:08.780" style="s2">sustainable productivity</p>
+<p begin="00:02:06.659" end="00:02:11.879" style="s2">we talked to Isabela yesterday and</p>
+<p begin="00:02:08.780" end="00:02:13.379" style="s2">explained to her that here at the agency A</p>
+<p begin="00:02:11.879" end="00:02:15.300" style="s2">Gente has been working with</p>
+<p begin="00:02:13.379" end="00:02:17.280" style="s2">performance management that we no longer have</p>
+<p begin="00:02:15.300" end="00:02:20.280" style="s2">frequency control and that now</p>
+<p begin="00:02:17.280" end="00:02:22.560" style="s2">we agree on results and deliveries with</p>
+<p begin="00:02:20.280" end="00:02:25.739" style="s2">all  people in all layers of the</p>
+<p begin="00:02:22.560" end="00:02:28.140" style="s2">organization and how important it is for</p>
+<p begin="00:02:25.739" end="00:02:30.900" style="s2">us to carry out this performance in a</p>
+<p begin="00:02:28.140" end="00:02:33.660" style="s2">sustainable way, balancing our lives</p>
+<p begin="00:02:30.900" end="00:02:35.700" style="s2">professional and our personal life And then there is</p>
+<p begin="00:02:33.660" end="00:02:37.319" style="s2">no one better than her to bring</p>
+<p begin="00:02:35.700" end="00:02:39.420" style="s2">this subject up to us so I</p>
+<p begin="00:02:37.319" end="00:02:41.160" style="s2">won&#39;t delay here.</p>
+<p begin="00:02:39.420" end="00:02:42.480" style="s2"></p>
+<p begin="00:02:41.160" end="00:02:45.180" style="s2"></p>
+<p begin="00:02:42.480" end="00:02:47.459" style="s2">you to</p>
+<p begin="00:02:45.180" end="00:02:49.019" style="s2">interact on the slide and remember to</p>
+<p begin="00:02:47.459" end="00:02:51.420" style="s2">share the YouTube link later</p>
+<p begin="00:02:49.019" end="00:02:52.980" style="s2">because this lecture will be recorded</p>
+<p begin="00:02:51.420" end="00:02:55.019" style="s2">and we want it to reach all the</p>
+<p begin="00:02:52.980" end="00:02:56.879" style="s2">people of the agency ok guys, great pleasure to be</p>
+<p begin="00:02:55.019" end="00:02:58.140" style="s2">here with you remembering this</p>
+<p begin="00:02:56.879" end="00:03:00.180" style="s2">scoundrel Mariana Dal for those who don&#39;t</p>
+<p begin="00:02:58.140" end="00:03:01.860" style="s2">know me  forgot to introduce myself at</p>
+<p begin="00:03:00.180" end="00:03:04.800" style="s2">Isabela it&#39;s so happy to be here with</p>
+<p begin="00:03:01.860" end="00:03:07.080" style="s2">you that I ended up skipping this part</p>
+<p begin="00:03:04.800" end="00:03:08.280" style="s2">but here&#39;s a word for and</p>
+<p begin="00:03:07.080" end="00:03:11.040" style="s2">I really appreciate your presence</p>
+<p begin="00:03:08.280" end="00:03:13.440" style="s2">thank you stage is</p>
+<p begin="00:03:11.040" end="00:03:16.140" style="s2">yours thank you so much Mari for this introduction</p>
+<p begin="00:03:13.440" end="00:03:19.260" style="s2">good morning to you good morning to everyone who</p>
+<p begin="00:03:16.140" end="00:03:22.260" style="s2">they are choosing us see we will have</p>
+<p begin="00:03:19.260" end="00:03:26.040" style="s2">a time together a time when I</p>
+<p begin="00:03:22.260" end="00:03:30.140" style="s2">Isabela will be the instrument of various</p>
+<p begin="00:03:26.040" end="00:03:32.700" style="s2">information that as you will</p>
+<p begin="00:03:30.140" end="00:03:36.019" style="s2">understand  Realizing how connected we are</p>
+<p begin="00:03:32.700" end="00:03:36.019" style="s2">to how much</p>
+<p begin="00:03:36.060" end="00:03:43.500" style="s2">our attitude can influence not</p>
+<p begin="00:03:41.640" end="00:03:45.720" style="s2">only our health but the health of those</p>
+<p begin="00:03:43.500" end="00:03:47.819" style="s2">around us, I did my best here in</p>
+<p begin="00:03:45.720" end="00:03:49.920" style="s2">this next hour to share as</p>
+<p begin="00:03:47.819" end="00:03:52.560" style="s2">much information as possible and I hope it</p>
+<p begin="00:03:49.920" end="00:03:55.560" style="s2">makes sense to you, but that&#39;s how it is</p>
+<p begin="00:03:52.560" end="00:03:57.480" style="s2">I have some slides here that will only help</p>
+<p begin="00:03:55.560" end="00:03:59.819" style="s2">to illustrate some</p>
+<p begin="00:03:57.480" end="00:04:01.920" style="s2">things that I&#39;m talking about, some I</p>
+<p begin="00:03:59.819" end="00:04:04.680" style="s2">&#39;m going to ask you to play with me, ok</p>
+<p begin="00:04:01.920" end="00:04:07.560" style="s2">So that you can answer later,</p>
+<p begin="00:04:04.680" end="00:04:10.519" style="s2">feel free now, it&#39;s very important that if</p>
+<p begin="00:04:07.560" end="00:04:13.500" style="s2">you&#39;re here with me, you&#39;re with me right away.</p>
+<p begin="00:04:10.519" end="00:04:15.780" style="s2">talk more about this</p>
+<p begin="00:04:13.500" end="00:04:17.400" style="s2">multitasking attitude that we have is not ah I</p>
+<p begin="00:04:15.780" end="00:04:19.079" style="s2">&#39;ll let Isabela talk about something here</p>
+<p begin="00:04:17.400" end="00:04:20.459" style="s2">but I need what she&#39;s</p>
+<p begin="00:04:19.079" end="00:04:23.940" style="s2">talking about</p>
+<p begin="00:04:20.459" end="00:04:27.500" style="s2">now I&#39;m going to explain what this causes in</p>
+<p begin="00:04:23.940" end="00:04:29.479" style="s2">our health, ok Dona Mariana</p>
+<p begin="00:04:27.500" end="00:04:33.020" style="s2">So look</p>
+<p begin="00:04:29.479" end="00:04:36.180" style="s2">and everything else that  you want to</p>
+<p begin="00:04:33.020" end="00:04:38.460" style="s2">share all manifestations</p>
+<p begin="00:04:36.180" end="00:04:40.380" style="s2">are very welcome so feel free</p>
+<p begin="00:04:38.460" end="00:04:43.500" style="s2">we will reserve a good time for the</p>
+<p begin="00:04:40.380" end="00:04:45.479" style="s2">end for us to exchange  But if</p>
+<p begin="00:04:43.500" end="00:04:48.180" style="s2">you want to express yourself during</p>
+<p begin="00:04:45.479" end="00:04:50.639" style="s2">my presentation, just take your</p>
+<p begin="00:04:48.180" end="00:04:52.680" style="s2">comment to the platform you</p>
+<p begin="00:04:50.639" end="00:04:56.100" style="s2">are on, and then Mari also helps me by</p>
+<p begin="00:04:52.680" end="00:04:58.800" style="s2">filtering and bringing it at the first</p>
+<p begin="00:04:56.100" end="00:05:00.240" style="s2">opportunity.</p>
+<p begin="00:04:58.800" end="00:05:02.400" style="s2"></p>
+<p begin="00:05:00.240" end="00:05:06.000" style="s2">are seeing the screen right so</p>
+<p begin="00:05:02.400" end="00:05:10.820" style="s2">let&#39;s see how to achieve our</p>
+<p begin="00:05:06.000" end="00:05:15.479" style="s2">goals without losses along the way</p>
+<p begin="00:05:10.820" end="00:05:18.180" style="s2">Isabela But you saying this because we</p>
+<p begin="00:05:15.479" end="00:05:21.600" style="s2">already know we adults know that for</p>
+<p begin="00:05:18.180" end="00:05:23.720" style="s2">every choice there are losses Me Whenever</p>
+<p begin="00:05:21.600" end="00:05:27.600" style="s2">I&#39;m choosing one thing I&#39;m</p>
+<p begin="00:05:23.720" end="00:05:30.419" style="s2">not choosing others  you can</p>
+<p begin="00:05:27.600" end="00:05:33.300" style="s2">lose several things during our</p>
+<p begin="00:05:30.419" end="00:05:36.900" style="s2">journey except two</p>
+<p begin="00:05:33.300" end="00:05:38.759" style="s2">health and relationships</p>
+<p begin="00:05:36.900" end="00:05:40.820" style="s2">and when I say relationship I&#39;m already</p>
+<p begin="00:05:38.759" end="00:05:43.340" style="s2">saying relationship with you</p>
+<p begin="00:05:40.820" end="00:05:46.320" style="s2">relationship with your family</p>
+<p begin="00:05:43.340" end="00:05:48.720" style="s2">relationship with the people at your</p>
+<p begin="00:05:46.320" end="00:05:50.820" style="s2">work it was this order ok and</p>
+<p begin="00:05:48.720" end="00:05:54.720" style="s2">we usually reverse the order</p>
+<p begin="00:05:50.820" end="00:05:57.240" style="s2">So how to achieve the  that you want</p>
+<p begin="00:05:54.720" end="00:05:58.759" style="s2">because each one has daily goals, monthly,</p>
+<p begin="00:05:57.240" end="00:06:02.820" style="s2">weekly,</p>
+<p begin="00:05:58.759" end="00:06:07.919" style="s2">time.  how are we going to do</p>
+<p begin="00:06:02.820" end="00:06:10.560" style="s2">this being responsible, committed but</p>
+<p begin="00:06:07.919" end="00:06:15.000" style="s2">without prejudice along the way and then Mari is the</p>
+<p begin="00:06:10.560" end="00:06:19.139" style="s2">following I&#39;m a big fan of all of you</p>
+<p begin="00:06:15.000" end="00:06:21.840" style="s2">because everyone who puts themselves at the service of</p>
+<p begin="00:06:19.139" end="00:06:23.400" style="s2">an organization that influences everyone&#39;s lives</p>
+<p begin="00:06:21.840" end="00:06:26.100" style="s2"></p>
+<p begin="00:06:23.400" end="00:06:29.880" style="s2">my deep respect to all of you  it</p>
+<p begin="00:06:26.100" end="00:06:32.600" style="s2">doesn&#39;t matter what area you work in and I</p>
+<p begin="00:06:29.880" end="00:06:36.060" style="s2">can only say this</p>
+<p begin="00:06:32.600" end="00:06:39.900" style="s2">because more than 20 years ago I started</p>
+<p begin="00:06:36.060" end="00:06:42.419" style="s2">working with radio and TV I went through the</p>
+<p begin="00:06:39.900" end="00:06:45.660" style="s2">main radio and TV stations in the</p>
+<p begin="00:06:42.419" end="00:06:48.180" style="s2">country very passionate very committed a</p>
+<p begin="00:06:45.660" end="00:06:50.819" style="s2">lot of orgasm</p>
+<p begin="00:06:48.180" end="00:06:52.259" style="s2">with pride Funny that we don&#39;t</p>
+<p begin="00:06:50.819" end="00:06:54.840" style="s2">likes to talk about no addiction, no</p>
+<p begin="00:06:52.259" end="00:06:59.759" style="s2">cigarettes, I don&#39;t drink, but I work</p>
+<p begin="00:06:54.840" end="00:07:02.819" style="s2">our mother from heaven, there those who don&#39;t</p>
+<p begin="00:06:59.759" end="00:07:07.080" style="s2">appreciate a schedule full of</p>
+<p begin="00:07:02.819" end="00:07:09.479" style="s2">commitment but then people I can only</p>
+<p begin="00:07:07.080" end="00:07:11.940" style="s2">talk about something I lived</p>
+<p begin="00:07:09.479" end="00:07:14.240" style="s2">So until I live the experience that I</p>
+<p begin="00:07:11.940" end="00:07:14.240" style="s2">lived</p>
+<p begin="00:07:14.340" end="00:07:20.520" style="s2">talk  for me, talking about</p>
+<p begin="00:07:17.900" end="00:07:23.780" style="s2">micropus for health maintenance was</p>
+<p begin="00:07:20.520" end="00:07:27.440" style="s2">something farther from the world, silly, right,</p>
+<p begin="00:07:23.780" end="00:07:30.360" style="s2">but very passionate, very caloric</p>
+<p begin="00:07:27.440" end="00:07:32.039" style="s2">I</p>
+<p begin="00:07:30.360" end="00:07:34.380" style="s2">arrived at ANAC I arrived at the place  r what I always wanted to</p>
+<p begin="00:07:32.039" end="00:07:36.240" style="s2">work on, I arrived at the main</p>
+<p begin="00:07:34.380" end="00:07:38.300" style="s2">broadcaster in the country when I was</p>
+<p begin="00:07:36.240" end="00:07:40.380" style="s2">interviewing Fernanda Montenegro, right,</p>
+<p begin="00:07:38.300" end="00:07:42.620" style="s2">hitting that Bolão what happened to</p>
+<p begin="00:07:40.380" end="00:07:42.620" style="s2">me</p>
+<p begin="00:07:43.979" end="00:07:50.699" style="s2">I had a live blackout it&#39;s as if your</p>
+<p begin="00:07:48.360" end="00:07:53.940" style="s2">system fell, you know,</p>
+<p begin="00:07:50.699" end="00:07:55.860" style="s2">blackout no one else is watching  nothing in the</p>
+<p begin="00:07:53.940" end="00:07:59.099" style="s2">sky it</p>
+<p begin="00:07:55.860" end="00:08:01.740" style="s2">&#39;s like the gps lost signal</p>
+<p begin="00:07:59.099" end="00:08:03.599" style="s2">this blackout i was talking about the</p>
+<p begin="00:08:01.740" end="00:08:06.780" style="s2">weather forecast i forgot the name</p>
+<p begin="00:08:03.599" end="00:08:08.580" style="s2">of my state capital so be</p>
+<p begin="00:08:06.780" end="00:08:11.400" style="s2">careful with the kind of forgetting</p>
+<p begin="00:08:08.580" end="00:08:15.380" style="s2">you have one thing i forgot the</p>
+<p begin="00:08:11.400" end="00:08:18.720" style="s2">house key to another  forgot where you live</p>
+<p begin="00:08:15.380" end="00:08:20.419" style="s2">but that was a consequence my</p>
+<p begin="00:08:18.720" end="00:08:23.520" style="s2">whole body was</p>
+<p begin="00:08:20.419" end="00:08:24.960" style="s2">short circuiting let&#39;s use</p>
+<p begin="00:08:23.520" end="00:08:26.900" style="s2">this term</p>
+<p begin="00:08:24.960" end="00:08:30.419" style="s2">blurred vision</p>
+<p begin="00:08:26.900" end="00:08:31.680" style="s2">dizziness when you say fusion actually I could</p>
+<p begin="00:08:30.419" end="00:08:35.039" style="s2">n&#39;t see anything because it was a</p>
+<p begin="00:08:31.680" end="00:08:37.560" style="s2">total blackout right then dizziness nausea</p>
+<p begin="00:08:35.039" end="00:08:40.760" style="s2">sweating shortness of breath tachycardia</p>
+<p begin="00:08:37.560" end="00:08:44.180" style="s2">all at the same time So</p>
+<p begin="00:08:40.760" end="00:08:47.339" style="s2">committed that I am I held the bills</p>
+<p begin="00:08:44.180" end="00:08:51.180" style="s2">I finished the newspaper I did one more when</p>
+<p begin="00:08:47.339" end="00:08:54.000" style="s2">the workday was over I went to the psychiatrist</p>
+<p begin="00:08:51.180" end="00:08:57.000" style="s2">And then I heard from him</p>
+<p begin="00:08:54.000" end="00:08:59.880" style="s2">Isabela you are experiencing</p>
+<p begin="00:08:57.000" end="00:09:02.640" style="s2">Burnout Syndrome and I said imagine Doctor I</p>
+<p begin="00:08:59.880" end="00:09:04.140" style="s2">love what I do and then he said That&#39;s why</p>
+<p begin="00:09:02.640" end="00:09:07.380" style="s2">even</p>
+<p begin="00:09:04.140" end="00:09:10.080" style="s2">people who love what they do are much</p>
+<p begin="00:09:07.380" end="00:09:12.540" style="s2">more likely to have The physical</p>
+<p begin="00:09:10.080" end="00:09:14.940" style="s2">and mental exhaustion that results from</p>
+<p begin="00:09:12.540" end="00:09:17.940" style="s2">chronic stress at work  workplace that was not</p>
+<p begin="00:09:14.940" end="00:09:21.260" style="s2">successfully managed</p>
+<p begin="00:09:17.940" end="00:09:24.899" style="s2">what I received from Diagnosis in 2018</p>
+<p begin="00:09:21.260" end="00:09:27.620" style="s2">today is like this for every 10 people who</p>
+<p begin="00:09:24.899" end="00:09:31.680" style="s2">are working Look at my little fingers</p>
+<p begin="00:09:27.620" end="00:09:35.760" style="s2">7 are experiencing some consequence of</p>
+<p begin="00:09:31.680" end="00:09:40.160" style="s2">stress and three are experiencing the worst</p>
+<p begin="00:09:35.760" end="00:09:44.459" style="s2">level of stress called Burnout</p>
+<p begin="00:09:40.160" end="00:09:46.980" style="s2">a  Isabela what a silly thing this is a</p>
+<p begin="00:09:44.459" end="00:09:49.620" style="s2">modern thing you invented the</p>
+<p begin="00:09:46.980" end="00:09:50.720" style="s2">name to say about the statue of tiredness</p>
+<p begin="00:09:49.620" end="00:09:53.700" style="s2">not</p>
+<p begin="00:09:50.720" end="00:09:55.760" style="s2">Burnout syndrome it is a new name for</p>
+<p begin="00:09:53.700" end="00:10:00.600" style="s2">a very old problem</p>
+<p begin="00:09:55.760" end="00:10:02.399" style="s2">in 1869 you sir Jorge Miller</p>
+<p begin="00:10:00.600" end="00:10:06.839" style="s2">wrote a book called América</p>
+<p begin="00:10:02.399" end="00:10:09.959" style="s2">Nervosres talking about neurasthenia  people</p>
+<p begin="00:10:06.839" end="00:10:13.279" style="s2">who were exhausted and nervous because</p>
+<p begin="00:10:09.959" end="00:10:13.279" style="s2">of modern civilization</p>
+<p begin="00:10:13.700" end="00:10:19.920" style="s2">1869 10 Years Before this other Lord</p>
+<p begin="00:10:17.880" end="00:10:22.200" style="s2">is on the best known side of all of us</p>
+<p begin="00:10:19.920" end="00:10:23.760" style="s2">T  homas Edison invented the</p>
+<p begin="00:10:22.200" end="00:10:27.000" style="s2">light bulb filament that we know</p>
+<p begin="00:10:23.760" end="00:10:33.360" style="s2">today so I didn&#39;t have an electric light bulb</p>
+<p begin="00:10:27.000" end="00:10:36.000" style="s2">and there were already people in deep exhaustion</p>
+<p begin="00:10:33.360" end="00:10:38.120" style="s2">due to modern civilization curious</p>
+<p begin="00:10:36.000" end="00:10:41.399" style="s2">this is not then</p>
+<p begin="00:10:38.120" end="00:10:44.760" style="s2">where I&#39;m trying to get</p>
+<p begin="00:10:41.399" end="00:10:48.079" style="s2">when We chose our profession</p>
+<p begin="00:10:44.760" end="00:10:52.560" style="s2">and when we  we are driven by the passion of</p>
+<p begin="00:10:48.079" end="00:10:56.660" style="s2">this profession we do not consider the</p>
+<p begin="00:10:52.560" end="00:10:56.660" style="s2">variables of this profession</p>
+<p begin="00:10:57.860" end="00:11:03.500" style="s2">that is,</p>
+<p begin="00:11:00.420" end="00:11:06.680" style="s2">each of us chose his profession</p>
+<p begin="00:11:03.500" end="00:11:09.019" style="s2">aiming for</p>
+<p begin="00:11:06.680" end="00:11:13.260" style="s2">the final result</p>
+<p begin="00:11:09.019" end="00:11:15.540" style="s2">without considering the situations the variables</p>
+<p begin="00:11:13.260" end="00:11:18.660" style="s2">that will cause adaptive stress that</p>
+<p begin="00:11:15.540" end="00:11:21.300" style="s2">is positive stress and chronic stress</p>
+<p begin="00:11:18.660" end="00:11:23.579" style="s2">which is negative stress and</p>
+<p begin="00:11:21.300" end="00:11:25.920" style="s2">stress people are equal cholesterol</p>
+<p begin="00:11:23.579" end="00:11:28.560" style="s2">has good and bad is the same as anxiety</p>
+<p begin="00:11:25.920" end="00:11:31.440" style="s2">has good and bad and when we</p>
+<p begin="00:11:28.560" end="00:11:34.920" style="s2">talk about stress</p>
+<p begin="00:11:31.440" end="00:11:38.820" style="s2">this is a very trivialized word</p>
+<p begin="00:11:34.920" end="00:11:42.120" style="s2">we forget a little bit to look for it  the</p>
+<p begin="00:11:38.820" end="00:11:43.740" style="s2">origin of the word this gentleman is not</p>
+<p begin="00:11:42.120" end="00:11:45.959" style="s2">Walt Disney he has this Mouse in his hand</p>
+<p begin="00:11:43.740" end="00:11:48.600" style="s2">he is the austrian endocrinologist</p>
+<p begin="00:11:45.959" end="00:11:52.380" style="s2">ranelli he was the one who brought it  the term of</p>
+<p begin="00:11:48.600" end="00:11:55.920" style="s2">physics for our daily life saying</p>
+<p begin="00:11:52.380" end="00:11:57.260" style="s2">that the effort of adaptation that our</p>
+<p begin="00:11:55.920" end="00:12:01.560" style="s2">organism</p>
+<p begin="00:11:57.260" end="00:12:04.040" style="s2">makes to deal with situations that affect</p>
+<p begin="00:12:01.560" end="00:12:06.660" style="s2">the internal balance is</p>
+<p begin="00:12:04.040" end="00:12:09.839" style="s2">called stress</p>
+<p begin="00:12:06.660" end="00:12:12.180" style="s2">He brought this term from physics to a</p>
+<p begin="00:12:09.839" end="00:12:14.040" style="s2">situation that has existed since the time of the</p>
+<p begin="00:12:12.180" end="00:12:16.260" style="s2">caves  It&#39;s been since when our</p>
+<p begin="00:12:14.040" end="00:12:18.660" style="s2">ancestors were there in the caves and</p>
+<p begin="00:12:16.260" end="00:12:21.920" style="s2">mammals appeared larger than us, the</p>
+<p begin="00:12:18.660" end="00:12:25.500" style="s2">body released a hormone called</p>
+<p begin="00:12:21.920" end="00:12:29.040" style="s2">cortisol For you to face or</p>
+<p begin="00:12:25.500" end="00:12:31.140" style="s2">run away from this threat, it&#39;s</p>
+<p begin="00:12:29.040" end="00:12:33.800" style="s2">just that people this is a natural response</p>
+<p begin="00:12:31.140" end="00:12:37.920" style="s2">of the body to some situation that</p>
+<p begin="00:12:33.800" end="00:12:39.779" style="s2">represents a threat So it&#39;s like this People  If</p>
+<p begin="00:12:37.920" end="00:12:43.019" style="s2">we were here in a nice room</p>
+<p begin="00:12:39.779" end="00:12:45.360" style="s2">at ANAC, pay attention If you have</p>
+<p begin="00:12:43.019" end="00:12:49.680" style="s2">multi-tasking for a little bit</p>
+<p begin="00:12:45.360" end="00:12:52.139" style="s2">And then Mari appears a cockroach in the middle</p>
+<p begin="00:12:49.680" end="00:12:54.420" style="s2">of our meeting</p>
+<p begin="00:12:52.139" end="00:12:57.600" style="s2">there are people who will run away from the</p>
+<p begin="00:12:54.420" end="00:12:59.459" style="s2">cockroach and there are people like me who go there</p>
+<p begin="00:12:57.600" end="00:13:01.860" style="s2">and kill cockroaches</p>
+<p begin="00:12:59.459" end="00:13:04.440" style="s2">the place grew, right people, so I</p>
+<p begin="00:13:01.860" end="00:13:07.500" style="s2">always dealt with cockroaches, you too but you were</p>
+<p begin="00:13:04.440" end="00:13:09.720" style="s2">going to run or without killing the cockroach and kill the</p>
+<p begin="00:13:07.500" end="00:13:13.560" style="s2">cockroach ready and you  m people here who</p>
+<p begin="00:13:09.720" end="00:13:16.380" style="s2">would rush to work noticed the same</p>
+<p begin="00:13:13.560" end="00:13:19.700" style="s2">situation can provoke</p>
+<p begin="00:13:16.380" end="00:13:22.139" style="s2">different reactions so throughout our day</p>
+<p begin="00:13:19.700" end="00:13:25.980" style="s2">regardless of the profession we are going to</p>
+<p begin="00:13:22.139" end="00:13:29.959" style="s2">deal with unforeseen adversities with</p>
+<p begin="00:13:25.980" end="00:13:33.899" style="s2">situations all day long that may or may not</p>
+<p begin="00:13:29.959" end="00:13:36.600" style="s2">cause adaptive or chronic stress it</p>
+<p begin="00:13:33.899" end="00:13:41.040" style="s2"></p>
+<p begin="00:13:36.600" end="00:13:43.500" style="s2">is easy to understand this super</p>
+<p begin="00:13:41.040" end="00:13:45.260" style="s2">for that  I need to show you that</p>
+<p begin="00:13:43.500" end="00:13:48.540" style="s2">the more</p>
+<p begin="00:13:45.260" end="00:13:51.720" style="s2">tired and exhausted the more extreme</p>
+<p begin="00:13:48.540" end="00:13:55.200" style="s2">our reasoning becomes, the worse</p>
+<p begin="00:13:51.720" end="00:13:58.339" style="s2">our reactions are So how come we</p>
+<p begin="00:13:55.200" end="00:14:02.220" style="s2">are full of tasks Yes all of us,</p>
+<p begin="00:13:58.339" end="00:14:04.380" style="s2">some more and some a little</p>
+<p begin="00:14:02.220" end="00:14:07.019" style="s2">less when Mari told me  that you</p>
+<p begin="00:14:04.380" end="00:14:08.120" style="s2">have a lot of autonomy and</p>
+<p begin="00:14:07.019" end="00:14:10.620" style="s2">flexibility</p>
+<p begin="00:14:08.120" end="00:14:12.380" style="s2">people who don&#39;t want it Autonomist</p>
+<p begin="00:14:10.620" end="00:14:14.720" style="s2">flexibility</p>
+<p begin="00:14:12.380" end="00:14:18.360" style="s2">with stability</p>
+<p begin="00:14:14.720" end="00:14:21.360" style="s2">This is anyone&#39;s dream is it not</p>
+<p begin="00:14:18.360" end="00:14:23.279" style="s2">I have professional stability and</p>
+<p begin="00:14:21.360" end="00:14:26.639" style="s2">I have flexibility of autonomy together</p>
+<p begin="00:14:23.279" end="00:14:29.540" style="s2">so they trust what I do</p>
+<p begin="00:14:26.639" end="00:14:29.540" style="s2">but we can&#39;t</p>
+<p begin="00:14:29.579" end="00:14:32.180" style="s2">live</p>
+<p begin="00:14:32.339" end="00:14:37.380" style="s2">with excess  trust I will</p>
+<p begin="00:14:35.459" end="00:14:39.839" style="s2">explain more about it so two</p>
+<p begin="00:14:37.380" end="00:14:41.699" style="s2">things an  We want to follow you I</p>
+<p begin="00:14:39.839" end="00:14:44.399" style="s2">need you to know What&#39;s the difference</p>
+<p begin="00:14:41.699" end="00:14:47.240" style="s2">between tiredness and exhaustion you</p>
+<p begin="00:14:44.399" end="00:14:50.579" style="s2">&#39;re tired rest ok it&#39;s</p>
+<p begin="00:14:47.240" end="00:14:53.120" style="s2">been a busy week Rested on the</p>
+<p begin="00:14:50.579" end="00:14:56.220" style="s2">weekend monday ok</p>
+<p begin="00:14:53.120" end="00:14:58.680" style="s2">exhaustion is different no exhaustion you</p>
+<p begin="00:14:56.220" end="00:15:02.399" style="s2">rest and</p>
+<p begin="00:14:58.680" end="00:15:04.199" style="s2">you&#39;re still tired you go on vacation and come back  angry</p>
+<p begin="00:15:02.399" end="00:15:06.240" style="s2">So when you&#39;re tired You</p>
+<p begin="00:15:04.199" end="00:15:09.180" style="s2">need to rest when you&#39;re</p>
+<p begin="00:15:06.240" end="00:15:11.100" style="s2">exhausted you need to change your lifestyle it</p>
+<p begin="00:15:09.180" end="00:15:15.680" style="s2"></p>
+<p begin="00:15:11.100" end="00:15:18.839" style="s2">&#39;s that simple and then after this</p>
+<p begin="00:15:15.680" end="00:15:21.139" style="s2">analysis you will understand if you are</p>
+<p begin="00:15:18.839" end="00:15:25.800" style="s2">sad or if you are depressed</p>
+<p begin="00:15:21.139" end="00:15:29.459" style="s2">depressed then we need to</p>
+<p begin="00:15:25.800" end="00:15:31.399" style="s2">organize the ideas around  of these</p>
+<p begin="00:15:29.459" end="00:15:35.279" style="s2">terms</p>
+<p begin="00:15:31.399" end="00:15:37.079" style="s2">accepting a situation is a fact</p>
+<p begin="00:15:35.279" end="00:15:39.420" style="s2">you are following me whether you</p>
+<p begin="00:15:37.079" end="00:15:41.519" style="s2">like it or not like it or not turning your nose up or</p>
+<p begin="00:15:39.420" end="00:15:44.699" style="s2">not Brazil is the most anxious country in the world</p>
+<p begin="00:15:41.519" end="00:15:47.100" style="s2">and then pathological anxiety is not That</p>
+<p begin="00:15:44.699" end="00:15:49.019" style="s2">anxiety that moves us just like</p>
+<p begin="00:15:47.100" end="00:15:51.660" style="s2">stress  what moves us is not what</p>
+<p begin="00:15:49.019" end="00:15:53.459" style="s2">paralyzes us is the second most stressed in the</p>
+<p begin="00:15:51.660" end="00:15:55.579" style="s2">world and the fifth most depressive in the</p>
+<p begin="00:15:53.459" end="00:15:55.579" style="s2">world</p>
+<p begin="00:15:56.279" end="00:16:00.300" style="s2">but half a million people were</p>
+<p begin="00:15:57.959" end="00:16:02.360" style="s2">away from work due to</p>
+<p begin="00:16:00.300" end="00:16:05.660" style="s2">mental illness in 2020</p>
+<p begin="00:16:02.360" end="00:16:05.660" style="s2">ah Isabela</p>
+<p begin="00:16:07.320" end="00:16:10.740" style="s2">I love it when they say that you know Maria</p>
+<p begin="00:16:09.300" end="00:16:15.540" style="s2">Inácio have any comments like that</p>
+<p begin="00:16:10.740" end="00:16:18.180" style="s2">in the chat you tell me Why did the</p>
+<p begin="00:16:15.540" end="00:16:21.959" style="s2">English Prime Minister Wilson</p>
+<p begin="00:16:18.180" end="00:16:25.079" style="s2">Churchill have nothing to do</p>
+<p begin="00:16:21.959" end="00:16:27.600" style="s2">he dealt with depression publicly and</p>
+<p begin="00:16:25.079" end="00:16:30.180" style="s2">I Chico Anysio was the one who asked</p>
+<p begin="00:16:27.600" end="00:16:32.760" style="s2">the Brazilian Association of Psychiatry for a</p>
+<p begin="00:16:30.180" end="00:16:34.980" style="s2">term to define this phobia that</p>
+<p begin="00:16:32.760" end="00:16:37.680" style="s2">we have to talk about</p>
+<p begin="00:16:34.980" end="00:16:39.120" style="s2">mental disorders problems related to</p>
+<p begin="00:16:37.680" end="00:16:43.579" style="s2">mental health to get a little softer</p>
+<p begin="00:16:39.120" end="00:16:43.579" style="s2">someone will question their character</p>
+<p begin="00:16:47.000" end="00:16:52.199" style="s2">Ah I understand Isabela So it&#39;s not  lack of</p>
+<p begin="00:16:49.500" end="00:16:55.019" style="s2">having something to do is a lack of</p>
+<p begin="00:16:52.199" end="00:16:58.560" style="s2">God Father Fábio has been dealing with</p>
+<p begin="00:16:55.019" end="00:17:01.500" style="s2">anxiety attacks for a long time Ah so I know</p>
+<p begin="00:16:58.560" end="00:17:05.660" style="s2">Isabela is lack of physical activity we</p>
+<p begin="00:17:01.500" end="00:17:08.939" style="s2">would not have athletes</p>
+<p begin="00:17:05.660" end="00:17:12.240" style="s2">manifesting the need for breaks in</p>
+<p begin="00:17:08.939" end="00:17:14.540" style="s2">some activities to preserve their</p>
+<p begin="00:17:12.240" end="00:17:14.540" style="s2">careers</p>
+<p begin="00:17:19.459" end="00:17:26.100" style="s2">one of our leading infectologists</p>
+<p begin="00:17:22.980" end="00:17:27.540" style="s2">in the country He said when he turned</p>
+<p begin="00:17:26.100" end="00:17:29.839" style="s2">70 that he thought B  urnout had to</p>
+<p begin="00:17:27.540" end="00:17:29.839" style="s2">kill him</p>
+<p begin="00:17:31.500" end="00:17:36.360" style="s2">what do I have to do with it Isabela</p>
+<p begin="00:17:33.740" end="00:17:38.520" style="s2">the World Health Organization says</p>
+<p begin="00:17:36.360" end="00:17:40.020" style="s2">that one in four people will have</p>
+<p begin="00:17:38.520" end="00:17:42.980" style="s2">some problem related</p>
+<p begin="00:17:40.020" end="00:17:47.480" style="s2">to mental health throughout their lives we already live in</p>
+<p begin="00:17:42.980" end="00:17:47.480" style="s2">a period in which</p>
+<p begin="00:17:47.720" end="00:17:53.220" style="s2">occupational problems  they were physical today, no one</p>
+<p begin="00:17:51.059" end="00:17:54.780" style="s2">questioned the use of a helmet</p>
+<p begin="00:17:53.220" end="00:17:57.120" style="s2">anymore, no one questions the use of ear protectors anymore,</p>
+<p begin="00:17:54.780" end="00:17:58.860" style="s2"></p>
+<p begin="00:17:57.120" end="00:18:00.360" style="s2">but now we are talking about mental strength</p>
+<p begin="00:17:58.860" end="00:18:03.419" style="s2"></p>
+<p begin="00:18:00.360" end="00:18:06.480" style="s2">and in this age of psychological safety that</p>
+<p begin="00:18:03.419" end="00:18:09.299" style="s2">I know that ANAC is moving</p>
+<p begin="00:18:06.480" end="00:18:11.220" style="s2">towards this environment of</p>
+<p begin="00:18:09.299" end="00:18:14.100" style="s2">psychological safety and this meeting  is one of them</p>
+<p begin="00:18:11.220" end="00:18:16.760" style="s2">I have no doubt we need</p>
+<p begin="00:18:14.100" end="00:18:16.760" style="s2">communication</p>
+<p begin="00:18:18.720" end="00:18:22.980" style="s2">and communication needs to be very</p>
+<p begin="00:18:20.640" end="00:18:26.760" style="s2">clear</p>
+<p begin="00:18:22.980" end="00:18:28.559" style="s2">because if I say something, everyone will</p>
+<p begin="00:18:26.760" end="00:18:31.080" style="s2">have an interpretation</p>
+<p begin="00:18:28.559" end="00:18:33.240" style="s2">Let&#39;s give an example I&#39;m going to say</p>
+<p begin="00:18:31.080" end="00:18:36.000" style="s2">a word here Mari you keep an eye on</p>
+<p begin="00:18:33.240" end="00:18:38.520" style="s2">me in the chat ok  please And then I</p>
+<p begin="00:18:36.000" end="00:18:42.299" style="s2">need you to pay attention to this to</p>
+<p begin="00:18:38.520" end="00:18:43.980" style="s2">understand what a communication is Clara</p>
+<p begin="00:18:42.299" end="00:18:45.299" style="s2">I will say a word and you will</p>
+<p begin="00:18:43.980" end="00:18:47.600" style="s2">write in the chat the  what this word</p>
+<p begin="00:18:45.299" end="00:18:50.220" style="s2">represents for you, say more table</p>
+<p begin="00:18:47.600" end="00:18:52.799" style="s2">just to remind you that the chat when she</p>
+<p begin="00:18:50.220" end="00:18:54.059" style="s2">says people is the slide, if you have</p>
+<p begin="00:18:52.799" end="00:18:57.360" style="s2">n&#39;t accessed it there, the</p>
+<p begin="00:18:54.059" end="00:18:59.280" style="s2">training portal has the link to the slide,</p>
+<p begin="00:18:57.360" end="00:19:01.440" style="s2">we&#39;re interacting there with</p>
+<p begin="00:18:59.280" end="00:19:02.880" style="s2">Isabela, ok  so Isabela</p>
+<p begin="00:19:01.440" end="00:19:05.059" style="s2">let me know and I&#39;ll monitor the answers here, it</p>
+<p begin="00:19:02.880" end="00:19:07.380" style="s2"></p>
+<p begin="00:19:05.059" end="00:19:09.000" style="s2">would be really cool if you could</p>
+<p begin="00:19:07.380" end="00:19:10.080" style="s2">participate I&#39;ll say a word and you</p>
+<p begin="00:19:09.000" end="00:19:14.039" style="s2">&#39;ll write what that word</p>
+<p begin="00:19:10.080" end="00:19:14.039" style="s2">means to you banana</p>
+<p begin="00:19:21.799" end="00:19:25.460" style="s2">write what you see</p>
+<p begin="00:19:27.840" end="00:19:30.170" style="s2">if no one has answered Mário it&#39;s</p>
+<p begin="00:19:29.940" end="00:19:33.259" style="s2">ok</p>
+<p begin="00:19:30.170" end="00:19:33.259" style="s2">[Music  ]</p>
+<p begin="00:19:33.840" end="00:19:39.260" style="s2">there&#39;s music Banana is the fruit</p>
+<p begin="00:19:36.720" end="00:19:39.260" style="s2">we</p>
+<p begin="00:19:39.480" end="00:19:43.940" style="s2">go there</p>
+<p begin="00:19:41.220" end="00:19:43.940" style="s2">food</p>
+<p begin="00:19:44.220" end="00:19:46.700" style="s2"></p>
+<p begin="00:19:47.640" end="00:19:53.780" style="s2">that&#39;s what I want Pepper</p>
+<p begin="00:19:50.900" end="00:19:56.340" style="s2">perfect breakfast fight</p>
+<p begin="00:19:53.780" end="00:19:59.100" style="s2">banana is</p>
+<p begin="00:19:56.340" end="00:20:02.400" style="s2">food what comes to mind people</p>
+<p begin="00:19:59.100" end="00:20:06.559" style="s2">is food fruit banana breakfast</p>
+<p begin="00:20:02.400" end="00:20:06.559" style="s2">banana is vitamin energy</p>
+<p begin="00:20:32.039" end="00:20:36.600" style="s2">Ah but obviously I said one  something</p>
+<p begin="00:20:34.320" end="00:20:39.419" style="s2">you understood something else Did you</p>
+<p begin="00:20:36.600" end="00:20:42.600" style="s2">say it clearly Is what I&#39;m</p>
+<p begin="00:20:39.419" end="00:20:44.220" style="s2">talking about here Is accessing</p>
+<p begin="00:20:42.600" end="00:20:46.620" style="s2">you clearly</p>
+<p begin="00:20:44.220" end="00:20:48.660" style="s2">So</p>
+<p begin="00:20:46.620" end="00:20:50.580" style="s2">see according to the National Association of</p>
+<p begin="00:20:48.660" end="00:20:53.400" style="s2">Occupational Medicine</p>
+<p begin="00:20:50.580" end="00:20:55.080" style="s2">Mental disorders are part of the</p>
+<p begin="00:20:53.400" end="00:20:58.200" style="s2">third cause of absence from</p>
+<p begin="00:20:55.080" end="00:20:58.200" style="s2">serious work,</p>
+<p begin="00:21:00.600" end="00:21:07.760" style="s2">so they hold this screen when you</p>
+<p begin="00:21:04.559" end="00:21:10.919" style="s2">see any unbelieving person, you</p>
+<p begin="00:21:07.760" end="00:21:13.340" style="s2">know, what they&#39;re feeling about what</p>
+<p begin="00:21:10.919" end="00:21:15.299" style="s2">this can cause</p>
+<p begin="00:21:13.340" end="00:21:16.980" style="s2">mental and behavioral disorders</p>
+<p begin="00:21:15.299" end="00:21:20.059" style="s2">are part of the third cause of</p>
+<p begin="00:21:16.980" end="00:21:24.000" style="s2">incapacity for work  so</p>
+<p begin="00:21:20.059" end="00:21:26.760" style="s2">either I look at this information and</p>
+<p begin="00:21:24.000" end="00:21:29.220" style="s2">prevent</p>
+<p begin="00:21:26.760" end="00:21:31.260" style="s2">or I look at this information with the</p>
+<p begin="00:21:29.220" end="00:21:33.080" style="s2">eyes of an apprentice</p>
+<p begin="00:21:31.260" end="00:21:35.600" style="s2">or I look at this information with the</p>
+<p begin="00:21:33.080" end="00:21:37.380" style="s2">eyes of a victim</p>
+<p begin="00:21:35.600" end="00:21:40.679" style="s2">outsourcing my responsibility</p>
+<p begin="00:21:37.380" end="00:21:44.159" style="s2">or attributing</p>
+<p begin="00:21:40.679" end="00:21:47.520" style="s2"></p>
+<p begin="00:21:44.159" end="00:21:50.220" style="s2">your health to anyone other than you so I bring here a  phrase</p>
+<p begin="00:21:47.520" end="00:21:52.919" style="s2">by doctor Ana Beatriz Barbosa Silva is</p>
+<p begin="00:21:50.220" end="00:21:55.580" style="s2">a very respected psychiatrist in the country</p>
+<p begin="00:21:52.919" end="00:21:58.140" style="s2">and she brings depression too much past</p>
+<p begin="00:21:55.580" end="00:22:00.780" style="s2">stress too much present anxiety</p>
+<p begin="00:21:58.140" end="00:22:02.700" style="s2">too much future as there won&#39;t be time</p>
+<p begin="00:22:00.780" end="00:22:04.880" style="s2">to talk about the three I&#39;m going to focus on</p>
+<p begin="00:22:02.700" end="00:22:04.880" style="s2">anxiety</p>
+<p begin="00:22:07.280" end="00:22:14.419" style="s2">and what is leaving us in contexts</p>
+<p begin="00:22:11.520" end="00:22:14.419" style="s2">very challenging</p>
+<p begin="00:22:14.940" end="00:22:20.100" style="s2">that takes us away from ourselves and I&#39;m</p>
+<p begin="00:22:17.760" end="00:22:21.480" style="s2">talking about sa people  health is just going to give</p>
+<p begin="00:22:20.100" end="00:22:22.919" style="s2">time to talk to health I</p>
+<p begin="00:22:21.480" end="00:22:25.740" style="s2">would even like to talk about other things but</p>
+<p begin="00:22:22.919" end="00:22:26.960" style="s2">to what extent</p>
+<p begin="00:22:25.740" end="00:22:30.120" style="s2"></p>
+<p begin="00:22:26.960" end="00:22:32.460" style="s2">absenteeism is the big problem</p>
+<p begin="00:22:30.120" end="00:22:34.380" style="s2">of</p>
+<p begin="00:22:32.460" end="00:22:37.260" style="s2">and of all the companies that I have</p>
+<p begin="00:22:34.380" end="00:22:39.419" style="s2">been visiting every day is it possible that</p>
+<p begin="00:22:37.260" end="00:22:41.039" style="s2">obsenteism is the problem or  presenteeism</p>
+<p begin="00:22:39.419" end="00:22:42.900" style="s2">is a problem</p>
+<p begin="00:22:41.039" end="00:22:46.679" style="s2">because when I have a person</p>
+<p begin="00:22:42.900" end="00:22:48.780" style="s2">on leave he is in treatment when there</p>
+<p begin="00:22:46.679" end="00:22:51.480" style="s2">is a person in presenteeism he is</p>
+<p begin="00:22:48.780" end="00:22:53.220" style="s2">often unable to perform</p>
+<p begin="00:22:51.480" end="00:22:55.140" style="s2">tasks that compromise the lives of</p>
+<p begin="00:22:53.220" end="00:22:58.080" style="s2">thousands of people</p>
+<p begin="00:22:55.140" end="00:23:00.659" style="s2">who could not operate equipment and</p>
+<p begin="00:22:58.080" end="00:23:04.140" style="s2">so on So I need</p>
+<p begin="00:23:00.659" end="00:23:07.260" style="s2">understand that the only certainty I</p>
+<p begin="00:23:04.140" end="00:23:09.360" style="s2">have is uncertainty</p>
+<p begin="00:23:07.260" end="00:23:11.100" style="s2">We are just living one more</p>
+<p begin="00:23:09.360" end="00:23:12.559" style="s2">adaptation</p>
+<p begin="00:23:11.100" end="00:23:15.600" style="s2">ok</p>
+<p begin="00:23:12.559" end="00:23:17.280" style="s2">the car windshield is much bigger</p>
+<p begin="00:23:15.600" end="00:23:20.159" style="s2">than the rear view mirror</p>
+<p begin="00:23:17.280" end="00:23:22.200" style="s2">I look back to have references</p>
+<p begin="00:23:20.159" end="00:23:25.200" style="s2">but I need to look forward and the</p>
+<p begin="00:23:22.200" end="00:23:26.159" style="s2">steering is too much  changes point this is</p>
+<p begin="00:23:25.200" end="00:23:29.100" style="s2">afact</p>
+<p begin="00:23:26.159" end="00:23:33.240" style="s2">so knowing this What</p>
+<p begin="00:23:29.100" end="00:23:36.380" style="s2">can I do look at all of Naque look a</p>
+<p begin="00:23:33.240" end="00:23:36.380" style="s2">lot at the sky look</p>
+<p begin="00:23:36.840" end="00:23:41.820" style="s2">when a storm is coming the</p>
+<p begin="00:23:39.600" end="00:23:43.860" style="s2">what&#39;s going on people I&#39;ve done the</p>
+<p begin="00:23:41.820" end="00:23:46.919" style="s2">weather forecast many times ok so I&#39;m</p>
+<p begin="00:23:43.860" end="00:23:48.900" style="s2">like this with you there I&#39;m going to Observe if</p>
+<p begin="00:23:46.919" end="00:23:51.059" style="s2">the clouds are darkening if the wind has</p>
+<p begin="00:23:48.900" end="00:23:55.020" style="s2">changed direction If the leaves are</p>
+<p begin="00:23:51.059" end="00:23:56.940" style="s2">swaying a storm will come if</p>
+<p begin="00:23:55.020" end="00:24:00.299" style="s2">I&#39;m going to close the window  from my house or</p>
+<p begin="00:23:56.940" end="00:24:02.520" style="s2">not it&#39;s my decision</p>
+<p begin="00:24:00.299" end="00:24:03.980" style="s2">if I didn&#39;t close the window I got</p>
+<p begin="00:24:02.520" end="00:24:07.740" style="s2">home everything got wet it&#39;s</p>
+<p begin="00:24:03.980" end="00:24:09.620" style="s2">my responsibility you noticed What</p>
+<p begin="00:24:07.740" end="00:24:14.100" style="s2">are the external signs</p>
+<p begin="00:24:09.620" end="00:24:16.380" style="s2">Oh I understand Isabela is right What are the</p>
+<p begin="00:24:14.100" end="00:24:18.440" style="s2">internal signs because before my</p>
+<p begin="00:24:16.380" end="00:24:22.559" style="s2">Burnout I lived two years</p>
+<p begin="00:24:18.440" end="00:24:25.159" style="s2">ignoring all these</p>
+<p begin="00:24:22.559" end="00:24:28.140" style="s2">ignoring signs like that, actually</p>
+<p begin="00:24:25.159" end="00:24:32.240" style="s2">treating all of this but</p>
+<p begin="00:24:28.140" end="00:24:32.240" style="s2">individually without considering</p>
+<p begin="00:24:32.460" end="00:24:38.520" style="s2">the consequence that it would bring so</p>
+<p begin="00:24:36.360" end="00:24:41.159" style="s2">my body talked to me for two years</p>
+<p begin="00:24:38.520" end="00:24:43.520" style="s2">frequent headache</p>
+<p begin="00:24:41.159" end="00:24:45.840" style="s2">eye tremors nausea dizziness low immunity</p>
+<p begin="00:24:43.520" end="00:24:47.700" style="s2">bruxism stomach problem in the</p>
+<p begin="00:24:45.840" end="00:24:49.559" style="s2">intestine excessive sweating fall</p>
+<p begin="00:24:47.700" end="00:24:51.480" style="s2">hair stains on the skin tachycardia</p>
+<p begin="00:24:49.559" end="00:24:53.299" style="s2">shortness of breath swelling in the legs hormonal problems</p>
+<p begin="00:24:51.480" end="00:24:57.620" style="s2"></p>
+<p begin="00:24:53.299" end="00:24:57.620" style="s2">Isabela I have a lot</p>
+<p begin="00:25:00.140" end="00:25:05.880" style="s2">after all that,</p>
+<p begin="00:25:03.780" end="00:25:10.080" style="s2">I started to sleep poorly</p>
+<p begin="00:25:05.880" end="00:25:12.240" style="s2">and those who sleep poorly live poorly</p>
+<p begin="00:25:10.080" end="00:25:14.240" style="s2">who sleeps less than 6 hours a night</p>
+<p begin="00:25:12.240" end="00:25:16.620" style="s2">is four times more likely to die</p>
+<p begin="00:25:14.240" end="00:25:18.419" style="s2">number of the Brazilian Sleep</p>
+<p begin="00:25:16.620" end="00:25:20.700" style="s2">Association is everything I&#39;m talking about here  people</p>
+<p begin="00:25:18.419" end="00:25:22.860" style="s2">is based on data and sources that I can share</p>
+<p begin="00:25:20.700" end="00:25:24.840" style="s2">with you after that I</p>
+<p begin="00:25:22.860" end="00:25:27.480" style="s2">started to have an anxiety crisis</p>
+<p begin="00:25:24.840" end="00:25:29.640" style="s2">memory pencil lack of concentration</p>
+<p begin="00:25:27.480" end="00:25:31.620" style="s2">after all that, that is, after my</p>
+<p begin="00:25:29.640" end="00:25:33.600" style="s2">body has already tried to warn me that, at this</p>
+<p begin="00:25:31.620" end="00:25:35.159" style="s2">rhythm, it is not possible</p>
+<p begin="00:25:33.600" end="00:25:37.799" style="s2">We are  going down a path of</p>
+<p begin="00:25:35.159" end="00:25:42.059" style="s2">imbalance A storm</p>
+<p begin="00:25:37.799" end="00:25:45.179" style="s2">is coming then you didn&#39;t notice nervous breakdown</p>
+<p begin="00:25:42.059" end="00:25:47.600" style="s2">crying crisis isolation which is a</p>
+<p begin="00:25:45.179" end="00:25:50.820" style="s2">very</p>
+<p begin="00:25:47.600" end="00:25:52.620" style="s2">noticeable characteristic for those around but</p>
+<p begin="00:25:50.820" end="00:25:54.840" style="s2">sometimes it is difficult for those who are</p>
+<p begin="00:25:52.620" end="00:25:57.600" style="s2">living So what is the responsibility</p>
+<p begin="00:25:54.840" end="00:25:59.159" style="s2">you also have in  realize the</p>
+<p begin="00:25:57.600" end="00:26:00.659" style="s2">changes in behavior of those</p>
+<p begin="00:25:59.159" end="00:26:03.539" style="s2">on your side</p>
+<p begin="00:26:00.659" end="00:26:06.299" style="s2">because after isolation or along with</p>
+<p begin="00:26:03.539" end="00:26:09.960" style="s2">isolation comes aggression</p>
+<p begin="00:26:06.299" end="00:26:12.179" style="s2">and my husband Mari is recorded in the  tedex ok</p>
+<p begin="00:26:09.960" end="00:26:13.919" style="s2">people you can review this scene on the</p>
+<p begin="00:26:12.179" end="00:26:15.059" style="s2">internet with my husband came to me</p>
+<p begin="00:26:13.919" end="00:26:18.600" style="s2">and said like this Isabela is very</p>
+<p begin="00:26:15.059" end="00:26:21.590" style="s2">aggressive what I said to him</p>
+<p begin="00:26:18.600" end="00:26:22.919" style="s2">she is not aggressive</p>
+<p begin="00:26:21.590" end="00:26:25.799" style="s2">[Music]</p>
+<p begin="00:26:22.919" end="00:26:28.799" style="s2">then my record dropped and after that</p>
+<p begin="00:26:25.799" end="00:26:31.860" style="s2">Suicides came and went down then the  we&#39;re</p>
+<p begin="00:26:28.799" end="00:26:35.299" style="s2">in Yellow September suicide prevention month</p>
+<p begin="00:26:31.860" end="00:26:38.900" style="s2">I don&#39;t prevent suicide by</p>
+<p begin="00:26:35.299" end="00:26:38.900" style="s2">promoting life</p>
+<p begin="00:26:39.120" end="00:26:45.000" style="s2">as</p>
+<p begin="00:26:41.279" end="00:26:47.520" style="s2">reminding you that those who think about</p>
+<p begin="00:26:45.000" end="00:26:52.220" style="s2">taking their own life don&#39;t want to get rid</p>
+<p begin="00:26:47.520" end="00:26:52.220" style="s2">of life, they want to get rid of a pain</p>
+<p begin="00:26:53.400" end="00:26:58.260" style="s2">those who think about taking their own life don&#39;t</p>
+<p begin="00:26:55.919" end="00:27:00.960" style="s2">wants to get rid of life wants to get rid of</p>
+<p begin="00:26:58.260" end="00:27:03.480" style="s2">a pain this sentence is not mine it&#39;s from</p>
+<p begin="00:27:00.960" end="00:27:04.919" style="s2">Major of the Fire Department Diógenes</p>
+<p begin="00:27:03.480" end="00:27:08.220" style="s2">Munhoz</p>
+<p begin="00:27:04.919" end="00:27:11.279" style="s2">so if I&#39;m trying to get rid of a</p>
+<p begin="00:27:08.220" end="00:27:14.220" style="s2">pain in the wrong way with</p>
+<p begin="00:27:11.279" end="00:27:15.360" style="s2">Immediate rewards I&#39;m not solving the</p>
+<p begin="00:27:14.220" end="00:27:17.220" style="s2">problem</p>
+<p begin="00:27:15.360" end="00:27:18.600" style="s2">they are playing  problem under</p>
+<p begin="00:27:17.220" end="00:27:21.659" style="s2">the rug thinking that this will not</p>
+<p begin="00:27:18.600" end="00:27:24.440" style="s2">bring me consequences and a lot because</p>
+<p begin="00:27:21.659" end="00:27:27.720" style="s2">because of the image of these two handsome men is</p>
+<p begin="00:27:24.440" end="00:27:31.159" style="s2">superman super woman they convey to us</p>
+<p begin="00:27:27.720" end="00:27:31.159" style="s2">This illusion of  that we can</p>
+<p begin="00:27:31.500" end="00:27:36.299" style="s2">with Immediate pleasures</p>
+<p begin="00:27:33.980" end="00:27:38.779" style="s2">neglect what we are feeling that</p>
+<p begin="00:27:36.299" end="00:27:38.779" style="s2">the body is saying</p>
+<p begin="00:27:39.240" end="00:27:45.740" style="s2">all this I&#39;m talking about has to do</p>
+<p begin="00:27:41.880" end="00:27:45.740" style="s2">with some pain that you are experiencing</p>
+<p begin="00:27:45.779" end="00:27:50.460" style="s2">And then you can be an engineer, you can be a</p>
+<p begin="00:27:48.419" end="00:27:52.919" style="s2">mathematician, you can be a scientist, you can be a</p>
+<p begin="00:27:50.460" end="00:27:55.260" style="s2">physicist, astronomer, you can have a profession</p>
+<p begin="00:27:52.919" end="00:27:57.360" style="s2">whatever it is I&#39;m talking to human</p>
+<p begin="00:27:55.260" end="00:28:01.159" style="s2">beings</p>
+<p begin="00:27:57.360" end="00:28:01.159" style="s2">and if we are human</p>
+<p begin="00:28:02.640" end="00:28:09.179" style="s2">we have very similar characteristics and</p>
+<p begin="00:28:06.659" end="00:28:14.159" style="s2">others very</p>
+<p begin="00:28:09.179" end="00:28:18.900" style="s2">different so it&#39;s very important to understand</p>
+<p begin="00:28:14.159" end="00:28:20.880" style="s2">What kind of excess are you experiencing if it&#39;s</p>
+<p begin="00:28:18.900" end="00:28:24.240" style="s2">excess work if it&#39;s excessive</p>
+<p begin="00:28:20.880" end="00:28:26.220" style="s2">physical activity be excess food and</p>
+<p begin="00:28:24.240" end="00:28:28.260" style="s2">the worst of all than</p>
+<p begin="00:28:26.220" end="00:28:29.880" style="s2">overconfidence because it&#39;s because of</p>
+<p begin="00:28:28.260" end="00:28:32.700" style="s2">overconfidence that I feed all</p>
+<p begin="00:28:29.880" end="00:28:34.559" style="s2">the other excesses and it&#39;s funny Mari</p>
+<p begin="00:28:32.700" end="00:28:37.559" style="s2">that we already look at the</p>
+<p begin="00:28:34.559" end="00:28:39.179" style="s2">car dashboard when the pointer is there to</p>
+<p begin="00:28:37.559" end="00:28:42.419" style="s2">reserve what you make you to</p>
+<p begin="00:28:39.179" end="00:28:44.460" style="s2">it&#39;s enough Ah but I Isabela when I</p>
+<p begin="00:28:42.419" end="00:28:46.440" style="s2">was 20 years old I was very</p>
+<p begin="00:28:44.460" end="00:28:47.720" style="s2">overconfident I got in the middle of the</p>
+<p begin="00:28:46.440" end="00:28:49.340" style="s2">way several times</p>
+<p begin="00:28:47.720" end="00:28:53.539" style="s2">even  and</p>
+<p begin="00:28:49.340" end="00:28:53.539" style="s2">you remember what I&#39;m going to say,</p>
+<p begin="00:28:54.500" end="00:29:00.919" style="s2">remember the pilot that was taking the</p>
+<p begin="00:28:58.020" end="00:29:00.919" style="s2">delegation from A Chapecoense</p>
+<p begin="00:29:02.580" end="00:29:06.600" style="s2">he thought it was going to get</p>
+<p begin="00:29:04.380" end="00:29:08.580" style="s2">there, so he didn&#39;t stop to fill up, In fact, he didn&#39;t</p>
+<p begin="00:29:06.600" end="00:29:12.539" style="s2">fill up before arriving</p>
+<p begin="00:29:08.580" end="00:29:14.279" style="s2">so look, I already have the resources to</p>
+<p begin="00:29:12.539" end="00:29:17.640" style="s2">see when I  I need to stop a little</p>
+<p begin="00:29:14.279" end="00:29:19.260" style="s2">just to fill up people just to</p>
+<p begin="00:29:17.640" end="00:29:21.240" style="s2">fill up</p>
+<p begin="00:29:19.260" end="00:29:23.820" style="s2">it&#39;s not to give up on the trip it&#39;s not to</p>
+<p begin="00:29:21.240" end="00:29:28.880" style="s2">stop your plan it&#39;s not to leave</p>
+<p begin="00:29:23.820" end="00:29:33.539" style="s2">work it&#39;s just to fill up and we</p>
+<p begin="00:29:28.880" end="00:29:36.179" style="s2">&#39;ll get there well so after the</p>
+<p begin="00:29:33.539" end="00:29:39.779" style="s2">unsustainable lifestyle that  I lived</p>
+<p begin="00:29:36.179" end="00:29:40.700" style="s2">I arrived at one in a movement that</p>
+<p begin="00:29:39.779" end="00:29:43.320" style="s2">is what I am bringing you here</p>
+<p begin="00:29:40.700" end="00:29:45.539" style="s2">because if we want a</p>
+<p begin="00:29:43.320" end="00:29:48.179" style="s2">sustainable world with sustainable resources</p>
+<p begin="00:29:45.539" end="00:29:49.679" style="s2">with sustainable production the word</p>
+<p begin="00:29:48.179" end="00:29:51.779" style="s2">sustainability is another one that was also</p>
+<p begin="00:29:49.679" end="00:29:55.200" style="s2">super trivialized because I am</p>
+<p begin="00:29:51.779" end="00:29:57.899" style="s2">living in an unsustainable way</p>
+<p begin="00:29:55.200" end="00:29:59.159" style="s2">for me Burnout is the absence of oneself</p>
+<p begin="00:29:57.899" end="00:30:02.880" style="s2"></p>
+<p begin="00:29:59.159" end="00:30:05.240" style="s2">I&#39;m so out of it that I don&#39;t have time to</p>
+<p begin="00:30:02.880" end="00:30:05.240" style="s2">stay in</p>
+<p begin="00:30:05.340" end="00:30:11.220" style="s2">so guys I need to bring you</p>
+<p begin="00:30:08.059" end="00:30:13.140" style="s2">a simple idea  that sustainable productivity</p>
+<p begin="00:30:11.220" end="00:30:17.240" style="s2">how are you going</p>
+<p begin="00:30:13.140" end="00:30:20.640" style="s2">to be able to do what you do without</p>
+<p begin="00:30:17.240" end="00:30:23.760" style="s2">losing health in relationships</p>
+<p begin="00:30:20.640" end="00:30:26.039" style="s2">without anesthetics without amphetamines without drugs</p>
+<p begin="00:30:23.760" end="00:30:27.840" style="s2">without excessive drinking of other</p>
+<p begin="00:30:26.039" end="00:30:30.960" style="s2">anesthetics</p>
+<p begin="00:30:27.840" end="00:30:33.679" style="s2">so you know, right?</p>
+<p begin="00:30:30.960" end="00:30:37.100" style="s2"></p>
+<p begin="00:30:33.679" end="00:30:37.100" style="s2"></p>
+<p begin="00:30:39.299" end="00:30:44.760" style="s2">right</p>
+<p begin="00:30:42.240" end="00:30:46.860" style="s2">relationship problems but for me the worst</p>
+<p begin="00:30:44.760" end="00:30:48.299" style="s2">the worst loss when I talk about</p>
+<p begin="00:30:46.860" end="00:30:49.740" style="s2">relationships I get this absence</p>
+<p begin="00:30:48.299" end="00:30:53.880" style="s2">of self that will bring</p>
+<p begin="00:30:49.740" end="00:30:55.140" style="s2">health problems Isabela nice I understand the</p>
+<p begin="00:30:53.880" end="00:30:57.480" style="s2">problem that we are our</p>
+<p begin="00:30:55.140" end="00:31:00.659" style="s2">own saboteurs</p>
+<p begin="00:30:57.480" end="00:31:03.860" style="s2">wants to see how Mari  you do it for</p>
+<p begin="00:31:00.659" end="00:31:03.860" style="s2">your oral hygiene</p>
+<p begin="00:31:05.340" end="00:31:08.460" style="s2">good</p>
+<p begin="00:31:06.320" end="00:31:11.460" style="s2">brush your teeth every day</p>
+<p begin="00:31:08.460" end="00:31:15.659" style="s2">after meals floss every</p>
+<p begin="00:31:11.460" end="00:31:17.640" style="s2">day every day after meals at</p>
+<p begin="00:31:15.659" end="00:31:18.799" style="s2">least three times you have to brush your</p>
+<p begin="00:31:17.640" end="00:31:23.399" style="s2">teeth right</p>
+<p begin="00:31:18.799" end="00:31:25.559" style="s2">who else at least every day this every</p>
+<p begin="00:31:23.399" end="00:31:28.320" style="s2">january is mine  birthday then I</p>
+<p begin="00:31:25.559" end="00:31:30.299" style="s2">have a calendar of the dentist</p>
+<p begin="00:31:28.320" end="00:31:33.960" style="s2">without fail right to be able to do maintenance</p>
+<p begin="00:31:30.299" end="00:31:36.179" style="s2">and mine my annual technical stop</p>
+<p begin="00:31:33.960" end="00:31:38.279" style="s2">there at my check-up it&#39;s always in the middle of</p>
+<p begin="00:31:36.179" end="00:31:41.659" style="s2">my birthday that&#39;s beautiful what</p>
+<p begin="00:31:38.279" end="00:31:44.179" style="s2">day your birthday is the 28th aquariana</p>
+<p begin="00:31:41.659" end="00:31:46.399" style="s2">Okay now I understand</p>
+<p begin="00:31:44.179" end="00:31:49.080" style="s2">now</p>
+<p begin="00:31:46.399" end="00:31:51.899" style="s2">How beautiful what you said</p>
+<p begin="00:31:49.080" end="00:31:53.340" style="s2">you include yourself in your own agenda in the month</p>
+<p begin="00:31:51.899" end="00:31:56.000" style="s2">of your birthday it&#39;s like a</p>
+<p begin="00:31:53.340" end="00:32:00.059" style="s2">present, right, I&#39;m going to the dentist</p>
+<p begin="00:31:56.000" end="00:32:01.440" style="s2">Look how far we&#39;ve come, people, we</p>
+<p begin="00:32:00.059" end="00:32:03.600" style="s2">include ourselves in our own agenda, it seems something</p>
+<p begin="00:32:01.440" end="00:32:06.419" style="s2">extraordinary</p>
+<p begin="00:32:03.600" end="00:32:09.740" style="s2">And then Mari I ask you and for your</p>
+<p begin="00:32:06.419" end="00:32:09.740" style="s2">mental hygiene What do you do</p>
+<p begin="00:32:11.940" end="00:32:18.320" style="s2">to Isabela, this one I need a</p>
+<p begin="00:32:14.940" end="00:32:22.559" style="s2">little more discipline but I</p>
+<p begin="00:32:18.320" end="00:32:24.480" style="s2">every day This was a little before</p>
+<p begin="00:32:22.559" end="00:32:27.320" style="s2">coming to nac, it&#39;s during the</p>
+<p begin="00:32:24.480" end="00:32:29.880" style="s2">pandemic period that we were working</p>
+<p begin="00:32:27.320" end="00:32:33.059" style="s2">to keep the work</p>
+<p begin="00:32:29.880" end="00:32:34.860" style="s2">running and take care of people because I</p>
+<p begin="00:32:33.059" end="00:32:36.360" style="s2">work with people, right, we end up</p>
+<p begin="00:32:34.860" end="00:32:38.460" style="s2">accumulating a very big load, so</p>
+<p begin="00:32:36.360" end="00:32:40.559" style="s2">little  before coming here i</p>
+<p begin="00:32:38.460" end="00:32:42.480" style="s2">started booking a time of day from</p>
+<p begin="00:32:40.559" end="00:32:43.740" style="s2">8 am to 9 am is the time</p>
+<p begin="00:32:42.480" end="00:32:46.980" style="s2">i have for myself so i go to the</p>
+<p begin="00:32:43.740" end="00:32:48.899" style="s2">gym or get a massage is  a</p>
+<p begin="00:32:46.980" end="00:32:51.240" style="s2">time that I try to take is for me</p>
+<p begin="00:32:48.899" end="00:32:53.640" style="s2">not every day works Sometimes there are</p>
+<p begin="00:32:51.240" end="00:32:55.440" style="s2">unforeseen events but it is a time that I</p>
+<p begin="00:32:53.640" end="00:32:59.159" style="s2">have blocked in my schedule which is</p>
+<p begin="00:32:55.440" end="00:33:02.279" style="s2">my excellent time in the morning I loved</p>
+<p begin="00:32:59.159" end="00:33:03.539" style="s2">listening to you and then I bring you the</p>
+<p begin="00:33:02.279" end="00:33:06.899" style="s2">following idea</p>
+<p begin="00:33:03.539" end="00:33:11.700" style="s2">300 years</p>
+<p begin="00:33:06.899" end="00:33:13.919" style="s2">ago only 300 years ago It wasn&#39;t obvious like that</p>
+<p begin="00:33:11.700" end="00:33:16.320" style="s2">brushing your tooth every day a</p>
+<p begin="00:33:13.919" end="00:33:18.740" style="s2">toothbrush was used by all members of the</p>
+<p begin="00:33:16.320" end="00:33:18.740" style="s2">same family</p>
+<p begin="00:33:19.200" end="00:33:26.279" style="s2">serious serious today it&#39;s obvious to brush your</p>
+<p begin="00:33:23.880" end="00:33:30.059" style="s2">tooth every day before it&#39;s not</p>
+<p begin="00:33:26.279" end="00:33:32.100" style="s2">today we still see tooth care  mental health, we are</p>
+<p begin="00:33:30.059" end="00:33:34.620" style="s2">still making this cut,</p>
+<p begin="00:33:32.100" end="00:33:37.320" style="s2">but just for you to understand what</p>
+<p begin="00:33:34.620" end="00:33:39.179" style="s2">affects mental health, we still see</p>
+<p begin="00:33:37.320" end="00:33:41.880" style="s2">it Mari as if it were something far away</p>
+<p begin="00:33:39.179" end="00:33:45.720" style="s2">expensive there when I take a vacation I</p>
+<p begin="00:33:41.880" end="00:33:49.380" style="s2">take care of myself, I&#39;m not going to take a sabbatical or I</p>
+<p begin="00:33:45.720" end="00:33:51.840" style="s2">&#39;m going to leave the  my job is not people</p>
+<p begin="00:33:49.380" end="00:33:55.679" style="s2">mental hygiene is like oral hygiene is</p>
+<p begin="00:33:51.840" end="00:33:57.000" style="s2">every day it&#39;s an individual decision And then</p>
+<p begin="00:33:55.679" end="00:34:01.320" style="s2">I&#39;m going to bring you something</p>
+<p begin="00:33:57.000" end="00:34:03.720" style="s2">amazing attention to the screen print the</p>
+<p begin="00:34:01.320" end="00:34:05.820" style="s2">five janitors of the mind</p>
+<p begin="00:34:03.720" end="00:34:07.200" style="s2">because then May when we  and if you</p>
+<p begin="00:34:05.820" end="00:34:08.460" style="s2">meet again I&#39;ll tell you like this</p>
+<p begin="00:34:07.200" end="00:34:11.520" style="s2">Mário what are you doing for your</p>
+<p begin="00:34:08.460" end="00:34:14.119" style="s2">mental health then you will tell me what</p>
+<p begin="00:34:11.520" end="00:34:14.119" style="s2">is being possible</p>
+<p begin="00:34:14.639" end="00:34:21.679" style="s2">sleep hygiene food</p>
+<p begin="00:34:18.359" end="00:34:26.760" style="s2">physical activity and time for leisure and family</p>
+<p begin="00:34:21.679" end="00:34:30.300" style="s2">serious Isabela seriously every day</p>
+<p begin="00:34:26.760" end="00:34:33.359" style="s2">is a decision that  now you&#39;re going to take it and</p>
+<p begin="00:34:30.300" end="00:34:36.080" style="s2">I&#39;m going to say it with lots of love The</p>
+<p begin="00:34:33.359" end="00:34:38.879" style="s2">other day I was in the</p>
+<p begin="00:34:36.080" end="00:34:41.099" style="s2">ultra modern laboratory thinks that</p>
+<p begin="00:34:38.879" end="00:34:43.580" style="s2">science fiction laboratory talking</p>
+<p begin="00:34:41.099" end="00:34:47.639" style="s2">to</p>
+<p begin="00:34:43.580" end="00:34:49.080" style="s2">pharmaceutical scientists physicists then a</p>
+<p begin="00:34:47.639" end="00:34:53.060" style="s2">person asked about me but the beauty</p>
+<p begin="00:34:49.080" end="00:34:53.060" style="s2">how am i going to have time to sleep</p>
+<p begin="00:34:53.700" end="00:34:59.160" style="s2">Look what we are discussing</p>
+<p begin="00:34:56.339" end="00:35:01.920" style="s2">we are talking about negotiation for</p>
+<p begin="00:34:59.160" end="00:35:04.260" style="s2">you to preserve your sleep time your</p>
+<p begin="00:35:01.920" end="00:35:06.060" style="s2">hygiene and food time three</p>
+<p begin="00:35:04.260" end="00:35:07.560" style="s2">basic things</p>
+<p begin="00:35:06.060" end="00:35:09.000" style="s2">And why am I talking about this in</p>
+<p begin="00:35:07.560" end="00:35:11.820" style="s2">Yellow September in this meeting with</p>
+<p begin="00:35:09.000" end="00:35:14.220" style="s2">you because it is precisely what is</p>
+<p begin="00:35:11.820" end="00:35:17.640" style="s2">essential  we go Giving up when the</p>
+<p begin="00:35:14.220" end="00:35:22.099" style="s2">schedule is too full or when I want to</p>
+<p begin="00:35:17.640" end="00:35:22.099" style="s2">embrace the world and do everything it</p>
+<p begin="00:35:22.140" end="00:35:29.240" style="s2">&#39;s just when you want to embrace the</p>
+<p begin="00:35:24.540" end="00:35:29.240" style="s2">world that  If you don&#39;t have your hug</p>
+<p begin="00:35:30.060" end="00:35:35.460" style="s2">if you sleep poorly you live badly if you</p>
+<p begin="00:35:32.579" end="00:35:38.579" style="s2">give up your hygiene and your</p>
+<p begin="00:35:35.460" end="00:35:41.460" style="s2">food it&#39;s no use having</p>
+<p begin="00:35:38.579" end="00:35:43.440" style="s2">time management tools because you already have the</p>
+<p begin="00:35:41.460" end="00:35:46.619" style="s2">main tool for</p>
+<p begin="00:35:43.440" end="00:35:48.480" style="s2">time management invented a long time ago is the</p>
+<p begin="00:35:46.619" end="00:35:51.000" style="s2">watch everyone has a watch does</p>
+<p begin="00:35:48.480" end="00:35:54.660" style="s2">n&#39;t I just need to bring</p>
+<p begin="00:35:51.000" end="00:35:56.520" style="s2">elements here for you to include yourself in your</p>
+<p begin="00:35:54.660" end="00:35:58.800" style="s2">own agenda to prevent not only</p>
+<p begin="00:35:56.520" end="00:36:01.200" style="s2">Burnout but other health</p>
+<p begin="00:35:58.800" end="00:36:03.300" style="s2">or relationship problems so now</p>
+<p begin="00:36:01.200" end="00:36:06.300" style="s2">look at the time update identity</p>
+<p begin="00:36:03.300" end="00:36:08.880" style="s2">for me  it is</p>
+<p begin="00:36:06.300" end="00:36:12.420" style="s2">the first step that we all have to take</p>
+<p begin="00:36:08.880" end="00:36:15.000" style="s2">to recognize and accept that the cycle is</p>
+<p begin="00:36:12.420" end="00:36:16.560" style="s2">over what is working now</p>
+<p begin="00:36:15.000" end="00:36:18.680" style="s2">what is no longer what i</p>
+<p begin="00:36:16.560" end="00:36:20.700" style="s2">have strengths what i do not have</p>
+<p begin="00:36:18.680" end="00:36:22.680" style="s2">so i can recognize</p>
+<p begin="00:36:20.700" end="00:36:25.380" style="s2">toxic behaviors</p>
+<p begin="00:36:22.680" end="00:36:27.720" style="s2">smoking for 70 years didn&#39;t hurt today</p>
+<p begin="00:36:25.380" end="00:36:29.940" style="s2">nobody accepts Santa Claus</p>
+<p begin="00:36:27.720" end="00:36:33.540" style="s2">coming to our house</p>
+<p begin="00:36:29.940" end="00:36:35.400" style="s2">trying to multitask people is the biggest</p>
+<p begin="00:36:33.540" end="00:36:37.920" style="s2">trap</p>
+<p begin="00:36:35.400" end="00:36:40.020" style="s2">they put us because it gets more tired</p>
+<p begin="00:36:37.920" end="00:36:41.460" style="s2">stress favors mistakes</p>
+<p begin="00:36:40.020" end="00:36:45.060" style="s2">decrease creativity everything we don&#39;t</p>
+<p begin="00:36:41.460" end="00:36:48.619" style="s2">want so if you try to do two</p>
+<p begin="00:36:45.060" end="00:36:48.619" style="s2">intellectual things at the same time it</p>
+<p begin="00:36:49.500" end="00:36:55.320" style="s2">will go wrong you can print this screen</p>
+<p begin="00:36:52.680" end="00:36:57.240" style="s2">send it to Amiga send it to Zap send it to the</p>
+<p begin="00:36:55.320" end="00:36:59.700" style="s2">family send the link of this</p>
+<p begin="00:36:57.240" end="00:37:04.640" style="s2">meeting and then how is it  I will</p>
+<p begin="00:36:59.700" end="00:37:04.640" style="s2">recognize toxic</p>
+<p begin="00:37:04.680" end="00:37:09.060" style="s2">behaviors my toxic behaviors only have one</p>
+<p begin="00:37:07.859" end="00:37:11.460" style="s2">way</p>
+<p begin="00:37:09.060" end="00:37:13.619" style="s2">self-knowledge</p>
+<p begin="00:37:11.460" end="00:37:16.020" style="s2">when I interviewed your Abílio Diniz</p>
+<p begin="00:37:13.619" end="00:37:18.720" style="s2">he told me Isabella I could only deal</p>
+<p begin="00:37:16.020" end="00:37:20.820" style="s2">with all the challenges of my life with</p>
+<p begin="00:37:18.720" end="00:37:23.220" style="s2">therapy</p>
+<p begin="00:37:20.820" end="00:37:26.099" style="s2">I started before 30 years old and today people</p>
+<p begin="00:37:23.220" end="00:37:30.660" style="s2">are over 80 and  It&#39;s</p>
+<p begin="00:37:26.099" end="00:37:32.460" style="s2">booming, right? In a good way, with ideas and</p>
+<p begin="00:37:30.660" end="00:37:35.220" style="s2">health,</p>
+<p begin="00:37:32.460" end="00:37:37.400" style="s2">so I can&#39;t go to the market and</p>
+<p begin="00:37:35.220" end="00:37:40.380" style="s2">talk gives me a kilo of self-knowledge, in</p>
+<p begin="00:37:37.400" end="00:37:42.180" style="s2">fact, it gives me about 10, right, because if I</p>
+<p begin="00:37:40.380" end="00:37:45.240" style="s2">attend a lecture there the other day and the</p>
+<p begin="00:37:42.180" end="00:37:47.720" style="s2">girl reminded me that we change the</p>
+<p begin="00:37:45.240" end="00:37:47.720" style="s2">all the time</p>
+<p begin="00:37:47.760" end="00:37:54.119" style="s2">print this screen and answer for you</p>
+<p begin="00:37:51.359" end="00:37:55.980" style="s2">with the help of your therapist whoever</p>
+<p begin="00:37:54.119" end="00:37:59.640" style="s2">you want</p>
+<p begin="00:37:55.980" end="00:38:02.280" style="s2">today What are your basic needs</p>
+<p begin="00:37:59.640" end="00:38:05.040" style="s2">today today me Isabela  I need to sleep for</p>
+<p begin="00:38:02.280" end="00:38:07.440" style="s2">8 hours when I was in my early 20s</p>
+<p begin="00:38:05.040" end="00:38:09.660" style="s2">Bá could sleep 4 hours the next</p>
+<p begin="00:38:07.440" end="00:38:11.400" style="s2">day I was thinking I was Powerful I didn&#39;t sleep at all</p>
+<p begin="00:38:09.660" end="00:38:13.920" style="s2">and I&#39;m fine with time this changes</p>
+<p begin="00:38:11.400" end="00:38:16.440" style="s2">How is your health your exams</p>
+<p begin="00:38:13.920" end="00:38:19.260" style="s2">are up to</p>
+<p begin="00:38:16.440" end="00:38:22.400" style="s2">date Isabela but then again  I don&#39;t have</p>
+<p begin="00:38:19.260" end="00:38:22.400" style="s2">health insurance or it&#39;s too expensive</p>
+<p begin="00:38:23.400" end="00:38:29.040" style="s2">it&#39;s your health</p>
+<p begin="00:38:26.099" end="00:38:31.500" style="s2">so we tend to think everything</p>
+<p begin="00:38:29.040" end="00:38:34.380" style="s2">we&#39;re going to do for ourselves is expensive but for</p>
+<p begin="00:38:31.500" end="00:38:39.560" style="s2">home, buy wallpaper, change the sofa,</p>
+<p begin="00:38:34.380" end="00:38:42.359" style="s2">right shoes, clothes the immediate rewards</p>
+<p begin="00:38:39.560" end="00:38:44.220" style="s2">when we&#39;re tired girls</p>
+<p begin="00:38:42.359" end="00:38:48.240" style="s2">we solve our tiredness by sleeping we&#39;re not</p>
+<p begin="00:38:44.220" end="00:38:50.460" style="s2">buying a bag a a a a treat But</p>
+<p begin="00:38:48.240" end="00:38:52.940" style="s2">that&#39;s what we do when we don&#39;t have it</p>
+<p begin="00:38:50.460" end="00:38:55.020" style="s2">when we don&#39;t know each other when we</p>
+<p begin="00:38:52.940" end="00:38:57.660" style="s2">don&#39;t realize what is really going to affect</p>
+<p begin="00:38:55.020" end="00:39:00.240" style="s2">our health so everything you do is in</p>
+<p begin="00:38:57.660" end="00:39:02.940" style="s2">your favor o  that it is negotiable and</p>
+<p begin="00:39:00.240" end="00:39:04.400" style="s2">non-negotiable today people yesterday I had an</p>
+<p begin="00:39:02.940" end="00:39:06.420" style="s2">incredible lesson with Dona Mariana</p>
+<p begin="00:39:04.400" end="00:39:07.740" style="s2">we were lining up this meeting here</p>
+<p begin="00:39:06.420" end="00:39:10.619" style="s2">she said like this people I need to go there and</p>
+<p begin="00:39:07.740" end="00:39:13.380" style="s2">pick up my children This</p>
+<p begin="00:39:10.619" end="00:39:16.560" style="s2">is negotiable pa  for me my</p>
+<p begin="00:39:13.380" end="00:39:18.500" style="s2">sleep is negotiable but for each there</p>
+<p begin="00:39:16.560" end="00:39:22.079" style="s2">is a negotiable i</p>
+<p begin="00:39:18.500" end="00:39:24.440" style="s2">like that is more coherent now right</p>
+<p begin="00:39:22.079" end="00:39:27.359" style="s2">so i need to</p>
+<p begin="00:39:24.440" end="00:39:28.980" style="s2">answer the question one two three four</p>
+<p begin="00:39:27.359" end="00:39:32.640" style="s2">five six to know what that can be</p>
+<p begin="00:39:28.980" end="00:39:36.480" style="s2">delegated because if i take everything to</p>
+<p begin="00:39:32.640" end="00:39:38.160" style="s2">If I overload my back, in</p>
+<p begin="00:39:36.480" end="00:39:39.780" style="s2">addition to muscle pain, I will be</p>
+<p begin="00:39:38.160" end="00:39:44.579" style="s2">very irritated because I won&#39;t be</p>
+<p begin="00:39:39.780" end="00:39:46.380" style="s2">able to handle everything And then only by</p>
+<p begin="00:39:44.579" end="00:39:49.079" style="s2">organizing</p>
+<p begin="00:39:46.380" end="00:39:50.940" style="s2">yourself will you have</p>
+<p begin="00:39:49.079" end="00:39:54.119" style="s2">appropriate reactions for each situation remember</p>
+<p begin="00:39:50.940" end="00:39:56.280" style="s2">what I said about the cockroach is an example  but</p>
+<p begin="00:39:54.119" end="00:39:58.560" style="s2">how many times are we in front of an</p>
+<p begin="00:39:56.280" end="00:40:01.460" style="s2">ant reacting as if we were in</p>
+<p begin="00:39:58.560" end="00:40:01.460" style="s2">front of a lion</p>
+<p begin="00:40:01.560" end="00:40:07.079" style="s2">So these are situations that will generate</p>
+<p begin="00:40:03.900" end="00:40:11.460" style="s2">a type of stress if it will be</p>
+<p begin="00:40:07.079" end="00:40:14.280" style="s2">positive or chronic adaptive is an individual analysis</p>
+<p begin="00:40:11.460" end="00:40:17.520" style="s2"></p>
+<p begin="00:40:14.280" end="00:40:19.560" style="s2">And then I as a leader as a manager I</p>
+<p begin="00:40:17.520" end="00:40:22.520" style="s2">need to see that  my reactions can</p>
+<p begin="00:40:19.560" end="00:40:22.520" style="s2">generate interpretations</p>
+<p begin="00:40:22.740" end="00:40:27.240" style="s2">I train leaders on what abuse is</p>
+<p begin="00:40:25.920" end="00:40:30.119" style="s2">because there are people who are committing</p>
+<p begin="00:40:27.240" end="00:40:33.240" style="s2">abuse and harassment and don&#39;t know that it&#39;s</p>
+<p begin="00:40:30.119" end="00:40:37.500" style="s2">an ab  moral psychological use</p>
+<p begin="00:40:33.240" end="00:40:40.020" style="s2">So you are solely responsible for</p>
+<p begin="00:40:37.500" end="00:40:41.760" style="s2">realizing how you affect your health and</p>
+<p begin="00:40:40.020" end="00:40:44.220" style="s2">the people</p>
+<p begin="00:40:41.760" end="00:40:47.520" style="s2">in your environment So how you deal with</p>
+<p begin="00:40:44.220" end="00:40:49.140" style="s2">the daily ups and downs of everyday life</p>
+<p begin="00:40:47.520" end="00:40:52.079" style="s2">has to do</p>
+<p begin="00:40:49.140" end="00:40:53.760" style="s2">with maintaining your health  because if</p>
+<p begin="00:40:52.079" end="00:40:56.040" style="s2">you don&#39;t deal well with the highs and</p>
+<p begin="00:40:53.760" end="00:40:59.420" style="s2">lows you are living in</p>
+<p begin="00:40:56.040" end="00:41:03.599" style="s2">chronic stress and chronic stress brings</p>
+<p begin="00:40:59.420" end="00:41:07.160" style="s2">dozens of problems Burnout</p>
+<p begin="00:41:03.599" end="00:41:07.160" style="s2">how am I going to solve this story</p>
+<p begin="00:41:07.200" end="00:41:13.140" style="s2">including myself in my own agenda so</p>
+<p begin="00:41:09.359" end="00:41:15.720" style="s2">I can wear the company&#39;s shirt you can</p>
+<p begin="00:41:13.140" end="00:41:17.760" style="s2">Of course as long as  you too Wear your</p>
+<p begin="00:41:15.720" end="00:41:21.540" style="s2">pajamas</p>
+<p begin="00:41:17.760" end="00:41:24.119" style="s2">just like that because if I sleep badly I</p>
+<p begin="00:41:21.540" end="00:41:25.920" style="s2">think badly if I&#39;m giving up</p>
+<p begin="00:41:24.119" end="00:41:28.140" style="s2">sleep time in my schedule to the</p>
+<p begin="00:41:25.920" end="00:41:31.440" style="s2">detriment of work I&#39;ll tell</p>
+<p begin="00:41:28.140" end="00:41:32.820" style="s2">you the medium long term you&#39;re going to have</p>
+<p begin="00:41:31.440" end="00:41:34.500" style="s2">to give up your schedule because  You</p>
+<p begin="00:41:32.820" end="00:41:36.420" style="s2">&#39;re not</p>
+<p begin="00:41:34.500" end="00:41:38.400" style="s2">healthy that&#39;s what happened to me when I</p>
+<p begin="00:41:36.420" end="00:41:41.760" style="s2">thought that</p>
+<p begin="00:41:38.400" end="00:41:44.160" style="s2">doing all the shifts, right, they made me</p>
+<p begin="00:41:41.760" end="00:41:47.900" style="s2">available all the time, wouldn&#39;t bring me</p>
+<p begin="00:41:44.160" end="00:41:50.000" style="s2">consequences. So</p>
+<p begin="00:41:47.900" end="00:41:52.740" style="s2">we need to include it in the p  own agenda</p>
+<p begin="00:41:50.000" end="00:41:54.480" style="s2">sleep and hygiene nutrition these</p>
+<p begin="00:41:52.740" end="00:41:58.579" style="s2">movements so that relationships</p>
+<p begin="00:41:54.480" end="00:41:58.579" style="s2">don&#39;t affect your productivity</p>
+<p begin="00:41:58.740" end="00:42:05.040" style="s2">simple like that ah Isabela But it&#39;s hard,</p>
+<p begin="00:42:01.740" end="00:42:06.560" style="s2">right, if including yourself in your own agenda</p>
+<p begin="00:42:05.040" end="00:42:09.960" style="s2">is a decision</p>
+<p begin="00:42:06.560" end="00:42:12.180" style="s2">personal and professional goals because</p>
+<p begin="00:42:09.960" end="00:42:15.540" style="s2">you&#39;ll have to</p>
+<p begin="00:42:12.180" end="00:42:17.520" style="s2">choose what you&#39;re going to stress about</p>
+<p begin="00:42:15.540" end="00:42:19.260" style="s2">.  that you are going to wear out we</p>
+<p begin="00:42:17.520" end="00:42:23.339" style="s2">are talking about health maintenance here</p>
+<p begin="00:42:19.260" end="00:42:25.320" style="s2">so you will have to have elements</p>
+<p begin="00:42:23.339" end="00:42:28.020" style="s2">to keep your energies energy with the</p>
+<p begin="00:42:25.320" end="00:42:31.020" style="s2">unforeseen wants to see a more</p>
+<p begin="00:42:28.020" end="00:42:35.099" style="s2">perfect example than this</p>
+<p begin="00:42:31.020" end="00:42:37.079" style="s2">Yesterday we managed to cross the agendas</p>
+<p begin="00:42:35.099" end="00:42:39.300" style="s2">to be together today</p>
+<p begin="00:42:37.079" end="00:42:40.980" style="s2">someone  you can see this as unforeseen or</p>
+<p begin="00:42:39.300" end="00:42:43.500" style="s2">with an opportunity I saw it as a</p>
+<p begin="00:42:40.980" end="00:42:45.720" style="s2">great opportunity So not every</p>
+<p begin="00:42:43.500" end="00:42:48.660" style="s2">unforeseen is bad just as not every</p>
+<p begin="00:42:45.720" end="00:42:51.119" style="s2">invitation is an opportunity</p>
+<p begin="00:42:48.660" end="00:42:54.000" style="s2">I will only know how to differentiate one from the other</p>
+<p begin="00:42:51.119" end="00:42:55.680" style="s2">if I am in dynamic balance If</p>
+<p begin="00:42:54.000" end="00:42:59.520" style="s2">I am sleeping well eating</p>
+<p begin="00:42:55.680" end="00:43:03.720" style="s2">well with the hygiene time to know</p>
+<p begin="00:42:59.520" end="00:43:05.579" style="s2">what is coherent or not so today I</p>
+<p begin="00:43:03.720" end="00:43:07.579" style="s2">Isabela gave up my  there is</p>
+<p begin="00:43:05.579" end="00:43:10.619" style="s2">physical activity to be with you</p>
+<p begin="00:43:07.579" end="00:43:15.300" style="s2">consciously because my purpose is to</p>
+<p begin="00:43:10.619" end="00:43:15.300" style="s2">take this information to prevent</p>
+<p begin="00:43:16.020" end="00:43:20.900" style="s2">any consequences that are bad</p>
+<p begin="00:43:18.119" end="00:43:20.900" style="s2">for the excesses</p>
+<p begin="00:43:21.740" end="00:43:27.300" style="s2">suicide is one of them so I need to</p>
+<p begin="00:43:24.780" end="00:43:29.760" style="s2">ask for help I need to delegate I</p>
+<p begin="00:43:27.300" end="00:43:31.800" style="s2">need to let go so that I have</p>
+<p begin="00:43:29.760" end="00:43:34.560" style="s2">value in my time we are  talking</p>
+<p begin="00:43:31.800" end="00:43:37.380" style="s2">here about psychological safety which was a</p>
+<p begin="00:43:34.560" end="00:43:39.300" style="s2">term created by midwanderson author of</p>
+<p begin="00:43:37.380" end="00:43:40.500" style="s2">this book that I highly recommend that</p>
+<p begin="00:43:39.300" end="00:43:43.740" style="s2">talks about the psychological safety environment</p>
+<p begin="00:43:40.500" end="00:43:46.260" style="s2">in which I can express myself</p>
+<p begin="00:43:43.740" end="00:43:48.660" style="s2">interact learn and belong without fear</p>
+<p begin="00:43:46.260" end="00:43:50.700" style="s2">of consequences and I know that</p>
+<p begin="00:43:48.660" end="00:43:55.140" style="s2">you have here a  very interesting people management,</p>
+<p begin="00:43:50.700" end="00:43:57.060" style="s2">right in what Mrs. Bianca</p>
+<p begin="00:43:55.140" end="00:43:58.920" style="s2">Fi uses that today she is wearing Red Lipstick</p>
+<p begin="00:43:57.060" end="00:44:00.380" style="s2">she is not showing up here but I&#39;ve</p>
+<p begin="00:43:58.920" end="00:44:02.880" style="s2">seen she</p>
+<p begin="00:44:00.380" end="00:44:05.280" style="s2">even participated in the hiring of</p>
+<p begin="00:44:02.880" end="00:44:07.040" style="s2">many of you it&#39;s been a long time she</p>
+<p begin="00:44:05.280" end="00:44:10.140" style="s2">can</p>
+<p begin="00:44:07.040" end="00:44:12.740" style="s2">direct you to the best path</p>
+<p begin="00:44:10.140" end="00:44:16.220" style="s2">because oh  people fix the roof</p>
+<p begin="00:44:12.740" end="00:44:16.220" style="s2">before the rain</p>
+<p begin="00:44:17.579" end="00:44:23.579" style="s2">I only preserve my health</p>
+<p begin="00:44:21.000" end="00:44:26.280" style="s2">when I am healthy  and</p>
+<p begin="00:44:23.579" end="00:44:29.280" style="s2">Don&#39;t wait for rain to fix the</p>
+<p begin="00:44:26.280" end="00:44:32.099" style="s2">roof so one thing is an environment of</p>
+<p begin="00:44:29.280" end="00:44:34.440" style="s2">psychological safety the movement that the</p>
+<p begin="00:44:32.099" end="00:44:37.619" style="s2">company&#39;s culture is making for</p>
+<p begin="00:44:34.440" end="00:44:40.700" style="s2">change this is medium and long term</p>
+<p begin="00:44:37.619" end="00:44:44.940" style="s2">but everyone has their responsibility</p>
+<p begin="00:44:40.700" end="00:44:48.660" style="s2">to seek help and</p>
+<p begin="00:44:44.940" end="00:44:51.300" style="s2">I&#39;m feeling there&#39;s a  leak here I&#39;m going to</p>
+<p begin="00:44:48.660" end="00:44:53.880" style="s2">wait for the bad no I&#39;m going to share</p>
+<p begin="00:44:51.300" end="00:44:56.760" style="s2">this wheel of life with you because it&#39;s the</p>
+<p begin="00:44:53.880" end="00:45:00.619" style="s2">best way for you to have</p>
+<p begin="00:44:56.760" end="00:45:00.619" style="s2">a picture of your moment</p>
+<p begin="00:45:00.720" end="00:45:05.359" style="s2">Where is the imbalance what</p>
+<p begin="00:45:03.359" end="00:45:09.660" style="s2">you can or can&#39;t</p>
+<p begin="00:45:05.359" end="00:45:11.420" style="s2">adjust I&#39;m talking about adjustment people and</p>
+<p begin="00:45:09.660" end="00:45:15.300" style="s2">we can only</p>
+<p begin="00:45:11.420" end="00:45:17.460" style="s2">draw up a good flight plan for our</p>
+<p begin="00:45:15.300" end="00:45:20.220" style="s2">lives when we have information from the</p>
+<p begin="00:45:17.460" end="00:45:23.220" style="s2">sky when we have information from the</p>
+<p begin="00:45:20.220" end="00:45:25.619" style="s2">atmosphere it is not I need my</p>
+<p begin="00:45:23.220" end="00:45:28.020" style="s2">information to draw up my plan</p>
+<p begin="00:45:25.619" end="00:45:29.400" style="s2">So here is the wheel of life later I</p>
+<p begin="00:45:28.020" end="00:45:31.500" style="s2">share it in  link also so</p>
+<p begin="00:45:29.400" end="00:45:32.819" style="s2">you can access ending here</p>
+<p begin="00:45:31.500" end="00:45:34.920" style="s2">Mário for us to open so for</p>
+<p begin="00:45:32.819" end="00:45:37.140" style="s2">our discussion right here</p>
+<p begin="00:45:34.920" end="00:45:39.380" style="s2">with our time I need to observe the</p>
+<p begin="00:45:37.140" end="00:45:41.760" style="s2">s  internal and external signals</p>
+<p begin="00:45:39.380" end="00:45:45.060" style="s2">Ah but I still think all of this</p>
+<p begin="00:45:41.760" end="00:45:47.520" style="s2">is silly, it&#39;s a decision so we</p>
+<p begin="00:45:45.060" end="00:45:49.619" style="s2">need to be proud of the path we&#39;ve</p>
+<p begin="00:45:47.520" end="00:45:52.800" style="s2">traced so far so pride in the</p>
+<p begin="00:45:49.619" end="00:45:55.140" style="s2">past but humility for the future with</p>
+<p begin="00:45:52.800" end="00:45:56.940" style="s2">an apprentice&#39;s eyes I need to slow down</p>
+<p begin="00:45:55.140" end="00:45:58.920" style="s2">a little</p>
+<p begin="00:45:56.940" end="00:46:01.020" style="s2">to continue the movement  to</p>
+<p begin="00:45:58.920" end="00:46:02.180" style="s2">keep accelerating this sign is not</p>
+<p begin="00:46:01.020" end="00:46:04.680" style="s2">on the decorative road</p>
+<p begin="00:46:02.180" end="00:46:08.640" style="s2">it means that if you</p>
+<p begin="00:46:04.680" end="00:46:10.920" style="s2">exceed your limit you put yourself</p>
+<p begin="00:46:08.640" end="00:46:14.400" style="s2">at risk in other people too so</p>
+<p begin="00:46:10.920" end="00:46:15.720" style="s2">I need to stop a little bit I&#39;m</p>
+<p begin="00:46:14.400" end="00:46:18.240" style="s2">telling no one your jobs people I&#39;m</p>
+<p begin="00:46:15.720" end="00:46:20.460" style="s2">talking look if you already fill this wheel  of</p>
+<p begin="00:46:18.240" end="00:46:23.339" style="s2">life I&#39;m already happy with life because then</p>
+<p begin="00:46:20.460" end="00:46:25.380" style="s2">you go, each one with your own, each one will</p>
+<p begin="00:46:23.339" end="00:46:28.800" style="s2">recognize Where you are imbalance</p>
+<p begin="00:46:25.380" end="00:46:32.339" style="s2">so I finish here thanking you so much for</p>
+<p begin="00:46:28.800" end="00:46:33.359" style="s2">your time leaving here three just</p>
+<p begin="00:46:32.339" end="00:46:35.640" style="s2">put my name on YouTube that will</p>
+<p begin="00:46:33.359" end="00:46:37.079" style="s2">appear a lot of content but in these</p>
+<p begin="00:46:35.640" end="00:46:38.880" style="s2">three specifically I delve into</p>
+<p begin="00:46:37.079" end="00:46:40.560" style="s2">this that I commented with you in my</p>
+<p begin="00:46:38.880" end="00:46:43.260" style="s2">book to give you a break on how to find a</p>
+<p begin="00:46:40.560" end="00:46:45.000" style="s2">limit in this  world without limits Mary</p>
+<p begin="00:46:43.260" end="00:46:47.700" style="s2">now gives the floor to you so</p>
+<p begin="00:46:45.000" end="00:46:50.460" style="s2">we can exchange a little more</p>
+<p begin="00:46:47.700" end="00:46:52.560" style="s2">Hi Isabela how valuable all this</p>
+<p begin="00:46:50.460" end="00:46:54.780" style="s2">you brought to us I&#39;m here</p>
+<p begin="00:46:52.560" end="00:46:57.540" style="s2">following the comments a slide</p>
+<p begin="00:46:54.780" end="00:46:59.220" style="s2">your talk your speech moved we</p>
+<p begin="00:46:57.540" end="00:47:02.220" style="s2">have people posting comments here</p>
+<p begin="00:46:59.220" end="00:47:04.220" style="s2">who were very touched that they saw in</p>
+<p begin="00:47:02.220" end="00:47:07.940" style="s2">their families or in themselves</p>
+<p begin="00:47:04.220" end="00:47:11.400" style="s2">situations that you are</p>
+<p begin="00:47:07.940" end="00:47:14.160" style="s2">needed I will condense that some</p>
+<p begin="00:47:11.400" end="00:47:16.079" style="s2">comments on two fronts there was a</p>
+<p begin="00:47:14.160" end="00:47:19.200" style="s2">comment there early on asking</p>
+<p begin="00:47:16.079" end="00:47:22.920" style="s2">if women are more likely to</p>
+<p begin="00:47:19.200" end="00:47:24.359" style="s2">have mental health problems is colleague</p>
+<p begin="00:47:22.920" end="00:47:25.680" style="s2">man who said no I went through it</p>
+<p begin="00:47:24.359" end="00:47:27.780" style="s2">actually I think that only women</p>
+<p begin="00:47:25.680" end="00:47:30.060" style="s2">talk more about this subject than</p>
+<p begin="00:47:27.780" end="00:47:31.200" style="s2">men so there is this gender issue</p>
+<p begin="00:47:30.060" end="00:47:33.420" style="s2">that I wish you could</p>
+<p begin="00:47:31.200" end="00:47:35.099" style="s2">eventually address that with us, right, the</p>
+<p begin="00:47:33.420" end="00:47:36.780" style="s2">agency has a characteristic that I</p>
+<p begin="00:47:35.099" end="00:47:39.440" style="s2">mentioned  this with you yesterday right We</p>
+<p begin="00:47:36.780" end="00:47:42.780" style="s2">have a male majority Here</p>
+<p begin="00:47:39.440" end="00:47:45.440" style="s2">we have around 75% of men</p>
+<p begin="00:47:42.780" end="00:47:48.900" style="s2">contracts with 25% of the staff  women</p>
+<p begin="00:47:45.440" end="00:47:51.060" style="s2">and another point that was and here I</p>
+<p begin="00:47:48.900" end="00:47:53.520" style="s2">include myself ok because we who occupy</p>
+<p begin="00:47:51.060" end="00:47:56.099" style="s2">leadership roles occupy</p>
+<p begin="00:47:53.520" end="00:47:58.920" style="s2">leadership positions and we have to have the police</p>
+<p begin="00:47:56.099" end="00:48:01.619" style="s2">take care of ourselves with our own health But</p>
+<p begin="00:47:58.920" end="00:48:03.900" style="s2">we are responsible for a team and</p>
+<p begin="00:48:01.619" end="00:48:06.599" style="s2">taking care of a team is not  it&#39;s just the result</p>
+<p begin="00:48:03.900" end="00:48:08.819" style="s2">of the work of these people but also of</p>
+<p begin="00:48:06.599" end="00:48:11.040" style="s2">sustainability, right, of ensuring that</p>
+<p begin="00:48:08.819" end="00:48:13.560" style="s2">these people stay well and manage to</p>
+<p begin="00:48:11.040" end="00:48:15.359" style="s2">work balancing the personal and</p>
+<p begin="00:48:13.560" end="00:48:17.040" style="s2">professional side and some comments came</p>
+<p begin="00:48:15.359" end="00:48:20.280" style="s2">here on the issue of how to</p>
+<p begin="00:48:17.040" end="00:48:22.079" style="s2">sensitize managers how to make</p>
+<p begin="00:48:20.280" end="00:48:24.359" style="s2">the people who occupy a position  managers</p>
+<p begin="00:48:22.079" end="00:48:27.240" style="s2">do not value productivity or</p>
+<p begin="00:48:24.359" end="00:48:29.400" style="s2">Any Cost that they can perceive is</p>
+<p begin="00:48:27.240" end="00:48:31.800" style="s2">how to make someone who is in</p>
+<p begin="00:48:29.400" end="00:48:33.900" style="s2">a leadership position sensitive, it is a</p>
+<p begin="00:48:31.800" end="00:48:36.180" style="s2">colleague who is in need of help, not</p>
+<p begin="00:48:33.900" end="00:48:38.640" style="s2">necessarily he has a medical certificate,</p>
+<p begin="00:48:36.180" end="00:48:40.619" style="s2">but in a situation to</p>
+<p begin="00:48:38.640" end="00:48:42.780" style="s2">identify and be able to support  your</p>
+<p begin="00:48:40.619" end="00:48:44.520" style="s2">teams I will continue reading slide but</p>
+<p begin="00:48:42.780" end="00:48:46.500" style="s2">already raise these two balls here if you</p>
+<p begin="00:48:44.520" end="00:48:48.839" style="s2">can addressing</p>
+<p begin="00:48:46.500" end="00:48:50.280" style="s2">Obri  Thanks for all the comments I</p>
+<p begin="00:48:48.839" end="00:48:52.020" style="s2">&#39;m also watching here but I&#39;ll leave it</p>
+<p begin="00:48:50.280" end="00:48:54.980" style="s2">to Mário to bring that</p>
+<p begin="00:48:52.020" end="00:48:59.640" style="s2">comment that you see the most that can</p>
+<p begin="00:48:54.980" end="00:49:01.740" style="s2">serve more people well</p>
+<p begin="00:48:59.640" end="00:49:05.460" style="s2">first thing</p>
+<p begin="00:49:01.740" end="00:49:07.859" style="s2">this conversation is going on it is a good</p>
+<p begin="00:49:05.460" end="00:49:10.040" style="s2">start that there is a movement to</p>
+<p begin="00:49:07.859" end="00:49:12.680" style="s2">psychological safety and I can only</p>
+<p begin="00:49:10.040" end="00:49:16.280" style="s2">mobilize my leadership my leadership by</p>
+<p begin="00:49:12.680" end="00:49:19.160" style="s2">communicating then the main tool of</p>
+<p begin="00:49:16.280" end="00:49:23.760" style="s2">this New Age of psychological safety</p>
+<p begin="00:49:19.160" end="00:49:25.260" style="s2">since</p>
+<p begin="00:49:23.760" end="00:49:27.720" style="s2">mental health problems are now taking the same</p>
+<p begin="00:49:25.260" end="00:49:30.300" style="s2">place as physical health problems</p>
+<p begin="00:49:27.720" end="00:49:32.160" style="s2">I need to communicate</p>
+<p begin="00:49:30.300" end="00:49:35.220" style="s2">this sometimes  boss isn&#39;t</p>
+<p begin="00:49:32.160" end="00:49:38.099" style="s2">realizing what&#39;s going on either so</p>
+<p begin="00:49:35.220" end="00:49:40.319" style="s2">i need to speak up</p>
+<p begin="00:49:38.099" end="00:49:43.920" style="s2">oh but it&#39;s obvious he&#39;s</p>
+<p begin="00:49:40.319" end="00:49:47.520" style="s2">overloading me no it</p>
+<p begin="00:49:43.920" end="00:49:49.319" style="s2">&#39;s not so there needs to be</p>
+<p begin="00:49:47.520" end="00:49:52.339" style="s2"></p>
+<p begin="00:49:49.319" end="00:49:52.339" style="s2">two-way communication</p>
+<p begin="00:49:52.500" end="00:49:58.560" style="s2">oh but i&#39;m afraid of what this could</p>
+<p begin="00:49:54.420" end="00:50:01.520" style="s2">happen if you don&#39;t  try you</p>
+<p begin="00:49:58.560" end="00:50:04.020" style="s2">won&#39;t know if you don&#39;t manifest a pain</p>
+<p begin="00:50:01.520" end="00:50:09.420" style="s2">especially those that are invisible</p>
+<p begin="00:50:04.020" end="00:50:13.140" style="s2">i have no way of knowing me as a leader</p>
+<p begin="00:50:09.420" end="00:50:16.560" style="s2">Ah but he knows why he or</p>
+<p begin="00:50:13.140" end="00:50:20.579" style="s2">she is putting me in a situation</p>
+<p begin="00:50:16.560" end="00:50:24.119" style="s2">like this or that I will repeat it is not obvious</p>
+<p begin="00:50:20.579" end="00:50:27.420" style="s2">that each one is trying to survive with</p>
+<p begin="00:50:24.119" end="00:50:29.400" style="s2">their resources in the best way and each</p>
+<p begin="00:50:27.420" end="00:50:30.960" style="s2">one within their own home since you now have a</p>
+<p begin="00:50:29.400" end="00:50:34.140" style="s2">lot of autonomy  and flexibility</p>
+<p begin="00:50:30.960" end="00:50:36.960" style="s2">are very different and very</p>
+<p begin="00:50:34.140" end="00:50:41.640" style="s2">challenging contexts so don&#39;t count on this</p>
+<p begin="00:50:36.960" end="00:50:44.880" style="s2">Ah but it&#39;s so obvious no it&#39;s not</p>
+<p begin="00:50:41.640" end="00:50:46.980" style="s2">after that there&#39;s another element that is</p>
+<p begin="00:50:44.880" end="00:50:48.720" style="s2">when it stops being invisible when</p>
+<p begin="00:50:46.980" end="00:50:51.119" style="s2">it becomes invisible so observe</p>
+<p begin="00:50:48.720" end="00:50:53.520" style="s2">behaviors When the person doesn&#39;t open</p>
+<p begin="00:50:51.119" end="00:50:56.220" style="s2">the camera first  thing when the person</p>
+<p begin="00:50:53.520" end="00:50:58.520" style="s2">is more aggressive when he is isolating himself</p>
+<p begin="00:50:56.220" end="00:50:58.520" style="s2"></p>
+<p begin="00:50:59.400" end="00:51:04.319" style="s2">this person needs help Ah but</p>
+<p begin="00:51:02.579" end="00:51:06.000" style="s2">then how do I help go to the</p>
+<p begin="00:51:04.319" end="00:51:08.099" style="s2">mall it will be that we are not going</p>
+<p begin="00:51:06.000" end="00:51:10.920" style="s2">anywhere let&#39;s talk first</p>
+<p begin="00:51:08.099" end="00:51:12.599" style="s2">right it&#39;s not with shopping it&#39;s not with drinks</p>
+<p begin="00:51:10.920" end="00:51:16.260" style="s2">no  It&#39;s with drugs that we&#39;re going to solve</p>
+<p begin="00:51:12.599" end="00:51:18.599" style="s2">the pain it&#39;s with conversation Ah but then</p>
+<p begin="00:51:16.260" end="00:51:20.220" style="s2">who can I talk to I don&#39;t</p>
+<p begin="00:51:18.599" end="00:51:25.020" style="s2">trust anyone</p>
+<p begin="00:51:20.220" end="00:51:28.079" style="s2">Look I won&#39;t be here if Dona Bianca</p>
+<p begin="00:51:25.020" end="00:51:30.180" style="s2">wants  and use made me sure that she has been</p>
+<p begin="00:51:28.079" end="00:51:33.020" style="s2">working with you for a long time many of</p>
+<p begin="00:51:30.180" end="00:51:33.020" style="s2">you know her</p>
+<p begin="00:51:33.980" end="00:51:39.000" style="s2">bianca.umas@anac.gov.br is Bianca will</p>
+<p begin="00:51:36.839" end="00:51:42.119" style="s2">address you to the right person</p>
+<p begin="00:51:39.000" end="00:51:43.740" style="s2">because also but we want to talk And</p>
+<p begin="00:51:42.119" end="00:51:47.420" style="s2">then want to talk about any  It</p>
+<p begin="00:51:43.740" end="00:51:47.420" style="s2">&#39;s not like that anywhere either,</p>
+<p begin="00:51:50.940" end="00:51:55.500" style="s2">every thing in its place I know it&#39;s</p>
+<p begin="00:51:53.640" end="00:51:57.260" style="s2">challenging for the teams and I also know</p>
+<p begin="00:51:55.500" end="00:52:00.440" style="s2">it&#39;s challenging for the leaders</p>
+<p begin="00:51:57.260" end="00:52:04.140" style="s2">as we are going to find a way by</p>
+<p begin="00:52:00.440" end="00:52:06.599" style="s2">talking because the context within</p>
+<p begin="00:52:04.140" end="00:52:09.960" style="s2">ANAC may have different characteristics</p>
+<p begin="00:52:06.599" end="00:52:13.760" style="s2">from other companies  but I, Isabela, know</p>
+<p begin="00:52:09.960" end="00:52:17.000" style="s2">that overload has</p>
+<p begin="00:52:13.760" end="00:52:20.579" style="s2">universal consequences,</p>
+<p begin="00:52:17.000" end="00:52:25.800" style="s2">just like a bridge when it is built</p>
+<p begin="00:52:20.579" end="00:52:29.099" style="s2">and it has a lot of weight on top of it, it breaks</p>
+<p begin="00:52:25.800" end="00:52:32.520" style="s2">anywhere in the world</p>
+<p begin="00:52:29.099" end="00:52:34.740" style="s2">so it is necessary to communicate I answered the</p>
+<p begin="00:52:32.520" end="00:52:37.319" style="s2">question Mário</p>
+<p begin="00:52:34.740" end="00:52:40.260" style="s2">answered yes Isabela and I wanted to highlight</p>
+<p begin="00:52:37.319" end="00:52:42.359" style="s2">here for you guys if  you&#39;re already</p>
+<p begin="00:52:40.260" end="00:52:44.099" style="s2">going through a difficult situation, have you</p>
+<p begin="00:52:42.359" end="00:52:46.380" style="s2">tried to talk to your boss and see</p>
+<p begin="00:52:44.099" end="00:52:48.000" style="s2">the comment on islador here? What if I</p>
+<p begin="00:52:46.380" end="00:52:50.640" style="s2">already talked to my boss?  If this was not</p>
+<p begin="00:52:48.000" end="00:52:52.440" style="s2">effective I would like to highlight Isabela</p>
+<p begin="00:52:50.640" end="00:52:55.859" style="s2">that the superintendence of</p>
+<p begin="00:52:52.440" end="00:52:57.480" style="s2">people management is here to help the</p>
+<p begin="00:52:55.859" end="00:52:58.859" style="s2">servers and the leaders so I</p>
+<p begin="00:52:57.480" end="00:53:01.260" style="s2">want to talk here with you who are</p>
+<p begin="00:52:58.859" end="00:53:03.300" style="s2">watching us if you have someone on</p>
+<p begin="00:53:01.260" end="00:53:04.740" style="s2">your team who is difficult to  you deal with</p>
+<p begin="00:53:03.300" end="00:53:07.500" style="s2">you that I have a leadership car</p>
+<p begin="00:53:04.740" end="00:53:10.079" style="s2">you don&#39;t know how to help someone on your</p>
+<p begin="00:53:07.500" end="00:53:12.780" style="s2">team who is apparently going through</p>
+<p begin="00:53:10.079" end="00:53:14.400" style="s2">a difficult period call us and</p>
+<p begin="00:53:12.780" end="00:53:15.900" style="s2">we will help you and</p>
+<p begin="00:53:14.400" end="00:53:18.300" style="s2">guide you on how to deal with the person</p>
+<p begin="00:53:15.900" end="00:53:19.859" style="s2">who is  in your team if you are the</p>
+<p begin="00:53:18.300" end="00:53:23.280" style="s2">opposite, if not another perspective,</p>
+<p begin="00:53:19.859" end="00:53:25.800" style="s2">you try to seek help, you are trying to</p>
+<p begin="00:53:23.280" end="00:53:28.500" style="s2">improve, you are trying to communicate with</p>
+<p begin="00:53:25.800" end="00:53:30.540" style="s2">your boss, this is not reverberating, it</p>
+<p begin="00:53:28.500" end="00:53:33.000" style="s2">also brings us this issue that</p>
+<p begin="00:53:30.540" end="00:53:35.280" style="s2">we are here both to support the</p>
+<p begin="00:53:33.000" end="00:53:37.859" style="s2">leaders and to  take care of people</p>
+<p begin="00:53:35.280" end="00:53:40.619" style="s2">so Bianca is in charge here of the</p>
+<p begin="00:53:37.859" end="00:53:43.020" style="s2">team that deals with this topic and we</p>
+<p begin="00:53:40.619" end="00:53:45.359" style="s2">are delicate situations of course you are</p>
+<p begin="00:53:43.020" end="00:53:48.059" style="s2">not going to use a channel as SGP answers</p>
+<p begin="00:53:45.359" end="00:53:49.559" style="s2">that it is  our channel of doubts for the</p>
+<p begin="00:53:48.059" end="00:53:52.500" style="s2">work of managing day-to-</p>
+<p begin="00:53:49.559" end="00:53:54.660" style="s2">day people are sensitive personal issues and</p>
+<p begin="00:53:52.500" end="00:53:56.940" style="s2">we are here to help</p>
+<p begin="00:53:54.660" end="00:53:59.460" style="s2">you I also personally make myself</p>
+<p begin="00:53:56.940" end="00:54:01.260" style="s2">available for us to talk now</p>
+<p begin="00:53:59.460" end="00:54:03.559" style="s2">Isabela we don&#39;t want you to get to</p>
+<p begin="00:54:01.260" end="00:54:06.960" style="s2">that  point, right when we are already</p>
+<p begin="00:54:03.559" end="00:54:09.480" style="s2">suffering physically or mentally, it</p>
+<p begin="00:54:06.960" end="00:54:11.240" style="s2">means that the subject is already gringolous, right?</p>
+<p begin="00:54:09.480" end="00:54:14.760" style="s2">So I wanted to say how we</p>
+<p begin="00:54:11.240" end="00:54:17.400" style="s2">prevent not only when we already reach a point</p>
+<p begin="00:54:14.760" end="00:54:19.740" style="s2">of Suicidal thinking pawn, as you</p>
+<p begin="00:54:17.400" end="00:54:22.260" style="s2">commented that it was an extreme point there</p>
+<p begin="00:54:19.740" end="00:54:24.500" style="s2">that  what happened to you is that thank</p>
+<p begin="00:54:22.260" end="00:54:28.140" style="s2">God you are being treated right you were</p>
+<p begin="00:54:24.500" end="00:54:31.099" style="s2">able to wake up and wake up to this</p>
+<p begin="00:54:28.140" end="00:54:34.440" style="s2">for a new journey right it</p>
+<p begin="00:54:31.099" end="00:54:36.720" style="s2">means work in your life I</p>
+<p begin="00:54:34.440" end="00:54:39.000" style="s2">wanted to ask you who came here</p>
+<p begin="00:54:36.720" end="00:54:40.980" style="s2">on the slider how do we balance</p>
+<p begin="00:54:39.000" end="00:54:44.040" style="s2">you made a  comment there in the</p>
+<p begin="00:54:40.980" end="00:54:47.339" style="s2">lecture that we set aside time for us to</p>
+<p begin="00:54:44.040" end="00:54:51.180" style="s2">look for those five pillars of</p>
+<p begin="00:54:47.339" end="00:54:53.099" style="s2">Health he made the check list there and I had</p>
+<p begin="00:54:51.180" end="00:54:54.140" style="s2">contact with the wheel of life  for the first</p>
+<p begin="00:54:53.099" end="00:54:57.359" style="s2">time</p>
+<p begin="00:54:54.140" end="00:54:59.460" style="s2">2015 and I apply the wheel of life every</p>
+<p begin="00:54:57.359" end="00:55:01.339" style="s2">beginning of the year at the turn of my</p>
+<p begin="00:54:59.460" end="00:55:04.260" style="s2">new year you know when you make the</p>
+<p begin="00:55:01.339" end="00:55:06.599" style="s2">new year&#39;s plans I fill out my wheel of</p>
+<p begin="00:55:04.260" end="00:55:10.440" style="s2">life I keep the history and it changes right it&#39;s</p>
+<p begin="00:55:06.599" end="00:55:12.359" style="s2">all too much  changes but in addition to</p>
+<p begin="00:55:10.440" end="00:55:15.180" style="s2">filling in and doing self-knowledge,</p>
+<p begin="00:55:12.359" end="00:55:17.180" style="s2">there are some practical tips there for</p>
+<p begin="00:55:15.180" end="00:55:20.040" style="s2">people who want to have a good performance who</p>
+<p begin="00:55:17.180" end="00:55:22.980" style="s2">want to deliver are committed because</p>
+<p begin="00:55:20.040" end="00:55:24.720" style="s2">our lives and work are part</p>
+<p begin="00:55:22.980" end="00:55:26.579" style="s2">of our identity when we love</p>
+<p begin="00:55:24.720" end="00:55:27.960" style="s2">what we do  we don&#39;t want to be</p>
+<p begin="00:55:26.579" end="00:55:30.300" style="s2">mediocre, right, we want to do a</p>
+<p begin="00:55:27.960" end="00:55:32.700" style="s2">job of excellence there is this</p>
+<p begin="00:55:30.300" end="00:55:34.500" style="s2">characteristic There are many people who are</p>
+<p begin="00:55:32.700" end="00:55:37.020" style="s2">passionate about aviation who are</p>
+<p begin="00:55:34.500" end="00:55:40.440" style="s2">passionate about what they do They are people who are</p>
+<p begin="00:55:37.020" end="00:55:42.839" style="s2">very critical and who want to have an</p>
+<p begin="00:55:40.440" end="00:55:44.640" style="s2">excellent performance, but  how</p>
+<p begin="00:55:42.839" end="00:55:46.740" style="s2">can we achieve excellence with</p>
+<p begin="00:55:44.640" end="00:55:48.660" style="s2">sustainability help me here by giving</p>
+<p begin="00:55:46.740" end="00:55:50.579" style="s2">some recaps here of what you</p>
+<p begin="00:55:48.660" end="00:55:55.579" style="s2">said things that people take</p>
+<p begin="00:55:50.579" end="00:55:55.579" style="s2">from here and don&#39;t forget practical tips</p>
+<p begin="00:55:56.819" end="00:56:07.400" style="s2">ok  laughing well Yes or no Yes ok No</p>
+<p begin="00:56:01.440" end="00:56:07.400" style="s2">because there&#39;s not enough time why</p>
+<p begin="00:56:07.619" end="00:56:13.680" style="s2">What&#39;s contributing to you not</p>
+<p begin="00:56:10.319" end="00:56:15.839" style="s2">having time can be delegated someone can</p>
+<p begin="00:56:13.680" end="00:56:19.079" style="s2">do it you can ask someone for help</p>
+<p begin="00:56:15.839" end="00:56:21.660" style="s2">Ah but that person doesn&#39;t do it like me it&#39;s</p>
+<p begin="00:56:19.079" end="00:56:25.559" style="s2">you who is loading it</p>
+<p begin="00:56:21.660" end="00:56:26.819" style="s2">first  thing is sleeping well Yes or</p>
+<p begin="00:56:25.559" end="00:56:30.359" style="s2">no</p>
+<p begin="00:56:26.819" end="00:56:33.240" style="s2">second thing is having time to</p>
+<p begin="00:56:30.359" end="00:56:36.240" style="s2">feed yes or no Yes ok No because it</p>
+<p begin="00:56:33.240" end="00:56:38.520" style="s2">does not have time because what is</p>
+<p begin="00:56:36.240" end="00:56:41.599" style="s2">happening around it that does not</p>
+<p begin="00:56:38.520" end="00:56:44.579" style="s2">allow you to guarantee time to eat</p>
+<p begin="00:56:41.599" end="00:56:46.980" style="s2">third thing is managing to wash your</p>
+<p begin="00:56:44.579" end="00:56:49.800" style="s2">hair  girls or are living with</p>
+<p begin="00:56:46.980" end="00:56:52.920" style="s2">ponytails this video Mário has 6</p>
+<p begin="00:56:49.800" end="00:56:54.540" style="s2">million views on Tik Tok because I</p>
+<p begin="00:56:52.920" end="00:56:55.859" style="s2">know what I&#39;m talking about because I know</p>
+<p begin="00:56:54.540" end="00:56:58.260" style="s2">that when we are going down a</p>
+<p begin="00:56:55.859" end="00:57:00.960" style="s2">path of tiredness and exhaustion we</p>
+<p begin="00:56:58.260" end="00:57:03.480" style="s2">go Giving up our hygiene  boys</p>
+<p begin="00:57:00.960" end="00:57:05.880" style="s2">stop cutting their hair shaving</p>
+<p begin="00:57:03.480" end="00:57:09.000" style="s2">girls stop washing their hair</p>
+<p begin="00:57:05.880" end="00:57:11.760" style="s2">stop doing their nails which are details that</p>
+<p begin="00:57:09.000" end="00:57:15.000" style="s2">seem like vanity to some but what I know</p>
+<p begin="00:57:11.760" end="00:57:16.740" style="s2">is a lack of false self-care  I have to include</p>
+<p begin="00:57:15.000" end="00:57:20.460" style="s2">in your own agenda with what I&#39;m going to only you</p>
+<p begin="00:57:16.740" end="00:57:23.280" style="s2">can do for you and This demonstrates the</p>
+<p begin="00:57:20.460" end="00:57:24.960" style="s2">excess of activities So how do</p>
+<p begin="00:57:23.280" end="00:57:26.700" style="s2">I deal with the excess of activities</p>
+<p begin="00:57:24.960" end="00:57:30.559" style="s2">delegating</p>
+<p begin="00:57:26.700" end="00:57:30.559" style="s2">arriving Ah but Isabela this is difficult</p>
+<p begin="00:57:30.720" end="00:57:36.359" style="s2">I can only include my own agenda</p>
+<p begin="00:57:33.180" end="00:57:39.500" style="s2">training people  challenging because it&#39;s been</p>
+<p begin="00:57:36.359" end="00:57:42.300" style="s2">years thinking differently so</p>
+<p begin="00:57:39.500" end="00:57:44.660" style="s2">I need to choose Do you know how many</p>
+<p begin="00:57:42.300" end="00:57:47.819" style="s2">choices we make a day</p>
+<p begin="00:57:44.660" end="00:57:49.440" style="s2">35 thousand</p>
+<p begin="00:57:47.819" end="00:57:50.760" style="s2">from the time we open our eyes to the time</p>
+<p begin="00:57:49.440" end="00:57:51.780" style="s2">we close our eyes right from the time</p>
+<p begin="00:57:50.760" end="00:57:56.780" style="s2">we wake up to the time we wake up  we sleep</p>
+<p begin="00:57:51.780" end="00:57:56.780" style="s2">35 minutes and that are decisions such as</p>
+<p begin="00:57:57.000" end="00:58:01.500" style="s2">sleep an extra minute or not turn on the</p>
+<p begin="00:57:59.760" end="00:58:04.140" style="s2">side move my hair I tie my hair</p>
+<p begin="00:58:01.500" end="00:58:07.020" style="s2">Put on that blue scarf or don&#39;t ask the</p>
+<p begin="00:58:04.140" end="00:58:09.480" style="s2">question or not 35 minutes we&#39;re</p>
+<p begin="00:58:07.020" end="00:58:11.400" style="s2">choosing all the time</p>
+<p begin="00:58:09.480" end="00:58:14.940" style="s2">even more for those who try</p>
+<p begin="00:58:11.400" end="00:58:17.280" style="s2">multitasking, right, because it alternates attention,</p>
+<p begin="00:58:14.940" end="00:58:18.960" style="s2">so Mário I need to choose,</p>
+<p begin="00:58:17.280" end="00:58:21.119" style="s2">I could bring you other information here,</p>
+<p begin="00:58:18.960" end="00:58:23.819" style="s2">but as I said, it</p>
+<p begin="00:58:21.119" end="00:58:28.559" style="s2">is essential that we are Giving up</p>
+<p begin="00:58:23.819" end="00:58:31.680" style="s2">and that makes management  We still need to negotiate</p>
+<p begin="00:58:28.559" end="00:58:34.339" style="s2">what should be non-negotiable</p>
+<p begin="00:58:31.680" end="00:58:34.339" style="s2">ok so</p>
+<p begin="00:58:35.359" end="00:58:39.660" style="s2">Hi sorry we have two more</p>
+<p begin="00:58:38.160" end="00:58:42.180" style="s2">minutes here with you before we</p>
+<p begin="00:58:39.660" end="00:58:43.740" style="s2">start saying goodbye and Carla is</p>
+<p begin="00:58:42.180" end="00:58:45.900" style="s2">remembering here on the slide what we</p>
+<p begin="00:58:43.740" end="00:58:48.119" style="s2">skipped the gender issue you see the</p>
+<p begin="00:58:45.900" end="00:58:53.299" style="s2">difference between boys and girls here</p>
+<p begin="00:58:48.119" end="00:58:58.640" style="s2">in relation to let&#39;s go women are more</p>
+<p begin="00:58:53.299" end="00:58:58.640" style="s2">likely and diagnoses</p>
+<p begin="00:58:59.900" end="00:59:03.619" style="s2">are more it doesn&#39;t mean that men don&#39;t</p>
+<p begin="00:59:02.579" end="00:59:07.319" style="s2">have</p>
+<p begin="00:59:03.619" end="00:59:10.559" style="s2">them women take care of themselves more because they</p>
+<p begin="00:59:07.319" end="00:59:13.799" style="s2">go to the gynecologist more, right the men</p>
+<p begin="00:59:10.559" end="00:59:15.720" style="s2">go there to the urologist especially</p>
+<p begin="00:59:13.799" end="00:59:19.200" style="s2">now with Blue November campaigns  of</p>
+<p begin="00:59:15.720" end="00:59:21.900" style="s2">integral health and such but there are two reasons</p>
+<p begin="00:59:19.200" end="00:59:25.920" style="s2">that women have more so in fact</p>
+<p begin="00:59:21.900" end="00:59:28.380" style="s2">three one is that it is more diagnosed</p>
+<p begin="00:59:25.920" end="00:59:29.480" style="s2">because because it goes to the doctor</p>
+<p begin="00:59:28.380" end="00:59:31.980" style="s2">more often</p>
+<p begin="00:59:29.480" end="00:59:34.020" style="s2">the second answer is related to</p>
+<p begin="00:59:31.980" end="00:59:36.599" style="s2">this Because women have</p>
+<p begin="00:59:34.020" end="00:59:38.640" style="s2">hormonal fluctuations that biologically I don&#39;t</p>
+<p begin="00:59:36.599" end="00:59:41.280" style="s2">need to explain  for you women</p>
+<p begin="00:59:38.640" end="00:59:43.020" style="s2">have more hormonal oscillations I had</p>
+<p begin="00:59:41.280" end="00:59:45.240" style="s2">last week with Dr Jairo Bauer a</p>
+<p begin="00:59:43.020" end="00:59:46.940" style="s2">psychiatrist and he said no  I need to</p>
+<p begin="00:59:45.240" end="00:59:50.640" style="s2">explain more that women have more</p>
+<p begin="00:59:46.940" end="00:59:53.400" style="s2">hormonal oscillations this is a fact as</p>
+<p begin="00:59:50.640" end="00:59:55.200" style="s2">I deal with this fact accepting and</p>
+<p begin="00:59:53.400" end="00:59:57.660" style="s2">seeking resources to deal with it in the best</p>
+<p begin="00:59:55.200" end="01:00:00.059" style="s2">way so first thing</p>
+<p begin="00:59:57.660" end="01:00:02.280" style="s2">women go to the doctor more second</p>
+<p begin="01:00:00.059" end="01:00:04.400" style="s2">thing she has more normal oscillations and</p>
+<p begin="01:00:02.280" end="01:00:09.000" style="s2">third thing</p>
+<p begin="01:00:04.400" end="01:00:11.339" style="s2">it has been so many centuries not being able to occupy</p>
+<p begin="01:00:09.000" end="01:00:13.799" style="s2">certain spaces that now the woman</p>
+<p begin="01:00:11.339" end="01:00:16.440" style="s2">occupies all she wants so we</p>
+<p begin="01:00:13.799" end="01:00:18.000" style="s2">learn to accumulate tasks and now</p>
+<p begin="01:00:16.440" end="01:00:20.640" style="s2">we need to learn to divide tasks</p>
+<p begin="01:00:18.000" end="01:00:23.940" style="s2">so because of the double triple shift</p>
+<p begin="01:00:20.640" end="01:00:26.640" style="s2">we accumulate more tasks so it is</p>
+<p begin="01:00:23.940" end="01:00:29.400" style="s2">also our responsibility to ask  more</p>
+<p begin="01:00:26.640" end="01:00:32.520" style="s2">help whether you will have this help or not</p>
+<p begin="01:00:29.400" end="01:00:36.020" style="s2">will depend on your patience in asking for the</p>
+<p begin="01:00:32.520" end="01:00:36.020" style="s2">same thing in different ways</p>
+<p begin="01:00:39.540" end="01:00:44.280" style="s2">is Isabela so we receive some</p>
+<p begin="01:00:41.819" end="01:00:47.040" style="s2">comments here in the is from experiences that</p>
+<p begin="01:00:44.280" end="01:00:49.260" style="s2">have already happened things that have happened and</p>
+<p begin="01:00:47.040" end="01:00:50.819" style="s2">that mark us right then  we had</p>
+<p begin="01:00:49.260" end="01:00:53.160" style="s2">comments here from colleagues who spoke</p>
+<p begin="01:00:50.819" end="01:00:54.540" style="s2">a while ago I went through a</p>
+<p begin="01:00:53.160" end="01:00:56.460" style="s2">period of great suffering  So much</p>
+<p begin="01:00:54.540" end="01:00:59.640" style="s2">overload that still leaves marks on me,</p>
+<p begin="01:00:56.460" end="01:01:03.780" style="s2">others said I was happy to</p>
+<p begin="01:00:59.640" end="01:01:06.359" style="s2">talk and I felt stigmatized, right or</p>
+<p begin="01:01:03.780" end="01:01:08.280" style="s2">is it that I feel that at the agency I get</p>
+<p begin="01:01:06.359" end="01:01:11.040" style="s2">stamped if I go through a problem</p>
+<p begin="01:01:08.280" end="01:01:12.619" style="s2">such as we break this</p>
+<p begin="01:01:11.040" end="01:01:15.960" style="s2">stigma but how is it  that we</p>
+<p begin="01:01:12.619" end="01:01:18.299" style="s2">take care of rehabilitation knows because there comes</p>
+<p begin="01:01:15.960" end="01:01:20.760" style="s2">a time that if we go through a</p>
+<p begin="01:01:18.299" end="01:01:24.180" style="s2">period of suffering I feel that there is no</p>
+<p begin="01:01:20.760" end="01:01:27.000" style="s2">help is bad and feeling that there is no way out of</p>
+<p begin="01:01:24.180" end="01:01:28.760" style="s2">this suffering is even worse, you know, how</p>
+<p begin="01:01:27.000" end="01:01:32.339" style="s2">can we</p>
+<p begin="01:01:28.760" end="01:01:34.799" style="s2">take this load off this  stigma and</p>
+<p begin="01:01:32.339" end="01:01:36.780" style="s2">helping people to see that there is a FD</p>
+<p begin="01:01:34.799" end="01:01:39.480" style="s2">that you can be happy with after a</p>
+<p begin="01:01:36.780" end="01:01:41.339" style="s2">difficult episode that has</p>
+<p begin="01:01:39.480" end="01:01:45.000" style="s2">the best chapter and that</p>
+<p begin="01:01:41.339" end="01:01:46.559" style="s2">we can finally have light at the end of the tunnel, right,</p>
+<p begin="01:01:45.000" end="01:01:48.900" style="s2">how do we do that, helps me</p>
+<p begin="01:01:46.559" end="01:01:52.200" style="s2">here  really trying to bring changes</p>
+<p begin="01:01:48.900" end="01:01:54.599" style="s2">to organize, hey, Mari, I&#39;m going with this</p>
+<p begin="01:01:52.200" end="01:01:56.819" style="s2">answer of mine, saying goodbye to you, it&#39;s</p>
+<p begin="01:01:54.599" end="01:01:58.980" style="s2">because of the time I&#39;m going to catch a flight,</p>
+<p begin="01:01:56.819" end="01:02:01.640" style="s2">okay, people in half an hour, so that&#39;s really</p>
+<p begin="01:01:58.980" end="01:02:05.040" style="s2">why I can&#39;t go on anymore</p>
+<p begin="01:02:01.640" end="01:02:06.780" style="s2">and  your answer is not so simple I would</p>
+<p begin="01:02:05.040" end="01:02:08.839" style="s2">need more than an hour to</p>
+<p begin="01:02:06.780" end="01:02:10.920" style="s2">start this</p>
+<p begin="01:02:08.839" end="01:02:13.940" style="s2">literacy that we are talking about here</p>
+<p begin="01:02:10.920" end="01:02:13.940" style="s2">is education and health</p>
+<p begin="01:02:14.000" end="01:02:20.579" style="s2">education we don&#39;t educate anyone in</p>
+<p begin="01:02:17.460" end="01:02:22.859" style="s2">an hour but I manage to stimulate</p>
+<p begin="01:02:20.579" end="01:02:26.660" style="s2">interest so that everyone can go deeper</p>
+<p begin="01:02:22.859" end="01:02:28.980" style="s2">into it  that caught the most attention</p>
+<p begin="01:02:26.660" end="01:02:31.079" style="s2">How can I reduce stigma by</p>
+<p begin="01:02:28.980" end="01:02:36.619" style="s2">talking</p>
+<p begin="01:02:31.079" end="01:02:36.619" style="s2">not judging not reducing pain</p>
+<p begin="01:02:37.140" end="01:02:41.880" style="s2">first thing</p>
+<p begin="01:02:39.000" end="01:02:44.640" style="s2">then First me then the other I</p>
+<p begin="01:02:41.880" end="01:02:46.200" style="s2">&#39;m judging Someone has a</p>
+<p begin="01:02:44.640" end="01:02:48.000" style="s2">stop behavior when someone</p>
+<p begin="01:02:46.200" end="01:02:49.740" style="s2">comes to tell me something how</p>
+<p begin="01:02:48.000" end="01:02:51.839" style="s2">am I acting it</p>
+<p begin="01:02:49.740" end="01:02:54.180" style="s2">&#39;s with these  people who are asking me for</p>
+<p begin="01:02:51.839" end="01:02:55.980" style="s2">help because people too, we</p>
+<p begin="01:02:54.180" end="01:02:57.180" style="s2">always put ourselves as we need help</p>
+<p begin="01:02:55.980" end="01:02:58.680" style="s2">but sometimes we also receive</p>
+<p begin="01:02:57.180" end="01:03:01.640" style="s2">requests for help How am I putting myself</p>
+<p begin="01:02:58.680" end="01:03:04.920" style="s2">I know no I don&#39;t know</p>
+<p begin="01:03:01.640" end="01:03:08.460" style="s2">how to deal with it I need to address</p>
+<p begin="01:03:04.920" end="01:03:11.520" style="s2">And then  therapy The Psychologist the</p>
+<p begin="01:03:08.460" end="01:03:13.200" style="s2">general practitioner a specialist who has a</p>
+<p begin="01:03:11.520" end="01:03:16.500" style="s2">different skill than yours is the one who will be</p>
+<p begin="01:03:13.200" end="01:03:17.480" style="s2">able to treat what you are feeling in the best way.</p>
+<p begin="01:03:16.500" end="01:03:19.920" style="s2"></p>
+<p begin="01:03:17.480" end="01:03:22.859" style="s2">I don&#39;t care for Isabela but I think therapy</p>
+<p begin="01:03:19.920" end="01:03:26.660" style="s2">is really silly, it&#39;s the same thing as</p>
+<p begin="01:03:22.859" end="01:03:26.660" style="s2">having a toothache and refusing</p>
+<p begin="01:03:26.760" end="01:03:31.200" style="s2">remember it wasn&#39;t always like this before the</p>
+<p begin="01:03:29.819" end="01:03:34.319" style="s2">dentist it was probably also seen</p>
+<p begin="01:03:31.200" end="01:03:36.740" style="s2">as unnecessary today it&#39;s not anymore So</p>
+<p begin="01:03:34.319" end="01:03:39.540" style="s2">this is the only way Mário is</p>
+<p begin="01:03:36.740" end="01:03:42.000" style="s2">self-knowledge  I can do this journey</p>
+<p begin="01:03:39.540" end="01:03:44.040" style="s2">alone or accompanied by a</p>
+<p begin="01:03:42.000" end="01:03:46.500" style="s2">professional who has more skills</p>
+<p begin="01:03:44.040" end="01:03:48.960" style="s2">than me to organize simple ideas</p>
+<p begin="01:03:46.500" end="01:03:50.359" style="s2">as well as how can I include myself in my</p>
+<p begin="01:03:48.960" end="01:03:53.339" style="s2">own agenda,</p>
+<p begin="01:03:50.359" end="01:03:54.960" style="s2">excluding what is no longer useful, which is</p>
+<p begin="01:03:53.339" end="01:03:57.839" style="s2">why identity updating is</p>
+<p begin="01:03:54.960" end="01:04:01.559" style="s2">essential for  that you exclude</p>
+<p begin="01:03:57.839" end="01:04:05.040" style="s2">what no longer fits in this lifestyle</p>
+<p begin="01:04:01.559" end="01:04:08.760" style="s2">that today you have one of the great</p>
+<p begin="01:04:05.040" end="01:04:11.400" style="s2">dissatisfactions of our life is wanting to</p>
+<p begin="01:04:08.760" end="01:04:13.859" style="s2">handle today&#39;s agenda with the</p>
+<p begin="01:04:11.400" end="01:04:16.020" style="s2">characteristics we had in the past</p>
+<p begin="01:04:13.859" end="01:04:19.020" style="s2">without recognizing the strengths and</p>
+<p begin="01:04:16.020" end="01:04:24.380" style="s2">weaknesses then it really can  see the Pope</p>
+<p begin="01:04:19.020" end="01:04:24.380" style="s2">say that it won&#39;t help Mari</p>
+<p begin="01:04:28.020" end="01:04:32.760" style="s2">Isabela wonderful I know you have a</p>
+<p begin="01:04:30.420" end="01:04:34.500" style="s2">schedule thank you very much for your</p>
+<p begin="01:04:32.760" end="01:04:36.900" style="s2">words for comparing  sharing with you all</p>
+<p begin="01:04:34.500" end="01:04:39.059" style="s2">this experience is personal we stay</p>
+<p begin="01:04:36.900" end="01:04:40.799" style="s2">here I want to remember that we</p>
+<p begin="01:04:39.059" end="01:04:44.040" style="s2">have more Yellow September programming</p>
+<p begin="01:04:40.799" end="01:04:46.040" style="s2">Don&#39;t miss it we continue this dialogue</p>
+<p begin="01:04:44.040" end="01:04:48.900" style="s2">right an opening that for us to be able to</p>
+<p begin="01:04:46.040" end="01:04:51.000" style="s2">bring more quality of life even</p>
+<p begin="01:04:48.900" end="01:04:52.380" style="s2">to our  work this moment that</p>
+<p begin="01:04:51.000" end="01:04:54.540" style="s2">we are working hybrid a lot of</p>
+<p begin="01:04:52.380" end="01:04:56.520" style="s2">people in remote work without these</p>
+<p begin="01:04:54.540" end="01:04:58.440" style="s2">boundaries between personal life and</p>
+<p begin="01:04:56.520" end="01:05:00.540" style="s2">professional life is a learning experience for us</p>
+<p begin="01:04:58.440" end="01:05:02.339" style="s2">but I&#39;m sure that this</p>
+<p begin="01:05:00.540" end="01:05:04.380" style="s2">flexibility and autonomy that we have</p>
+<p begin="01:05:02.339" end="01:05:06.240" style="s2">to work at the agency brings much</p>
+<p begin="01:05:04.380" end="01:05:08.160" style="s2">more benefits  for us than</p>
+<p begin="01:05:06.240" end="01:05:10.380" style="s2">harm And these difficult issues</p>
+<p begin="01:05:08.160" end="01:05:12.660" style="s2">we will learn and we will work</p>
+<p begin="01:05:10.380" end="01:05:15.000" style="s2">together we are here to look</p>
+<p begin="01:05:12.660" end="01:05:17.640" style="s2">forward, right that the rear view serves as</p>
+<p begin="01:05:15.000" end="01:05:19.619" style="s2">lessons and that we improve and</p>
+<p begin="01:05:17.640" end="01:05:22.140" style="s2">manage to build the agency that we</p>
+<p begin="01:05:19.619" end="01:05:24.599" style="s2">want to work on day to day  day each one there</p>
+<p begin="01:05:22.140" end="01:05:27.119" style="s2">with their own inside their square, right</p>
+<p begin="01:05:24.599" end="01:05:29.760" style="s2">doing their best in their surroundings with</p>
+<p begin="01:05:27.119" end="01:05:32.160" style="s2">the people they live with is ca  give a one</p>
+<p begin="01:05:29.760" end="01:05:35.040" style="s2">there bringing the change that we want to</p>
+<p begin="01:05:32.160" end="01:05:37.099" style="s2">see right ahead so Isabela is</p>
+<p begin="01:05:35.040" end="01:05:39.839" style="s2">that my thanks I loved meeting you</p>
+<p begin="01:05:37.099" end="01:05:42.480" style="s2">I hope we have other events</p>
+<p begin="01:05:39.839" end="01:05:45.660" style="s2">in the future I wish you a good</p>
+<p begin="01:05:42.480" end="01:05:49.920" style="s2">trip and Success always Thank you guys</p>
+<p begin="01:05:45.660" end="01:05:49.920" style="s2">a hug and thank you</p>
+<p begin="01:05:51.059" end="01:05:54.319" style="s2">to all  a hug</p>
+</div>
+</body>
+</tt>
