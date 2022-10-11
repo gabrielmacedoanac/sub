@@ -1,6 +1,6 @@
 name: Extrair legendas
 description: Salve a legenda do vídeo
-title: "Extrair legendas"
+title: "Título do vídeo"
 labels: ["legendas"]
 body:
   - type: input
