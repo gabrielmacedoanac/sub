@@ -1,0 +1,2028 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:01:39.530" end="00:01:42.579" style="s2">[Music]</p>
+<p begin="00:01:47.350" end="00:01:52.930" style="s2">[Music]</p>
+<p begin="00:01:56.950" end="00:02:00.019" style="s2">[Music]</p>
+<p begin="00:03:16.800" end="00:03:19.800" style="s2">original</p>
+<p begin="00:03:21.220" end="00:03:24.280" style="s2">[Music]</p>
+<p begin="00:03:30.159" end="00:03:33.159" style="s2">is</p>
+<p begin="00:03:35.200" end="00:03:38.410" style="s2">[Music]</p>
+<p begin="00:06:25.430" end="00:06:28.639" style="s2">[Music]</p>
+<p begin="00:06:39.560" end="00:06:46.949" style="s2">[Music]</p>
+<p begin="00:07:00.130" end="00:07:03.220" style="s2">[Music]</p>
+<p begin="00:07:28.880" end="00:07:31.840" style="s2">is</p>
+<p begin="00:07:52.440" end="00:07:55.629" style="s2">[Music]</p>
+<p begin="00:07:56.000" end="00:07:59.000" style="s2">is</p>
+<p begin="00:09:01.220" end="00:09:04.299" style="s2">[Music]</p>
+<p begin="00:09:20.160" end="00:09:23.160" style="s2">is</p>
+<p begin="00:09:27.130" end="00:09:30.220" style="s2">[Music]</p>
+<p begin="00:09:38.500" end="00:09:45.580" style="s2">[Music]</p>
+<p begin="00:09:49.790" end="00:09:52.840" style="s2">[Music]</p>
+<p begin="00:10:30.640" end="00:10:33.640" style="s2">um</p>
+<p begin="00:10:51.910" end="00:10:55.110" style="s2">[Music]</p>
+<p begin="00:10:58.000" end="00:11:03.200" style="s2">oh</p>
+<p begin="00:11:00.130" end="00:11:03.200" style="s2">[Music]</p>
+<p begin="00:11:16.180" end="00:11:19.270" style="s2">[Music]</p>
+<p begin="00:11:24.010" end="00:11:27.080" style="s2">[Music]</p>
+<p begin="00:11:36.080" end="00:11:39.269" style="s2">[Music]</p>
+<p begin="00:12:08.500" end="00:12:11.549" style="s2">[Music]</p>
+<p begin="00:12:17.930" end="00:12:24.399" style="s2">[Music]</p>
+<p begin="00:12:23.200" end="00:12:27.040" style="s2">um</p>
+<p begin="00:12:24.399" end="00:12:28.959" style="s2">good morning uh good day to everybody um</p>
+<p begin="00:12:27.040" end="00:12:30.720" style="s2">as i just said uh start with two</p>
+<p begin="00:12:28.959" end="00:12:33.839" style="s2">apologies one for not being able to be</p>
+<p begin="00:12:30.720" end="00:12:35.519" style="s2">with you in person and the second</p>
+<p begin="00:12:33.839" end="00:12:37.279" style="s2">uh for doing this presentation in</p>
+<p begin="00:12:35.519" end="00:12:39.680" style="s2">english but as i think you just heard um</p>
+<p begin="00:12:37.279" end="00:12:40.959" style="s2">there&#39;s a very good reason for that</p>
+<p begin="00:12:39.680" end="00:12:44.240" style="s2">um</p>
+<p begin="00:12:40.959" end="00:12:45.200" style="s2">i&#39;m really grateful to um</p>
+<p begin="00:12:44.240" end="00:12:47.839" style="s2">and to</p>
+<p begin="00:12:45.200" end="00:12:50.880" style="s2">all of you for your time today um as</p>
+<p begin="00:12:47.839" end="00:12:54.240" style="s2">danny said in his uh openly remarks</p>
+<p begin="00:12:50.880" end="00:12:56.160" style="s2">dialogue is really important</p>
+<p begin="00:12:54.240" end="00:12:59.120" style="s2">for effective regulation</p>
+<p begin="00:12:56.160" end="00:13:01.760" style="s2">um and an effective dynamic regulation</p>
+<p begin="00:12:59.120" end="00:13:02.959" style="s2">which is a theme we also heard from the</p>
+<p begin="00:13:01.760" end="00:13:06.560" style="s2">director</p>
+<p begin="00:13:02.959" end="00:13:10.480" style="s2">i&#39;m just going to share my</p>
+<p begin="00:13:06.560" end="00:13:10.480" style="s2">my screen to get the slides going</p>
+<p begin="00:13:14.959" end="00:13:17.519" style="s2">hopefully now you&#39;re seeing the full</p>
+<p begin="00:13:16.560" end="00:13:20.959" style="s2">screen</p>
+<p begin="00:13:17.519" end="00:13:23.040" style="s2">excellent getting the nod from marcelo</p>
+<p begin="00:13:20.959" end="00:13:24.959" style="s2">um</p>
+<p begin="00:13:23.040" end="00:13:28.399" style="s2">this is the as the first of three</p>
+<p begin="00:13:24.959" end="00:13:30.880" style="s2">webinars we really wanted to</p>
+<p begin="00:13:28.399" end="00:13:32.560" style="s2">set the scene with some of the the</p>
+<p begin="00:13:30.880" end="00:13:33.680" style="s2">concepts</p>
+<p begin="00:13:32.560" end="00:13:35.440" style="s2">and the</p>
+<p begin="00:13:33.680" end="00:13:37.600" style="s2">the different</p>
+<p begin="00:13:35.440" end="00:13:39.279" style="s2">terms and</p>
+<p begin="00:13:37.600" end="00:13:42.000" style="s2">phrases that are used to describe</p>
+<p begin="00:13:39.279" end="00:13:44.160" style="s2">different dynamic regulatory</p>
+<p begin="00:13:42.000" end="00:13:46.480" style="s2">uh approaches whether that be smart or</p>
+<p begin="00:13:44.160" end="00:13:48.399" style="s2">better regulation</p>
+<p begin="00:13:46.480" end="00:13:50.399" style="s2">and responsive regulation</p>
+<p begin="00:13:48.399" end="00:13:51.199" style="s2">and how they fit together as part of the</p>
+<p begin="00:13:50.399" end="00:13:53.680" style="s2">whole</p>
+<p begin="00:13:51.199" end="00:13:55.839" style="s2">and that gives a more dynamic uh</p>
+<p begin="00:13:53.680" end="00:13:56.720" style="s2">regulation framework so i will talk</p>
+<p begin="00:13:55.839" end="00:13:59.760" style="s2">about</p>
+<p begin="00:13:56.720" end="00:14:01.760" style="s2">um the particular concept of responsive</p>
+<p begin="00:13:59.760" end="00:14:04.240" style="s2">regulation and enforcement</p>
+<p begin="00:14:01.760" end="00:14:06.320" style="s2">but i thought it was also important to</p>
+<p begin="00:14:04.240" end="00:14:08.000" style="s2">to put that in a wider context of</p>
+<p begin="00:14:06.320" end="00:14:10.560" style="s2">regulatory design</p>
+<p begin="00:14:08.000" end="00:14:13.680" style="s2">and how that fits with other regulatory</p>
+<p begin="00:14:10.560" end="00:14:16.800" style="s2">theories to be uh complementary</p>
+<p begin="00:14:13.680" end="00:14:19.440" style="s2">which uh i i do believe they are</p>
+<p begin="00:14:16.800" end="00:14:22.720" style="s2">and i&#39;m not going to talk in great</p>
+<p begin="00:14:19.440" end="00:14:26.160" style="s2">detail about aviation um in this session</p>
+<p begin="00:14:22.720" end="00:14:28.480" style="s2">uh we&#39;ll use the future sessions</p>
+<p begin="00:14:26.160" end="00:14:30.959" style="s2">um earlier next year</p>
+<p begin="00:14:28.480" end="00:14:33.680" style="s2">to get more into how some of these</p>
+<p begin="00:14:30.959" end="00:14:35.279" style="s2">apply and practice and to look at the um</p>
+<p begin="00:14:33.680" end="00:14:38.000" style="s2">the experience of different countries</p>
+<p begin="00:14:35.279" end="00:14:39.920" style="s2">applying these principles to aviation</p>
+<p begin="00:14:38.000" end="00:14:43.360" style="s2">i&#39;m also not going to talk in huge</p>
+<p begin="00:14:39.920" end="00:14:46.079" style="s2">detail about brazil we&#39;ll touch on on</p>
+<p begin="00:14:43.360" end="00:14:48.240" style="s2">brazil in a little bit of time but again</p>
+<p begin="00:14:46.079" end="00:14:49.760" style="s2">we can come back to the specific policy</p>
+<p begin="00:14:48.240" end="00:14:51.199" style="s2">issues and how they play out in the</p>
+<p begin="00:14:49.760" end="00:14:52.079" style="s2">local context</p>
+<p begin="00:14:51.199" end="00:14:54.160" style="s2">um</p>
+<p begin="00:14:52.079" end="00:14:56.720" style="s2">uh in the future webinars today is</p>
+<p begin="00:14:54.160" end="00:14:58.000" style="s2">really about um going through the the</p>
+<p begin="00:14:56.720" end="00:15:00.320" style="s2">concepts and the theories and the</p>
+<p begin="00:14:58.000" end="00:15:03.839" style="s2">principles</p>
+<p begin="00:15:00.320" end="00:15:05.199" style="s2">in terms of um the the outline um</p>
+<p begin="00:15:03.839" end="00:15:07.279" style="s2">i&#39;m giving</p>
+<p begin="00:15:05.199" end="00:15:09.040" style="s2">the overview now and i&#39;ll start with</p>
+<p begin="00:15:07.279" end="00:15:11.360" style="s2">some of the objectives of the rate of</p>
+<p begin="00:15:09.040" end="00:15:12.880" style="s2">the regulation and why it&#39;s important to</p>
+<p begin="00:15:11.360" end="00:15:13.760" style="s2">improve it</p>
+<p begin="00:15:12.880" end="00:15:15.199" style="s2">or</p>
+<p begin="00:15:13.760" end="00:15:17.519" style="s2">obviously for the governments and</p>
+<p begin="00:15:15.199" end="00:15:19.839" style="s2">regulators for citizens and consumers</p>
+<p begin="00:15:17.519" end="00:15:21.760" style="s2">and also for industry</p>
+<p begin="00:15:19.839" end="00:15:23.600" style="s2">talk about the regulatory cycle talk</p>
+<p begin="00:15:21.760" end="00:15:25.360" style="s2">about regulatory design particularly</p>
+<p begin="00:15:23.600" end="00:15:27.839" style="s2">through the</p>
+<p begin="00:15:25.360" end="00:15:29.279" style="s2">language of better regulation</p>
+<p begin="00:15:27.839" end="00:15:30.399" style="s2">and then</p>
+<p begin="00:15:29.279" end="00:15:33.120" style="s2">we&#39;ll uh</p>
+<p begin="00:15:30.399" end="00:15:36.399" style="s2">make some clue concluding remarks about</p>
+<p begin="00:15:33.120" end="00:15:41.600" style="s2">uh the enforcement side of regulation um</p>
+<p begin="00:15:36.399" end="00:15:44.320" style="s2">and the theory of responsive regulation</p>
+<p begin="00:15:41.600" end="00:15:47.040" style="s2">starting with the the objectives and why</p>
+<p begin="00:15:44.320" end="00:15:49.759" style="s2">we are uh why this is important for all</p>
+<p begin="00:15:47.040" end="00:15:52.240" style="s2">of us um you know what</p>
+<p begin="00:15:49.759" end="00:15:54.160" style="s2">what do we achieve if we can improve</p>
+<p begin="00:15:52.240" end="00:15:55.680" style="s2">uh the efficiency and the effectiveness</p>
+<p begin="00:15:54.160" end="00:15:57.600" style="s2">of the regulation</p>
+<p begin="00:15:55.680" end="00:15:58.480" style="s2">the first is um</p>
+<p begin="00:15:57.600" end="00:16:00.000" style="s2">improve</p>
+<p begin="00:15:58.480" end="00:16:02.079" style="s2">society</p>
+<p begin="00:16:00.000" end="00:16:03.680" style="s2">welfare as a society level</p>
+<p begin="00:16:02.079" end="00:16:06.240" style="s2">for all citizens</p>
+<p begin="00:16:03.680" end="00:16:09.440" style="s2">by having policies in place which are</p>
+<p begin="00:16:06.240" end="00:16:11.759" style="s2">more effective achieve their objectives</p>
+<p begin="00:16:09.440" end="00:16:14.800" style="s2">more efficiently</p>
+<p begin="00:16:11.759" end="00:16:16.720" style="s2">from an economic perspective</p>
+<p begin="00:16:14.800" end="00:16:19.279" style="s2">by encouraging</p>
+<p begin="00:16:16.720" end="00:16:21.440" style="s2">competition and greater competitiveness</p>
+<p begin="00:16:19.279" end="00:16:23.519" style="s2">which you heard marcelo</p>
+<p begin="00:16:21.440" end="00:16:24.880" style="s2">talk about is something that i think is</p>
+<p begin="00:16:23.519" end="00:16:25.839" style="s2">very important</p>
+<p begin="00:16:24.880" end="00:16:28.720" style="s2">um</p>
+<p begin="00:16:25.839" end="00:16:31.040" style="s2">that can improve economic outcomes by</p>
+<p begin="00:16:28.720" end="00:16:33.040" style="s2">honesty the potential of the</p>
+<p begin="00:16:31.040" end="00:16:35.120" style="s2">uh the private sector</p>
+<p begin="00:16:33.040" end="00:16:36.560" style="s2">obviously while um</p>
+<p begin="00:16:35.120" end="00:16:38.560" style="s2">imposing</p>
+<p begin="00:16:36.560" end="00:16:40.560" style="s2">a regulatory check on that as well so</p>
+<p begin="00:16:38.560" end="00:16:42.000" style="s2">keeping that in balance that right</p>
+<p begin="00:16:40.560" end="00:16:44.880" style="s2">balance between</p>
+<p begin="00:16:42.000" end="00:16:47.920" style="s2">uh promoting economic development</p>
+<p begin="00:16:44.880" end="00:16:50.639" style="s2">and uh ensuring good societal outcomes</p>
+<p begin="00:16:47.920" end="00:16:52.959" style="s2">one of the key trade-offs obviously</p>
+<p begin="00:16:50.639" end="00:16:56.160" style="s2">to to control regulatory costs and make</p>
+<p begin="00:16:52.959" end="00:16:57.759" style="s2">sure that um regulation doesn&#39;t become a</p>
+<p begin="00:16:56.160" end="00:17:00.399" style="s2">burden in itself</p>
+<p begin="00:16:57.759" end="00:17:01.920" style="s2">minimize the burden of regulation</p>
+<p begin="00:17:00.399" end="00:17:04.720" style="s2">to</p>
+<p begin="00:17:01.920" end="00:17:06.799" style="s2">stop that being a barrier to to</p>
+<p begin="00:17:04.720" end="00:17:08.240" style="s2">achieving outcomes the very regulation</p>
+<p begin="00:17:06.799" end="00:17:09.439" style="s2">designed to improve</p>
+<p begin="00:17:08.240" end="00:17:12.000" style="s2">outcomes</p>
+<p begin="00:17:09.439" end="00:17:13.360" style="s2">the risk obviously always is that um it</p>
+<p begin="00:17:12.000" end="00:17:15.919" style="s2">gets in the way</p>
+<p begin="00:17:13.360" end="00:17:20.000" style="s2">um and and thirdly</p>
+<p begin="00:17:15.919" end="00:17:21.919" style="s2">a more general outcome that the more um</p>
+<p begin="00:17:20.000" end="00:17:24.640" style="s2">regulation is seen as efficient and</p>
+<p begin="00:17:21.919" end="00:17:29.120" style="s2">effective that&#39;s going to improve</p>
+<p begin="00:17:24.640" end="00:17:31.039" style="s2">general societal competence um in</p>
+<p begin="00:17:29.120" end="00:17:32.640" style="s2">in the regulatory framework in the rule</p>
+<p begin="00:17:31.039" end="00:17:34.400" style="s2">of law</p>
+<p begin="00:17:32.640" end="00:17:38.160" style="s2">there&#39;s transparency there&#39;s general</p>
+<p begin="00:17:34.400" end="00:17:40.640" style="s2">support for um the regulatory framework</p>
+<p begin="00:17:38.160" end="00:17:44.080" style="s2">and that&#39;s and trust in it and that is</p>
+<p begin="00:17:40.640" end="00:17:46.240" style="s2">also going to improve outcomes so</p>
+<p begin="00:17:44.080" end="00:17:48.720" style="s2">sometimes that&#39;s not necessarily best</p>
+<p begin="00:17:46.240" end="00:17:51.200" style="s2">achieved with commanded control as as we</p>
+<p begin="00:17:48.720" end="00:17:53.039" style="s2">heard from uh the opening remarks of our</p>
+<p begin="00:17:51.200" end="00:17:54.559" style="s2">director</p>
+<p begin="00:17:53.039" end="00:17:56.240" style="s2">so those are you know some of the</p>
+<p begin="00:17:54.559" end="00:17:58.320" style="s2">objectives that&#39;s why that&#39;s important</p>
+<p begin="00:17:56.240" end="00:18:00.559" style="s2">and i think you know what i take away</p>
+<p begin="00:17:58.320" end="00:18:02.240" style="s2">from this slide talking to you from a</p>
+<p begin="00:18:00.559" end="00:18:05.440" style="s2">private sector trade association</p>
+<p begin="00:18:02.240" end="00:18:08.640" style="s2">obviously i&#39;m very conscious of that um</p>
+<p begin="00:18:05.440" end="00:18:10.880" style="s2">and talking to you as regulators is</p>
+<p begin="00:18:08.640" end="00:18:12.960" style="s2">amongst these these four big um</p>
+<p begin="00:18:10.880" end="00:18:14.960" style="s2">objectives these four big benefits of</p>
+<p begin="00:18:12.960" end="00:18:16.799" style="s2">improving regulation there&#39;s somebody</p>
+<p begin="00:18:14.960" end="00:18:18.799" style="s2">something for everybody</p>
+<p begin="00:18:16.799" end="00:18:21.200" style="s2">something for a wider society there&#39;s</p>
+<p begin="00:18:18.799" end="00:18:23.200" style="s2">something for the governments</p>
+<p begin="00:18:21.200" end="00:18:25.360" style="s2">and there&#39;s something for um for the</p>
+<p begin="00:18:23.200" end="00:18:28.480" style="s2">industry and</p>
+<p begin="00:18:25.360" end="00:18:31.039" style="s2">if we can achieve um a more effective</p>
+<p begin="00:18:28.480" end="00:18:36.000" style="s2">and dynamic regulatory framework</p>
+<p begin="00:18:31.039" end="00:18:37.679" style="s2">then we uh we have a good chance of um</p>
+<p begin="00:18:36.000" end="00:18:39.919" style="s2">creating a virtual circle which</p>
+<p begin="00:18:37.679" end="00:18:43.559" style="s2">obviously is the objective and everybody</p>
+<p begin="00:18:39.919" end="00:18:43.559" style="s2">benefits from that</p>
+<p begin="00:18:44.080" end="00:18:47.200" style="s2">so</p>
+<p begin="00:18:44.880" end="00:18:49.360" style="s2">if we move on</p>
+<p begin="00:18:47.200" end="00:18:51.919" style="s2">let&#39;s talk about the regulatory cycle</p>
+<p begin="00:18:49.360" end="00:18:54.160" style="s2">and hopefully it&#39;ll become clear</p>
+<p begin="00:18:51.919" end="00:18:55.280" style="s2">as we go through this why i think this</p>
+<p begin="00:18:54.160" end="00:18:58.000" style="s2">is important</p>
+<p begin="00:18:55.280" end="00:19:00.160" style="s2">but the first um and this is this is</p>
+<p begin="00:18:58.000" end="00:19:01.120" style="s2">like a number of my slides is borrowed</p>
+<p begin="00:19:00.160" end="00:19:03.600" style="s2">from</p>
+<p begin="00:19:01.120" end="00:19:06.240" style="s2">um material from the oecd</p>
+<p begin="00:19:03.600" end="00:19:08.480" style="s2">afterwards very closely with the oecd as</p>
+<p begin="00:19:06.240" end="00:19:10.960" style="s2">a non-um</p>
+<p begin="00:19:08.480" end="00:19:12.720" style="s2">non-state actor we have um official</p>
+<p begin="00:19:10.960" end="00:19:15.360" style="s2">relations as an uh international</p>
+<p begin="00:19:12.720" end="00:19:18.000" style="s2">organization as part of the oecd&#39;s</p>
+<p begin="00:19:15.360" end="00:19:19.600" style="s2">international organization partnership</p>
+<p begin="00:19:18.000" end="00:19:20.480" style="s2">um initiative</p>
+<p begin="00:19:19.600" end="00:19:23.200" style="s2">um</p>
+<p begin="00:19:20.480" end="00:19:26.160" style="s2">and we&#39;ll see that when we talk about uh</p>
+<p begin="00:19:23.200" end="00:19:28.240" style="s2">what i article smarter regulation or iko</p>
+<p begin="00:19:26.160" end="00:19:30.720" style="s2">calls with regulatory practices it&#39;s</p>
+<p begin="00:19:28.240" end="00:19:32.640" style="s2">really very much the same framework well</p>
+<p begin="00:19:30.720" end="00:19:35.440" style="s2">i really like this diagram for a number</p>
+<p begin="00:19:32.640" end="00:19:37.120" style="s2">of reasons one because it shows</p>
+<p begin="00:19:35.440" end="00:19:40.720" style="s2">that regulation</p>
+<p begin="00:19:37.120" end="00:19:42.559" style="s2">isn&#39;t um a particular action it isn&#39;t</p>
+<p begin="00:19:40.720" end="00:19:44.080" style="s2">all about enforcement or it isn&#39;t about</p>
+<p begin="00:19:42.559" end="00:19:46.559" style="s2">policy design</p>
+<p begin="00:19:44.080" end="00:19:48.480" style="s2">it&#39;s about a series of factors</p>
+<p begin="00:19:46.559" end="00:19:52.480" style="s2">and they all need to work together</p>
+<p begin="00:19:48.480" end="00:19:53.919" style="s2">and they are also a continuous process</p>
+<p begin="00:19:52.480" end="00:19:56.240" style="s2">so</p>
+<p begin="00:19:53.919" end="00:19:57.600" style="s2">i think that&#39;s that&#39;s really</p>
+<p begin="00:19:56.240" end="00:19:59.840" style="s2">the first</p>
+<p begin="00:19:57.600" end="00:20:03.600" style="s2">thing to start with</p>
+<p begin="00:19:59.840" end="00:20:05.600" style="s2">we begin at the top uh top left where we</p>
+<p begin="00:20:03.600" end="00:20:08.000" style="s2">have policy issues for government action</p>
+<p begin="00:20:05.600" end="00:20:08.880" style="s2">so this is really at the very beginning</p>
+<p begin="00:20:08.000" end="00:20:11.200" style="s2">where</p>
+<p begin="00:20:08.880" end="00:20:13.200" style="s2">at a government level</p>
+<p begin="00:20:11.200" end="00:20:15.679" style="s2">there&#39;s identified that there may be a</p>
+<p begin="00:20:13.200" end="00:20:18.480" style="s2">problem that needs solving</p>
+<p begin="00:20:15.679" end="00:20:19.840" style="s2">and and whatever that might be that</p>
+<p begin="00:20:18.480" end="00:20:20.960" style="s2">the political</p>
+<p begin="00:20:19.840" end="00:20:23.039" style="s2">masters</p>
+<p begin="00:20:20.960" end="00:20:24.640" style="s2">decide that</p>
+<p begin="00:20:23.039" end="00:20:27.039" style="s2">they want to</p>
+<p begin="00:20:24.640" end="00:20:30.000" style="s2">resolve an issue</p>
+<p begin="00:20:27.039" end="00:20:33.200" style="s2">the first step moving from that then is</p>
+<p begin="00:20:30.000" end="00:20:36.400" style="s2">to start exploring that issue</p>
+<p begin="00:20:33.200" end="00:20:38.400" style="s2">to understand the nature of the problem</p>
+<p begin="00:20:36.400" end="00:20:41.120" style="s2">to understand the causes</p>
+<p begin="00:20:38.400" end="00:20:43.520" style="s2">um not just the symptoms</p>
+<p begin="00:20:41.120" end="00:20:44.240" style="s2">why what is causing the problem what are</p>
+<p begin="00:20:43.520" end="00:20:46.400" style="s2">the</p>
+<p begin="00:20:44.240" end="00:20:48.400" style="s2">the drivers of that of the particular</p>
+<p begin="00:20:46.400" end="00:20:51.360" style="s2">behavior or outcome</p>
+<p begin="00:20:48.400" end="00:20:52.559" style="s2">that the government wants to influence</p>
+<p begin="00:20:51.360" end="00:20:54.400" style="s2">and then</p>
+<p begin="00:20:52.559" end="00:20:56.640" style="s2">let&#39;s do a rigorous process and we&#39;ll</p>
+<p begin="00:20:54.400" end="00:20:59.120" style="s2">talk about this in more detail</p>
+<p begin="00:20:56.640" end="00:21:02.159" style="s2">of considering the different options</p>
+<p begin="00:20:59.120" end="00:21:04.320" style="s2">and approaches which could be applied to</p>
+<p begin="00:21:02.159" end="00:21:06.080" style="s2">address that problem</p>
+<p begin="00:21:04.320" end="00:21:07.919" style="s2">and and this is this is really important</p>
+<p begin="00:21:06.080" end="00:21:10.960" style="s2">and this is one of the things that is</p>
+<p begin="00:21:07.919" end="00:21:13.360" style="s2">often left out uh when implementing</p>
+<p begin="00:21:10.960" end="00:21:15.840" style="s2">better regulations to really be be</p>
+<p begin="00:21:13.360" end="00:21:16.880" style="s2">rigorous around doing that option</p>
+<p begin="00:21:15.840" end="00:21:19.039" style="s2">assessment</p>
+<p begin="00:21:16.880" end="00:21:20.880" style="s2">early on</p>
+<p begin="00:21:19.039" end="00:21:23.120" style="s2">that gets you to a decision and the</p>
+<p begin="00:21:20.880" end="00:21:24.400" style="s2">decision point is whether um at that</p>
+<p begin="00:21:23.120" end="00:21:25.760" style="s2">point you decide that you&#39;re going to</p>
+<p begin="00:21:24.400" end="00:21:28.320" style="s2">regulate</p>
+<p begin="00:21:25.760" end="00:21:30.640" style="s2">or whether there&#39;s some other</p>
+<p begin="00:21:28.320" end="00:21:32.720" style="s2">policy tool that can be applied whether</p>
+<p begin="00:21:30.640" end="00:21:35.280" style="s2">that be incentives</p>
+<p begin="00:21:32.720" end="00:21:36.320" style="s2">um direct incentives which annie talked</p>
+<p begin="00:21:35.280" end="00:21:37.440" style="s2">about</p>
+<p begin="00:21:36.320" end="00:21:40.799" style="s2">or</p>
+<p begin="00:21:37.440" end="00:21:42.840" style="s2">self-regulation voluntary agreements or</p>
+<p begin="00:21:40.799" end="00:21:45.520" style="s2">code of practice</p>
+<p begin="00:21:42.840" end="00:21:48.000" style="s2">guidance um different solutions which</p>
+<p begin="00:21:45.520" end="00:21:50.159" style="s2">could be put forward um</p>
+<p begin="00:21:48.000" end="00:21:52.400" style="s2">that aren&#39;t necessarily involve</p>
+<p begin="00:21:50.159" end="00:21:54.880" style="s2">regulation</p>
+<p begin="00:21:52.400" end="00:21:56.799" style="s2">but obviously today we are talking about</p>
+<p begin="00:21:54.880" end="00:21:59.120" style="s2">regulations so let&#39;s assume that at this</p>
+<p begin="00:21:56.799" end="00:22:00.799" style="s2">point the decision has taken that this</p>
+<p begin="00:21:59.120" end="00:22:02.000" style="s2">particular policy issue that we might be</p>
+<p begin="00:22:00.799" end="00:22:02.960" style="s2">discussing</p>
+<p begin="00:22:02.000" end="00:22:05.360" style="s2">and</p>
+<p begin="00:22:02.960" end="00:22:06.880" style="s2">warrants and merits a regulatory</p>
+<p begin="00:22:05.360" end="00:22:08.400" style="s2">solution</p>
+<p begin="00:22:06.880" end="00:22:09.440" style="s2">the next</p>
+<p begin="00:22:08.400" end="00:22:11.840" style="s2">phase</p>
+<p begin="00:22:09.440" end="00:22:14.400" style="s2">is to design</p>
+<p begin="00:22:11.840" end="00:22:16.400" style="s2">that regulation to</p>
+<p begin="00:22:14.400" end="00:22:19.039" style="s2">having out of the different options that</p>
+<p begin="00:22:16.400" end="00:22:21.280" style="s2">have been chosen to work that out and to</p>
+<p begin="00:22:19.039" end="00:22:23.760" style="s2">design that and we&#39;ll talk about that in</p>
+<p begin="00:22:21.280" end="00:22:25.280" style="s2">more detail</p>
+<p begin="00:22:23.760" end="00:22:26.720" style="s2">when we talk about the regular better</p>
+<p begin="00:22:25.280" end="00:22:28.720" style="s2">regulation</p>
+<p begin="00:22:26.720" end="00:22:32.720" style="s2">approach that&#39;s going to be roughly the</p>
+<p begin="00:22:28.720" end="00:22:34.559" style="s2">first half of this webinar</p>
+<p begin="00:22:32.720" end="00:22:37.280" style="s2">only once you&#39;ve got that regulation in</p>
+<p begin="00:22:34.559" end="00:22:39.600" style="s2">place or that piece of legislation based</p>
+<p begin="00:22:37.280" end="00:22:41.919" style="s2">do we then get to the discussion around</p>
+<p begin="00:22:39.600" end="00:22:45.840" style="s2">enforcement so how do you enforce the</p>
+<p begin="00:22:41.919" end="00:22:47.600" style="s2">regulatory framework that does exist</p>
+<p begin="00:22:45.840" end="00:22:50.159" style="s2">this is the point that which we start to</p>
+<p begin="00:22:47.600" end="00:22:52.320" style="s2">talk about responsive regulation so</p>
+<p begin="00:22:50.159" end="00:22:54.720" style="s2">firstly hopefully the first thing i</p>
+<p begin="00:22:52.320" end="00:22:56.159" style="s2">would have achieved is to see how</p>
+<p begin="00:22:54.720" end="00:22:58.640" style="s2">what we&#39;re going to talk about policy</p>
+<p begin="00:22:56.159" end="00:23:02.080" style="s2">design is really important when we come</p>
+<p begin="00:22:58.640" end="00:23:04.960" style="s2">to enforcement and responsive regulation</p>
+<p begin="00:23:02.080" end="00:23:06.640" style="s2">and enforcement is obviously much easier</p>
+<p begin="00:23:04.960" end="00:23:08.000" style="s2">if the regulations that you have in</p>
+<p begin="00:23:06.640" end="00:23:12.400" style="s2">place</p>
+<p begin="00:23:08.000" end="00:23:12.400" style="s2">are sensible and themselves effective</p>
+<p begin="00:23:13.280" end="00:23:16.240" style="s2">once you have the regulation in place</p>
+<p begin="00:23:15.200" end="00:23:19.039" style="s2">and you&#39;re</p>
+<p begin="00:23:16.240" end="00:23:21.039" style="s2">implementing it and enforcing it</p>
+<p begin="00:23:19.039" end="00:23:23.360" style="s2">that the fourth step of the process</p>
+<p begin="00:23:21.039" end="00:23:25.679" style="s2">which is really important</p>
+<p begin="00:23:23.360" end="00:23:28.400" style="s2">and almost</p>
+<p begin="00:23:25.679" end="00:23:30.960" style="s2">universally um the one that gets missed</p>
+<p begin="00:23:28.400" end="00:23:32.080" style="s2">out the most is to go back and to</p>
+<p begin="00:23:30.960" end="00:23:34.000" style="s2">monitor</p>
+<p begin="00:23:32.080" end="00:23:37.440" style="s2">and evaluate</p>
+<p begin="00:23:34.000" end="00:23:39.360" style="s2">how effectively um it&#39;s working</p>
+<p begin="00:23:37.440" end="00:23:41.919" style="s2">is it achieving the objectives is it</p>
+<p begin="00:23:39.360" end="00:23:43.919" style="s2">solving those initial policy</p>
+<p begin="00:23:41.919" end="00:23:46.559" style="s2">problems that the government had</p>
+<p begin="00:23:43.919" end="00:23:48.960" style="s2">that inspired them to regulate in the</p>
+<p begin="00:23:46.559" end="00:23:51.520" style="s2">first place</p>
+<p begin="00:23:48.960" end="00:23:53.200" style="s2">is it causing unintended consequences</p>
+<p begin="00:23:51.520" end="00:23:55.440" style="s2">there&#39;s something that</p>
+<p begin="00:23:53.200" end="00:23:56.960" style="s2">haven&#39;t been thought of at the policy</p>
+<p begin="00:23:55.440" end="00:23:58.320" style="s2">design stage</p>
+<p begin="00:23:56.960" end="00:24:00.080" style="s2">that um</p>
+<p begin="00:23:58.320" end="00:24:01.760" style="s2">it might be achieving its primary</p>
+<p begin="00:24:00.080" end="00:24:02.960" style="s2">objective but it&#39;s having some negative</p>
+<p begin="00:24:01.760" end="00:24:05.760" style="s2">side effects</p>
+<p begin="00:24:02.960" end="00:24:08.240" style="s2">um that are undesirable or it&#39;s</p>
+<p begin="00:24:05.760" end="00:24:10.880" style="s2">more burdensome to enforce</p>
+<p begin="00:24:08.240" end="00:24:13.279" style="s2">than um had been expected</p>
+<p begin="00:24:10.880" end="00:24:16.080" style="s2">but whatever this may be or is it in</p>
+<p begin="00:24:13.279" end="00:24:18.240" style="s2">fact the case that it turned out that um</p>
+<p begin="00:24:16.080" end="00:24:20.480" style="s2">the regulation wasn&#39;t required after all</p>
+<p begin="00:24:18.240" end="00:24:21.840" style="s2">and that the problem goes away and is no</p>
+<p begin="00:24:20.480" end="00:24:22.640" style="s2">longer needed</p>
+<p begin="00:24:21.840" end="00:24:23.679" style="s2">so</p>
+<p begin="00:24:22.640" end="00:24:25.600" style="s2">the</p>
+<p begin="00:24:23.679" end="00:24:27.840" style="s2">the monitoring and the evaluation is</p>
+<p begin="00:24:25.600" end="00:24:30.159" style="s2">really important</p>
+<p begin="00:24:27.840" end="00:24:33.840" style="s2">both for the policy itself and of those</p>
+<p begin="00:24:30.159" end="00:24:35.120" style="s2">i guess the regulatory um body and other</p>
+<p begin="00:24:33.840" end="00:24:35.919" style="s2">stakeholders</p>
+<p begin="00:24:35.120" end="00:24:39.200" style="s2">um</p>
+<p begin="00:24:35.919" end="00:24:42.000" style="s2">to then go back and do a review process</p>
+<p begin="00:24:39.200" end="00:24:43.840" style="s2">and start over again if needed and say</p>
+<p begin="00:24:42.000" end="00:24:46.960" style="s2">well okay now we need to</p>
+<p begin="00:24:43.840" end="00:24:49.360" style="s2">review or update the regulation itself</p>
+<p begin="00:24:46.960" end="00:24:50.960" style="s2">and so it goes on</p>
+<p begin="00:24:49.360" end="00:24:52.559" style="s2">and in the middle you will see that</p>
+<p begin="00:24:50.960" end="00:24:53.919" style="s2">there are four c&#39;s</p>
+<p begin="00:24:52.559" end="00:24:56.799" style="s2">consultation</p>
+<p begin="00:24:53.919" end="00:24:58.480" style="s2">coordination cooperation and</p>
+<p begin="00:24:56.799" end="00:25:00.880" style="s2">communication</p>
+<p begin="00:24:58.480" end="00:25:02.640" style="s2">and these are all really important and</p>
+<p begin="00:25:00.880" end="00:25:04.640" style="s2">that&#39;s you know comes back to the</p>
+<p begin="00:25:02.640" end="00:25:06.240" style="s2">importance of the dialogue that danny</p>
+<p begin="00:25:04.640" end="00:25:08.880" style="s2">talked about</p>
+<p begin="00:25:06.240" end="00:25:10.559" style="s2">and it&#39;s really important as well that</p>
+<p begin="00:25:08.880" end="00:25:12.320" style="s2">these take place</p>
+<p begin="00:25:10.559" end="00:25:15.520" style="s2">at all stages</p>
+<p begin="00:25:12.320" end="00:25:17.279" style="s2">and we&#39;ll talk about it in detail around</p>
+<p begin="00:25:15.520" end="00:25:20.000" style="s2">um the design</p>
+<p begin="00:25:17.279" end="00:25:21.120" style="s2">of regulation and it&#39;s clearly also as</p>
+<p begin="00:25:20.000" end="00:25:23.360" style="s2">you will see</p>
+<p begin="00:25:21.120" end="00:25:25.440" style="s2">um at the heart of</p>
+<p begin="00:25:23.360" end="00:25:27.120" style="s2">the responsive regulation framework as</p>
+<p begin="00:25:25.440" end="00:25:28.880" style="s2">well particularly the consultation and</p>
+<p begin="00:25:27.120" end="00:25:30.000" style="s2">the communication</p>
+<p begin="00:25:28.880" end="00:25:31.840" style="s2">um</p>
+<p begin="00:25:30.000" end="00:25:34.159" style="s2">but these are um</p>
+<p begin="00:25:31.840" end="00:25:36.159" style="s2">these are all really important</p>
+<p begin="00:25:34.159" end="00:25:38.000" style="s2">they can&#39;t happen</p>
+<p begin="00:25:36.159" end="00:25:39.520" style="s2">um too often</p>
+<p begin="00:25:38.000" end="00:25:41.440" style="s2">and</p>
+<p begin="00:25:39.520" end="00:25:44.480" style="s2">they don&#39;t just relate to one particular</p>
+<p begin="00:25:41.440" end="00:25:46.799" style="s2">phase of the process of the cycle</p>
+<p begin="00:25:44.480" end="00:25:47.760" style="s2">but to all of them</p>
+<p begin="00:25:46.799" end="00:25:49.600" style="s2">so</p>
+<p begin="00:25:47.760" end="00:25:51.120" style="s2">that i think set some very very high</p>
+<p begin="00:25:49.600" end="00:25:54.640" style="s2">level context</p>
+<p begin="00:25:51.120" end="00:25:56.720" style="s2">now i want to move on as i&#39;ve described</p>
+<p begin="00:25:54.640" end="00:25:58.799" style="s2">to discuss um</p>
+<p begin="00:25:56.720" end="00:26:01.520" style="s2">the policy design side</p>
+<p begin="00:25:58.799" end="00:26:02.960" style="s2">and as i&#39;ve said to do this i&#39;m going to</p>
+<p begin="00:26:01.520" end="00:26:05.520" style="s2">use the</p>
+<p begin="00:26:02.960" end="00:26:08.159" style="s2">adjustments</p>
+<p begin="00:26:05.520" end="00:26:11.600" style="s2">i&#39;m going to use the oecds</p>
+<p begin="00:26:08.159" end="00:26:14.640" style="s2">better regulation framework um as i said</p>
+<p begin="00:26:11.600" end="00:26:16.960" style="s2">that was adopted after the 39th iko</p>
+<p begin="00:26:14.640" end="00:26:19.039" style="s2">assembly in 2016</p>
+<p begin="00:26:16.960" end="00:26:20.720" style="s2">by iko</p>
+<p begin="00:26:19.039" end="00:26:21.840" style="s2">and they call it good regulatory</p>
+<p begin="00:26:20.720" end="00:26:24.000" style="s2">practices</p>
+<p begin="00:26:21.840" end="00:26:26.720" style="s2">but it&#39;s built on the same principles as</p>
+<p begin="00:26:24.000" end="00:26:29.679" style="s2">what i&#39;m going to describe here um</p>
+<p begin="00:26:26.720" end="00:26:32.400" style="s2">and from an iata perspective when we</p>
+<p begin="00:26:29.679" end="00:26:35.520" style="s2">discuss policy making again we use the</p>
+<p begin="00:26:32.400" end="00:26:38.880" style="s2">same framework and i support it smarter</p>
+<p begin="00:26:35.520" end="00:26:40.080" style="s2">regulation but they&#39;re all very much um</p>
+<p begin="00:26:38.880" end="00:26:42.400" style="s2">the same</p>
+<p begin="00:26:40.080" end="00:26:44.640" style="s2">the same idea the same set of core</p>
+<p begin="00:26:42.400" end="00:26:47.120" style="s2">principles the same set of</p>
+<p begin="00:26:44.640" end="00:26:47.840" style="s2">process points as well</p>
+<p begin="00:26:47.120" end="00:26:51.440" style="s2">and</p>
+<p begin="00:26:47.840" end="00:26:53.279" style="s2">in terms of where we see this regulatory</p>
+<p begin="00:26:51.440" end="00:26:54.720" style="s2">regulatory design principles being</p>
+<p begin="00:26:53.279" end="00:26:57.120" style="s2">adopted</p>
+<p begin="00:26:54.720" end="00:26:59.520" style="s2">and i&#39;ve put some</p>
+<p begin="00:26:57.120" end="00:27:02.240" style="s2">flags on there on the screen which are</p>
+<p begin="00:26:59.520" end="00:27:04.080" style="s2">particularly um relevant case studies of</p>
+<p begin="00:27:02.240" end="00:27:04.960" style="s2">active proponents</p>
+<p begin="00:27:04.080" end="00:27:06.720" style="s2">of</p>
+<p begin="00:27:04.960" end="00:27:07.679" style="s2">a better regulation</p>
+<p begin="00:27:06.720" end="00:27:11.200" style="s2">and</p>
+<p begin="00:27:07.679" end="00:27:12.880" style="s2">unsurprisingly many of them are um oecd</p>
+<p begin="00:27:11.200" end="00:27:13.760" style="s2">member states</p>
+<p begin="00:27:12.880" end="00:27:16.080" style="s2">um</p>
+<p begin="00:27:13.760" end="00:27:18.799" style="s2">but you&#39;ve got the us australia and the</p>
+<p begin="00:27:16.080" end="00:27:20.880" style="s2">european union and the uk</p>
+<p begin="00:27:18.799" end="00:27:21.760" style="s2">who all in their different ways are very</p>
+<p begin="00:27:20.880" end="00:27:23.520" style="s2">active</p>
+<p begin="00:27:21.760" end="00:27:25.279" style="s2">in promoting</p>
+<p begin="00:27:23.520" end="00:27:27.279" style="s2">the um these principles and the</p>
+<p begin="00:27:25.279" end="00:27:28.159" style="s2">different elements underneath them and</p>
+<p begin="00:27:27.279" end="00:27:28.960" style="s2">really</p>
+<p begin="00:27:28.159" end="00:27:30.159" style="s2">the</p>
+<p begin="00:27:28.960" end="00:27:31.120" style="s2">the whole</p>
+<p begin="00:27:30.159" end="00:27:32.159" style="s2">um</p>
+<p begin="00:27:31.120" end="00:27:33.200" style="s2">ethos</p>
+<p begin="00:27:32.159" end="00:27:34.480" style="s2">and the whole</p>
+<p begin="00:27:33.200" end="00:27:36.559" style="s2">res on debt</p>
+<p begin="00:27:34.480" end="00:27:38.399" style="s2">of better regulation</p>
+<p begin="00:27:36.559" end="00:27:40.799" style="s2">is what it says at the bottom here it&#39;s</p>
+<p begin="00:27:38.399" end="00:27:42.640" style="s2">about delivering clearly defined</p>
+<p begin="00:27:40.799" end="00:27:44.399" style="s2">measurable policy objectives in the</p>
+<p begin="00:27:42.640" end="00:27:46.399" style="s2">least burdensome way</p>
+<p begin="00:27:44.399" end="00:27:48.559" style="s2">um and that</p>
+<p begin="00:27:46.399" end="00:27:50.240" style="s2">obviously is beneficial to all of the</p>
+<p begin="00:27:48.559" end="00:27:54.320" style="s2">different stakeholder groups that i set</p>
+<p begin="00:27:50.240" end="00:27:55.360" style="s2">out at the start of my uh remarks</p>
+<p begin="00:27:54.320" end="00:27:57.760" style="s2">um</p>
+<p begin="00:27:55.360" end="00:28:00.640" style="s2">better regulation or smarter regulation</p>
+<p begin="00:27:57.760" end="00:28:02.640" style="s2">is really built off a series of</p>
+<p begin="00:28:00.640" end="00:28:04.559" style="s2">policy principles and a series of</p>
+<p begin="00:28:02.640" end="00:28:07.440" style="s2">process principles so what what does</p>
+<p begin="00:28:04.559" end="00:28:09.279" style="s2">good regulatory policy look like and</p>
+<p begin="00:28:07.440" end="00:28:12.159" style="s2">then the process principles is how do</p>
+<p begin="00:28:09.279" end="00:28:14.000" style="s2">you go about um putting processes in</p>
+<p begin="00:28:12.159" end="00:28:16.240" style="s2">place that means that when you&#39;re</p>
+<p begin="00:28:14.000" end="00:28:18.240" style="s2">designing policies you&#39;re likely to</p>
+<p begin="00:28:16.240" end="00:28:20.720" style="s2">achieve a good outcome</p>
+<p begin="00:28:18.240" end="00:28:23.039" style="s2">so let&#39;s take those in turn i&#39;ll talk</p>
+<p begin="00:28:20.720" end="00:28:24.720" style="s2">through the five principles that</p>
+<p begin="00:28:23.039" end="00:28:26.559" style="s2">underpin each of those and then i&#39;ll</p>
+<p begin="00:28:24.720" end="00:28:28.080" style="s2">dive into a couple of them in a bit more</p>
+<p begin="00:28:26.559" end="00:28:28.960" style="s2">detail because i think they weren&#39;t</p>
+<p begin="00:28:28.080" end="00:28:30.720" style="s2">further</p>
+<p begin="00:28:28.960" end="00:28:31.760" style="s2">examination</p>
+<p begin="00:28:30.720" end="00:28:34.640" style="s2">so</p>
+<p begin="00:28:31.760" end="00:28:36.480" style="s2">moving to the um the policy principles</p>
+<p begin="00:28:34.640" end="00:28:38.799" style="s2">uh and</p>
+<p begin="00:28:36.480" end="00:28:40.880" style="s2">really i&#39;ve put plenty of text up here</p>
+<p begin="00:28:38.799" end="00:28:43.120" style="s2">not because i want to go through um and</p>
+<p begin="00:28:40.880" end="00:28:45.360" style="s2">read out the slides but um when these</p>
+<p begin="00:28:43.120" end="00:28:47.120" style="s2">are shared as takeaways hopefully uh</p>
+<p begin="00:28:45.360" end="00:28:49.360" style="s2">this gives a good summary of what was</p>
+<p begin="00:28:47.120" end="00:28:52.080" style="s2">discussed</p>
+<p begin="00:28:49.360" end="00:28:54.000" style="s2">first policy principle is um consistency</p>
+<p begin="00:28:52.080" end="00:28:56.640" style="s2">and coherence</p>
+<p begin="00:28:54.000" end="00:29:00.000" style="s2">um which sounds um</p>
+<p begin="00:28:56.640" end="00:29:02.960" style="s2">very intuitive um consistent with</p>
+<p begin="00:29:00.000" end="00:29:05.600" style="s2">existing rules and um</p>
+<p begin="00:29:02.960" end="00:29:07.760" style="s2">either within an entity within a</p>
+<p begin="00:29:05.600" end="00:29:10.399" style="s2">geographical territory</p>
+<p begin="00:29:07.760" end="00:29:12.559" style="s2">um or across territories and obviously</p>
+<p begin="00:29:10.399" end="00:29:14.240" style="s2">in an aviation perspective that&#39;s that&#39;s</p>
+<p begin="00:29:12.559" end="00:29:16.080" style="s2">really important</p>
+<p begin="00:29:14.240" end="00:29:18.960" style="s2">not just how you&#39;re regulating brazil</p>
+<p begin="00:29:16.080" end="00:29:21.679" style="s2">for example but also how that relates to</p>
+<p begin="00:29:18.960" end="00:29:24.000" style="s2">international instruments that that may</p>
+<p begin="00:29:21.679" end="00:29:26.960" style="s2">uh have effect um</p>
+<p begin="00:29:24.000" end="00:29:30.159" style="s2">around the world um and multilateral</p>
+<p begin="00:29:26.960" end="00:29:33.279" style="s2">agreements that brazil may be subject to</p>
+<p begin="00:29:30.159" end="00:29:37.520" style="s2">it&#39;s also of course the case um</p>
+<p begin="00:29:33.279" end="00:29:39.120" style="s2">that there may be within a territory um</p>
+<p begin="00:29:37.520" end="00:29:42.080" style="s2">city where there&#39;s a federal structure</p>
+<p begin="00:29:39.120" end="00:29:45.200" style="s2">in place there may be um</p>
+<p begin="00:29:42.080" end="00:29:49.039" style="s2">a need to ensure consistency between uh</p>
+<p begin="00:29:45.200" end="00:29:50.080" style="s2">state and national levels as well um</p>
+<p begin="00:29:49.039" end="00:29:52.240" style="s2">so</p>
+<p begin="00:29:50.080" end="00:29:55.679" style="s2">that&#39;s where the importance of</p>
+<p begin="00:29:52.240" end="00:29:59.919" style="s2">consistency comes in um that&#39;s important</p>
+<p begin="00:29:55.679" end="00:30:02.960" style="s2">for all users it&#39;s very hard to um</p>
+<p begin="00:29:59.919" end="00:30:04.640" style="s2">enforce regulation where there are</p>
+<p begin="00:30:02.960" end="00:30:06.559" style="s2">multiple different overlapping</p>
+<p begin="00:30:04.640" end="00:30:09.760" style="s2">regulations that would apply</p>
+<p begin="00:30:06.559" end="00:30:11.679" style="s2">clearly is very difficult to comply with</p>
+<p begin="00:30:09.760" end="00:30:14.000" style="s2">uh from a um</p>
+<p begin="00:30:11.679" end="00:30:16.000" style="s2">user operator perspective</p>
+<p begin="00:30:14.000" end="00:30:18.640" style="s2">especially in an international</p>
+<p begin="00:30:16.000" end="00:30:21.120" style="s2">network system like aviation</p>
+<p begin="00:30:18.640" end="00:30:23.600" style="s2">and it&#39;s also really confusing for the</p>
+<p begin="00:30:21.120" end="00:30:24.559" style="s2">consumers if they don&#39;t know what rules</p>
+<p begin="00:30:23.600" end="00:30:25.440" style="s2">apply</p>
+<p begin="00:30:24.559" end="00:30:27.039" style="s2">um</p>
+<p begin="00:30:25.440" end="00:30:28.880" style="s2">and we&#39;re certainly</p>
+<p begin="00:30:27.039" end="00:30:30.480" style="s2">stepping up slightly outside of better</p>
+<p begin="00:30:28.880" end="00:30:32.880" style="s2">regulation just</p>
+<p begin="00:30:30.480" end="00:30:35.679" style="s2">to talk about um the emergency situation</p>
+<p begin="00:30:32.880" end="00:30:36.799" style="s2">we find ourselves in with kodi 19 around</p>
+<p begin="00:30:35.679" end="00:30:39.520" style="s2">the world</p>
+<p begin="00:30:36.799" end="00:30:41.679" style="s2">but there&#39;s a really good example of the</p>
+<p begin="00:30:39.520" end="00:30:44.159" style="s2">lack of consistency and how much of a</p>
+<p begin="00:30:41.679" end="00:30:47.039" style="s2">challenge that that provides for</p>
+<p begin="00:30:44.159" end="00:30:48.960" style="s2">um for consumers in understanding which</p>
+<p begin="00:30:47.039" end="00:30:51.360" style="s2">set of travel measures apply to their</p>
+<p begin="00:30:48.960" end="00:30:53.200" style="s2">journey depending on whether they&#39;re</p>
+<p begin="00:30:51.360" end="00:30:57.200" style="s2">coming or going</p>
+<p begin="00:30:53.200" end="00:30:57.200" style="s2">or which market they&#39;re traveling to</p>
+<p begin="00:30:57.600" end="00:31:02.880" style="s2">and traveling from market a to market b</p>
+<p begin="00:31:00.640" end="00:31:04.799" style="s2">it may be enough to be vaccinated but if</p>
+<p begin="00:31:02.880" end="00:31:05.840" style="s2">you&#39;re traveling from market a to marcus</p>
+<p begin="00:31:04.799" end="00:31:08.880" style="s2">c</p>
+<p begin="00:31:05.840" end="00:31:10.880" style="s2">you need to take a number of tests or</p>
+<p begin="00:31:08.880" end="00:31:14.159" style="s2">and you need to self-isolate for a</p>
+<p begin="00:31:10.880" end="00:31:15.600" style="s2">period or fill in different forms</p>
+<p begin="00:31:14.159" end="00:31:19.360" style="s2">so</p>
+<p begin="00:31:15.600" end="00:31:22.240" style="s2">um not really um a better regulation</p>
+<p begin="00:31:19.360" end="00:31:24.880" style="s2">example but i think a quite</p>
+<p begin="00:31:22.240" end="00:31:27.039" style="s2">powerful illustration of how important</p>
+<p begin="00:31:24.880" end="00:31:30.840" style="s2">these principles of consistency</p>
+<p begin="00:31:27.039" end="00:31:32.399" style="s2">coherence are for of all actors</p>
+<p begin="00:31:30.840" end="00:31:36.399" style="s2">involved</p>
+<p begin="00:31:32.399" end="00:31:38.960" style="s2">next thing is around proportionality um</p>
+<p begin="00:31:36.399" end="00:31:41.200" style="s2">again i think we&#39;ll talk about</p>
+<p begin="00:31:38.960" end="00:31:44.159" style="s2">some of the the tools that can ensure</p>
+<p begin="00:31:41.200" end="00:31:45.679" style="s2">things like um proportionality and</p>
+<p begin="00:31:44.159" end="00:31:48.880" style="s2">risk focus and</p>
+<p begin="00:31:45.679" end="00:31:50.559" style="s2">and non-distortion uh in a minute but</p>
+<p begin="00:31:48.880" end="00:31:53.120" style="s2">um</p>
+<p begin="00:31:50.559" end="00:31:55.360" style="s2">you should only uh regulate to the</p>
+<p begin="00:31:53.120" end="00:31:58.080" style="s2">extent that the problem you&#39;re trying to</p>
+<p begin="00:31:55.360" end="00:32:00.080" style="s2">solve justifies it</p>
+<p begin="00:31:58.080" end="00:32:02.480" style="s2">um and again we talked with the the</p>
+<p begin="00:32:00.080" end="00:32:05.600" style="s2">regulatory cycle that you may decide</p>
+<p begin="00:32:02.480" end="00:32:08.080" style="s2">that a formal regulatory solution</p>
+<p begin="00:32:05.600" end="00:32:08.880" style="s2">isn&#39;t justified in all scenarios</p>
+<p begin="00:32:08.080" end="00:32:11.919" style="s2">um</p>
+<p begin="00:32:08.880" end="00:32:15.600" style="s2">or if that&#39;s a relatively light touch</p>
+<p begin="00:32:11.919" end="00:32:18.320" style="s2">um approach maybe may be relevant if the</p>
+<p begin="00:32:15.600" end="00:32:21.279" style="s2">scale of the challenge or the scope and</p>
+<p begin="00:32:18.320" end="00:32:23.440" style="s2">the extent of the challenge uh or the</p>
+<p begin="00:32:21.279" end="00:32:26.320" style="s2">impact of the channel isn&#39;t that great</p>
+<p begin="00:32:23.440" end="00:32:27.120" style="s2">in other scenarios clearly when you have</p>
+<p begin="00:32:26.320" end="00:32:29.919" style="s2">a</p>
+<p begin="00:32:27.120" end="00:32:31.679" style="s2">risk that you&#39;re addressing that um</p>
+<p begin="00:32:29.919" end="00:32:34.240" style="s2">applies to</p>
+<p begin="00:32:31.679" end="00:32:36.159" style="s2">a large number of stakeholders</p>
+<p begin="00:32:34.240" end="00:32:37.200" style="s2">and would have a high impact</p>
+<p begin="00:32:36.159" end="00:32:40.159" style="s2">then</p>
+<p begin="00:32:37.200" end="00:32:42.880" style="s2">a a more formal regulatory intervention</p>
+<p begin="00:32:40.159" end="00:32:43.840" style="s2">would be considered disproportionate</p>
+<p begin="00:32:42.880" end="00:32:45.519" style="s2">um</p>
+<p begin="00:32:43.840" end="00:32:48.240" style="s2">and i was thinking about this in</p>
+<p begin="00:32:45.519" end="00:32:52.159" style="s2">preparing uh today&#39;s discussion</p>
+<p begin="00:32:48.240" end="00:32:54.840" style="s2">um back to an example that we had um</p>
+<p begin="00:32:52.159" end="00:32:58.720" style="s2">when i was at the uk civil aviation</p>
+<p begin="00:32:54.840" end="00:33:03.039" style="s2">authority around um regulation of use of</p>
+<p begin="00:32:58.720" end="00:33:04.880" style="s2">airspace um for general aviation</p>
+<p begin="00:33:03.039" end="00:33:06.880" style="s2">the geography of the uk is rather</p>
+<p begin="00:33:04.880" end="00:33:09.840" style="s2">different to that of brazil because it</p>
+<p begin="00:33:06.880" end="00:33:13.120" style="s2">was obviously much much bigger with um</p>
+<p begin="00:33:09.840" end="00:33:16.559" style="s2">much more empty space uh whereas the the</p>
+<p begin="00:33:13.120" end="00:33:19.679" style="s2">uk is small and and very congested</p>
+<p begin="00:33:16.559" end="00:33:23.200" style="s2">um both on the ground and in the air</p>
+<p begin="00:33:19.679" end="00:33:27.440" style="s2">but the complaint that we received from</p>
+<p begin="00:33:23.200" end="00:33:29.919" style="s2">general aviation was that um va was</p>
+<p begin="00:33:27.440" end="00:33:32.480" style="s2">being forced to comply with uh being</p>
+<p begin="00:33:29.919" end="00:33:35.120" style="s2">regulated from a safety perspective in a</p>
+<p begin="00:33:32.480" end="00:33:38.399" style="s2">very similar manner to how commercial</p>
+<p begin="00:33:35.120" end="00:33:41.679" style="s2">air transport was being regulated</p>
+<p begin="00:33:38.399" end="00:33:44.720" style="s2">um and that this made it very costly to</p>
+<p begin="00:33:41.679" end="00:33:45.519" style="s2">um operate fiber aircraft either</p>
+<p begin="00:33:44.720" end="00:33:48.159" style="s2">uh</p>
+<p begin="00:33:45.519" end="00:33:49.600" style="s2">for business purposes or for</p>
+<p begin="00:33:48.159" end="00:33:51.200" style="s2">private use</p>
+<p begin="00:33:49.600" end="00:33:54.240" style="s2">and um</p>
+<p begin="00:33:51.200" end="00:33:57.679" style="s2">that you know it was disproportionate</p>
+<p begin="00:33:54.240" end="00:33:58.480" style="s2">um and so at that time</p>
+<p begin="00:33:57.679" end="00:34:01.440" style="s2">uh</p>
+<p begin="00:33:58.480" end="00:34:04.000" style="s2">we did actually use uh better regulation</p>
+<p begin="00:34:01.440" end="00:34:05.039" style="s2">principles and a risk-based approach as</p>
+<p begin="00:34:04.000" end="00:34:08.240" style="s2">well</p>
+<p begin="00:34:05.039" end="00:34:10.159" style="s2">and and actually adapted the regulatory</p>
+<p begin="00:34:08.240" end="00:34:12.720" style="s2">approach that we applied to</p>
+<p begin="00:34:10.159" end="00:34:14.879" style="s2">uh general aviation</p>
+<p begin="00:34:12.720" end="00:34:16.079" style="s2">to say essentially as long as general</p>
+<p begin="00:34:14.879" end="00:34:17.040" style="s2">aviation</p>
+<p begin="00:34:16.079" end="00:34:19.760" style="s2">was</p>
+<p begin="00:34:17.040" end="00:34:22.000" style="s2">in outside of the airspace being used by</p>
+<p begin="00:34:19.760" end="00:34:23.919" style="s2">commercial air transport and wasn&#39;t</p>
+<p begin="00:34:22.000" end="00:34:26.720" style="s2">going to conflict</p>
+<p begin="00:34:23.919" end="00:34:27.760" style="s2">with um commercial operators</p>
+<p begin="00:34:26.720" end="00:34:28.720" style="s2">then</p>
+<p begin="00:34:27.760" end="00:34:30.480" style="s2">actually</p>
+<p begin="00:34:28.720" end="00:34:32.240" style="s2">a higher level of risk tolerance could</p>
+<p begin="00:34:30.480" end="00:34:35.200" style="s2">be accepted because</p>
+<p begin="00:34:32.240" end="00:34:36.879" style="s2">um the general aviation users were</p>
+<p begin="00:34:35.200" end="00:34:38.879" style="s2">perhaps going to</p>
+<p begin="00:34:36.879" end="00:34:40.399" style="s2">incur a risk themselves</p>
+<p begin="00:34:38.879" end="00:34:42.480" style="s2">but they weren&#39;t going to endanger</p>
+<p begin="00:34:40.399" end="00:34:44.079" style="s2">others and so</p>
+<p begin="00:34:42.480" end="00:34:47.040" style="s2">that might be a more proportionate</p>
+<p begin="00:34:44.079" end="00:34:49.599" style="s2">approach and than to regulate those</p>
+<p begin="00:34:47.040" end="00:34:51.280" style="s2">users as if they were um commercial air</p>
+<p begin="00:34:49.599" end="00:34:52.960" style="s2">transport operators</p>
+<p begin="00:34:51.280" end="00:34:56.000" style="s2">clearly um</p>
+<p begin="00:34:52.960" end="00:34:58.640" style="s2">and thinking of my aviation history and</p>
+<p begin="00:34:56.000" end="00:35:00.720" style="s2">you know about 15 years years or so i i</p>
+<p begin="00:34:58.640" end="00:35:02.640" style="s2">know this is a case that&#39;s relevant to</p>
+<p begin="00:35:00.720" end="00:35:04.400" style="s2">you to brazil&#39;s history</p>
+<p begin="00:35:02.640" end="00:35:05.280" style="s2">but if you um</p>
+<p begin="00:35:04.400" end="00:35:07.119" style="s2">uh</p>
+<p begin="00:35:05.280" end="00:35:08.079" style="s2">very different rules apply</p>
+<p begin="00:35:07.119" end="00:35:10.560" style="s2">where</p>
+<p begin="00:35:08.079" end="00:35:12.160" style="s2">general aviation can um engage with</p>
+<p begin="00:35:10.560" end="00:35:14.240" style="s2">commercial air transport and they&#39;re</p>
+<p begin="00:35:12.160" end="00:35:17.040" style="s2">obviously</p>
+<p begin="00:35:14.240" end="00:35:19.760" style="s2">a much less tolerant approach was taken</p>
+<p begin="00:35:17.040" end="00:35:22.560" style="s2">uh and and very very strict regulation</p>
+<p begin="00:35:19.760" end="00:35:24.640" style="s2">of that airspace use</p>
+<p begin="00:35:22.560" end="00:35:26.640" style="s2">so i i just want to i thought that was</p>
+<p begin="00:35:24.640" end="00:35:29.040" style="s2">maybe relevant to to highlight a</p>
+<p begin="00:35:26.640" end="00:35:30.560" style="s2">practical example of proportionality</p>
+<p begin="00:35:29.040" end="00:35:32.160" style="s2">um</p>
+<p begin="00:35:30.560" end="00:35:34.160" style="s2">very much thinking about uh being</p>
+<p begin="00:35:32.160" end="00:35:37.520" style="s2">targeted at risk and understanding the</p>
+<p begin="00:35:34.160" end="00:35:39.839" style="s2">risk that you&#39;re trying to address um</p>
+<p begin="00:35:37.520" end="00:35:42.240" style="s2">that really gets down to that</p>
+<p begin="00:35:39.839" end="00:35:43.040" style="s2">root cause analysis i talked about when</p>
+<p begin="00:35:42.240" end="00:35:45.680" style="s2">you&#39;re</p>
+<p begin="00:35:43.040" end="00:35:47.040" style="s2">starting with the policy design process</p>
+<p begin="00:35:45.680" end="00:35:48.640" style="s2">what is it you&#39;re trying to achieve</p>
+<p begin="00:35:47.040" end="00:35:49.680" style="s2">what&#39;s the problem that we are trying to</p>
+<p begin="00:35:48.640" end="00:35:51.760" style="s2">solve</p>
+<p begin="00:35:49.680" end="00:35:54.160" style="s2">and then continually going back and</p>
+<p begin="00:35:51.760" end="00:35:56.560" style="s2">asking ourselves whether the regulatory</p>
+<p begin="00:35:54.160" end="00:35:58.480" style="s2">policy tool that we&#39;re using</p>
+<p begin="00:35:56.560" end="00:36:00.000" style="s2">will fix that problem</p>
+<p begin="00:35:58.480" end="00:36:02.560" style="s2">um</p>
+<p begin="00:36:00.000" end="00:36:04.160" style="s2">effectively so um</p>
+<p begin="00:36:02.560" end="00:36:05.520" style="s2">that&#39;s um</p>
+<p begin="00:36:04.160" end="00:36:08.000" style="s2">that&#39;s really the key about being</p>
+<p begin="00:36:05.520" end="00:36:11.359" style="s2">targeted is at risk and it also has an</p>
+<p begin="00:36:08.000" end="00:36:13.520" style="s2">element of that same um</p>
+<p begin="00:36:11.359" end="00:36:16.000" style="s2">that same example also applies here that</p>
+<p begin="00:36:13.520" end="00:36:18.400" style="s2">i just talked to uh are giving</p>
+<p begin="00:36:16.000" end="00:36:20.560" style="s2">potentially giving flexi flexibility to</p>
+<p begin="00:36:18.400" end="00:36:23.040" style="s2">certain users depending on the specific</p>
+<p begin="00:36:20.560" end="00:36:25.599" style="s2">circumstances and if that&#39;s appropriate</p>
+<p begin="00:36:23.040" end="00:36:28.000" style="s2">and and if it achieves the um the</p>
+<p begin="00:36:25.599" end="00:36:30.240" style="s2">overall objective of keeping the system</p>
+<p begin="00:36:28.000" end="00:36:30.240" style="s2">safe</p>
+<p begin="00:36:30.480" end="00:36:36.240" style="s2">the fourth objective is that um policy</p>
+<p begin="00:36:32.880" end="00:36:37.599" style="s2">should be fair and non-distorted</p>
+<p begin="00:36:36.240" end="00:36:39.359" style="s2">so</p>
+<p begin="00:36:37.599" end="00:36:40.480" style="s2">regulatory policy should apply to all</p>
+<p begin="00:36:39.359" end="00:36:41.520" style="s2">equally</p>
+<p begin="00:36:40.480" end="00:36:44.079" style="s2">uh</p>
+<p begin="00:36:41.520" end="00:36:45.440" style="s2">shouldn&#39;t create energy burdens for</p>
+<p begin="00:36:44.079" end="00:36:48.000" style="s2">certain groups</p>
+<p begin="00:36:45.440" end="00:36:49.760" style="s2">now in a in an industry context that</p>
+<p begin="00:36:48.000" end="00:36:51.440" style="s2">could be um</p>
+<p begin="00:36:49.760" end="00:36:54.880" style="s2">smaller medium</p>
+<p begin="00:36:51.440" end="00:36:56.560" style="s2">enterprises and potentially um</p>
+<p begin="00:36:54.880" end="00:36:58.560" style="s2">general aviation again</p>
+<p begin="00:36:56.560" end="00:36:59.280" style="s2">that that example would apply here again</p>
+<p begin="00:36:58.560" end="00:37:01.520" style="s2">if</p>
+<p begin="00:36:59.280" end="00:37:03.359" style="s2">um having to</p>
+<p begin="00:37:01.520" end="00:37:06.720" style="s2">have a certain piece of equipment or a</p>
+<p begin="00:37:03.359" end="00:37:07.599" style="s2">certain transponder on board to operate</p>
+<p begin="00:37:06.720" end="00:37:09.440" style="s2">in</p>
+<p begin="00:37:07.599" end="00:37:12.560" style="s2">unclassified airspace</p>
+<p begin="00:37:09.440" end="00:37:14.480" style="s2">and would create a real cost burden for</p>
+<p begin="00:37:12.560" end="00:37:15.839" style="s2">uh general aviation</p>
+<p begin="00:37:14.480" end="00:37:17.440" style="s2">and they</p>
+<p begin="00:37:15.839" end="00:37:20.400" style="s2">there was no danger of them conflicting</p>
+<p begin="00:37:17.440" end="00:37:21.440" style="s2">with promotional transport then</p>
+<p begin="00:37:20.400" end="00:37:23.280" style="s2">you might say well actually that&#39;s</p>
+<p begin="00:37:21.440" end="00:37:25.040" style="s2">distortive um</p>
+<p begin="00:37:23.280" end="00:37:27.440" style="s2">it&#39;s fine for for commercial and</p>
+<p begin="00:37:25.040" end="00:37:29.359" style="s2">military uh users to to buy that</p>
+<p begin="00:37:27.440" end="00:37:31.839" style="s2">equipment but for a general user that&#39;s</p>
+<p begin="00:37:29.359" end="00:37:32.720" style="s2">not going to be the case</p>
+<p begin="00:37:31.839" end="00:37:34.320" style="s2">with</p>
+<p begin="00:37:32.720" end="00:37:36.400" style="s2">different types of regulation moving</p>
+<p begin="00:37:34.320" end="00:37:37.520" style="s2">away from safety and perhaps thinking</p>
+<p begin="00:37:36.400" end="00:37:39.280" style="s2">about</p>
+<p begin="00:37:37.520" end="00:37:41.920" style="s2">consumer regulation</p>
+<p begin="00:37:39.280" end="00:37:45.440" style="s2">or accessibility regulation</p>
+<p begin="00:37:41.920" end="00:37:48.960" style="s2">if uh if a regulatory outcome um</p>
+<p begin="00:37:45.440" end="00:37:50.480" style="s2">affected a certain ethnic group or</p>
+<p begin="00:37:48.960" end="00:37:52.400" style="s2">disabled community</p>
+<p begin="00:37:50.480" end="00:37:54.720" style="s2">in a way that&#39;s different from from</p>
+<p begin="00:37:52.400" end="00:37:56.560" style="s2">other users then again that would be</p>
+<p begin="00:37:54.720" end="00:37:59.119" style="s2">considered distorted</p>
+<p begin="00:37:56.560" end="00:38:01.359" style="s2">and not fair so</p>
+<p begin="00:37:59.119" end="00:38:02.240" style="s2">you really have a very</p>
+<p begin="00:38:01.359" end="00:38:04.400" style="s2">um</p>
+<p begin="00:38:02.240" end="00:38:06.240" style="s2">careful consideration of how the</p>
+<p begin="00:38:04.400" end="00:38:08.560" style="s2">regulatory intervention will apply in</p>
+<p begin="00:38:06.240" end="00:38:11.119" style="s2">france and what</p>
+<p begin="00:38:08.560" end="00:38:12.000" style="s2">unintended consequences it might have</p>
+<p begin="00:38:11.119" end="00:38:13.599" style="s2">um</p>
+<p begin="00:38:12.000" end="00:38:16.560" style="s2">and it is one of the things that</p>
+<p begin="00:38:13.599" end="00:38:18.960" style="s2">regulation it almost does have always</p>
+<p begin="00:38:16.560" end="00:38:20.560" style="s2">always has a some form of consequences</p>
+<p begin="00:38:18.960" end="00:38:21.440" style="s2">so it&#39;s important to think those through</p>
+<p begin="00:38:20.560" end="00:38:22.880" style="s2">early</p>
+<p begin="00:38:21.440" end="00:38:24.640" style="s2">and</p>
+<p begin="00:38:22.880" end="00:38:25.920" style="s2">not just find them out as the</p>
+<p begin="00:38:24.640" end="00:38:27.359" style="s2">regulations being</p>
+<p begin="00:38:25.920" end="00:38:30.560" style="s2">implemented</p>
+<p begin="00:38:27.359" end="00:38:33.119" style="s2">and finally um clarity and certainty in</p>
+<p begin="00:38:30.560" end="00:38:35.680" style="s2">this in a way looks back to the</p>
+<p begin="00:38:33.119" end="00:38:37.359" style="s2">first points i made around consistency</p>
+<p begin="00:38:35.680" end="00:38:39.760" style="s2">and computer coherence</p>
+<p begin="00:38:37.359" end="00:38:41.359" style="s2">for there to be um trust for it to be</p>
+<p begin="00:38:39.760" end="00:38:43.920" style="s2">easy and simple to comply with</p>
+<p begin="00:38:41.359" end="00:38:45.200" style="s2">regulations and be very clear</p>
+<p begin="00:38:43.920" end="00:38:47.040" style="s2">you have to know</p>
+<p begin="00:38:45.200" end="00:38:48.880" style="s2">what&#39;s allowed and what isn&#39;t under what</p>
+<p begin="00:38:47.040" end="00:38:51.359" style="s2">circumstances and perhaps what</p>
+<p begin="00:38:48.880" end="00:38:54.480" style="s2">exemptions or exceptions apply</p>
+<p begin="00:38:51.359" end="00:38:56.079" style="s2">um and there&#39;s certainty but if i do</p>
+<p begin="00:38:54.480" end="00:38:59.280" style="s2">this on one day</p>
+<p begin="00:38:56.079" end="00:39:01.119" style="s2">and i&#39;m fine but then if i do it on on</p>
+<p begin="00:38:59.280" end="00:39:03.040" style="s2">the next day it&#39;s also going to be fine</p>
+<p begin="00:39:01.119" end="00:39:05.839" style="s2">or vice versa</p>
+<p begin="00:39:03.040" end="00:39:09.119" style="s2">and it&#39;s not um</p>
+<p begin="00:39:05.839" end="00:39:11.119" style="s2">not um good where there&#39;s surprises</p>
+<p begin="00:39:09.119" end="00:39:13.040" style="s2">that well i did it yesterday and that</p>
+<p begin="00:39:11.119" end="00:39:14.960" style="s2">was okay so i assumed it&#39;d be okay to do</p>
+<p begin="00:39:13.040" end="00:39:17.440" style="s2">it today um</p>
+<p begin="00:39:14.960" end="00:39:19.520" style="s2">and but it&#39;s it&#39;s</p>
+<p begin="00:39:17.440" end="00:39:22.720" style="s2">absolutely a different regulator</p>
+<p begin="00:39:19.520" end="00:39:24.720" style="s2">um enforcing that and</p>
+<p begin="00:39:22.720" end="00:39:27.680" style="s2">coming to a different conclusion that</p>
+<p begin="00:39:24.720" end="00:39:29.839" style="s2">certainty and that predictability um is</p>
+<p begin="00:39:27.680" end="00:39:32.560" style="s2">really important again</p>
+<p begin="00:39:29.839" end="00:39:35.200" style="s2">for all stakeholders for for consumers</p>
+<p begin="00:39:32.560" end="00:39:36.640" style="s2">and citizens as well as for um operators</p>
+<p begin="00:39:35.200" end="00:39:38.160" style="s2">and producers</p>
+<p begin="00:39:36.640" end="00:39:40.480" style="s2">and</p>
+<p begin="00:39:38.160" end="00:39:43.119" style="s2">lastly what&#39;s um</p>
+<p begin="00:39:40.480" end="00:39:45.200" style="s2">what&#39;s really important here is where um</p>
+<p begin="00:39:43.119" end="00:39:47.200" style="s2">a regulatory intervention</p>
+<p begin="00:39:45.200" end="00:39:50.800" style="s2">requires for preparatory action to be</p>
+<p begin="00:39:47.200" end="00:39:52.160" style="s2">taken and this obviously more affects um</p>
+<p begin="00:39:50.800" end="00:39:54.880" style="s2">user groups</p>
+<p begin="00:39:52.160" end="00:39:58.320" style="s2">and producer groups sorry um that there</p>
+<p begin="00:39:54.880" end="00:39:59.280" style="s2">should be uh sufficient time to be able</p>
+<p begin="00:39:58.320" end="00:40:00.240" style="s2">to</p>
+<p begin="00:39:59.280" end="00:40:01.040" style="s2">uh</p>
+<p begin="00:40:00.240" end="00:40:03.200" style="s2">to</p>
+<p begin="00:40:01.040" end="00:40:03.200" style="s2">to</p>
+<p begin="00:40:04.160" end="00:40:07.760" style="s2">comply sorry with the uh with the</p>
+<p begin="00:40:06.640" end="00:40:09.920" style="s2">regulation</p>
+<p begin="00:40:07.760" end="00:40:12.160" style="s2">um that&#39;s really important and that&#39;s</p>
+<p begin="00:40:09.920" end="00:40:14.640" style="s2">not something that is always the case</p>
+<p begin="00:40:12.160" end="00:40:16.640" style="s2">the the more the time the less</p>
+<p begin="00:40:14.640" end="00:40:19.359" style="s2">disruption that implementation</p>
+<p begin="00:40:16.640" end="00:40:21.599" style="s2">period will take and and actually the</p>
+<p begin="00:40:19.359" end="00:40:23.760" style="s2">better it&#39;s likely to go for everybody</p>
+<p begin="00:40:21.599" end="00:40:25.119" style="s2">i&#39;m going to see the implementation will</p>
+<p begin="00:40:23.760" end="00:40:27.440" style="s2">be</p>
+<p begin="00:40:25.119" end="00:40:29.119" style="s2">so those are the five um</p>
+<p begin="00:40:27.440" end="00:40:31.680" style="s2">policy principles</p>
+<p begin="00:40:29.119" end="00:40:32.960" style="s2">moving now to think about the process</p>
+<p begin="00:40:31.680" end="00:40:35.359" style="s2">principles</p>
+<p begin="00:40:32.960" end="00:40:37.280" style="s2">how do we go about designing policy that</p>
+<p begin="00:40:35.359" end="00:40:40.079" style="s2">meets those objectives</p>
+<p begin="00:40:37.280" end="00:40:41.599" style="s2">the first thing is um</p>
+<p begin="00:40:40.079" end="00:40:44.800" style="s2">again you&#39;ll see that some of these</p>
+<p begin="00:40:41.599" end="00:40:46.960" style="s2">relate to each other is to be really um</p>
+<p begin="00:40:44.800" end="00:40:48.480" style="s2">clear about the need and the problem</p>
+<p begin="00:40:46.960" end="00:40:49.520" style="s2">identification</p>
+<p begin="00:40:48.480" end="00:40:51.599" style="s2">and</p>
+<p begin="00:40:49.520" end="00:40:53.040" style="s2">what is it you&#39;re trying to achieve so</p>
+<p begin="00:40:51.599" end="00:40:54.640" style="s2">want to be really clear on that the</p>
+<p begin="00:40:53.040" end="00:40:57.040" style="s2">outset</p>
+<p begin="00:40:54.640" end="00:40:59.040" style="s2">as far as possible support that with</p>
+<p begin="00:40:57.040" end="00:41:00.720" style="s2">really good evidence</p>
+<p begin="00:40:59.040" end="00:41:03.680" style="s2">um</p>
+<p begin="00:41:00.720" end="00:41:05.920" style="s2">once you&#39;ve identified that problem</p>
+<p begin="00:41:03.680" end="00:41:08.079" style="s2">and understand</p>
+<p begin="00:41:05.920" end="00:41:10.000" style="s2">the different alternatives</p>
+<p begin="00:41:08.079" end="00:41:11.920" style="s2">are there non-regulatory solutions that</p>
+<p begin="00:41:10.000" end="00:41:13.359" style="s2">could apply are there</p>
+<p begin="00:41:11.920" end="00:41:15.599" style="s2">can you do this with guidance as i</p>
+<p begin="00:41:13.359" end="00:41:17.520" style="s2">talked about previously can you do it</p>
+<p begin="00:41:15.599" end="00:41:19.280" style="s2">with a code of practice</p>
+<p begin="00:41:17.520" end="00:41:20.480" style="s2">with a voluntary</p>
+<p begin="00:41:19.280" end="00:41:22.240" style="s2">agreement</p>
+<p begin="00:41:20.480" end="00:41:24.640" style="s2">um between</p>
+<p begin="00:41:22.240" end="00:41:26.640" style="s2">producers in the regulator or through</p>
+<p begin="00:41:24.640" end="00:41:28.560" style="s2">constructive engagement</p>
+<p begin="00:41:26.640" end="00:41:30.240" style="s2">and you do these things as an</p>
+<p begin="00:41:28.560" end="00:41:32.960" style="s2">alternative to</p>
+<p begin="00:41:30.240" end="00:41:34.960" style="s2">regulation so that when you start to to</p>
+<p begin="00:41:32.960" end="00:41:35.839" style="s2">go through the process of implementing</p>
+<p begin="00:41:34.960" end="00:41:38.240" style="s2">and</p>
+<p begin="00:41:35.839" end="00:41:40.160" style="s2">buying a regulation you know that that&#39;s</p>
+<p begin="00:41:38.240" end="00:41:42.720" style="s2">an effective tool</p>
+<p begin="00:41:40.160" end="00:41:45.040" style="s2">regulation does come out as the best</p>
+<p begin="00:41:42.720" end="00:41:45.040" style="s2">option</p>
+<p begin="00:41:45.280" end="00:41:49.359" style="s2">to support that um impact assessment is</p>
+<p begin="00:41:47.680" end="00:41:50.960" style="s2">really important i&#39;m going to talk about</p>
+<p begin="00:41:49.359" end="00:41:53.280" style="s2">impact assessment in a little bit more</p>
+<p begin="00:41:50.960" end="00:41:55.680" style="s2">detail</p>
+<p begin="00:41:53.280" end="00:41:58.800" style="s2">because uh it really i think it provides</p>
+<p begin="00:41:55.680" end="00:42:01.040" style="s2">a structure and rigor um to regulatory</p>
+<p begin="00:41:58.800" end="00:42:04.400" style="s2">implementation that supports many of the</p>
+<p begin="00:42:01.040" end="00:42:07.200" style="s2">other points and such that i think it&#39;s</p>
+<p begin="00:42:04.400" end="00:42:10.720" style="s2">it&#39;s key to delve into a bit more detail</p>
+<p begin="00:42:07.200" end="00:42:12.240" style="s2">and transparency and consultation are</p>
+<p begin="00:42:10.720" end="00:42:14.960" style="s2">really important and i actually take</p>
+<p begin="00:42:12.240" end="00:42:17.040" style="s2">transparency and opportunity to respond</p>
+<p begin="00:42:14.960" end="00:42:18.640" style="s2">and review um</p>
+<p begin="00:42:17.040" end="00:42:20.720" style="s2">together and i will talk about</p>
+<p begin="00:42:18.640" end="00:42:23.119" style="s2">consultation um</p>
+<p begin="00:42:20.720" end="00:42:24.800" style="s2">after i talked about impact assessment</p>
+<p begin="00:42:23.119" end="00:42:26.960" style="s2">but it&#39;s really important to be open to</p>
+<p begin="00:42:24.800" end="00:42:28.800" style="s2">have the dialogue that we talked about</p>
+<p begin="00:42:26.960" end="00:42:30.319" style="s2">at the very beginning of the session</p>
+<p begin="00:42:28.800" end="00:42:32.640" style="s2">um</p>
+<p begin="00:42:30.319" end="00:42:33.520" style="s2">throughout the design process</p>
+<p begin="00:42:32.640" end="00:42:35.839" style="s2">so</p>
+<p begin="00:42:33.520" end="00:42:39.040" style="s2">it&#39;s a</p>
+<p begin="00:42:35.839" end="00:42:42.480" style="s2">regulating entity to be clear that</p>
+<p begin="00:42:39.040" end="00:42:45.280" style="s2">it&#39;s considering in uh regulation</p>
+<p begin="00:42:42.480" end="00:42:46.960" style="s2">to involve stakeholders in the evidence</p>
+<p begin="00:42:45.280" end="00:42:49.200" style="s2">gathering process around the need</p>
+<p begin="00:42:46.960" end="00:42:50.480" style="s2">identification around the impact</p>
+<p begin="00:42:49.200" end="00:42:51.440" style="s2">assessment</p>
+<p begin="00:42:50.480" end="00:42:53.200" style="s2">um</p>
+<p begin="00:42:51.440" end="00:42:56.079" style="s2">and and to</p>
+<p begin="00:42:53.200" end="00:42:58.960" style="s2">genuinely take on board and stakeholder</p>
+<p begin="00:42:56.079" end="00:43:01.920" style="s2">feedback the producers users</p>
+<p begin="00:42:58.960" end="00:43:03.839" style="s2">add and review proposals</p>
+<p begin="00:43:01.920" end="00:43:06.079" style="s2">as they&#39;re being implemented</p>
+<p begin="00:43:03.839" end="00:43:07.200" style="s2">and finally</p>
+<p begin="00:43:06.079" end="00:43:10.000" style="s2">um</p>
+<p begin="00:43:07.200" end="00:43:11.440" style="s2">again part of the same process</p>
+<p begin="00:43:10.000" end="00:43:13.119" style="s2">reducing</p>
+<p begin="00:43:11.440" end="00:43:15.440" style="s2">burdens and</p>
+<p begin="00:43:13.119" end="00:43:17.520" style="s2">implementing regular reviews this is the</p>
+<p begin="00:43:15.440" end="00:43:20.079" style="s2">part that&#39;s probably most often left out</p>
+<p begin="00:43:17.520" end="00:43:22.720" style="s2">once the regulation regulation is played</p>
+<p begin="00:43:20.079" end="00:43:24.160" style="s2">in base to then go back and see whether</p>
+<p begin="00:43:22.720" end="00:43:26.480" style="s2">it&#39;s working and whether there&#39;s a way</p>
+<p begin="00:43:24.160" end="00:43:29.760" style="s2">of doing it better and so that</p>
+<p begin="00:43:26.480" end="00:43:33.119" style="s2">monitoring evaluation is critical</p>
+<p begin="00:43:29.760" end="00:43:34.640" style="s2">so those are the um the principles uh</p>
+<p begin="00:43:33.119" end="00:43:36.800" style="s2">both the policy principles and the</p>
+<p begin="00:43:34.640" end="00:43:38.720" style="s2">process principles and then if you</p>
+<p begin="00:43:36.800" end="00:43:41.839" style="s2">follow these you stand a good chance of</p>
+<p begin="00:43:38.720" end="00:43:44.960" style="s2">designing a good uh a good regulation</p>
+<p begin="00:43:41.839" end="00:43:46.720" style="s2">that will be active to enforce</p>
+<p begin="00:43:44.960" end="00:43:48.240" style="s2">let&#39;s just go through uh impact</p>
+<p begin="00:43:46.720" end="00:43:50.480" style="s2">assessment um</p>
+<p begin="00:43:48.240" end="00:43:51.440" style="s2">in a bit more detail and i say this</p>
+<p begin="00:43:50.480" end="00:43:53.119" style="s2">because</p>
+<p begin="00:43:51.440" end="00:43:55.839" style="s2">it&#39;s not always</p>
+<p begin="00:43:53.119" end="00:43:57.920" style="s2">understood what an impact assessment is</p>
+<p begin="00:43:55.839" end="00:43:58.800" style="s2">and how to do one and how important it</p>
+<p begin="00:43:57.920" end="00:44:00.240" style="s2">is</p>
+<p begin="00:43:58.800" end="00:44:01.599" style="s2">you should do it</p>
+<p begin="00:44:00.240" end="00:44:03.280" style="s2">um</p>
+<p begin="00:44:01.599" end="00:44:06.640" style="s2">so</p>
+<p begin="00:44:03.280" end="00:44:09.680" style="s2">it&#39;s a tool um it&#39;s not a decision</p>
+<p begin="00:44:06.640" end="00:44:11.280" style="s2">making um software in itself it doesn&#39;t</p>
+<p begin="00:44:09.680" end="00:44:13.040" style="s2">come up with an answer</p>
+<p begin="00:44:11.280" end="00:44:15.040" style="s2">there&#39;s not some hard and fast rule that</p>
+<p begin="00:44:13.040" end="00:44:16.960" style="s2">if the impact assessment says something</p>
+<p begin="00:44:15.040" end="00:44:20.800" style="s2">it shouldn&#39;t be done it&#39;s there to</p>
+<p begin="00:44:16.960" end="00:44:23.599" style="s2">inform and advise um decision makers and</p>
+<p begin="00:44:20.800" end="00:44:25.599" style="s2">regulators in in terms of</p>
+<p begin="00:44:23.599" end="00:44:27.040" style="s2">the action that they&#39;re taking</p>
+<p begin="00:44:25.599" end="00:44:29.680" style="s2">by assessing</p>
+<p begin="00:44:27.040" end="00:44:31.119" style="s2">the costs and the benefits and how those</p>
+<p begin="00:44:29.680" end="00:44:33.680" style="s2">accrue to different groups and that&#39;s</p>
+<p begin="00:44:31.119" end="00:44:35.680" style="s2">also really important i talked about the</p>
+<p begin="00:44:33.680" end="00:44:37.520" style="s2">fair and non-distortive</p>
+<p begin="00:44:35.680" end="00:44:38.720" style="s2">the impact assessment can really help</p>
+<p begin="00:44:37.520" end="00:44:40.400" style="s2">you</p>
+<p begin="00:44:38.720" end="00:44:42.640" style="s2">by delving into</p>
+<p begin="00:44:40.400" end="00:44:44.480" style="s2">whether there are particular</p>
+<p begin="00:44:42.640" end="00:44:47.839" style="s2">impacts on</p>
+<p begin="00:44:44.480" end="00:44:49.680" style="s2">environment on specific user groups and</p>
+<p begin="00:44:47.839" end="00:44:52.960" style="s2">on the</p>
+<p begin="00:44:49.680" end="00:44:57.520" style="s2">of society or on specific um categories</p>
+<p begin="00:44:52.960" end="00:44:59.440" style="s2">of firm and producer that mean that</p>
+<p begin="00:44:57.520" end="00:45:03.040" style="s2">some amendment might be</p>
+<p begin="00:44:59.440" end="00:45:05.440" style="s2">required or some way of compensating for</p>
+<p begin="00:45:03.040" end="00:45:06.160" style="s2">those specific groups or the impact of</p>
+<p begin="00:45:05.440" end="00:45:07.599" style="s2">the</p>
+<p begin="00:45:06.160" end="00:45:09.920" style="s2">regulation</p>
+<p begin="00:45:07.599" end="00:45:14.000" style="s2">um it can help</p>
+<p begin="00:45:09.920" end="00:45:16.319" style="s2">in identifying and codifying the problem</p>
+<p begin="00:45:14.000" end="00:45:19.680" style="s2">and indeed</p>
+<p begin="00:45:16.319" end="00:45:21.920" style="s2">your first impact assessment um</p>
+<p begin="00:45:19.680" end="00:45:23.440" style="s2">should uh do a very high level impact</p>
+<p begin="00:45:21.920" end="00:45:25.280" style="s2">assessment of all the different options</p>
+<p begin="00:45:23.440" end="00:45:27.520" style="s2">that have been identified</p>
+<p begin="00:45:25.280" end="00:45:29.520" style="s2">um</p>
+<p begin="00:45:27.520" end="00:45:31.200" style="s2">this is where it comes into one of the</p>
+<p begin="00:45:29.520" end="00:45:32.800" style="s2">the misunderstandings of impact</p>
+<p begin="00:45:31.200" end="00:45:35.359" style="s2">assessment by those people that do a lot</p>
+<p begin="00:45:32.800" end="00:45:37.040" style="s2">of it uh final impact assessment of a</p>
+<p begin="00:45:35.359" end="00:45:38.720" style="s2">regulation can be</p>
+<p begin="00:45:37.040" end="00:45:40.640" style="s2">quite detailed</p>
+<p begin="00:45:38.720" end="00:45:42.160" style="s2">quite quantitative</p>
+<p begin="00:45:40.640" end="00:45:45.200" style="s2">and</p>
+<p begin="00:45:42.160" end="00:45:46.800" style="s2">quite technical uh in terms of</p>
+<p begin="00:45:45.200" end="00:45:49.119" style="s2">analysis or some other kind of</p>
+<p begin="00:45:46.800" end="00:45:50.160" style="s2">multi-criteria assessment</p>
+<p begin="00:45:49.119" end="00:45:52.160" style="s2">and</p>
+<p begin="00:45:50.160" end="00:45:54.000" style="s2">that doesn&#39;t need to be the case at all</p>
+<p begin="00:45:52.160" end="00:45:56.319" style="s2">stages so when you&#39;re doing very much</p>
+<p begin="00:45:54.000" end="00:45:58.160" style="s2">the inception of a policy design</p>
+<p begin="00:45:56.319" end="00:46:00.400" style="s2">and it&#39;s appropriate for the impact</p>
+<p begin="00:45:58.160" end="00:46:01.520" style="s2">assessment to be much more high level</p>
+<p begin="00:46:00.400" end="00:46:04.880" style="s2">um</p>
+<p begin="00:46:01.520" end="00:46:06.720" style="s2">but it should still look to um address</p>
+<p begin="00:46:04.880" end="00:46:09.280" style="s2">all of these questions at the early</p>
+<p begin="00:46:06.720" end="00:46:12.480" style="s2">stages and and one of the</p>
+<p begin="00:46:09.280" end="00:46:14.319" style="s2">one of the mistakes that it gets made</p>
+<p begin="00:46:12.480" end="00:46:16.560" style="s2">and</p>
+<p begin="00:46:14.319" end="00:46:18.720" style="s2">when uh when countries are implementing</p>
+<p begin="00:46:16.560" end="00:46:21.440" style="s2">impact assessment is</p>
+<p begin="00:46:18.720" end="00:46:23.520" style="s2">they either come too late in the process</p>
+<p begin="00:46:21.440" end="00:46:27.040" style="s2">or they are shared with stakeholders too</p>
+<p begin="00:46:23.520" end="00:46:29.280" style="s2">late in the process um such that uh it</p>
+<p begin="00:46:27.040" end="00:46:31.920" style="s2">then becomes a very</p>
+<p begin="00:46:29.280" end="00:46:34.079" style="s2">uh rigid tool rather than something that</p>
+<p begin="00:46:31.920" end="00:46:36.319" style="s2">can actually help the design process</p>
+<p begin="00:46:34.079" end="00:46:39.040" style="s2">um because really what it&#39;s trying to do</p>
+<p begin="00:46:36.319" end="00:46:42.160" style="s2">is to provide an objective</p>
+<p begin="00:46:39.040" end="00:46:45.200" style="s2">framework for looking at like policy and</p>
+<p begin="00:46:42.160" end="00:46:47.920" style="s2">assessing whether it meets those</p>
+<p begin="00:46:45.200" end="00:46:48.720" style="s2">policy and process objectives</p>
+<p begin="00:46:47.920" end="00:46:50.160" style="s2">and</p>
+<p begin="00:46:48.720" end="00:46:51.680" style="s2">what you can see</p>
+<p begin="00:46:50.160" end="00:46:54.400" style="s2">um</p>
+<p begin="00:46:51.680" end="00:46:56.800" style="s2">from the the schema at the bottom</p>
+<p begin="00:46:54.400" end="00:46:58.400" style="s2">is that from moving through uh</p>
+<p begin="00:46:56.800" end="00:47:01.920" style="s2">understanding the problem</p>
+<p begin="00:46:58.400" end="00:47:04.560" style="s2">two objectives then identifying options</p>
+<p begin="00:47:01.920" end="00:47:07.520" style="s2">you see that feedback feedback</p>
+<p begin="00:47:04.560" end="00:47:10.720" style="s2">at the bottom when you&#39;re assessing</p>
+<p begin="00:47:07.520" end="00:47:12.720" style="s2">a preferred option or two idle preferred</p>
+<p begin="00:47:10.720" end="00:47:15.040" style="s2">options against each other you then</p>
+<p begin="00:47:12.720" end="00:47:17.040" style="s2">feedback and you check whether it&#39;s</p>
+<p begin="00:47:15.040" end="00:47:18.720" style="s2">going to meet those objectives</p>
+<p begin="00:47:17.040" end="00:47:20.160" style="s2">in the best possible way and whether</p>
+<p begin="00:47:18.720" end="00:47:24.440" style="s2">it&#39;s going to</p>
+<p begin="00:47:20.160" end="00:47:24.440" style="s2">solve the problem you&#39;re looking to fix</p>
+<p begin="00:47:24.559" end="00:47:28.160" style="s2">i&#39;m also going to talk about</p>
+<p begin="00:47:26.000" end="00:47:30.640" style="s2">consultation here</p>
+<p begin="00:47:28.160" end="00:47:34.000" style="s2">uh because again it&#39;s also important</p>
+<p begin="00:47:30.640" end="00:47:37.599" style="s2">it&#39;s like dialogue element um</p>
+<p begin="00:47:34.000" end="00:47:40.559" style="s2">and it&#39;s something that uh really um</p>
+<p begin="00:47:37.599" end="00:47:42.480" style="s2">often gets um</p>
+<p begin="00:47:40.559" end="00:47:43.760" style="s2">uh</p>
+<p begin="00:47:42.480" end="00:47:45.200" style="s2">either again</p>
+<p begin="00:47:43.760" end="00:47:47.520" style="s2">done too late</p>
+<p begin="00:47:45.200" end="00:47:49.040" style="s2">or seen as a formality and not seen as</p>
+<p begin="00:47:47.520" end="00:47:49.839" style="s2">something that can help it&#39;s in there&#39;s</p>
+<p begin="00:47:49.040" end="00:47:52.800" style="s2">a</p>
+<p begin="00:47:49.839" end="00:47:54.800" style="s2">step that has to be done through and not</p>
+<p begin="00:47:52.800" end="00:47:55.920" style="s2">to something that&#39;s genuinely helpful in</p>
+<p begin="00:47:54.800" end="00:47:58.240" style="s2">terms of</p>
+<p begin="00:47:55.920" end="00:47:59.200" style="s2">improving the regulation</p>
+<p begin="00:47:58.240" end="00:47:59.540" style="s2">um</p>
+<p begin="00:47:59.200" end="00:48:01.359" style="s2">first</p>
+<p begin="00:47:59.540" end="00:48:03.920" style="s2">[Music]</p>
+<p begin="00:48:01.359" end="00:48:05.440" style="s2">it can help the regulator in the design</p>
+<p begin="00:48:03.920" end="00:48:07.760" style="s2">phase</p>
+<p begin="00:48:05.440" end="00:48:09.280" style="s2">where</p>
+<p begin="00:48:07.760" end="00:48:11.520" style="s2">industry stakeholders or consumer</p>
+<p begin="00:48:09.280" end="00:48:12.640" style="s2">stakeholders can inform that there&#39;s a</p>
+<p begin="00:48:11.520" end="00:48:15.520" style="s2">particular</p>
+<p begin="00:48:12.640" end="00:48:15.520" style="s2">particular need</p>
+<p begin="00:48:15.680" end="00:48:20.720" style="s2">if they just agree it might say we</p>
+<p begin="00:48:18.160" end="00:48:21.920" style="s2">understand the need to to regulate</p>
+<p begin="00:48:20.720" end="00:48:23.359" style="s2">understand the problem you&#39;re trying to</p>
+<p begin="00:48:21.920" end="00:48:25.520" style="s2">solve</p>
+<p begin="00:48:23.359" end="00:48:27.280" style="s2">may even agree that that&#39;s a problem to</p>
+<p begin="00:48:25.520" end="00:48:28.960" style="s2">be solved</p>
+<p begin="00:48:27.280" end="00:48:31.119" style="s2">but we&#39;re concerned that it will have</p>
+<p begin="00:48:28.960" end="00:48:33.440" style="s2">this this or this impact and that would</p>
+<p begin="00:48:31.119" end="00:48:35.200" style="s2">be very damaging</p>
+<p begin="00:48:33.440" end="00:48:36.800" style="s2">um</p>
+<p begin="00:48:35.200" end="00:48:39.200" style="s2">so you know</p>
+<p begin="00:48:36.800" end="00:48:41.200" style="s2">look for a design alternative that</p>
+<p begin="00:48:39.200" end="00:48:43.599" style="s2">avoids that and they get that going to</p>
+<p begin="00:48:41.200" end="00:48:44.480" style="s2">equally apply for consumer groups</p>
+<p begin="00:48:43.599" end="00:48:46.480" style="s2">and</p>
+<p begin="00:48:44.480" end="00:48:48.480" style="s2">and that&#39;s why uh it&#39;s quite important</p>
+<p begin="00:48:46.480" end="00:48:49.920" style="s2">for it to be done at the early stages of</p>
+<p begin="00:48:48.480" end="00:48:53.599" style="s2">policy development</p>
+<p begin="00:48:49.920" end="00:48:55.359" style="s2">um and on an iterative basis um at uc i</p>
+<p begin="00:48:53.599" end="00:48:56.160" style="s2">refer to the the european commission</p>
+<p begin="00:48:55.359" end="00:48:57.520" style="s2">here</p>
+<p begin="00:48:56.160" end="00:49:00.079" style="s2">this is actually one of the things that</p>
+<p begin="00:48:57.520" end="00:49:02.480" style="s2">the commission is quite good at</p>
+<p begin="00:49:00.079" end="00:49:05.760" style="s2">is doing this regularly</p>
+<p begin="00:49:02.480" end="00:49:08.400" style="s2">at different stages of um</p>
+<p begin="00:49:05.760" end="00:49:10.240" style="s2">policy and regulation design</p>
+<p begin="00:49:08.400" end="00:49:12.000" style="s2">bit like impact assessment it doesn&#39;t</p>
+<p begin="00:49:10.240" end="00:49:13.280" style="s2">always have to be formal</p>
+<p begin="00:49:12.000" end="00:49:15.359" style="s2">um</p>
+<p begin="00:49:13.280" end="00:49:17.680" style="s2">sometimes it will be a written</p>
+<p begin="00:49:15.359" end="00:49:20.319" style="s2">uh written consultation something will</p>
+<p begin="00:49:17.680" end="00:49:22.240" style="s2">be published in their national gazette</p>
+<p begin="00:49:20.319" end="00:49:24.559" style="s2">and uh stakeholders will be given a</p>
+<p begin="00:49:22.240" end="00:49:26.240" style="s2">fixed amount of time to provide specific</p>
+<p begin="00:49:24.559" end="00:49:30.880" style="s2">written feedback</p>
+<p begin="00:49:26.240" end="00:49:30.880" style="s2">sometimes it can be uh informal and</p>
+<p begin="00:49:31.119" end="00:49:35.520" style="s2">a conversation or a dialogue</p>
+<p begin="00:49:33.119" end="00:49:38.640" style="s2">one thing it should try and do is to</p>
+<p begin="00:49:35.520" end="00:49:40.079" style="s2">gather um evidence information so</p>
+<p begin="00:49:38.640" end="00:49:41.760" style="s2">where</p>
+<p begin="00:49:40.079" end="00:49:45.440" style="s2">user groups and stakeholder groups are</p>
+<p begin="00:49:41.760" end="00:49:47.839" style="s2">providing input and obviously the more</p>
+<p begin="00:49:45.440" end="00:49:49.839" style="s2">rigorously the views that submit it can</p>
+<p begin="00:49:47.839" end="00:49:53.359" style="s2">be justified with evidence</p>
+<p begin="00:49:49.839" end="00:49:55.200" style="s2">um either a problem or evidence of a</p>
+<p begin="00:49:53.359" end="00:49:58.000" style="s2">negative consequence then that can</p>
+<p begin="00:49:55.200" end="00:49:59.119" style="s2">inform so it&#39;s very much a two-way</p>
+<p begin="00:49:58.000" end="00:50:01.359" style="s2">process</p>
+<p begin="00:49:59.119" end="00:50:02.160" style="s2">i think the more that</p>
+<p begin="00:50:01.359" end="00:50:04.079" style="s2">um</p>
+<p begin="00:50:02.160" end="00:50:06.559" style="s2">stakeholders feel that the consultation</p>
+<p begin="00:50:04.079" end="00:50:09.440" style="s2">is genuine the more they are willing to</p>
+<p begin="00:50:06.559" end="00:50:10.839" style="s2">uh to generate and to offer up</p>
+<p begin="00:50:09.440" end="00:50:14.160" style="s2">that</p>
+<p begin="00:50:10.839" end="00:50:16.960" style="s2">evidence key element of consultation</p>
+<p begin="00:50:14.160" end="00:50:17.839" style="s2">that&#39;s um not always considered</p>
+<p begin="00:50:16.960" end="00:50:19.680" style="s2">um</p>
+<p begin="00:50:17.839" end="00:50:22.079" style="s2">that i discussed in the process</p>
+<p begin="00:50:19.680" end="00:50:23.119" style="s2">principles was the response</p>
+<p begin="00:50:22.079" end="00:50:26.079" style="s2">um</p>
+<p begin="00:50:23.119" end="00:50:30.720" style="s2">ability to to respond and and to see</p>
+<p begin="00:50:26.079" end="00:50:32.960" style="s2">their revision and um when the oecd</p>
+<p begin="00:50:30.720" end="00:50:35.359" style="s2">does its policy reviews of different</p>
+<p begin="00:50:32.960" end="00:50:37.599" style="s2">member countries and partner countries</p>
+<p begin="00:50:35.359" end="00:50:39.119" style="s2">around implementation and consultation</p>
+<p begin="00:50:37.599" end="00:50:41.040" style="s2">one of the things it does look at in</p>
+<p begin="00:50:39.119" end="00:50:42.960" style="s2">some detail is whether</p>
+<p begin="00:50:41.040" end="00:50:46.240" style="s2">the regulatory entity</p>
+<p begin="00:50:42.960" end="00:50:49.119" style="s2">after a consultation period will then go</p>
+<p begin="00:50:46.240" end="00:50:51.920" style="s2">and respond to stakeholders and</p>
+<p begin="00:50:49.119" end="00:50:53.200" style="s2">submitted input and said look</p>
+<p begin="00:50:51.920" end="00:50:55.680" style="s2">thank you for your input this is what</p>
+<p begin="00:50:53.200" end="00:50:57.359" style="s2">we&#39;ve heard um this is what we&#39;ve done</p>
+<p begin="00:50:55.680" end="00:50:58.559" style="s2">as a consequence</p>
+<p begin="00:50:57.359" end="00:51:00.160" style="s2">and this is what we haven&#39;t done as a</p>
+<p begin="00:50:58.559" end="00:51:02.400" style="s2">consequence</p>
+<p begin="00:51:00.160" end="00:51:05.200" style="s2">either we noted that feedback</p>
+<p begin="00:51:02.400" end="00:51:08.559" style="s2">and but we felt the evidence to continue</p>
+<p begin="00:51:05.200" end="00:51:10.480" style="s2">what we were doing um was compelling</p>
+<p begin="00:51:08.559" end="00:51:12.240" style="s2">or that that alternative is not</p>
+<p begin="00:51:10.480" end="00:51:14.240" style="s2">practical or whatever</p>
+<p begin="00:51:12.240" end="00:51:16.640" style="s2">um but to give that feedback and to make</p>
+<p begin="00:51:14.240" end="00:51:18.720" style="s2">clear that it&#39;s been understood and to</p>
+<p begin="00:51:16.640" end="00:51:20.839" style="s2">to make clear that there has been a uh</p>
+<p begin="00:51:18.720" end="00:51:23.520" style="s2">has been given to you consideration</p>
+<p begin="00:51:20.839" end="00:51:26.240" style="s2">consideration um as part of the design</p>
+<p begin="00:51:23.520" end="00:51:26.960" style="s2">process so that&#39;s an important element</p>
+<p begin="00:51:26.240" end="00:51:28.559" style="s2">of</p>
+<p begin="00:51:26.960" end="00:51:29.520" style="s2">consultation</p>
+<p begin="00:51:28.559" end="00:51:33.200" style="s2">um</p>
+<p begin="00:51:29.520" end="00:51:36.079" style="s2">as i say the eu is an example of this</p>
+<p begin="00:51:33.200" end="00:51:37.440" style="s2">but i could cite other um other entities</p>
+<p begin="00:51:36.079" end="00:51:39.760" style="s2">as well um</p>
+<p begin="00:51:37.440" end="00:51:42.960" style="s2">he&#39;s talking to the new head of the</p>
+<p begin="00:51:39.760" end="00:51:45.200" style="s2">canadian uh transportation agency the</p>
+<p begin="00:51:42.960" end="00:51:46.960" style="s2">cta they&#39;re a regulator</p>
+<p begin="00:51:45.200" end="00:51:48.720" style="s2">um</p>
+<p begin="00:51:46.960" end="00:51:50.720" style="s2">about exactly this point and you know</p>
+<p begin="00:51:48.720" end="00:51:53.520" style="s2">canada are very very good at uh</p>
+<p begin="00:51:50.720" end="00:51:56.240" style="s2">publishing lots of consultations</p>
+<p begin="00:51:53.520" end="00:51:58.400" style="s2">and and the uk is as well so</p>
+<p begin="00:51:56.240" end="00:51:59.839" style="s2">there are a number of good examples here</p>
+<p begin="00:51:58.400" end="00:52:01.440" style="s2">um that we can point to on the</p>
+<p begin="00:51:59.839" end="00:52:03.440" style="s2">consultation side</p>
+<p begin="00:52:01.440" end="00:52:06.559" style="s2">and equally on the impact assessment</p>
+<p begin="00:52:03.440" end="00:52:09.359" style="s2">site um where australia would be</p>
+<p begin="00:52:06.559" end="00:52:11.280" style="s2">a really good example of a country that</p>
+<p begin="00:52:09.359" end="00:52:13.760" style="s2">does lots of impact assessment as part</p>
+<p begin="00:52:11.280" end="00:52:16.079" style="s2">of its policy design before it then goes</p>
+<p begin="00:52:13.760" end="00:52:18.480" style="s2">on to enforce that using the responsive</p>
+<p begin="00:52:16.079" end="00:52:19.680" style="s2">regulation approach come on to that in a</p>
+<p begin="00:52:18.480" end="00:52:21.680" style="s2">minute</p>
+<p begin="00:52:19.680" end="00:52:25.280" style="s2">i just wanted because we are talking</p>
+<p begin="00:52:21.680" end="00:52:29.440" style="s2">about um brazil and i mentioned the um</p>
+<p begin="00:52:25.280" end="00:52:32.720" style="s2">the oecd&#39;s uh regulatory policy reviews</p>
+<p begin="00:52:29.440" end="00:52:35.839" style="s2">just to give a sense of where um</p>
+<p begin="00:52:32.720" end="00:52:37.520" style="s2">the oecd thinks uh brazil is as a</p>
+<p begin="00:52:35.839" end="00:52:40.640" style="s2">country as a whole so i&#39;m not talking</p>
+<p begin="00:52:37.520" end="00:52:42.800" style="s2">about um anathor aviation in particular</p>
+<p begin="00:52:40.640" end="00:52:43.839" style="s2">here talking about the country as a</p>
+<p begin="00:52:42.800" end="00:52:47.119" style="s2">whole</p>
+<p begin="00:52:43.839" end="00:52:50.960" style="s2">uh in terms of um stakeholder engagement</p>
+<p begin="00:52:47.119" end="00:52:53.440" style="s2">during um development of subordinate</p>
+<p begin="00:52:50.960" end="00:52:55.520" style="s2">risk or subordinate uh in some countries</p>
+<p begin="00:52:53.440" end="00:52:58.559" style="s2">it&#39;d be called secondary legislation</p>
+<p begin="00:52:55.520" end="00:53:01.040" style="s2">implementing legislation or regulation</p>
+<p begin="00:52:58.559" end="00:53:02.640" style="s2">and and you see that um</p>
+<p begin="00:53:01.040" end="00:53:05.040" style="s2">brazil is</p>
+<p begin="00:53:02.640" end="00:53:07.680" style="s2">somewhere halfway between the oecd</p>
+<p begin="00:53:05.040" end="00:53:11.359" style="s2">averages as a whole plus the</p>
+<p begin="00:53:07.680" end="00:53:13.520" style="s2">37 or 38 oecd members and and the latin</p>
+<p begin="00:53:11.359" end="00:53:16.960" style="s2">american and caribbean</p>
+<p begin="00:53:13.520" end="00:53:18.319" style="s2">average so um there&#39;s a</p>
+<p begin="00:53:16.960" end="00:53:20.000" style="s2">country as a whole</p>
+<p begin="00:53:18.319" end="00:53:22.720" style="s2">um</p>
+<p begin="00:53:20.000" end="00:53:24.800" style="s2">that&#39;s very positive um and the same</p>
+<p begin="00:53:22.720" end="00:53:25.920" style="s2">review does note that</p>
+<p begin="00:53:24.800" end="00:53:27.920" style="s2">the move</p>
+<p begin="00:53:25.920" end="00:53:29.760" style="s2">within within brazil towards a more</p>
+<p begin="00:53:27.920" end="00:53:31.119" style="s2">dynamic approach with more impact</p>
+<p begin="00:53:29.760" end="00:53:34.319" style="s2">assessment and</p>
+<p begin="00:53:31.119" end="00:53:35.839" style="s2">greater consultation so again that is</p>
+<p begin="00:53:34.319" end="00:53:38.880" style="s2">very positive</p>
+<p begin="00:53:35.839" end="00:53:41.920" style="s2">and here um you see that comparator</p>
+<p begin="00:53:38.880" end="00:53:43.760" style="s2">against the rest of um the countries in</p>
+<p begin="00:53:41.920" end="00:53:46.559" style="s2">the region</p>
+<p begin="00:53:43.760" end="00:53:48.480" style="s2">or how uh how frequently</p>
+<p begin="00:53:46.559" end="00:53:50.559" style="s2">uh the stakeholder engagement is</p>
+<p begin="00:53:48.480" end="00:53:53.680" style="s2">required on the left-hand side</p>
+<p begin="00:53:50.559" end="00:53:56.160" style="s2">in the riaa which is regulatory impact</p>
+<p begin="00:53:53.680" end="00:53:57.119" style="s2">assessment under on the right hand two</p>
+<p begin="00:53:56.160" end="00:53:59.440" style="s2">bars</p>
+<p begin="00:53:57.119" end="00:54:03.040" style="s2">and you see um</p>
+<p begin="00:53:59.440" end="00:54:04.960" style="s2">comparing favorably against um of other</p>
+<p begin="00:54:03.040" end="00:54:06.000" style="s2">countries in the region again as i say</p>
+<p begin="00:54:04.960" end="00:54:08.880" style="s2">with that</p>
+<p begin="00:54:06.000" end="00:54:10.880" style="s2">um small um</p>
+<p begin="00:54:08.880" end="00:54:15.200" style="s2">still some way to go to be best of class</p>
+<p begin="00:54:10.880" end="00:54:17.599" style="s2">in terms of um the oecd average and</p>
+<p begin="00:54:15.200" end="00:54:19.920" style="s2">again as i was saying this is really</p>
+<p begin="00:54:17.599" end="00:54:22.319" style="s2">focused on on the country as a whole and</p>
+<p begin="00:54:19.920" end="00:54:23.760" style="s2">not looking at specific sectors</p>
+<p begin="00:54:22.319" end="00:54:26.480" style="s2">and</p>
+<p begin="00:54:23.760" end="00:54:28.800" style="s2">in the audience specific sectors</p>
+<p begin="00:54:26.480" end="00:54:31.440" style="s2">are oecd initiatives that go down to the</p>
+<p begin="00:54:28.800" end="00:54:32.640" style="s2">sector level um and we have been</p>
+<p begin="00:54:31.440" end="00:54:35.839" style="s2">discussions</p>
+<p begin="00:54:32.640" end="00:54:37.599" style="s2">with them about uh</p>
+<p begin="00:54:35.839" end="00:54:41.280" style="s2">how that could be</p>
+<p begin="00:54:37.599" end="00:54:44.880" style="s2">rolled out more widely uh to support</p>
+<p begin="00:54:41.280" end="00:54:47.520" style="s2">competitiveness and so on but um</p>
+<p begin="00:54:44.880" end="00:54:47.830" style="s2">i thought it&#39;d be relevant to to share</p>
+<p begin="00:54:47.520" end="00:54:48.880" style="s2">some</p>
+<p begin="00:54:47.830" end="00:54:51.359" style="s2">[Music]</p>
+<p begin="00:54:48.880" end="00:54:51.359" style="s2">examples</p>
+<p begin="00:54:51.440" end="00:54:55.520" style="s2">so um</p>
+<p begin="00:54:53.520" end="00:54:57.599" style="s2">quite a lot in there</p>
+<p begin="00:54:55.520" end="00:54:59.920" style="s2">the whole idea of better regulation is</p>
+<p begin="00:54:57.599" end="00:55:02.480" style="s2">that um if you follow those principles</p>
+<p begin="00:54:59.920" end="00:55:05.359" style="s2">particularly the consultation and the um</p>
+<p begin="00:55:02.480" end="00:55:07.599" style="s2">the impact assessment really good</p>
+<p begin="00:55:05.359" end="00:55:09.760" style="s2">intensification of the problem</p>
+<p begin="00:55:07.599" end="00:55:11.760" style="s2">uh consideration of options</p>
+<p begin="00:55:09.760" end="00:55:13.760" style="s2">through the rigorous analysis</p>
+<p begin="00:55:11.760" end="00:55:16.240" style="s2">and um</p>
+<p begin="00:55:13.760" end="00:55:19.440" style="s2">and lots of consultation you should find</p>
+<p begin="00:55:16.240" end="00:55:21.040" style="s2">yourself with a regulatory policy</p>
+<p begin="00:55:19.440" end="00:55:22.400" style="s2">that is um</p>
+<p begin="00:55:21.040" end="00:55:23.520" style="s2">pretty smart</p>
+<p begin="00:55:22.400" end="00:55:26.319" style="s2">um</p>
+<p begin="00:55:23.520" end="00:55:28.400" style="s2">then comes obviously the task of uh of</p>
+<p begin="00:55:26.319" end="00:55:31.280" style="s2">enforcing him</p>
+<p begin="00:55:28.400" end="00:55:33.119" style="s2">and this is where we come to the idea of</p>
+<p begin="00:55:31.280" end="00:55:34.880" style="s2">responsive regulation</p>
+<p begin="00:55:33.119" end="00:55:36.480" style="s2">um</p>
+<p begin="00:55:34.880" end="00:55:39.839" style="s2">which um</p>
+<p begin="00:55:36.480" end="00:55:42.160" style="s2">is a a regulatory theory that</p>
+<p begin="00:55:39.839" end="00:55:42.160" style="s2">about</p>
+<p begin="00:55:42.799" end="00:55:49.119" style="s2">coming up to 30 years old and came out</p>
+<p begin="00:55:45.920" end="00:55:50.960" style="s2">of australia um</p>
+<p begin="00:55:49.119" end="00:55:53.200" style="s2">why i wanted to make the point about you</p>
+<p begin="00:55:50.960" end="00:55:55.280" style="s2">know sort of australia&#39;s</p>
+<p begin="00:55:53.200" end="00:55:58.000" style="s2">adherence to the better regulation</p>
+<p begin="00:55:55.280" end="00:56:00.319" style="s2">design aspects from policy design</p>
+<p begin="00:55:58.000" end="00:56:02.000" style="s2">um even if it&#39;s got a quite a strong</p>
+<p begin="00:56:00.319" end="00:56:03.520" style="s2">focus in enforcement i&#39;m a responsive</p>
+<p begin="00:56:02.000" end="00:56:06.319" style="s2">regulation model</p>
+<p begin="00:56:03.520" end="00:56:07.920" style="s2">and the idea of responsive regulation</p>
+<p begin="00:56:06.319" end="00:56:11.359" style="s2">developed by a</p>
+<p begin="00:56:07.920" end="00:56:13.920" style="s2">guy called john greathwaite in 1983</p>
+<p begin="00:56:11.359" end="00:56:16.400" style="s2">is really to</p>
+<p begin="00:56:13.920" end="00:56:17.920" style="s2">find an alternative to</p>
+<p begin="00:56:16.400" end="00:56:20.480" style="s2">on the one hand</p>
+<p begin="00:56:17.920" end="00:56:22.640" style="s2">command and control which is seen as too</p>
+<p begin="00:56:20.480" end="00:56:24.240" style="s2">burdensome too static</p>
+<p begin="00:56:22.640" end="00:56:25.839" style="s2">um</p>
+<p begin="00:56:24.240" end="00:56:27.920" style="s2">quite constraining constraining</p>
+<p begin="00:56:25.839" end="00:56:28.799" style="s2">innovation</p>
+<p begin="00:56:27.920" end="00:56:32.240" style="s2">and</p>
+<p begin="00:56:28.799" end="00:56:33.040" style="s2">a free market they say fair approach</p>
+<p begin="00:56:32.240" end="00:56:33.920" style="s2">um</p>
+<p begin="00:56:33.040" end="00:56:36.400" style="s2">that</p>
+<p begin="00:56:33.920" end="00:56:38.319" style="s2">didn&#39;t actually</p>
+<p begin="00:56:36.400" end="00:56:42.480" style="s2">effectively constrain</p>
+<p begin="00:56:38.319" end="00:56:44.799" style="s2">um particularly um in many cases</p>
+<p begin="00:56:42.480" end="00:56:46.799" style="s2">not only providers of services or</p>
+<p begin="00:56:44.799" end="00:56:48.640" style="s2">services that have products and services</p>
+<p begin="00:56:46.799" end="00:56:50.640" style="s2">that had a um</p>
+<p begin="00:56:48.640" end="00:56:53.599" style="s2">a real societal impact whether that</p>
+<p begin="00:56:50.640" end="00:56:55.920" style="s2">might be environmental or health</p>
+<p begin="00:56:53.599" end="00:56:59.680" style="s2">many of the settings where responsive</p>
+<p begin="00:56:55.920" end="00:57:01.599" style="s2">regulations is really used</p>
+<p begin="00:56:59.680" end="00:57:05.040" style="s2">and essentially</p>
+<p begin="00:57:01.599" end="00:57:08.720" style="s2">what it is is um</p>
+<p begin="00:57:05.040" end="00:57:11.520" style="s2">it&#39;s in some ways interacted um</p>
+<p begin="00:57:08.720" end="00:57:14.400" style="s2">and it responds to</p>
+<p begin="00:57:11.520" end="00:57:15.440" style="s2">the conduct of the regulatory entity</p>
+<p begin="00:57:14.400" end="00:57:16.319" style="s2">um</p>
+<p begin="00:57:15.440" end="00:57:19.680" style="s2">so</p>
+<p begin="00:57:16.319" end="00:57:21.440" style="s2">if only as forceful as needed</p>
+<p begin="00:57:19.680" end="00:57:23.440" style="s2">essentially the uh</p>
+<p begin="00:57:21.440" end="00:57:25.119" style="s2">principle and we&#39;ll see this in a little</p>
+<p begin="00:57:23.440" end="00:57:27.440" style="s2">bit more detail as we see that the</p>
+<p begin="00:57:25.119" end="00:57:28.799" style="s2">regulatory pyramid</p>
+<p begin="00:57:27.440" end="00:57:32.000" style="s2">and</p>
+<p begin="00:57:28.799" end="00:57:33.280" style="s2">if if an entity is complying with its</p>
+<p begin="00:57:32.000" end="00:57:35.920" style="s2">obligations</p>
+<p begin="00:57:33.280" end="00:57:37.839" style="s2">voluntarily and then</p>
+<p begin="00:57:35.920" end="00:57:40.240" style="s2">there&#39;s no need to</p>
+<p begin="00:57:37.839" end="00:57:42.480" style="s2">enforce it in a very rigorous</p>
+<p begin="00:57:40.240" end="00:57:44.079" style="s2">regulate that entity in a very rigorous</p>
+<p begin="00:57:42.480" end="00:57:46.640" style="s2">way</p>
+<p begin="00:57:44.079" end="00:57:49.760" style="s2">however um</p>
+<p begin="00:57:46.640" end="00:57:52.480" style="s2">where where the entity isn&#39;t uh engaging</p>
+<p begin="00:57:49.760" end="00:57:55.119" style="s2">and isn&#39;t responding</p>
+<p begin="00:57:52.480" end="00:57:57.200" style="s2">effectively then there&#39;s a</p>
+<p begin="00:57:55.119" end="00:57:58.319" style="s2">chain of escalation or pyramid of</p>
+<p begin="00:57:57.200" end="00:58:00.559" style="s2">escalation</p>
+<p begin="00:57:58.319" end="00:58:02.160" style="s2">um they get obviously more intrusive and</p>
+<p begin="00:58:00.559" end="00:58:05.760" style="s2">more constraining</p>
+<p begin="00:58:02.160" end="00:58:07.920" style="s2">of essentially through to full um</p>
+<p begin="00:58:05.760" end="00:58:09.200" style="s2">shutdown of operations at the very very</p>
+<p begin="00:58:07.920" end="00:58:11.520" style="s2">extreme end</p>
+<p begin="00:58:09.200" end="00:58:12.400" style="s2">um as you escalate through</p>
+<p begin="00:58:11.520" end="00:58:17.040" style="s2">um</p>
+<p begin="00:58:12.400" end="00:58:19.599" style="s2">and it&#39;s it&#39;s also dynamic in that um</p>
+<p begin="00:58:17.040" end="00:58:22.160" style="s2">don&#39;t just go up through the chain you</p>
+<p begin="00:58:19.599" end="00:58:24.000" style="s2">can step down as well again depending on</p>
+<p begin="00:58:22.160" end="00:58:26.480" style="s2">the behavior so</p>
+<p begin="00:58:24.000" end="00:58:29.040" style="s2">that&#39;s what it means by responsive</p>
+<p begin="00:58:26.480" end="00:58:31.760" style="s2">is it it takes into account response to</p>
+<p begin="00:58:29.040" end="00:58:32.880" style="s2">the behavior of the regulated entity</p>
+<p begin="00:58:31.760" end="00:58:35.119" style="s2">um</p>
+<p begin="00:58:32.880" end="00:58:37.680" style="s2">one interesting finding and again this</p>
+<p begin="00:58:35.119" end="00:58:39.440" style="s2">this talks to um</p>
+<p begin="00:58:37.680" end="00:58:41.680" style="s2">one of the objectives i highlighted at</p>
+<p begin="00:58:39.440" end="00:58:45.359" style="s2">the beginning of the regulations that</p>
+<p begin="00:58:41.680" end="00:58:47.359" style="s2">sort of trust and transparency and the</p>
+<p begin="00:58:45.359" end="00:58:49.280" style="s2">confidence in the rule of law is</p>
+<p begin="00:58:47.359" end="00:58:52.000" style="s2">responsive regulation works best when it</p>
+<p begin="00:58:49.280" end="00:58:54.480" style="s2">has public popular support</p>
+<p begin="00:58:52.000" end="00:58:57.119" style="s2">and here obviously that talks to the</p>
+<p begin="00:58:54.480" end="00:58:59.599" style="s2">importance of having um</p>
+<p begin="00:58:57.119" end="00:59:01.680" style="s2">regulation and policy that&#39;s designed to</p>
+<p begin="00:58:59.599" end="00:59:04.000" style="s2">be clear and certain well understood and</p>
+<p begin="00:59:01.680" end="00:59:06.720" style="s2">well supported by people well supported</p>
+<p begin="00:59:04.000" end="00:59:09.359" style="s2">by the stakeholders as well that are</p>
+<p begin="00:59:06.720" end="00:59:10.880" style="s2">going to be subject to it</p>
+<p begin="00:59:09.359" end="00:59:12.160" style="s2">so</p>
+<p begin="00:59:10.880" end="00:59:13.760" style="s2">um</p>
+<p begin="00:59:12.160" end="00:59:16.480" style="s2">in some ways you could say that</p>
+<p begin="00:59:13.760" end="00:59:19.440" style="s2">responsive regulation is not a</p>
+<p begin="00:59:16.480" end="00:59:22.400" style="s2">prescription descriptive set of tools um</p>
+<p begin="00:59:19.440" end="00:59:24.480" style="s2">and there are different ways that um the</p>
+<p begin="00:59:22.400" end="00:59:27.119" style="s2">regulatory pyramid that i&#39;ll come on to</p>
+<p begin="00:59:24.480" end="00:59:29.359" style="s2">talk to in a second can be constructed</p>
+<p begin="00:59:27.119" end="00:59:32.079" style="s2">the different layers of it so it&#39;s not</p>
+<p begin="00:59:29.359" end="00:59:33.920" style="s2">prescriptive it&#39;s not one size fits all</p>
+<p begin="00:59:32.079" end="00:59:36.480" style="s2">in fact there aren&#39;t</p>
+<p begin="00:59:33.920" end="00:59:38.400" style="s2">five process principles and five policy</p>
+<p begin="00:59:36.480" end="00:59:40.079" style="s2">principles to it</p>
+<p begin="00:59:38.400" end="00:59:42.799" style="s2">it&#39;s much more</p>
+<p begin="00:59:40.079" end="00:59:45.200" style="s2">an attitude and an approach</p>
+<p begin="00:59:42.799" end="00:59:46.960" style="s2">and behavioral</p>
+<p begin="00:59:45.200" end="00:59:51.119" style="s2">approach to regulation</p>
+<p begin="00:59:46.960" end="00:59:53.440" style="s2">and then something very fixed and uh</p>
+<p begin="00:59:51.119" end="00:59:56.880" style="s2">narrowly defined</p>
+<p begin="00:59:53.440" end="00:59:58.559" style="s2">um and as i say it was very much very</p>
+<p begin="00:59:56.880" end="00:59:59.440" style="s2">much come out of the</p>
+<p begin="00:59:58.559" end="01:00:00.799" style="s2">um</p>
+<p begin="00:59:59.440" end="01:00:03.119" style="s2">the needs to</p>
+<p begin="01:00:00.799" end="01:00:05.119" style="s2">to break the dichotomy between</p>
+<p begin="01:00:03.119" end="01:00:06.319" style="s2">um either</p>
+<p begin="01:00:05.119" end="01:00:07.680" style="s2">leaving</p>
+<p begin="01:00:06.319" end="01:00:09.599" style="s2">market actors</p>
+<p begin="01:00:07.680" end="01:00:13.520" style="s2">essentially unregulated or very very</p>
+<p begin="01:00:09.599" end="01:00:15.599" style="s2">light touch regulation and um</p>
+<p begin="01:00:13.520" end="01:00:18.240" style="s2">very burdensome command and control</p>
+<p begin="01:00:15.599" end="01:00:22.319" style="s2">regulation essentially actually</p>
+<p begin="01:00:18.240" end="01:00:22.319" style="s2">you&#39;ve probably seen the extremes</p>
+<p begin="01:00:22.559" end="01:00:26.880" style="s2">of the spectrum of the pyramid are</p>
+<p begin="01:00:24.319" end="01:00:29.599" style="s2">actually both ends of that um but it&#39;s</p>
+<p begin="01:00:26.880" end="01:00:31.839" style="s2">the ability to move between them that&#39;s</p>
+<p begin="01:00:29.599" end="01:00:32.960" style="s2">quite innovative about this</p>
+<p begin="01:00:31.839" end="01:00:35.440" style="s2">um</p>
+<p begin="01:00:32.960" end="01:00:37.119" style="s2">one thing it really is worth saying um</p>
+<p begin="01:00:35.440" end="01:00:38.319" style="s2">is one of the risks of responsive</p>
+<p begin="01:00:37.119" end="01:00:40.640" style="s2">regulation</p>
+<p begin="01:00:38.319" end="01:00:42.880" style="s2">um is that there&#39;s the threat of</p>
+<p begin="01:00:40.640" end="01:00:45.520" style="s2">regulatory capture</p>
+<p begin="01:00:42.880" end="01:00:47.599" style="s2">by one or more stakeholder entity um</p>
+<p begin="01:00:45.520" end="01:00:49.920" style="s2">given how important how important</p>
+<p begin="01:00:47.599" end="01:00:52.240" style="s2">behavior and attitude is to the to the</p>
+<p begin="01:00:49.920" end="01:00:54.720" style="s2">conduct of the regulator as well as the</p>
+<p begin="01:00:52.240" end="01:00:57.359" style="s2">regulated entity then</p>
+<p begin="01:00:54.720" end="01:00:59.359" style="s2">and watching for um</p>
+<p begin="01:00:57.359" end="01:01:01.599" style="s2">uh</p>
+<p begin="01:00:59.359" end="01:01:04.079" style="s2">regulatory capture is critical and</p>
+<p begin="01:01:01.599" end="01:01:06.079" style="s2">obviously that that affects um</p>
+<p begin="01:01:04.079" end="01:01:08.880" style="s2">all actors in the in the supply chain</p>
+<p begin="01:01:06.079" end="01:01:11.280" style="s2">and all stakeholders</p>
+<p begin="01:01:08.880" end="01:01:14.319" style="s2">let&#39;s take a look at the um</p>
+<p begin="01:01:11.280" end="01:01:17.599" style="s2">the regulatory pyramid there&#39;s two</p>
+<p begin="01:01:14.319" end="01:01:20.640" style="s2">uh two versions of it here and then</p>
+<p begin="01:01:17.599" end="01:01:23.200" style="s2">we&#39;ll do one more uh at the end</p>
+<p begin="01:01:20.640" end="01:01:25.119" style="s2">uh that hopefully brings it</p>
+<p begin="01:01:23.200" end="01:01:27.680" style="s2">full circle to show</p>
+<p begin="01:01:25.119" end="01:01:29.760" style="s2">how it can actually the same</p>
+<p begin="01:01:27.680" end="01:01:31.280" style="s2">approach can be applied to its policy</p>
+<p begin="01:01:29.760" end="01:01:33.680" style="s2">design</p>
+<p begin="01:01:31.280" end="01:01:36.839" style="s2">so here on the left</p>
+<p begin="01:01:33.680" end="01:01:38.799" style="s2">we have at the base of</p>
+<p begin="01:01:36.839" end="01:01:40.400" style="s2">the um</p>
+<p begin="01:01:38.799" end="01:01:43.359" style="s2">base of the pyramid</p>
+<p begin="01:01:40.400" end="01:01:44.640" style="s2">quite supportive um</p>
+<p begin="01:01:43.359" end="01:01:47.359" style="s2">approaches</p>
+<p begin="01:01:44.640" end="01:01:49.760" style="s2">so you can imagine that a new regulation</p>
+<p begin="01:01:47.359" end="01:01:51.280" style="s2">has been implemented</p>
+<p begin="01:01:49.760" end="01:01:53.040" style="s2">then there&#39;ll be lots of education</p>
+<p begin="01:01:51.280" end="01:01:54.559" style="s2">around that</p>
+<p begin="01:01:53.040" end="01:01:57.440" style="s2">ascity building</p>
+<p begin="01:01:54.559" end="01:01:59.359" style="s2">explaining the regulation to uh to</p>
+<p begin="01:01:57.440" end="01:02:02.480" style="s2">regulated entities</p>
+<p begin="01:01:59.359" end="01:02:03.760" style="s2">enhancing their ability to to know their</p>
+<p begin="01:02:02.480" end="01:02:04.799" style="s2">obligations</p>
+<p begin="01:02:03.760" end="01:02:06.640" style="s2">and</p>
+<p begin="01:02:04.799" end="01:02:08.720" style="s2">clarity and certainty</p>
+<p begin="01:02:06.640" end="01:02:09.839" style="s2">and and to be able to know what they&#39;ve</p>
+<p begin="01:02:08.720" end="01:02:12.160" style="s2">got to do</p>
+<p begin="01:02:09.839" end="01:02:14.799" style="s2">to um to comply</p>
+<p begin="01:02:12.160" end="01:02:15.839" style="s2">and even potentially helping them to do</p>
+<p begin="01:02:14.799" end="01:02:21.400" style="s2">that</p>
+<p begin="01:02:15.839" end="01:02:21.400" style="s2">with through that implementation process</p>
+<p begin="01:02:21.440" end="01:02:25.520" style="s2">so that&#39;s what&#39;s known as a learning</p>
+<p begin="01:02:23.280" end="01:02:28.720" style="s2">citizen or a learning entity</p>
+<p begin="01:02:25.520" end="01:02:31.520" style="s2">the next level up is somebody who wants</p>
+<p begin="01:02:28.720" end="01:02:33.760" style="s2">to um</p>
+<p begin="01:02:31.520" end="01:02:35.839" style="s2">wants to get it right virtual citizen</p>
+<p begin="01:02:33.760" end="01:02:37.680" style="s2">got good intentions but doesn&#39;t</p>
+<p begin="01:02:35.839" end="01:02:40.720" style="s2">necessarily</p>
+<p begin="01:02:37.680" end="01:02:42.079" style="s2">get things right every time uh and here</p>
+<p begin="01:02:40.720" end="01:02:44.160" style="s2">you know you&#39;re talking about something</p>
+<p begin="01:02:42.079" end="01:02:47.119" style="s2">with what&#39;s called a restorative</p>
+<p begin="01:02:44.160" end="01:02:49.440" style="s2">approach here but the idea is that you</p>
+<p begin="01:02:47.119" end="01:02:53.039" style="s2">advise you</p>
+<p begin="01:02:49.440" end="01:02:53.839" style="s2">you coach you correct um not necessarily</p>
+<p begin="01:02:53.039" end="01:02:55.599" style="s2">to</p>
+<p begin="01:02:53.839" end="01:02:56.880" style="s2">to punish</p>
+<p begin="01:02:55.599" end="01:03:00.480" style="s2">but to</p>
+<p begin="01:02:56.880" end="01:03:00.480" style="s2">show the entity how it can</p>
+<p begin="01:03:01.119" end="01:03:06.880" style="s2">apply properly to correct its ways</p>
+<p begin="01:03:03.839" end="01:03:08.880" style="s2">um if you if the regulator sees that</p>
+<p begin="01:03:06.880" end="01:03:11.440" style="s2">there&#39;s actually solidly good intention</p>
+<p begin="01:03:08.880" end="01:03:12.799" style="s2">to do so</p>
+<p begin="01:03:11.440" end="01:03:14.559" style="s2">um</p>
+<p begin="01:03:12.799" end="01:03:16.960" style="s2">the third layer up and as we start</p>
+<p begin="01:03:14.559" end="01:03:19.200" style="s2">getting towards the point of the uh the</p>
+<p begin="01:03:16.960" end="01:03:19.200" style="s2">um</p>
+<p begin="01:03:19.440" end="01:03:22.960" style="s2">is we now get into somebody who you know</p>
+<p begin="01:03:21.599" end="01:03:24.880" style="s2">it&#39;s less clear</p>
+<p begin="01:03:22.960" end="01:03:27.520" style="s2">and is willing to comply so-called</p>
+<p begin="01:03:24.880" end="01:03:29.359" style="s2">rational actor that may be decided you</p>
+<p begin="01:03:27.520" end="01:03:31.200" style="s2">know doing a cost-benefit analysis for</p>
+<p begin="01:03:29.359" end="01:03:32.319" style="s2">themselves about well</p>
+<p begin="01:03:31.200" end="01:03:34.000" style="s2">you know</p>
+<p begin="01:03:32.319" end="01:03:36.400" style="s2">actually maybe i&#39;m better off taking the</p>
+<p begin="01:03:34.000" end="01:03:38.880" style="s2">punishment here than um</p>
+<p begin="01:03:36.400" end="01:03:40.160" style="s2">fulfilling the costs of complying this</p>
+<p begin="01:03:38.880" end="01:03:43.280" style="s2">regulation</p>
+<p begin="01:03:40.160" end="01:03:45.039" style="s2">um so here um</p>
+<p begin="01:03:43.280" end="01:03:46.640" style="s2">the approach the regulatory approach</p>
+<p begin="01:03:45.039" end="01:03:49.119" style="s2">would be more interventionist it would</p>
+<p begin="01:03:46.640" end="01:03:50.960" style="s2">be to deter such behavior</p>
+<p begin="01:03:49.119" end="01:03:52.640" style="s2">uh and to try and</p>
+<p begin="01:03:50.960" end="01:03:54.640" style="s2">really encourage them</p>
+<p begin="01:03:52.640" end="01:03:57.359" style="s2">and to</p>
+<p begin="01:03:54.640" end="01:03:59.839" style="s2">come into line and finally</p>
+<p begin="01:03:57.359" end="01:04:03.760" style="s2">um you have somebody that just</p>
+<p begin="01:03:59.839" end="01:04:07.520" style="s2">uh whatever has been trying um is</p>
+<p begin="01:04:03.760" end="01:04:08.720" style="s2">determined not to comply in some ways uh</p>
+<p begin="01:04:07.520" end="01:04:10.839" style="s2">direct</p>
+<p begin="01:04:08.720" end="01:04:14.079" style="s2">um</p>
+<p begin="01:04:10.839" end="01:04:15.280" style="s2">contravention uh of all the the outreach</p>
+<p begin="01:04:14.079" end="01:04:18.480" style="s2">that&#39;s been made</p>
+<p begin="01:04:15.280" end="01:04:19.599" style="s2">uh or posing you know a major risk to</p>
+<p begin="01:04:18.480" end="01:04:22.079" style="s2">society</p>
+<p begin="01:04:19.599" end="01:04:23.520" style="s2">um in which case you you become uh</p>
+<p begin="01:04:22.079" end="01:04:25.680" style="s2">obviously much more</p>
+<p begin="01:04:23.520" end="01:04:29.280" style="s2">um</p>
+<p begin="01:04:25.680" end="01:04:29.280" style="s2">and and that um</p>
+<p begin="01:04:30.160" end="01:04:34.160" style="s2">gets you much closer to your to your</p>
+<p begin="01:04:32.160" end="01:04:35.680" style="s2">believe that the more extreme end of the</p>
+<p begin="01:04:34.160" end="01:04:37.760" style="s2">command control</p>
+<p begin="01:04:35.680" end="01:04:40.799" style="s2">uh regulatory mechanisms</p>
+<p begin="01:04:37.760" end="01:04:41.599" style="s2">but there&#39;s a chain of escalation to get</p>
+<p begin="01:04:40.799" end="01:04:43.680" style="s2">um</p>
+<p begin="01:04:41.599" end="01:04:46.720" style="s2">the formula on that on on the right hand</p>
+<p begin="01:04:43.680" end="01:04:48.319" style="s2">side the the top</p>
+<p begin="01:04:46.720" end="01:04:50.960" style="s2">top part of the pyramid</p>
+<p begin="01:04:48.319" end="01:04:50.960" style="s2">is um</p>
+<p begin="01:04:53.039" end="01:04:58.160" style="s2">and sorry actually sorry the bottom part</p>
+<p begin="01:04:55.359" end="01:05:00.480" style="s2">is very similar to what i just described</p>
+<p begin="01:04:58.160" end="01:05:03.039" style="s2">and what the the formulation on the</p>
+<p begin="01:05:00.480" end="01:05:04.799" style="s2">right hand side shows is that actually</p>
+<p begin="01:05:03.039" end="01:05:06.799" style="s2">this can they can be rewarded as well as</p>
+<p begin="01:05:04.799" end="01:05:09.599" style="s2">punishment here so you can provide</p>
+<p begin="01:05:06.799" end="01:05:13.680" style="s2">positive incentives people who genuinely</p>
+<p begin="01:05:09.599" end="01:05:16.720" style="s2">want to apply in our law abiding and</p>
+<p begin="01:05:13.680" end="01:05:18.799" style="s2">for them to get a better outcome or even</p>
+<p begin="01:05:16.720" end="01:05:22.400" style="s2">some award recognition</p>
+<p begin="01:05:18.799" end="01:05:24.240" style="s2">um as well as uh using the</p>
+<p begin="01:05:22.400" end="01:05:25.520" style="s2">certainly using carrots</p>
+<p begin="01:05:24.240" end="01:05:27.039" style="s2">uh for the</p>
+<p begin="01:05:25.520" end="01:05:28.480" style="s2">the law-abiding and well-behaved</p>
+<p begin="01:05:27.039" end="01:05:30.799" style="s2">citizens</p>
+<p begin="01:05:28.480" end="01:05:33.680" style="s2">and sticks for</p>
+<p begin="01:05:30.799" end="01:05:35.440" style="s2">those who aren&#39;t uh compliant</p>
+<p begin="01:05:33.680" end="01:05:36.640" style="s2">and i&#39;m</p>
+<p begin="01:05:35.440" end="01:05:38.480" style="s2">interested in</p>
+<p begin="01:05:36.640" end="01:05:41.359" style="s2">applying so</p>
+<p begin="01:05:38.480" end="01:05:42.400" style="s2">um in that sense it you know it has that</p>
+<p begin="01:05:41.359" end="01:05:44.319" style="s2">ability</p>
+<p begin="01:05:42.400" end="01:05:47.200" style="s2">to encourage both</p>
+<p begin="01:05:44.319" end="01:05:49.760" style="s2">positive and and negative</p>
+<p begin="01:05:47.200" end="01:05:52.400" style="s2">uh tools or</p>
+<p begin="01:05:49.760" end="01:05:55.250" style="s2">sticks as it were</p>
+<p begin="01:05:52.400" end="01:05:58.000" style="s2">so that you know in in essence is the um</p>
+<p begin="01:05:55.250" end="01:06:01.039" style="s2">[Music]</p>
+<p begin="01:05:58.000" end="01:06:04.079" style="s2">that&#39;s a responsive regulation framework</p>
+<p begin="01:06:01.039" end="01:06:06.079" style="s2">and sort of described that escalation</p>
+<p begin="01:06:04.079" end="01:06:08.720" style="s2">and the escalation</p>
+<p begin="01:06:06.079" end="01:06:10.720" style="s2">um and it&#39;s much more</p>
+<p begin="01:06:08.720" end="01:06:13.520" style="s2">dynamic again to come back to the words</p>
+<p begin="01:06:10.720" end="01:06:15.760" style="s2">that the director used</p>
+<p begin="01:06:13.520" end="01:06:17.200" style="s2">this is my my last slide because i&#39;m</p>
+<p begin="01:06:15.760" end="01:06:20.160" style="s2">conscious of</p>
+<p begin="01:06:17.200" end="01:06:23.280" style="s2">time this is uh an example taken from</p>
+<p begin="01:06:20.160" end="01:06:26.720" style="s2">environmental regulation in australia um</p>
+<p begin="01:06:23.280" end="01:06:29.599" style="s2">i just wanted to show you how this can</p>
+<p begin="01:06:26.720" end="01:06:29.599" style="s2">actually um</p>
+<p begin="01:06:29.680" end="01:06:35.280" style="s2">parallel to some of the policy design</p>
+<p begin="01:06:32.799" end="01:06:36.400" style="s2">uh concepts that i talked about</p>
+<p begin="01:06:35.280" end="01:06:39.119" style="s2">in terms of there&#39;s actually a</p>
+<p begin="01:06:36.400" end="01:06:40.880" style="s2">regulatory pyramid for um the policy</p>
+<p begin="01:06:39.119" end="01:06:42.880" style="s2">instruments as well</p>
+<p begin="01:06:40.880" end="01:06:47.280" style="s2">you can see that the</p>
+<p begin="01:06:42.880" end="01:06:49.039" style="s2">bottom here you have um and guidance</p>
+<p begin="01:06:47.280" end="01:06:50.960" style="s2">material</p>
+<p begin="01:06:49.039" end="01:06:53.839" style="s2">and so</p>
+<p begin="01:06:50.960" end="01:06:56.240" style="s2">encouraged to educate to capacity build</p>
+<p begin="01:06:53.839" end="01:06:58.400" style="s2">some of the tools that would support uh</p>
+<p begin="01:06:56.240" end="01:06:59.839" style="s2">the responsive regulation but also in</p>
+<p begin="01:06:58.400" end="01:07:01.680" style="s2">terms of how you</p>
+<p begin="01:06:59.839" end="01:07:03.039" style="s2">implement those in practice</p>
+<p begin="01:07:01.680" end="01:07:05.520" style="s2">as you move up</p>
+<p begin="01:07:03.039" end="01:07:08.559" style="s2">um you could actually as the next layer</p>
+<p begin="01:07:05.520" end="01:07:11.520" style="s2">up before you go into a legislative or a</p>
+<p begin="01:07:08.559" end="01:07:14.160" style="s2">regulatory instrument you could think of</p>
+<p begin="01:07:11.520" end="01:07:16.960" style="s2">a code of practice on a voluntary</p>
+<p begin="01:07:14.160" end="01:07:18.640" style="s2">agreement and constructive engagement</p>
+<p begin="01:07:16.960" end="01:07:20.720" style="s2">particularly where the regulator is</p>
+<p begin="01:07:18.640" end="01:07:22.319" style="s2">regulating between two entities in the</p>
+<p begin="01:07:20.720" end="01:07:23.440" style="s2">supply chain</p>
+<p begin="01:07:22.319" end="01:07:26.319" style="s2">that&#39;s a</p>
+<p begin="01:07:23.440" end="01:07:27.440" style="s2">an airport in an airline in an aviation</p>
+<p begin="01:07:26.319" end="01:07:29.920" style="s2">setting</p>
+<p begin="01:07:27.440" end="01:07:32.960" style="s2">you could have a cooperative agreement</p>
+<p begin="01:07:29.920" end="01:07:35.920" style="s2">as your next level up and then as you go</p>
+<p begin="01:07:32.960" end="01:07:38.720" style="s2">higher you get into formal regulations</p>
+<p begin="01:07:35.920" end="01:07:42.440" style="s2">uh things that that are enforceable</p>
+<p begin="01:07:38.720" end="01:07:42.440" style="s2">and then um</p>
+<p begin="01:07:42.559" end="01:07:47.200" style="s2">very strict hard law so again you can</p>
+<p begin="01:07:45.280" end="01:07:50.000" style="s2">have this um</p>
+<p begin="01:07:47.200" end="01:07:53.119" style="s2">this chain of um or this pyramid of</p>
+<p begin="01:07:50.000" end="01:07:55.440" style="s2">escalation um in terms of how you</p>
+<p begin="01:07:53.119" end="01:07:57.760" style="s2">regulate and from a policy perspective</p>
+<p begin="01:07:55.440" end="01:07:59.359" style="s2">as well i regulate from an enforcement</p>
+<p begin="01:07:57.760" end="01:08:01.280" style="s2">perspective</p>
+<p begin="01:07:59.359" end="01:08:02.400" style="s2">i think the one thing</p>
+<p begin="01:08:01.280" end="01:08:04.960" style="s2">that um</p>
+<p begin="01:08:02.400" end="01:08:07.520" style="s2">it&#39;s harder to see with the</p>
+<p begin="01:08:04.960" end="01:08:08.480" style="s2">uh with this example with the previous</p>
+<p begin="01:08:07.520" end="01:08:10.799" style="s2">one</p>
+<p begin="01:08:08.480" end="01:08:13.520" style="s2">is how you um</p>
+<p begin="01:08:10.799" end="01:08:15.920" style="s2">de-escalate once you get to hard-lore</p>
+<p begin="01:08:13.520" end="01:08:18.239" style="s2">instruments so um</p>
+<p begin="01:08:15.920" end="01:08:19.520" style="s2">i think that um maybe talks to the</p>
+<p begin="01:08:18.239" end="01:08:21.359" style="s2">importance of</p>
+<p begin="01:08:19.520" end="01:08:22.839" style="s2">working these three very carefully and</p>
+<p begin="01:08:21.359" end="01:08:24.640" style="s2">only making</p>
+<p begin="01:08:22.839" end="01:08:26.799" style="s2">um</p>
+<p begin="01:08:24.640" end="01:08:28.239" style="s2">steps when they&#39;re really needed going</p>
+<p begin="01:08:26.799" end="01:08:31.120" style="s2">through that process of questioning</p>
+<p begin="01:08:28.239" end="01:08:32.960" style="s2">whether a regulation or</p>
+<p begin="01:08:31.120" end="01:08:34.880" style="s2">a more interventionist approach really</p>
+<p begin="01:08:32.960" end="01:08:36.400" style="s2">is justified</p>
+<p begin="01:08:34.880" end="01:08:38.880" style="s2">because</p>
+<p begin="01:08:36.400" end="01:08:39.920" style="s2">when you get to the legislative</p>
+<p begin="01:08:38.880" end="01:08:43.040" style="s2">stage</p>
+<p begin="01:08:39.920" end="01:08:45.520" style="s2">or the formal regulation stage um</p>
+<p begin="01:08:43.040" end="01:08:48.400" style="s2">it&#39;s harder to to remove those</p>
+<p begin="01:08:45.520" end="01:08:49.279" style="s2">than some of the softer uh regulatory</p>
+<p begin="01:08:48.400" end="01:08:51.040" style="s2">tools</p>
+<p begin="01:08:49.279" end="01:08:54.080" style="s2">um</p>
+<p begin="01:08:51.040" end="01:08:55.359" style="s2">i think it&#39;s equally a a criticism of uh</p>
+<p begin="01:08:54.080" end="01:08:57.440" style="s2">or a critique</p>
+<p begin="01:08:55.359" end="01:09:00.080" style="s2">at least of response to regulation and</p>
+<p begin="01:08:57.440" end="01:09:01.279" style="s2">enforcement but actually that that the</p>
+<p begin="01:09:00.080" end="01:09:04.719" style="s2">escalation</p>
+<p begin="01:09:01.279" end="01:09:07.040" style="s2">um is maybe harder as well as you get to</p>
+<p begin="01:09:04.719" end="01:09:09.199" style="s2">uh</p>
+<p begin="01:09:07.040" end="01:09:11.679" style="s2">sort of more uh combined control</p>
+<p begin="01:09:09.199" end="01:09:14.239" style="s2">approach de-escalation can also become</p>
+<p begin="01:09:11.679" end="01:09:16.560" style="s2">harder in terms of enforcement behaviors</p>
+<p begin="01:09:14.239" end="01:09:20.319" style="s2">but the thing certainly the theory and</p>
+<p begin="01:09:16.560" end="01:09:22.319" style="s2">the approach does genuinely um accept</p>
+<p begin="01:09:20.319" end="01:09:23.040" style="s2">that possibility</p>
+<p begin="01:09:22.319" end="01:09:27.520" style="s2">so</p>
+<p begin="01:09:23.040" end="01:09:29.839" style="s2">um i&#39;ve talked far uh far long enough um</p>
+<p begin="01:09:27.520" end="01:09:35.000" style="s2">so i&#39;m going to stop here and hand over</p>
+<p begin="01:09:29.839" end="01:09:35.000" style="s2">to marcelo in case there are questions</p>
+<p begin="01:09:36.480" end="01:09:38.719" style="s2">james</p>
+<p begin="01:09:37.679" end="01:09:40.960" style="s2">uh</p>
+<p begin="01:09:38.719" end="01:09:43.359" style="s2">thank you for sharing with us your</p>
+<p begin="01:09:40.960" end="01:09:45.359" style="s2">knowledge and insights on on these</p>
+<p begin="01:09:43.359" end="01:09:48.560" style="s2">issues of regulation</p>
+<p begin="01:09:45.359" end="01:09:50.080" style="s2">in the field of civil aviation</p>
+<p begin="01:09:48.560" end="01:09:52.319" style="s2">we assure that</p>
+<p begin="01:09:50.080" end="01:09:53.759" style="s2">this debate can contribute</p>
+<p begin="01:09:52.319" end="01:09:56.159" style="s2">consistently</p>
+<p begin="01:09:53.759" end="01:09:59.440" style="s2">to the construction</p>
+<p begin="01:09:56.159" end="01:10:01.199" style="s2">of an organizational culture in the</p>
+<p begin="01:09:59.440" end="01:10:03.280" style="s2">industry in brazil</p>
+<p begin="01:10:01.199" end="01:10:06.000" style="s2">aiming to use</p>
+<p begin="01:10:03.280" end="01:10:07.280" style="s2">diversified regulatory instruments that</p>
+<p begin="01:10:06.000" end="01:10:10.159" style="s2">encourage</p>
+<p begin="01:10:07.280" end="01:10:14.239" style="s2">positive and collaborative behavior</p>
+<p begin="01:10:10.159" end="01:10:16.480" style="s2">between regulators and regulated ones</p>
+<p begin="01:10:14.239" end="01:10:18.800" style="s2">well now i have uh selected some</p>
+<p begin="01:10:16.480" end="01:10:22.719" style="s2">questions and i&#39;d like to address them</p>
+<p begin="01:10:18.800" end="01:10:22.719" style="s2">to you james uh is that okay</p>
+<p begin="01:10:22.800" end="01:10:27.440" style="s2">of course let&#39;s go ahead here we have we</p>
+<p begin="01:10:24.880" end="01:10:30.000" style="s2">have a very we have a very tight time</p>
+<p begin="01:10:27.440" end="01:10:32.880" style="s2">remaining but i think we can answer some</p>
+<p begin="01:10:30.000" end="01:10:35.920" style="s2">of the questions so could the first one</p>
+<p begin="01:10:32.880" end="01:10:38.480" style="s2">uh could mr james uh comment on how</p>
+<p begin="01:10:35.920" end="01:10:41.280" style="s2">regulation uh is done in brazil and the</p>
+<p begin="01:10:38.480" end="01:10:43.760" style="s2">uk any kind of comparison are there</p>
+<p begin="01:10:41.280" end="01:10:47.199" style="s2">differences in the form of participation</p>
+<p begin="01:10:43.760" end="01:10:47.199" style="s2">of the regulated agents</p>
+<p begin="01:10:49.440" end="01:10:54.880" style="s2">it&#39;s it&#39;s harder for me and perhaps and</p>
+<p begin="01:10:52.560" end="01:10:56.840" style="s2">danny can jump in here with his</p>
+<p begin="01:10:54.880" end="01:10:59.840" style="s2">brazilian experience</p>
+<p begin="01:10:56.840" end="01:11:01.520" style="s2">um i just don&#39;t have so much direct</p>
+<p begin="01:10:59.840" end="01:11:02.800" style="s2">experience of the the market</p>
+<p begin="01:11:01.520" end="01:11:04.880" style="s2">historically</p>
+<p begin="01:11:02.800" end="01:11:06.880" style="s2">um in brazil</p>
+<p begin="01:11:04.880" end="01:11:09.840" style="s2">but um</p>
+<p begin="01:11:06.880" end="01:11:15.360" style="s2">certainly in the uk there is um</p>
+<p begin="01:11:09.840" end="01:11:15.360" style="s2">a very formal um approach to um</p>
+<p begin="01:11:15.920" end="01:11:21.679" style="s2">engaging stakeholders um</p>
+<p begin="01:11:19.120" end="01:11:24.320" style="s2">throughout the regulatory process it&#39;s</p>
+<p begin="01:11:21.679" end="01:11:26.400" style="s2">it&#39;s required by law and this is not</p>
+<p begin="01:11:24.320" end="01:11:27.360" style="s2">just the case in the in the uk</p>
+<p begin="01:11:26.400" end="01:11:29.040" style="s2">um</p>
+<p begin="01:11:27.360" end="01:11:30.560" style="s2">specifically when it comes to things</p>
+<p begin="01:11:29.040" end="01:11:32.960" style="s2">like um</p>
+<p begin="01:11:30.560" end="01:11:35.679" style="s2">consultation and impact assessment to</p>
+<p begin="01:11:32.960" end="01:11:38.480" style="s2">support those those consultations i</p>
+<p begin="01:11:35.679" end="01:11:40.880" style="s2">could talk to a number of countries and</p>
+<p begin="01:11:38.480" end="01:11:44.800" style="s2">some of those whose flags i put up</p>
+<p begin="01:11:40.880" end="01:11:47.440" style="s2">where it is a formal regulatory or legal</p>
+<p begin="01:11:44.800" end="01:11:49.120" style="s2">requirement of regulators and regulating</p>
+<p begin="01:11:47.440" end="01:11:50.800" style="s2">entities and</p>
+<p begin="01:11:49.120" end="01:11:53.440" style="s2">government ministries</p>
+<p begin="01:11:50.800" end="01:11:55.920" style="s2">to go through those steps um</p>
+<p begin="01:11:53.440" end="01:11:57.280" style="s2">certainly is the case in the us uh with</p>
+<p begin="01:11:55.920" end="01:12:00.080" style="s2">oversight</p>
+<p begin="01:11:57.280" end="01:12:02.239" style="s2">um by the um</p>
+<p begin="01:12:00.080" end="01:12:03.199" style="s2">office of uh management budget</p>
+<p begin="01:12:02.239" end="01:12:06.159" style="s2">b</p>
+<p begin="01:12:03.199" end="01:12:09.040" style="s2">um in the uk it is a it&#39;s a formal</p>
+<p begin="01:12:06.159" end="01:12:11.679" style="s2">requirement and i think this is</p>
+<p begin="01:12:09.040" end="01:12:13.760" style="s2">this is something i didn&#39;t mention uh in</p>
+<p begin="01:12:11.679" end="01:12:16.719" style="s2">some of these countries also australia</p>
+<p begin="01:12:13.760" end="01:12:18.159" style="s2">also um in the eu</p>
+<p begin="01:12:16.719" end="01:12:20.880" style="s2">is there are</p>
+<p begin="01:12:18.159" end="01:12:22.560" style="s2">offices or bureau within those different</p>
+<p begin="01:12:20.880" end="01:12:24.800" style="s2">uh countries</p>
+<p begin="01:12:22.560" end="01:12:27.040" style="s2">whose job is to check</p>
+<p begin="01:12:24.800" end="01:12:29.040" style="s2">that the government entities and the</p>
+<p begin="01:12:27.040" end="01:12:31.040" style="s2">regulatory entities</p>
+<p begin="01:12:29.040" end="01:12:33.040" style="s2">are complying with their obligations in</p>
+<p begin="01:12:31.040" end="01:12:36.960" style="s2">terms of impact assessment in terms of</p>
+<p begin="01:12:33.040" end="01:12:39.040" style="s2">consultation in terms of regular review</p>
+<p begin="01:12:36.960" end="01:12:41.040" style="s2">so it really is embedded</p>
+<p begin="01:12:39.040" end="01:12:43.199" style="s2">and there&#39;s if you like</p>
+<p begin="01:12:41.040" end="01:12:45.440" style="s2">somebody who&#39;s regulating the regulator</p>
+<p begin="01:12:43.199" end="01:12:47.440" style="s2">to check that they do those</p>
+<p begin="01:12:45.440" end="01:12:50.640" style="s2">i don&#39;t have um</p>
+<p begin="01:12:47.440" end="01:12:54.239" style="s2">the experience of brazil to know whether</p>
+<p begin="01:12:50.640" end="01:12:56.480" style="s2">that&#39;s the case um where you are and</p>
+<p begin="01:12:54.239" end="01:13:00.000" style="s2">that&#39;s daddy can talk it thought to that</p>
+<p begin="01:12:56.480" end="01:13:02.719" style="s2">i do just know what the oecd said um</p>
+<p begin="01:13:00.000" end="01:13:04.400" style="s2">which is that and this was in 2019 so</p>
+<p begin="01:13:02.719" end="01:13:06.159" style="s2">just before the pandemic</p>
+<p begin="01:13:04.400" end="01:13:08.159" style="s2">that um</p>
+<p begin="01:13:06.159" end="01:13:09.920" style="s2">it didn&#39;t know that as a whole of</p>
+<p begin="01:13:08.159" end="01:13:11.920" style="s2">government approach at least these</p>
+<p begin="01:13:09.920" end="01:13:14.920" style="s2">things are becoming more common and more</p>
+<p begin="01:13:11.920" end="01:13:14.920" style="s2">consistent</p>
+<p begin="01:13:18.480" end="01:13:21.760" style="s2">okay</p>
+<p begin="01:13:20.800" end="01:13:23.199" style="s2">so</p>
+<p begin="01:13:21.760" end="01:13:25.760" style="s2">second question</p>
+<p begin="01:13:23.199" end="01:13:28.239" style="s2">could you mention some cases where the</p>
+<p begin="01:13:25.760" end="01:13:30.159" style="s2">principles of osmotic regulations or</p>
+<p begin="01:13:28.239" end="01:13:33.679" style="s2">responsive regulations have been</p>
+<p begin="01:13:30.159" end="01:13:33.679" style="s2">successfully apply it</p>
+<p begin="01:13:37.280" end="01:13:41.440" style="s2">yeah um</p>
+<p begin="01:13:39.920" end="01:13:44.239" style="s2">well i think so</p>
+<p begin="01:13:41.440" end="01:13:45.760" style="s2">um i mean it&#39;s any case where</p>
+<p begin="01:13:44.239" end="01:13:47.280" style="s2">um</p>
+<p begin="01:13:45.760" end="01:13:50.800" style="s2">you</p>
+<p begin="01:13:47.280" end="01:13:54.080" style="s2">have a dialogue uh you have a chance to</p>
+<p begin="01:13:50.800" end="01:13:56.320" style="s2">put in proposals and you</p>
+<p begin="01:13:54.080" end="01:13:58.480" style="s2">um</p>
+<p begin="01:13:56.320" end="01:14:00.719" style="s2">so picking one is is a really hard bit</p>
+<p begin="01:13:58.480" end="01:14:02.560" style="s2">here maybe i should just i&#39;m trying to</p>
+<p begin="01:14:00.719" end="01:14:04.320" style="s2">pay for time a little bit i know that&#39;s</p>
+<p begin="01:14:02.560" end="01:14:05.440" style="s2">that&#39;s the one thing we don&#39;t have much</p>
+<p begin="01:14:04.320" end="01:14:07.920" style="s2">of</p>
+<p begin="01:14:05.440" end="01:14:08.960" style="s2">but um</p>
+<p begin="01:14:07.920" end="01:14:11.120" style="s2">i i</p>
+<p begin="01:14:08.960" end="01:14:12.880" style="s2">heard um</p>
+<p begin="01:14:11.120" end="01:14:15.679" style="s2">people talk uh there was discussion</p>
+<p begin="01:14:12.880" end="01:14:17.199" style="s2">before we started about that slots i</p>
+<p begin="01:14:15.679" end="01:14:19.040" style="s2">know this is a</p>
+<p begin="01:14:17.199" end="01:14:20.560" style="s2">topic that&#39;s live in in brazil i wasn&#39;t</p>
+<p begin="01:14:19.040" end="01:14:21.760" style="s2">going to talk about it in a brazil</p>
+<p begin="01:14:20.560" end="01:14:22.640" style="s2">context</p>
+<p begin="01:14:21.760" end="01:14:24.239" style="s2">um</p>
+<p begin="01:14:22.640" end="01:14:26.400" style="s2">this time although it might be something</p>
+<p begin="01:14:24.239" end="01:14:27.199" style="s2">we can talk about in more detail next</p>
+<p begin="01:14:26.400" end="01:14:29.600" style="s2">year</p>
+<p begin="01:14:27.199" end="01:14:31.679" style="s2">but either through the pandemic or</p>
+<p begin="01:14:29.600" end="01:14:35.920" style="s2">through how um</p>
+<p begin="01:14:31.679" end="01:14:37.600" style="s2">slots policies are are implemented</p>
+<p begin="01:14:35.920" end="01:14:40.239" style="s2">i can think of a number of occasions</p>
+<p begin="01:14:37.600" end="01:14:43.760" style="s2">where regulators have made proposals</p>
+<p begin="01:14:40.239" end="01:14:45.199" style="s2">around slot rules</p>
+<p begin="01:14:43.760" end="01:14:46.560" style="s2">that haven&#39;t</p>
+<p begin="01:14:45.199" end="01:14:48.640" style="s2">um</p>
+<p begin="01:14:46.560" end="01:14:51.360" style="s2">fully taken into account the networking</p>
+<p begin="01:14:48.640" end="01:14:51.360" style="s2">parts of</p>
+<p begin="01:14:52.800" end="01:14:56.640" style="s2">those proposals</p>
+<p begin="01:14:54.719" end="01:14:59.679" style="s2">they would um</p>
+<p begin="01:14:56.640" end="01:15:03.040" style="s2">really undermine those network benefits</p>
+<p begin="01:14:59.679" end="01:15:04.880" style="s2">and so you you get a process of</p>
+<p begin="01:15:03.040" end="01:15:06.719" style="s2">providing the evidence to support that</p>
+<p begin="01:15:04.880" end="01:15:09.120" style="s2">showing what those impacts would be</p>
+<p begin="01:15:06.719" end="01:15:11.520" style="s2">and then you get a revised solution that</p>
+<p begin="01:15:09.120" end="01:15:13.040" style="s2">that still sticks to the objectives it</p>
+<p begin="01:15:11.520" end="01:15:14.960" style="s2">doesn&#39;t alter the objectives that</p>
+<p begin="01:15:13.040" end="01:15:18.560" style="s2">government&#39;s trying to achieve</p>
+<p begin="01:15:14.960" end="01:15:20.640" style="s2">but it does so in a way that um</p>
+<p begin="01:15:18.560" end="01:15:22.800" style="s2">maintains the network benefit so it</p>
+<p begin="01:15:20.640" end="01:15:25.199" style="s2">supports the the airline</p>
+<p begin="01:15:22.800" end="01:15:26.560" style="s2">perspective</p>
+<p begin="01:15:25.199" end="01:15:28.719" style="s2">the airlines but actually it supports</p>
+<p begin="01:15:26.560" end="01:15:30.880" style="s2">the consumers because the consumers uh</p>
+<p begin="01:15:28.719" end="01:15:32.080" style="s2">continue to enjoy the the network</p>
+<p begin="01:15:30.880" end="01:15:34.400" style="s2">benefits</p>
+<p begin="01:15:32.080" end="01:15:36.080" style="s2">i would you know also cite some of those</p>
+<p begin="01:15:34.400" end="01:15:38.800" style="s2">examples i talked about from you know</p>
+<p begin="01:15:36.080" end="01:15:40.560" style="s2">airspace use regulation</p>
+<p begin="01:15:38.800" end="01:15:41.600" style="s2">where um</p>
+<p begin="01:15:40.560" end="01:15:44.239" style="s2">you know</p>
+<p begin="01:15:41.600" end="01:15:48.560" style="s2">an example i gave from the uk where</p>
+<p begin="01:15:44.239" end="01:15:50.800" style="s2">certain sectors of the um user community</p>
+<p begin="01:15:48.560" end="01:15:53.360" style="s2">uh responded to consultations around</p>
+<p begin="01:15:50.800" end="01:15:55.840" style="s2">having to um</p>
+<p begin="01:15:53.360" end="01:15:57.360" style="s2">put equipment on that on the aircraft</p>
+<p begin="01:15:55.840" end="01:15:59.520" style="s2">and that would have a you know</p>
+<p begin="01:15:57.360" end="01:16:01.840" style="s2">disproportionate burden and so</p>
+<p begin="01:15:59.520" end="01:16:03.760" style="s2">an alternative was found that that</p>
+<p begin="01:16:01.840" end="01:16:05.440" style="s2">didn&#39;t have that impact to</p>
+<p begin="01:16:03.760" end="01:16:06.719" style="s2">potentially</p>
+<p begin="01:16:05.440" end="01:16:09.760" style="s2">excluding</p>
+<p begin="01:16:06.719" end="01:16:11.040" style="s2">a set of stakeholders from the market so</p>
+<p begin="01:16:09.760" end="01:16:13.360" style="s2">um</p>
+<p begin="01:16:11.040" end="01:16:15.600" style="s2">and again in that scenario</p>
+<p begin="01:16:13.360" end="01:16:17.440" style="s2">absolutely didn&#39;t alter the the</p>
+<p begin="01:16:15.600" end="01:16:19.600" style="s2">fundamental objective of the safety</p>
+<p begin="01:16:17.440" end="01:16:23.040" style="s2">regulator which was to keep you know the</p>
+<p begin="01:16:19.600" end="01:16:24.560" style="s2">airspace uh safe and prevent aircraft</p>
+<p begin="01:16:23.040" end="01:16:26.000" style="s2">from coming into</p>
+<p begin="01:16:24.560" end="01:16:28.239" style="s2">uh</p>
+<p begin="01:16:26.000" end="01:16:29.679" style="s2">to conflict with each other so i mean</p>
+<p begin="01:16:28.239" end="01:16:30.960" style="s2">those are two</p>
+<p begin="01:16:29.679" end="01:16:33.920" style="s2">um</p>
+<p begin="01:16:30.960" end="01:16:37.440" style="s2">very quick examples what i would suggest</p>
+<p begin="01:16:33.920" end="01:16:39.679" style="s2">marcelo is that um as we move to the</p>
+<p begin="01:16:37.440" end="01:16:40.640" style="s2">sessions in 2022</p>
+<p begin="01:16:39.679" end="01:16:43.040" style="s2">um</p>
+<p begin="01:16:40.640" end="01:16:45.840" style="s2">we&#39;ll work much more on uh on the</p>
+<p begin="01:16:43.040" end="01:16:47.520" style="s2">practical examples and and in</p>
+<p begin="01:16:45.840" end="01:16:49.280" style="s2">collaboration with</p>
+<p begin="01:16:47.520" end="01:16:51.199" style="s2">some of the government regulators from</p>
+<p begin="01:16:49.280" end="01:16:53.280" style="s2">the markets that i talked about</p>
+<p begin="01:16:51.199" end="01:16:55.199" style="s2">how it&#39;s worked with them as well as</p>
+<p begin="01:16:53.280" end="01:16:57.360" style="s2">some some industry examples from around</p>
+<p begin="01:16:55.199" end="01:17:00.520" style="s2">the world to show how these things work</p>
+<p begin="01:16:57.360" end="01:17:00.520" style="s2">in practice</p>
+<p begin="01:17:03.120" end="01:17:06.320" style="s2">good good thank james</p>
+<p begin="01:17:05.440" end="01:17:07.280" style="s2">uh</p>
+<p begin="01:17:06.320" end="01:17:09.199" style="s2">well</p>
+<p begin="01:17:07.280" end="01:17:12.480" style="s2">for the sake of time i think we have</p>
+<p begin="01:17:09.199" end="01:17:16.320" style="s2">space for two more uh questions</p>
+<p begin="01:17:12.480" end="01:17:18.719" style="s2">so the third for the application of new</p>
+<p begin="01:17:16.320" end="01:17:21.679" style="s2">forms of regulations such as smart</p>
+<p begin="01:17:18.719" end="01:17:25.120" style="s2">regulation or responsive regulation</p>
+<p begin="01:17:21.679" end="01:17:26.640" style="s2">is and i would include by myself</p>
+<p begin="01:17:25.120" end="01:17:30.400" style="s2">a how</p>
+<p begin="01:17:26.640" end="01:17:31.600" style="s2">a change of culture uh is necessary</p>
+<p begin="01:17:30.400" end="01:17:34.719" style="s2">uh</p>
+<p begin="01:17:31.600" end="01:17:36.960" style="s2">both on the part of the regulated and on</p>
+<p begin="01:17:34.719" end="01:17:39.760" style="s2">the part of the regulators so is it</p>
+<p begin="01:17:36.960" end="01:17:40.640" style="s2">something necessary uh to ch uh to to</p>
+<p begin="01:17:39.760" end="01:17:42.480" style="s2">achieve</p>
+<p begin="01:17:40.640" end="01:17:46.159" style="s2">the implementation of new forms of</p>
+<p begin="01:17:42.480" end="01:17:47.520" style="s2">regulation a change in the culture and</p>
+<p begin="01:17:46.159" end="01:17:49.120" style="s2">that that&#39;s what i</p>
+<p begin="01:17:47.520" end="01:17:52.320" style="s2">i would add</p>
+<p begin="01:17:49.120" end="01:17:56.000" style="s2">do you have any any suggestion on how we</p>
+<p begin="01:17:52.320" end="01:17:56.000" style="s2">can we can build that</p>
+<p begin="01:17:57.360" end="01:18:03.600" style="s2">so firstly yes i think it&#39;s absolutely</p>
+<p begin="01:17:59.840" end="01:18:06.320" style="s2">fundamental and um</p>
+<p begin="01:18:03.600" end="01:18:09.120" style="s2">you know i taught a few times around uh</p>
+<p begin="01:18:06.320" end="01:18:10.400" style="s2">constructive engagement um</p>
+<p begin="01:18:09.120" end="01:18:13.920" style="s2">as being something that i think is</p>
+<p begin="01:18:10.400" end="01:18:15.840" style="s2">really important um and</p>
+<p begin="01:18:13.920" end="01:18:17.280" style="s2">you know you can have</p>
+<p begin="01:18:15.840" end="01:18:20.880" style="s2">you often do have</p>
+<p begin="01:18:17.280" end="01:18:23.199" style="s2">an adversarial um relationship</p>
+<p begin="01:18:20.880" end="01:18:24.159" style="s2">if you when you have commander control</p>
+<p begin="01:18:23.199" end="01:18:26.880" style="s2">it&#39;s</p>
+<p begin="01:18:24.159" end="01:18:29.360" style="s2">it&#39;s like parody you know you tell</p>
+<p begin="01:18:26.880" end="01:18:30.719" style="s2">somebody&#39;s going to tell you off and</p>
+<p begin="01:18:29.360" end="01:18:32.719" style="s2">you know your child is always going to</p>
+<p begin="01:18:30.719" end="01:18:33.920" style="s2">behave as a child as a as a</p>
+<p begin="01:18:32.719" end="01:18:36.080" style="s2">five-year-old</p>
+<p begin="01:18:33.920" end="01:18:37.520" style="s2">if it&#39;s only ever daddy&#39;s going to tell</p>
+<p begin="01:18:36.080" end="01:18:39.600" style="s2">them off or mommy&#39;s going to tell them</p>
+<p begin="01:18:37.520" end="01:18:42.159" style="s2">off and then they get held off and they</p>
+<p begin="01:18:39.600" end="01:18:44.320" style="s2">don&#39;t like it and they don&#39;t necessarily</p>
+<p begin="01:18:42.159" end="01:18:46.640" style="s2">you have that learning process</p>
+<p begin="01:18:44.320" end="01:18:49.280" style="s2">and obviously it&#39;s a much more smarter</p>
+<p begin="01:18:46.640" end="01:18:51.040" style="s2">way of parenting to encourage</p>
+<p begin="01:18:49.280" end="01:18:52.960" style="s2">um</p>
+<p begin="01:18:51.040" end="01:18:55.199" style="s2">you know your child to learn and to see</p>
+<p begin="01:18:52.960" end="01:18:56.480" style="s2">reward of that learning</p>
+<p begin="01:18:55.199" end="01:18:58.400" style="s2">but also</p>
+<p begin="01:18:56.480" end="01:19:00.800" style="s2">did not necessarily see you know he was</p>
+<p begin="01:18:58.400" end="01:19:03.199" style="s2">a policeman police person but somebody</p>
+<p begin="01:19:00.800" end="01:19:05.760" style="s2">that was a partner and that is a</p>
+<p begin="01:19:03.199" end="01:19:07.440" style="s2">different change in mindset</p>
+<p begin="01:19:05.760" end="01:19:08.640" style="s2">and i was talking i said i was talking</p>
+<p begin="01:19:07.440" end="01:19:11.440" style="s2">with</p>
+<p begin="01:19:08.640" end="01:19:14.320" style="s2">your canadian colleagues uh last night</p>
+<p begin="01:19:11.440" end="01:19:16.800" style="s2">and a similar thing where</p>
+<p begin="01:19:14.320" end="01:19:18.719" style="s2">formal regulation can sometimes</p>
+<p begin="01:19:16.800" end="01:19:19.600" style="s2">create behaviors</p>
+<p begin="01:19:18.719" end="01:19:21.360" style="s2">um</p>
+<p begin="01:19:19.600" end="01:19:23.760" style="s2">so i&#39;ll go and complain to the regulator</p>
+<p begin="01:19:21.360" end="01:19:24.800" style="s2">because there&#39;s a regulation whereas if</p>
+<p begin="01:19:23.760" end="01:19:27.040" style="s2">there wasn&#39;t</p>
+<p begin="01:19:24.800" end="01:19:29.360" style="s2">necessarily a regulation</p>
+<p begin="01:19:27.040" end="01:19:30.800" style="s2">i would go and talk to the person so if</p>
+<p begin="01:19:29.360" end="01:19:32.640" style="s2">i&#39;m a consumer i might go and talk to</p>
+<p begin="01:19:30.800" end="01:19:34.320" style="s2">the airline or if i&#39;m a</p>
+<p begin="01:19:32.640" end="01:19:36.159" style="s2">an airport i might go and talk with the</p>
+<p begin="01:19:34.320" end="01:19:38.000" style="s2">airline and we talk to each other and we</p>
+<p begin="01:19:36.159" end="01:19:40.080" style="s2">fix the problem without the regulator</p>
+<p begin="01:19:38.000" end="01:19:42.000" style="s2">needing to get resolved so</p>
+<p begin="01:19:40.080" end="01:19:43.600" style="s2">but that&#39;s much more mature</p>
+<p begin="01:19:42.000" end="01:19:46.320" style="s2">right for everybody</p>
+<p begin="01:19:43.600" end="01:19:48.800" style="s2">regulator has to maybe</p>
+<p begin="01:19:46.320" end="01:19:50.719" style="s2">step back a little bit and say i&#39;m going</p>
+<p begin="01:19:48.800" end="01:19:51.760" style="s2">to see how this works out with these two</p>
+<p begin="01:19:50.719" end="01:19:53.440" style="s2">parties</p>
+<p begin="01:19:51.760" end="01:19:56.159" style="s2">uh talking to each other and whether</p>
+<p begin="01:19:53.440" end="01:19:58.640" style="s2">they can resolve it and only then if</p>
+<p begin="01:19:56.159" end="01:19:59.679" style="s2">that&#39;s not working will i um will i</p>
+<p begin="01:19:58.640" end="01:20:01.360" style="s2">intervene</p>
+<p begin="01:19:59.679" end="01:20:03.920" style="s2">um</p>
+<p begin="01:20:01.360" end="01:20:05.280" style="s2">and the the actors the stakeholders have</p>
+<p begin="01:20:03.920" end="01:20:09.040" style="s2">to take it on themselves and say well</p>
+<p begin="01:20:05.280" end="01:20:10.560" style="s2">actually i&#39;m responsible for the outcome</p>
+<p begin="01:20:09.040" end="01:20:12.960" style="s2">that that</p>
+<p begin="01:20:10.560" end="01:20:15.280" style="s2">is going to be achieved here if i</p>
+<p begin="01:20:12.960" end="01:20:16.480" style="s2">engage more more constructively with the</p>
+<p begin="01:20:15.280" end="01:20:19.520" style="s2">regulator</p>
+<p begin="01:20:16.480" end="01:20:21.280" style="s2">i help them and i support with evidence</p>
+<p begin="01:20:19.520" end="01:20:23.120" style="s2">and i really contribute genuinely to</p>
+<p begin="01:20:21.280" end="01:20:25.280" style="s2">that evidence gathering process and the</p>
+<p begin="01:20:23.120" end="01:20:27.040" style="s2">consultation process</p>
+<p begin="01:20:25.280" end="01:20:28.800" style="s2">then and i trust that i&#39;m going to get</p>
+<p begin="01:20:27.040" end="01:20:31.760" style="s2">something out of that then i will do</p>
+<p begin="01:20:28.800" end="01:20:33.760" style="s2">that more genuinely and and so on and</p>
+<p begin="01:20:31.760" end="01:20:36.320" style="s2">also the attitude to to the other</p>
+<p begin="01:20:33.760" end="01:20:38.000" style="s2">stakeholders in the system rather than</p>
+<p begin="01:20:36.320" end="01:20:40.239" style="s2">everybody looking to the regulator to</p>
+<p begin="01:20:38.000" end="01:20:42.800" style="s2">fix their problems which i think</p>
+<p begin="01:20:40.239" end="01:20:44.880" style="s2">certainly um for some of my experience</p>
+<p begin="01:20:42.800" end="01:20:47.040" style="s2">when i was on the regulatory side that</p>
+<p begin="01:20:44.880" end="01:20:49.280" style="s2">that does happen a lot so i think</p>
+<p begin="01:20:47.040" end="01:20:49.280" style="s2">um</p>
+<p begin="01:20:49.920" end="01:20:55.040" style="s2">you described it very accurately myself</p>
+<p begin="01:20:52.320" end="01:20:56.159" style="s2">it requires you know culture beh change</p>
+<p begin="01:20:55.040" end="01:20:59.280" style="s2">and</p>
+<p begin="01:20:56.159" end="01:21:01.040" style="s2">frankly maturity um on everybody</p>
+<p begin="01:20:59.280" end="01:21:02.800" style="s2">and that doesn&#39;t</p>
+<p begin="01:21:01.040" end="01:21:04.159" style="s2">that that takes time it doesn&#39;t happen</p>
+<p begin="01:21:02.800" end="01:21:06.960" style="s2">overnight</p>
+<p begin="01:21:04.159" end="01:21:08.719" style="s2">and and it doesn&#39;t always work</p>
+<p begin="01:21:06.960" end="01:21:09.679" style="s2">mistakes will be made and that doesn&#39;t i</p>
+<p begin="01:21:08.719" end="01:21:11.360" style="s2">think</p>
+<p begin="01:21:09.679" end="01:21:12.800" style="s2">you know my learning point would be that</p>
+<p begin="01:21:11.360" end="01:21:15.199" style="s2">doesn&#39;t always mean it&#39;s the wrong thing</p>
+<p begin="01:21:12.800" end="01:21:18.719" style="s2">to do you just need to</p>
+<p begin="01:21:15.199" end="01:21:18.719" style="s2">get up and try harder next time</p>
+<p begin="01:21:19.199" end="01:21:22.719" style="s2">okay</p>
+<p begin="01:21:20.480" end="01:21:24.639" style="s2">so i here i put two questions that i</p>
+<p begin="01:21:22.719" end="01:21:26.239" style="s2">understand are on the same issue and on</p>
+<p begin="01:21:24.639" end="01:21:27.120" style="s2">the same direction</p>
+<p begin="01:21:26.239" end="01:21:29.600" style="s2">uh</p>
+<p begin="01:21:27.120" end="01:21:31.679" style="s2">so how to the first one is how to have a</p>
+<p begin="01:21:29.600" end="01:21:33.120" style="s2">more active participation of the</p>
+<p begin="01:21:31.679" end="01:21:35.840" style="s2">regulated</p>
+<p begin="01:21:33.120" end="01:21:38.320" style="s2">in discussions of regulatory issues</p>
+<p begin="01:21:35.840" end="01:21:41.840" style="s2">and the second one is consultation on</p>
+<p begin="01:21:38.320" end="01:21:44.960" style="s2">regulatory uh proposals could be seen as</p>
+<p begin="01:21:41.840" end="01:21:47.520" style="s2">a so-called performer</p>
+<p begin="01:21:44.960" end="01:21:50.239" style="s2">how to involve in the discussion the</p>
+<p begin="01:21:47.520" end="01:21:53.199" style="s2">actors that that should be involved</p>
+<p begin="01:21:50.239" end="01:21:54.239" style="s2">especially if they are spread</p>
+<p begin="01:21:53.199" end="01:21:55.120" style="s2">such as</p>
+<p begin="01:21:54.239" end="01:21:57.840" style="s2">pilots</p>
+<p begin="01:21:55.120" end="01:21:57.840" style="s2">for example</p>
+<p begin="01:21:59.760" end="01:22:02.159" style="s2">so i think</p>
+<p begin="01:22:01.040" end="01:22:03.679" style="s2">my first</p>
+<p begin="01:22:02.159" end="01:22:05.360" style="s2">point would be</p>
+<p begin="01:22:03.679" end="01:22:06.560" style="s2">so i&#39;m almost taking the second point</p>
+<p begin="01:22:05.360" end="01:22:08.320" style="s2">first</p>
+<p begin="01:22:06.560" end="01:22:10.639" style="s2">where you said you know</p>
+<p begin="01:22:08.320" end="01:22:13.920" style="s2">the consultation can be seen as a pro</p>
+<p begin="01:22:10.639" end="01:22:15.760" style="s2">forma so as a ticker box</p>
+<p begin="01:22:13.920" end="01:22:17.440" style="s2">i&#39;ve done my consultation therefore i&#39;ve</p>
+<p begin="01:22:15.760" end="01:22:18.560" style="s2">done what uh</p>
+<p begin="01:22:17.440" end="01:22:20.960" style="s2">um</p>
+<p begin="01:22:18.560" end="01:22:24.000" style="s2">i&#39;m meant to do</p>
+<p begin="01:22:20.960" end="01:22:25.199" style="s2">but i didn&#39;t really listen um</p>
+<p begin="01:22:24.000" end="01:22:27.280" style="s2">not sure if this translates to</p>
+<p begin="01:22:25.199" end="01:22:29.360" style="s2">portuguese but uh</p>
+<p begin="01:22:27.280" end="01:22:32.320" style="s2">at the word con which is if something is</p>
+<p begin="01:22:29.360" end="01:22:34.480" style="s2">a trick or uh it&#39;s not really real</p>
+<p begin="01:22:32.320" end="01:22:36.800" style="s2">um and that&#39;s the first three letters of</p>
+<p begin="01:22:34.480" end="01:22:39.280" style="s2">consultation so you know a consultation</p>
+<p begin="01:22:36.800" end="01:22:41.520" style="s2">shouldn&#39;t be a con it should be genuine</p>
+<p begin="01:22:39.280" end="01:22:44.639" style="s2">um</p>
+<p begin="01:22:41.520" end="01:22:46.239" style="s2">it&#39;s the first thing and i think once</p>
+<p begin="01:22:44.639" end="01:22:48.320" style="s2">you and this is why i think it takes</p>
+<p begin="01:22:46.239" end="01:22:50.159" style="s2">time as part of the culture change</p>
+<p begin="01:22:48.320" end="01:22:53.520" style="s2">there&#39;s trust that the consultation and</p>
+<p begin="01:22:50.159" end="01:22:55.040" style="s2">the dialogue is genuine then</p>
+<p begin="01:22:53.520" end="01:22:57.520" style="s2">it should be the case that the the</p>
+<p begin="01:22:55.040" end="01:22:59.280" style="s2">regulated entities see the benefit</p>
+<p begin="01:22:57.520" end="01:23:02.000" style="s2">of um</p>
+<p begin="01:22:59.280" end="01:23:03.920" style="s2">of participating and that doesn&#39;t mean</p>
+<p begin="01:23:02.000" end="01:23:05.840" style="s2">you know let&#39;s be honest and i say this</p>
+<p begin="01:23:03.920" end="01:23:07.679" style="s2">not representing iata and then you know</p>
+<p begin="01:23:05.840" end="01:23:09.360" style="s2">the producer group but</p>
+<p begin="01:23:07.679" end="01:23:12.560" style="s2">it doesn&#39;t always mean</p>
+<p begin="01:23:09.360" end="01:23:13.520" style="s2">getting what the regulated entity wants</p>
+<p begin="01:23:12.560" end="01:23:15.679" style="s2">uh</p>
+<p begin="01:23:13.520" end="01:23:17.520" style="s2">but to know that it&#39;s</p>
+<p begin="01:23:15.679" end="01:23:19.280" style="s2">really being given consideration and</p>
+<p begin="01:23:17.520" end="01:23:20.960" style="s2">given due thought</p>
+<p begin="01:23:19.280" end="01:23:22.480" style="s2">and that&#39;s why one of the things i</p>
+<p begin="01:23:20.960" end="01:23:24.560" style="s2">talked about as i went through the</p>
+<p begin="01:23:22.480" end="01:23:27.280" style="s2">slides on consultation</p>
+<p begin="01:23:24.560" end="01:23:29.600" style="s2">was um sometimes publishing</p>
+<p begin="01:23:27.280" end="01:23:32.880" style="s2">uh a summary of the consultation</p>
+<p begin="01:23:29.600" end="01:23:35.520" style="s2">responses and the thinking</p>
+<p begin="01:23:32.880" end="01:23:36.880" style="s2">that&#39;s been given to those um</p>
+<p begin="01:23:35.520" end="01:23:38.719" style="s2">is really important i think it&#39;s</p>
+<p begin="01:23:36.880" end="01:23:40.239" style="s2">important in building that trust</p>
+<p begin="01:23:38.719" end="01:23:42.880" style="s2">so</p>
+<p begin="01:23:40.239" end="01:23:45.040" style="s2">three stakeholders said that um they</p>
+<p begin="01:23:42.880" end="01:23:46.800" style="s2">didn&#39;t want the regulation to be read</p>
+<p begin="01:23:45.040" end="01:23:48.320" style="s2">unfortunately you know we only have red</p>
+<p begin="01:23:46.800" end="01:23:49.679" style="s2">ink or something and therefore we&#39;ll do</p>
+<p begin="01:23:48.320" end="01:23:52.320" style="s2">it in red we&#39;re not going to give you</p>
+<p begin="01:23:49.679" end="01:23:53.840" style="s2">what you want but um</p>
+<p begin="01:23:52.320" end="01:23:55.600" style="s2">we&#39;ve listened to it</p>
+<p begin="01:23:53.840" end="01:23:58.080" style="s2">we&#39;ve considered it we&#39;re not going to</p>
+<p begin="01:23:55.600" end="01:23:59.840" style="s2">go through it for this reason or</p>
+<p begin="01:23:58.080" end="01:24:01.600" style="s2">you know that was a good idea i was</p>
+<p begin="01:23:59.840" end="01:24:03.600" style="s2">taking it on board and so you know</p>
+<p begin="01:24:01.600" end="01:24:05.600" style="s2">obviously in those cases the regular the</p>
+<p begin="01:24:03.600" end="01:24:06.400" style="s2">entity really can see that</p>
+<p begin="01:24:05.600" end="01:24:08.800" style="s2">um</p>
+<p begin="01:24:06.400" end="01:24:11.360" style="s2">there has been some merit to to their</p>
+<p begin="01:24:08.800" end="01:24:11.360" style="s2">intervention</p>
+<p begin="01:24:11.440" end="01:24:15.520" style="s2">as learning as you know</p>
+<p begin="01:24:13.120" end="01:24:17.520" style="s2">people that we are as</p>
+<p begin="01:24:15.520" end="01:24:18.400" style="s2">that&#39;s more likely to make you willing</p>
+<p begin="01:24:17.520" end="01:24:20.719" style="s2">to</p>
+<p begin="01:24:18.400" end="01:24:22.960" style="s2">to engage constructively and genuinely</p>
+<p begin="01:24:20.719" end="01:24:24.880" style="s2">in future occasions if you see that that</p>
+<p begin="01:24:22.960" end="01:24:26.239" style="s2">will be taking into account so i think</p>
+<p begin="01:24:24.880" end="01:24:28.080" style="s2">you&#39;re you&#39;re right to say the two</p>
+<p begin="01:24:26.239" end="01:24:31.080" style="s2">points are related about answer the</p>
+<p begin="01:24:28.080" end="01:24:31.080" style="s2">question</p>
+<p begin="01:24:31.120" end="01:24:36.320" style="s2">okay uh thank you james uh unfortunately</p>
+<p begin="01:24:34.800" end="01:24:38.480" style="s2">we have time</p>
+<p begin="01:24:36.320" end="01:24:40.880" style="s2">uh</p>
+<p begin="01:24:38.480" end="01:24:43.679" style="s2">i&#39;m sure we have other questions that</p>
+<p begin="01:24:40.880" end="01:24:44.800" style="s2">that came through through lidl so i will</p>
+<p begin="01:24:43.679" end="01:24:47.760" style="s2">keep them</p>
+<p begin="01:24:44.800" end="01:24:51.280" style="s2">because i&#39;m sure that we can in the the</p>
+<p begin="01:24:47.760" end="01:24:52.719" style="s2">second and third part of his journeys we</p>
+<p begin="01:24:51.280" end="01:24:55.920" style="s2">can keep</p>
+<p begin="01:24:52.719" end="01:24:58.960" style="s2">those doubts uh and bring some answers</p>
+<p begin="01:24:55.920" end="01:24:58.960" style="s2">uh to our</p>
+<p begin="01:25:07.040" end="01:25:10.040" style="s2">foreign</p>
+<p begin="01:25:34.160" end="01:25:37.330" style="s2">[Music]</p>
+<p begin="01:25:38.719" end="01:25:41.719" style="s2">uh</p>
+<p begin="01:25:44.170" end="01:25:47.239" style="s2">[Music]</p>
+<p begin="01:26:33.120" end="01:26:36.120" style="s2">is</p>
+<p begin="01:27:12.170" end="01:27:15.199" style="s2">[Music]</p>
+<p begin="01:27:18.280" end="01:27:22.729" style="s2">[Music]</p>
+<p begin="01:31:01.520" end="01:31:05.520" style="s2">uh james any closing remarks</p>
+<p begin="01:31:06.639" end="01:31:10.239" style="s2">i&#39;m just conscious of the time myself so</p>
+<p begin="01:31:08.639" end="01:31:12.000" style="s2">i think i&#39;ll uh</p>
+<p begin="01:31:10.239" end="01:31:13.520" style="s2">i&#39;ll be sad enough so just thank you</p>
+<p begin="01:31:12.000" end="01:31:16.159" style="s2">very much um</p>
+<p begin="01:31:13.520" end="01:31:17.760" style="s2">everybody for your time i really</p>
+<p begin="01:31:16.159" end="01:31:19.440" style="s2">appreciate it i</p>
+<p begin="01:31:17.760" end="01:31:21.440" style="s2">hope it&#39;s been useful and</p>
+<p begin="01:31:19.440" end="01:31:24.159" style="s2">looking forward to the to the</p>
+<p begin="01:31:21.440" end="01:31:25.280" style="s2">uh next two webinars we certainly pick</p>
+<p begin="01:31:24.159" end="01:31:28.560" style="s2">up some of the questions that we</p>
+<p begin="01:31:25.280" end="01:31:30.320" style="s2">couldn&#39;t get to today and and work very</p>
+<p begin="01:31:28.560" end="01:31:32.239" style="s2">much in some of these practical</p>
+<p begin="01:31:30.320" end="01:31:35.600" style="s2">questions which i know are you know</p>
+<p begin="01:31:32.239" end="01:31:37.440" style="s2">really whether uh this becomes real</p>
+<p begin="01:31:35.600" end="01:31:40.239" style="s2">thank you</p>
+<p begin="01:31:37.440" end="01:31:40.239" style="s2">thank you james</p>
+<p begin="01:31:42.000" end="01:31:45.000" style="s2">is</p>
+<p begin="01:31:55.960" end="01:31:59.039" style="s2">[Music]</p>
+<p begin="01:32:10.050" end="01:32:13.189" style="s2">[Music]</p>
+<p begin="01:32:35.010" end="01:32:38.149" style="s2">[Music]</p>
+<p begin="01:32:47.520" end="01:32:50.520" style="s2">foreign</p>
+<p begin="01:33:04.800" end="01:33:06.880" style="s2">you</p>
+</div>
+</body>
+</tt>
