@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.020" end="00:00:05.880" style="s2">hello welcome to the Mineiro data channel</p>
+<p begin="00:00:03.240" end="00:00:07.919" style="s2">today for another miner answers</p>
+<p begin="00:00:05.880" end="00:00:09.980" style="s2">today&#39;s question came from Kellen from the</p>
+<p begin="00:00:07.919" end="00:00:13.440" style="s2">Federal University of Amazonas</p>
+<p begin="00:00:09.980" end="00:00:15.900" style="s2">bringing Tatiana she had the</p>
+<p begin="00:00:13.440" end="00:00:19.260" style="s2">following problem she had a</p>
+<p begin="00:00:15.900" end="00:00:21.600" style="s2">GDF dot file and she wanted to open it in the</p>
+<p begin="00:00:19.260" end="00:00:24.480" style="s2">voice viewer  it turns out that if you go here</p>
+<p begin="00:00:21.600" end="00:00:26.039" style="s2">in voz Vivo and try to open this type</p>
+<p begin="00:00:24.480" end="00:00:28.859" style="s2">of file you will see that the options</p>
+<p begin="00:00:26.039" end="00:00:31.500" style="s2">that exist the voice format itself</p>
+<p begin="00:00:28.859" end="00:00:35.040" style="s2">Viva o Jason that is created by voz</p>
+<p begin="00:00:31.500" end="00:00:38.820" style="s2">viller the gml format and the</p>
+<p begin="00:00:35.040" end="00:00:43.020" style="s2">payek format, right, which has a  grandson orfael and also</p>
+<p begin="00:00:38.820" end="00:00:45.600" style="s2">has the partister as optional well the gml</p>
+<p begin="00:00:43.020" end="00:00:48.059" style="s2">sometimes works as an option Sometimes</p>
+<p begin="00:00:45.600" end="00:00:50.640" style="s2">we manage to transform it into a gml but</p>
+<p begin="00:00:48.059" end="00:00:52.920" style="s2">in general depending on the origin that</p>
+<p begin="00:00:50.640" end="00:00:55.980" style="s2">this GDF came from it turns out that it is better for</p>
+<p begin="00:00:52.920" end="00:00:58.620" style="s2">us to try to make this transfer</p>
+<p begin="00:00:55.980" end="00:01:00.239" style="s2">from the  Pajé&#39;s format, right, and that&#39;s</p>
+<p begin="00:00:58.620" end="00:01:02.579" style="s2">exactly what we&#39;re going to do,</p>
+<p begin="00:01:00.239" end="00:01:05.280" style="s2">first of all, we&#39;re</p>
+<p begin="00:01:02.579" end="00:01:06.360" style="s2">going to get the gaffe, which is another tool.</p>
+<p begin="00:01:05.280" end="00:01:08.760" style="s2"></p>
+<p begin="00:01:06.360" end="00:01:11.100" style="s2"></p>
+<p begin="00:01:08.760" end="00:01:14.040" style="s2"></p>
+<p begin="00:01:11.100" end="00:01:15.780" style="s2">which would be its GDF file I&#39;m going to</p>
+<p begin="00:01:14.040" end="00:01:18.600" style="s2">take here an example of a GDF that I</p>
+<p begin="00:01:15.780" end="00:01:21.000" style="s2">have which is this Rede Ponto GDF and I&#39;m going to</p>
+<p begin="00:01:18.600" end="00:01:25.700" style="s2">ask it to be opened it&#39;s already</p>
+<p begin="00:01:21.000" end="00:01:27.420" style="s2">being imported here it has 112 nodes 499 are</p>
+<p begin="00:01:25.700" end="00:01:31.380" style="s2">edges that we are having here</p>
+<p begin="00:01:27.420" end="00:01:33.020" style="s2">so  Let&#39;s create this with a new one.</p>
+<p begin="00:01:31.380" end="00:01:35.400" style="s2"></p>
+<p begin="00:01:33.020" end="00:01:38.100" style="s2"></p>
+<p begin="00:01:35.400" end="00:01:39.900" style="s2"></p>
+<p begin="00:01:38.100" end="00:01:42.360" style="s2"></p>
+<p begin="00:01:39.900" end="00:01:44.340" style="s2"></p>
+<p begin="00:01:42.360" end="00:01:45.960" style="s2"></p>
+<p begin="00:01:44.340" end="00:01:48.780" style="s2">just got the network there is</p>
+<p begin="00:01:45.960" end="00:01:51.060" style="s2">no type of layout applied you can</p>
+<p begin="00:01:48.780" end="00:01:53.100" style="s2">previously apply a layout here if</p>
+<p begin="00:01:51.060" end="00:01:55.380" style="s2">you want from the gaffe itself to later</p>
+<p begin="00:01:53.100" end="00:01:57.899" style="s2">take it to voz viva or you can apply</p>
+<p begin="00:01:55.380" end="00:01:59.820" style="s2">the one from vozview i will apply any layout</p>
+<p begin="00:01:57.899" end="00:02:02.000" style="s2">here in this case i will use the</p>
+<p begin="00:01:59.820" end="00:02:02.000" style="s2">flow</p>
+<p begin="00:02:03.899" end="00:02:09.539" style="s2">I ran this layout and now I&#39;m going to export</p>
+<p begin="00:02:07.500" end="00:02:11.879" style="s2">this material because if I try to save it through the</p>
+<p begin="00:02:09.539" end="00:02:14.459" style="s2">gaf the gaffe will save in the</p>
+<p begin="00:02:11.879" end="00:02:16.739" style="s2">gafe format which is not accepted there but it has</p>
+<p begin="00:02:14.459" end="00:02:20.760" style="s2">export options in</p>
+<p begin="00:02:16.739" end="00:02:23.160" style="s2">graphic file format which is in this</p>
+<p begin="00:02:20.760" end="00:02:26.220" style="s2">fly option I have  some options one of them</p>
+<p begin="00:02:23.160" end="00:02:27.780" style="s2">for example is exactly the gml that we have</p>
+<p begin="00:02:26.220" end="00:02:29.760" style="s2">here that we are going to save once just</p>
+<p begin="00:02:27.780" end="00:02:32.940" style="s2">in case putting it here as</p>
+<p begin="00:02:29.760" end="00:02:34.739" style="s2">gml tests you will see that in options</p>
+<p begin="00:02:32.940" end="00:02:37.020" style="s2">Here there are a series of attributes that</p>
+<p begin="00:02:34.739" end="00:02:39.180" style="s2">can be seen about it but not  this is the</p>
+<p begin="00:02:37.020" end="00:02:40.379" style="s2">case we are not going to use it and I will</p>
+<p begin="00:02:39.180" end="00:02:43.200" style="s2">save it</p>
+<p begin="00:02:40.379" end="00:02:46.500" style="s2">ready and I will also export this</p>
+<p begin="00:02:43.200" end="00:02:50.160" style="s2">file here again but now in</p>
+<p begin="00:02:46.500" end="00:02:52.379" style="s2">another format that is the format of Pai</p>
+<p begin="00:02:50.160" end="00:02:53.700" style="s2">Eco Pajé as if they think it is better to</p>
+<p begin="00:02:52.379" end="00:02:56.580" style="s2">be called Ok I will put it here</p>
+<p begin="00:02:53.700" end="00:02:58.920" style="s2">which is dot net in this format it will be</p>
+<p begin="00:02:56.580" end="00:03:00.900" style="s2">teste.net there are also own options</p>
+<p begin="00:02:58.920" end="00:03:03.060" style="s2">here that we already leave the for and</p>
+<p begin="00:03:00.900" end="00:03:06.180" style="s2">I&#39;ll just save I&#39;ll confirm and</p>
+<p begin="00:03:03.060" end="00:03:07.680" style="s2">it&#39;s saved here well finished this</p>
+<p begin="00:03:06.180" end="00:03:10.379" style="s2">part inside the ghast we&#39;ll take</p>
+<p begin="00:03:07.680" end="00:03:13.140" style="s2">it now for  live voice I give Open you won&#39;t</p>
+<p begin="00:03:10.379" end="00:03:15.319" style="s2">see I&#39;ll get the Pajé format here</p>
+<p begin="00:03:13.140" end="00:03:17.700" style="s2">which is the safest that it will work I&#39;ll go</p>
+<p begin="00:03:15.319" end="00:03:20.220" style="s2">there in my folder to show</p>
+<p begin="00:03:17.700" end="00:03:21.659" style="s2">you let me get my folder</p>
+<p begin="00:03:20.220" end="00:03:23.300" style="s2">here</p>
+<p begin="00:03:21.659" end="00:03:27.840" style="s2">ready</p>
+<p begin="00:03:23.300" end="00:03:29.940" style="s2">teste.net I&#39;ll give ok and I&#39;ll give ok here</p>
+<p begin="00:03:27.840" end="00:03:31.500" style="s2">This one is imported, which happens to be</p>
+<p begin="00:03:29.940" end="00:03:34.319" style="s2">a graph. I made it for my former</p>
+<p begin="00:03:31.500" end="00:03:36.780" style="s2">doctoral advisor, Dr.</p>
+<p begin="00:03:34.319" end="00:03:39.060" style="s2">Eleonora Corten Bar. If the survey</p>
+<p begin="00:03:36.780" end="00:03:42.060" style="s2">had been done, it&#39;s presented here</p>
+<p begin="00:03:39.060" end="00:03:44.780" style="s2">as with relationships between researchers.</p>
+<p begin="00:03:42.060" end="00:03:47.640" style="s2">Everything is fine, based on</p>
+<p begin="00:03:44.780" end="00:03:50.159" style="s2">specific data from a database</p>
+<p begin="00:03:47.640" end="00:03:51.959" style="s2">I can now apply some other</p>
+<p begin="00:03:50.159" end="00:03:53.900" style="s2">things for example This is the format that</p>
+<p begin="00:03:51.959" end="00:03:57.540" style="s2">we know the layout that was brought there</p>
+<p begin="00:03:53.900" end="00:04:00.480" style="s2">from the gaf which is Fruit but here in</p>
+<p begin="00:03:57.540" end="00:04:02.640" style="s2">analyzes I can click here and</p>
+<p begin="00:04:00.480" end="00:04:04.200" style="s2">update the clustering part what  it will</p>
+<p begin="00:04:02.640" end="00:04:06.480" style="s2">mean that he will colonize</p>
+<p begin="00:04:04.200" end="00:04:08.580" style="s2">this here when I did this he</p>
+<p begin="00:04:06.480" end="00:04:09.959" style="s2">applied the colorization let&#39;s just do it and</p>
+<p begin="00:04:08.580" end="00:04:12.959" style="s2">come back here because of the video card defense</p>
+<p begin="00:04:09.959" end="00:04:15.720" style="s2">he applied the colonization which is</p>
+<p begin="00:04:12.959" end="00:04:18.299" style="s2">the colonization of the GF specific to the voice of the</p>
+<p begin="00:04:15.720" end="00:04:20.459" style="s2">book specifically but this one  layout is</p>
+<p begin="00:04:18.299" end="00:04:22.620" style="s2">a GF layout with the colonization done</p>
+<p begin="00:04:20.459" end="00:04:24.720" style="s2">by the voice I can also apply it to</p>
+<p begin="00:04:22.620" end="00:04:27.960" style="s2">update the layout to have a</p>
+<p begin="00:04:24.720" end="00:04:30.360" style="s2">Rose viewer layout if I click here on the</p>
+<p begin="00:04:27.960" end="00:04:33.300" style="s2">update layout it will</p>
+<p begin="00:04:30.360" end="00:04:36.300" style="s2">ask me if I want to have</p>
+<p begin="00:04:33.300" end="00:04:38.880" style="s2">112 total items  or just the 105 that are</p>
+<p begin="00:04:36.300" end="00:04:41.540" style="s2">connected to the giant component this is</p>
+<p begin="00:04:38.880" end="00:04:46.040" style="s2">an analysis with voice</p>
+<p begin="00:04:41.540" end="00:04:50.100" style="s2">I&#39;ll give it here eh Yes I want to stay just</p>
+<p begin="00:04:46.040" end="00:04:52.380" style="s2">this set specifically 75</p>
+<p begin="00:04:50.100" end="00:04:54.120" style="s2">and he already did here in the end</p>
+<p begin="00:04:52.380" end="00:04:56.580" style="s2">went back here to solve the</p>
+<p begin="00:04:54.120" end="00:04:59.940" style="s2">video card problem  he already made it in a type of</p>
+<p begin="00:04:56.580" end="00:05:01.740" style="s2">graphic with the layout of vozviller option</p>
+<p begin="00:04:59.940" end="00:05:03.060" style="s2">from you to you is that you know</p>
+<p begin="00:05:01.740" end="00:05:04.860" style="s2">my name that I was guiding from</p>
+<p begin="00:05:03.060" end="00:05:06.960" style="s2">Eleonora So it&#39;s showing up here it&#39;s</p>
+<p begin="00:05:04.860" end="00:05:08.820" style="s2">good good I hope you like this</p>
+<p begin="00:05:06.960" end="00:05:10.800" style="s2">video you already know how you like it  do it</p>
+<p begin="00:05:08.820" end="00:05:13.080" style="s2">to take it here Just so it doesn&#39;t end</p>
+<p begin="00:05:10.800" end="00:05:17.160" style="s2">like this without saying that you can also</p>
+<p begin="00:05:13.080" end="00:05:19.080" style="s2">save this content here and you one of the</p>
+<p begin="00:05:17.160" end="00:05:22.500" style="s2">ways to save it possible to save either</p>
+<p begin="00:05:19.080" end="00:05:26.100" style="s2">in gnl or empajec to also go back there</p>
+<p begin="00:05:22.500" end="00:05:27.600" style="s2">to the gaf if you save it in ml the gef</p>
+<p begin="00:05:26.100" end="00:05:29.340" style="s2">can do it  open it from the other end to</p>
+<p begin="00:05:27.600" end="00:05:32.280" style="s2">come here, it has to serve for JAC,</p>
+<p begin="00:05:29.340" end="00:05:34.199" style="s2">okay, there&#39;s this little difference there, there&#39;s already</p>
+<p begin="00:05:32.280" end="00:05:35.460" style="s2">a little bit of it here are defects in</p>
+<p begin="00:05:34.199" end="00:05:38.160" style="s2">my video card that cause this</p>
+<p begin="00:05:35.460" end="00:05:40.199" style="s2">phenomenon along with live voice, well if you</p>
+<p begin="00:05:38.160" end="00:05:42.300" style="s2">liked this video, don&#39;t let me  give the</p>
+<p begin="00:05:40.199" end="00:05:44.460" style="s2">like promote the channel call your friends</p>
+<p begin="00:05:42.300" end="00:05:47.100" style="s2">show that you are learning</p>
+<p begin="00:05:44.460" end="00:05:49.919" style="s2">super cool things about networks ok leave your</p>
+<p begin="00:05:47.100" end="00:05:52.280" style="s2">thumbs up there a hug kisses and until the</p>
+<p begin="00:05:49.919" end="00:05:52.280" style="s2">next video</p>
+</div>
+</body>
+</tt>
